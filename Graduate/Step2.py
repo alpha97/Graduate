@@ -17,7 +17,7 @@ topNfile = path + 'model_top.dat'
 tassginfile = path + 'model_tassign.dat'
 #模型初始参数
 
-K  = 5
+K  = 3
 alpha = 0.1
 beta = 0.1
 iter_times = 100
@@ -51,7 +51,7 @@ class LDAModel(object):
         # 模型参数
         # 聚类个数K，迭代次数iter_times,每个类特征词个数top_words_num,超参数α（alpha） β(beta)
         #
-        self.K = K
+        self.K = 5
         self.beta = beta
         self.alpha = alpha
         self.iter_times = iter_times
