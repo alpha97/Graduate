@@ -1,4 +1,8 @@
 #coding:utf-8
+'''
+LDA模型
+生成tmp中的文件
+'''
 import random
 import numpy as np
 import codecs
@@ -8,7 +12,7 @@ from collections import OrderedDict
 
 #文件路径
 path = 'tmp/'
-trainfile = 'cleaned/Amazon_result.txt'
+trainfile = 'cleaned/RingDroid_result.txt'
 wordidmapfile = path+'wordidmap.dat'
 thetafile = path + 'model_theta.dat'
 phifile = path + 'model_phi.dat'
@@ -17,7 +21,7 @@ topNfile = path + 'model_top.dat'
 tassginfile = path + 'model_tassign.dat'
 #模型初始参数
 
-K  = 3
+K = 3
 alpha = 0.1
 beta = 0.1
 iter_times = 100
@@ -51,7 +55,7 @@ class LDAModel(object):
         # 模型参数
         # 聚类个数K，迭代次数iter_times,每个类特征词个数top_words_num,超参数α（alpha） β(beta)
         #
-        self.K = 5
+        self.K = K
         self.beta = beta
         self.alpha = alpha
         self.iter_times = iter_times

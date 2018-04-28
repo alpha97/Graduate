@@ -4,13 +4,15 @@ proxie = {
     'http':'socks5h://127.0.0.1:1080',
     'https':'socks5h://127.0.0.1:1080'
 }
-cs_url = "https://play.google.com/_/PlayStoreUi/data?ds.extension=136880256&f.sid=7450855871867535619&hl=en&soc-app=121&soc-platform=1&soc-device=1&authuser=0&_reqid=551411&rt=c"
+cs_url = "https://play.google.com/store/apps/details?id=com.ringdroid&showAllReviews=true&hl=en"
 cs_git = 'https://github.com/github'
+cs_blog = "http://fengxuegt.com/"
 cs_gooleplay = 'https://play.google.com/store/apps/details'
 param = {'id':'com.ringdroid','showAllReviews':'true','hl':'en'}
 r = requests.get(cs_gooleplay,params=param,proxies = proxie,verify =False)
+#r = requests.get(cs_gooleplay,proxies = proxie)
 #r = requests.post(cs_url,proxies = proxie)
-#print r.url
+print r.url
 print r.text
 
 from bs4 import BeautifulSoup
@@ -36,7 +38,6 @@ save= open('ring.txt','w')
 for review in reviews:
     save.write(review)
     save.write("\n")
-
 
 save.close()
 

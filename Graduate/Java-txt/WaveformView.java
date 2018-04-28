@@ -8,7 +8,7 @@ distributed under license distributed basis
 without warranties conditions kind either express implied 
 license specific language governing permissions 
 limitations under license 
-package ringdroid gift
+package ringdroid 
 import android content context 
 import android content resources 
 import android graphics canvas 
