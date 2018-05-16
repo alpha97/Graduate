@@ -1,0 +1,11 @@
+There is no rtl support.... I hate tha .... It should read right to left languages like arabic and persian.... Etc..... Otherwise its good reading app.
+The most unobtrusive, and therefore the best, Android e-reading app I've yet come across. One small suggestion: tapping on a book in the library ought to open it at the last page read rather than taking you to the info screen, which you probably won't want to see more than once.
+Was working okay. Suddenly it crashes frequently if I'm browsing or downloading in background. I use TTS plugin... suddenly it reverts to Bengali everytime it crashes or if I even open a different book. It is getting old!
+Needs to fix tts position bug. Something to do with bookmarks or "return to..." causing the tts plugin to snap back to an earlier page. Very annoying when you're much further on in the book. Otherwise a great app.
+I rarely write app reviews, mostly because I'm lazy and ungrateful. This app is so useful, that not writing a review made me feel so bad about not showing my appreciation that I had to break the loop and do it. Install, you won't be sorry. It really only does what it's supposed to do, and it's doing it very good. Thank you FBReader crew!
+I love the navigation system, very simple and efficient, I wish the PDF plugin didn't waste space on the already small screen, but for epub files, I don't think I could find any better
+Excellent book reader. I've tried most of them, and this one is superior. Only complaint, I can seem to adjust the page margins, with or without CAR turned on.
+Still a great app but please add continuous page way to change pages like how webpages are read in a browser. The book metaphor is nice for fiction, but not so much for technical books. Also if you can find a way to identify tables in a document and omit them when using TTS would be useful. Thanks for this great app. Still using after 5 years.
+Page flips are not animated as page flips from a book, but as page flips from a presentation; ie: the screen is treated as an entire sheet of paper and not flipped in between the columns of text.
+долгое время пользовался на meizu 5pro ,не мог нарадоваться.после обновления прошивки на flyme 6.8.1.16 Android 7.0 перестал работать tts.
+Despite everything Google thinks it lacks, I still love this app. Best book reader app out there

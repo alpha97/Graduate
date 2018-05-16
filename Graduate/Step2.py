@@ -11,8 +11,9 @@ import os
 from collections import OrderedDict
 
 #文件路径
+appName = 'Wordpress'
 path = 'tmp/'
-trainfile = 'cleaned/RingDroid_result.txt'
+trainfile = 'cleaned/'+appName+'_result.txt'
 wordidmapfile = path+'wordidmap.dat'
 thetafile = path + 'model_theta.dat'
 phifile = path + 'model_phi.dat'

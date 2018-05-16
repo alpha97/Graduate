@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.totsp.crossword.shortyz"
+    android:installLocation="auto"
+    android:versionCode="40401"
+    android:versionName="4.4.1">
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="25" />
+
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+
+    <application
+        android:name="com.totsp.crossword.shortyz.ShortyzApplication"
+        android:backupAgent="com.totsp.crossword.shortyz.BackupAgent"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:restoreAnyVersion="true"
+        android:allowBackup="true">
+
+        <activity
+            android:name="com.totsp.crossword.HttpDownloadActivity"
+            android:label="Download to Shortyz"
+            android:configChanges="orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data
+                    android:host="*"
+                    android:pathPattern="/.*\\.puz"
+                    android:scheme="http" />
+            </intent-filter>
+        </activity>
+        <activity
+            tools:ignore="UnusedAttribute"
+            android:name="com.totsp.crossword.PlayActivity"
+            android:hardwareAccelerated="false"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Shortyz">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <action android:name="android.intent.action.EDIT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data
+                    android:host="*"
+                    android:pathPattern="/.*\\.puz"
+                    android:scheme="file" />
+                <data
+                    android:mimeType="application/x-crossword"
+                    android:scheme="file" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.totsp.crossword.PreferencesActivity"
+            android:label="Settings"
+            android:theme="@style/Theme.Shortyz"
+            />
+        <activity
+            android:name="com.totsp.crossword.ClueListActivity"
+            android:label="Clues"
+            android:theme="@style/Theme.Shortyz"
+            android:configChanges="orientation"
+            />
+        <activity
+            android:name="com.totsp.crossword.HTMLActivity"
+            android:label="Shortyz"
+            android:theme="@style/Theme.Shortyz"
+            />
+        <activity
+            android:name="com.totsp.crossword.BrowseActivity"
+            android:label="@string/app_name"
+            android:configChanges="orientation"
+            android:theme="@style/Theme.Shortyz">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.totsp.crossword.WebBrowserActivity"
+            android:configChanges="orientation"
+            android:label="Browse for Puzzles"
+            android:theme="@style/Theme.Shortyz"/>
+        <activity
+            android:name="com.totsp.crossword.PuzzleFinishedActivity"
+            android:label="Puzzle Completed!"
+            android:theme="@style/Theme.AppCompat.Dialog"/>
+
+        <receiver android:name="com.totsp.crossword.net.DownloadReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.totsp.crossword.service.BackgroundDownloadService"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:exported="true">
+        </service>
+
+        <activity
+            android:name="com.totsp.crossword.GamesSignIn"
+            android:label="@string/title_activity_games_sign_in"
+            android:theme="@style/Theme.Shortyz"/>
+
+        <activity android:name="com.totsp.crossword.firstrun.FirstrunActivity"
+            android:exported="true"
+            android:label="Welcome"
+            android:theme="@style/NYT"/>
+
+        <activity android:name="com.totsp.crossword.nyt.LoginActivity"
+            android:theme="@style/Theme.Shortyz"
+            android:exported="true"
+        />
+        <activity android:name="com.totsp.crossword.nyt.ErrorActivity"
+            android:theme="@style/NYT"
+            />
+
+
+        <meta-data
+            android:name="com.google.android.backup.api_key"
+            android:value="AEdPqrEAAAAIpupOi468PpFd3hXnN3o4Omx0Fgu9FyojG9lvzw" />
+        <meta-data
+            android:name="com.google.android.gms.games.APP_ID"
+            android:value="@string/app_id" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="4d39d433251f1e18f9c088ed8b9ba23da24da28e" />
+    </application>
+
+
+</manifest>

@@ -7,10 +7,10 @@ proxie = {
 cs_url = "https://play.google.com/store/apps/details?id=com.ringdroid&showAllReviews=true&hl=en"
 cs_git = 'https://github.com/github'
 cs_blog = "http://fengxuegt.com/"
-cs_gooleplay = 'https://play.google.com/store/apps/details'
+cs_gooleplay = 'https://play.google.com/store/apps/details?id=com.achep.acdisplay&hl%20=%20en&showAllReviews=true&hl=en'
 param = {'id':'com.ringdroid','showAllReviews':'true','hl':'en'}
-r = requests.get(cs_gooleplay,params=param,proxies = proxie,verify =False)
-#r = requests.get(cs_gooleplay,proxies = proxie)
+#r = requests.get(cs_gooleplay,params=param,proxies = proxie,verify =False)
+r = requests.get(cs_gooleplay,proxies = proxie)
 #r = requests.post(cs_url,proxies = proxie)
 print r.url
 print r.text

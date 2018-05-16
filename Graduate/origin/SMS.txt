@@ -1,0 +1,40 @@
+I have used this app for several years and have been really happy with it. The only glitch I've found is with mms messages. I didn't think it was backing up my sent pictures at all. It is, but they're under my name instead of in the same thread as the recipient. Is there a way to fix this? The app worked perfectly until I switched to the pixel a year and a half ago
+a great, super useful app, have been using it for years. does what it's supposed to do, and i appreciate its reliability. despite its age, have never thought about looking for another app to provide the same convenient gmail text backup and integration, hasn't been necessary. was a nice surprise to see there was a new update, but even without one i'd stick with and recommend sms backup+.
+I have used this app for many years and it works really well. It conveniently backs up calls and SMS to a folder in your Gmail. I've done a restore in the past and that works well too. It recently stopped working for me after moving to a new phone. I fixed it by going to advanced settings/backup setting/contacts to backup - in going to a new phone, this had somehow been wiped so no value was selected. I selected a value and all is good again. Great app!
+It would have 5 stars if it would just automatically back up like it did before the update. It's so frustrating because it doesn't do it like it used to. Other than that I love the app...wish the picture messages would go with the phone number like the MMS an sms messages instead of them all being from me but other than that LOVE it!
+Transferred my old SMS and MMS from my old phone to my new one via my Google drive- picture attachments and all. The verizon app that was supposed to do this worked for my apps (including a few messenger apps) but it was way too finicky for my SMS and MMS messages. You do have to go into the backup and restore settings on this app to set what you want. It also takes several hours for 30,000+ messages.
+Used for years. Auto backup hadn't worked for a while. Ok manually even after latest update. Manual backup of call log started to fail yesterday - might have been linked to changes around new gmail user interface. Failed with error that couldn't find Call log gmail folder. Changed to new Calllog folder name without space and manual backup worked fine and creating new folder. Auto backup seems ok as well.
+Up until the latest update on or about 24 April this would have been 5-stars but it doesn't seem to be working any longer. I really feel like it should be just one-star at the moment but it's been so good up until now. I am hoping that whatever the problem is that it sorts itself out. If so, I will add two more stars.
+Just came in to say that my folks are getting old and my Mom continually ill. I truly appreciate having an automatic backup so I can go any time in the future and read our conversations if I were to change my phone. Want to see backup of voice text messages (audio recordings via sms). I have a family member who cannot type so we communicate via voice sms. I thought these were getting backed up too until I checked my gmail storage. This program has been backing up reliably and the archives have been useful.
+I have used this app fairly happily for years and despite occasional glitches it has mostly gotten the job done. However since the last update it is refusing to back up certain messages (especially the first 6-7 of the day, there doesn't seem to be any pattern).
+I've been using this app for years and it's always been good but here lately is messing up. For some reason it's backing up all the pics I send to different people under one contacts name. And doesn't back up under the name is suppose to. All the text are there but the pics are not. Please tell me how this can be fixed.
+Now got system crash to touchwiz app(home screen) when this app installed, it only resolved by uninstalling this app. Please help resolve this
+Was the best application but now don't work no more good after last update... I love when sms backup after a minute you received but non seems don't work anymore because backup every hour or randomly... Please fix
+I like it. But I always have to do the back up even though I checked to have it done automatically. And it used to not no more my conversations on my end. Now is only the other persons conversation not mine too. How can I add my conversation? Not backup the other person's conversation.
+Before the current update it used to save complete messages both mine and other persons on gmail. Now it only saves the other persons so you lose track of discussions. Not happy about this.
+Great app for fire and forget backups! Also very handy if you ever need to look up an old text as you can utilise the power of Gmail search much more easily.
+Lol. Let me get this straight: in order to use this app, I have to grant you permission to read all my emails? Why do you need access to my emails for an app that backs up text messages? You don't. It sucks for those who gave you guys permission to creep through their private conversations - they learned nothing from Facebook.
+I have been using (and referring) this app for several years, but noticed several months ago that it is not automatically syncing any longer. I have to set a reminder on my calendar to manually go into app and sync it.
+I've been using this app for more than 5 years now and it has consistently delivered, focusing on superior functionality instead of getting more and more bloated like other apps. Very highly recommended!
+An update?! WTH? That's GREAT. Was getting concerned about the app's age. Update works fantastic! None of the old problems with auto update. AFAIK it is still the only app that will drop stuff right into native Gmail. Awesome for searching on history.
+Used to back up automatically, but just stopped doing it after update, latest version is mean to be better, I hope you correct it sooner, thanks.
+I've been using this for a while. Would have given it a higher rating except that now I can only view text messages that I sent! All text messages received are now gone!!!! 😡
+The app keeps giving an error and stops backing up messages. I'm not sure what the point of that is.
+Why is it all of a sudden not backing up outgoing texts? Searching for something else now...
+I've relied on this app to do well for a very long time but lately it's been crashing, not backing up, etc...help
+It backs up to Google account great. RESTORING is the issue. It doesn't work on Samsung Note 3. Please help fix and I will give 5 stars.
+It seems for this app to function correctly so call logs backed up to calendar you have to have Google calendar installed on phone as doesn't work with 3rd party calendars...
+This is a great way to ensure you don't lose important text messages even if your phone dies out. Love it
+Unfortunately since the update, it no longer backs up automatically
+This app is good but auto backup option is not working in Xiomi phone.
+Auto backup not working with the application, else application is good
+I have been using this app for more than five years. When I change my phone I have to restore the whole lot of SMS stored for years in my Gmail. Rather it would be nice if I could restore only what I need. Say for a couple of months before. Thanks
+Used to back up automatically, now it doesn't but still works decently.
+Only backs up one sided conversations.
+Absolutely awesome app. Makes changing phones so much less painful. Thanks. Really appreciate your work.
+Why does the app only back up msg to August 2017? My recent texts are not transferred
+An absolute joke of an app. It's slow. Doesn't pick up messages. Total joke
+Excellent app for back up of sms, mms and calls in gmail as a separate folder, which I used for more than five years
+I didn't know I need this app until I use it.
+I love this app. It works flawlessly and I've been using it since before KitKat
+Really slow to backup messages, having an option to backup the messages on phones would be awesome. I don't want to backup my messages online

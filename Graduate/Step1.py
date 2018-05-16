@@ -10,9 +10,10 @@ import re
 from textblob import Word
 
 #首先将文本生成一个原始字典
+appName = "Wordpress"
 originDict = {}
 originindex = 0
-with open('origin/RingDroid.txt','r')as origin:
+with open('origin/'+appName+'.txt','r')as origin:
     for line in origin:
         originDict[originindex] = line
         originindex += 1
@@ -67,12 +68,12 @@ for k in repeatDict.keys():
 
 print len(resultDict.keys())
 
-cleanfile = open('cleaned/RingDroid_clean.txt','w')#解决id问题,去除无用评论的原始文件
+cleanfile = open('cleaned/'+appName+'_clean.txt','w')#解决id问题,去除无用评论的原始文件
 for v in resultDict.values():
     cleanfile.write(v)
     #cleanfile.write("\n")
 cleanfile.close()
-resultfile = open('cleaned/RingDroid_result.txt','w')#step2的输入
+resultfile = open('cleaned/'+appName+'_result.txt','w')#step2的输入
 for k,v in repeatDict.items():
     for word in v:
         resultfile.write(str(word)+" ")

@@ -1,0 +1,13 @@
+language: android
+android:
+ components:
+    - tools
+    - build-tools-26.0.2
+    - android-26
+
+jdk: oraclejdk8
+
+before_script:
+  - ./gradlew lint
+script:
+  - ./gradlew build

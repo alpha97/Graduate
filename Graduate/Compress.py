@@ -4,7 +4,8 @@ import os
 import zipfile
 import os
 import re
-filename = 'ringdroid-master.zip'
+appName = 'Wordpress'
+filename = appName + '.zip'
 wrdir = 'Java-txt\\'
 print os.getcwd()
 ex_before = os.getcwd()+'\\zippackages\\'

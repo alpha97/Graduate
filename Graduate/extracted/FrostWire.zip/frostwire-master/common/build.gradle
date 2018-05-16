@@ -1,0 +1,16 @@
+group 'com.frostwire'
+version '1.0.0'
+
+apply plugin: 'java'
+apply from: "$rootDir/dependencies.gradle"
+
+sourceCompatibility = 1.7
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'com.frostwire:jlibtorrent:1.2.0.17'
+    testCompile 'junit:junit:4.12'
+}
