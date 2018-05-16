@@ -1,9 +1,0 @@
-介绍一下工程的目录
-origin：
-    存放原始评论文件，格式为txt文件
-cleaned：
-    带有clean后缀的为清除无用评论之后的评论文件，主要是为了分类的时候分清id的问题
-    带有result后缀的文件为第二步聚类的输入文件
-classed：
-    聚类之后的结果文件。clean为cleaned中带有clean后缀的文件分类而成。result为带有result后缀的文件分类而成。
-
