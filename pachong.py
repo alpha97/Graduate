@@ -1,19 +1,18 @@
-
+#coding:utf-8
 import requests
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
 proxie = {
     'http':'socks5h://127.0.0.1:1080',
     'https':'socks5h://127.0.0.1:1080'
 }
-cs_url = "https://play.google.com/store/apps/details?id=com.ringdroid&showAllReviews=true&hl=en"
-cs_git = 'https://github.com/github'
-cs_blog = "http://fengxuegt.com/"
-cs_gooleplay = 'https://play.google.com/store/apps/details?id=com.achep.acdisplay&hl%20=%20en&showAllReviews=true&hl=en'
-param = {'id':'com.ringdroid','showAllReviews':'true','hl':'en'}
-#r = requests.get(cs_gooleplay,params=param,proxies = proxie,verify =False)
-r = requests.get(cs_gooleplay,proxies = proxie)
-#r = requests.post(cs_url,proxies = proxie)
-print r.url
-print r.text
+
+
+
+
+
+r = requests.get(cs_gooleplay, proxies=proxie)
 
 from bs4 import BeautifulSoup
 soup = BeautifulSoup(
@@ -23,8 +22,8 @@ soup = BeautifulSoup(
 )
 
 tags = {
-   # 'class':'review-text'
-    'class':'review-body with-review-wrapper'
+    'class':'UD7Dzf',
+    'jscontroller':'LVJlx'
 }
 
 links = soup.find_all('div',tags)

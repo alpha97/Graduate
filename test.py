@@ -14,7 +14,8 @@
 # w = Word(word)
 # print w.singularize()
 
-d = {1:2,3:4,5:6}
-print d
-del(d[3])
-print d
+s = " aljflk \n" \
+    "kkk"
+
+s = s.replace("\n"," ")
+print s
