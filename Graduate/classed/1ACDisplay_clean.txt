@@ -1,6 +1,372 @@
-Waving your hand across the screen does not open the app. I have tried it several times on my Galaxy Note 5 with no luck. That's one option that I had loved about the Moto X was their active screen. You could just wave your hand across the screen and the time, date and any messages would appear on the screen. I thought that that is was this app was suppose to do, but I can't seem to get it to work.
-Awesome lockscreen I usually dont like "defacing" the stock look of my G4, but i made and exception for this app. I hope the devs read this, because i have a few requests. The app sometimes puts my phone to sleep for no reason. The wave to wake option is sweet, but only works 1/10 times and my hand needs to be really close to the sensor. Other than that, the notifications on the lockscreen are baller, and the active mode is pretty cool as well and works most of the time.
-No updates! This app definitely has potential! but there's no consistent development. I really enjoy this app for the most part, but you can tell there are bugs that need to be addressed. Why not update your app and turn it into a real money maker! I would pay if this app was keep updated.. Just so you know, thanks
-Amazing, Absolutely Awesome, Love it This app is absolutely, mind-blowingly and bogglingly, beautifully, totally and amazingly completely AWESOME!!! I have been looking for a lockscreen for so long that I almost gave up, but then along came AcDisplay. There is absolutely not one thing I would change in this app, that's how beautiful it is. No mistakes, nothing, none, nada, zilch. *App you're amazing, just the way you are* Hats off to the devs, great work, keep it up!!!💓💗💓💗💓💗
+1. WHEN USING LOCK SCREEN FUNCTION WITH PASSWORD CAMERA WILL NOT OPEN. If you want to use the AcDisplay lock screen and a pin, you simply enable AcDisplay on top of your stock lock screen. However, when opening camera from an off display using volume button shortcuts, AcDisplay will be in your way. Also, when using the AcDisplay camera shortcut, you will have to enter your pin before being able to use the camera (versus being able to use camera from the lock screen with the stock lock screen).  2. PHONES WITH FINGER SCANNERS MAY NOT FUNCTION PROPERLY. Many phones such as the Honor 5x, Honor 8, Nexus 5x, and Nexus 6p have a fingerprint scanner that allows you to go from an off display directly to the home screen when your finger is scanned. You cannot do this with AcDisplay, as the AcDisplay lock screen will open up every time your phone is unlocked.
+This app has such great potential I hope the developer isn't dumping it. Apps like "Glance Plus" is taking over but aesthetically can't compare to this, functionality wise the former has unique options like direct unlock with finger print, auto disable when call alert, the gesture wake seems more sensitive too. Would be great to see features like these on ACdisplay cos this app is well written. I think a lot of people don't mind paying for good written apps.
+Waving your hand across the screen does not open the app.  I have tried it several times on my Galaxy Note 5 with no luck. That's one option that I had loved about the Moto X was their active screen. You could just wave your hand across the screen and the time, date and any messages would appear on the screen.  I thought that that is was this app was suppose to do, but I can't seem to get it to work.
+Hi, i love this app it's so elegant and simple yet good aesthetic. The only problem is that for devices like mine which has fingerprint sensors. Their compatability is too far from acceptable i think it's due to the security policy. The case being that you can't use it together with the fingerprint and the users will also want to keep a lock on a phone for security and we can't use the app in sync with it
+I love this app, such a unique lockscreen from everything else.  Rating 4 stars as I have 1 suggestion that I think needs addressing - when I receive a call and don't pickup, the phone remains on the home screen and doesn't lock itself. It's quite annoying when it is in my pocket.  Other than that, its a great app. Well done developers.
+I usually dont like "defacing" the stock look of my G4, but i made and exception for this app. I hope the devs read this, because i have a few requests. The app sometimes puts my phone to sleep for no reason. The wave to wake option is sweet, but only works 1/10 times and my hand needs to be really close to the sensor. Other than that, the notifications on the lockscreen are baller, and the active mode is pretty cool as well and works most of the time.
+This app definitely has potential! but there's no consistent development. I really enjoy this app for the most part, but you can tell there are bugs that need to be addressed. Why not update your app and turn it into a real money maker! I would pay if this app was keep updated.. Just so you know,  thanks
+This is a fantastic app for someone coming from the Motorola ecosystem that misses the active display as badly as I did. There needs to be a way to swipe the media player out of the way to access the normal acdisplay screen. There also needs to be an addition that brings up acdisplay when the phone is picked up after sitting for a set period of time. I have issues with the proximity wake but pulling it out of my pocket always seems to work. Otherwise this is a fantastic app!
+I don't want to use glance plus instead of ac display because acd, it's really beautiful! But I have to use glance plus because of two features: Customisable Analog Clock & Calender (both at different times can be added to lock screen). I don't want to use glance plus. Ac display team please, do something. Thanks. Waiting for your update, acd!
+I always wanted something like this but I wasn't able to find however I think now I have with you AC Display. Now I am so much used to it that it is hard to get away not to use it. This is a feature that every phone should have. But no problem all of us have Android devices and therefore No Problem.
+I like it. Nice to be able to see at a glance notifications and I love the simplicity. I just wish there was the ability to leave the screen on longer (until I dismiss, 1 hour, etc), maybe contact photos for notifications, proximity sensors, and shortcuts on lock screen. Also, it seems to not play well with Textra. When I get a text message, it will flash the screen on, then turn off and on until I open the notification. I have tried changing the priorities and all other options.
+This app is absolutely, mind-blowingly and bogglingly, beautifully, totally and amazingly completely AWESOME!!! I have been looking for a lockscreen for so long that I almost gave up, but then along came AcDisplay. There is absolutely not one thing I would change in this app, that's how beautiful it is. No mistakes, nothing, none, nada, zilch. *App you're amazing, just the way you are* Hats off to the devs, great work, keep it up!!!💓💗💓💗💓💗
 Perfect! Perfect!! Perfect!!! Nearly rooted my android and then I found this. Perfect in every way. Does everything I wanted for a lockscreen. Loving the minimalistic design too. Pure winner. I'm only nitpicking here when I say my only problem is with the tiny time notice at the top when you click on a notification. I wish there was a setting to turn that off. It's still the best piece of app I have encountered in a long while.
-Almost! Great minimalist lock screen. The wave proximity sensor unlocking function should be improved though. As well as adding more options for swiping from upper/lower right/left, not just dialer and camera. And it would also be perfect if you can edit the size of the clock. Hihi. Still an awesome app though! :)
+I love the app, it works smooth on my s7 and helps a lot with notifications. The only issue i have is when I try to unlock my phone, it opens the ac display, then after I swipe it goes to my lock screen before ac, and tells me I can't use my fingerprint to unlock my phone. I don't know why but if that gets fixed it is definitely a 5 star app.
+Hey, mate! Nice work! Really love the concept and design. I'm searching some good lockscreen app and then found this one, immediately love it! I have a small favor though, could you please add some security options to the lockscreen feature? I know it's not actually a lockscreen app, but if you could that would be great. If you do, I'll give it 5 stars.
+It's doesn't work what so ever.  I'll have to lock screen enabled yet when there is a notification, it will just unlock my phone instead of showing the lock screen.  So instead of showing me notifications it unlocks my phone while in my pocket and ends up opening all my apps because my phone is unlocked. Even when I tap the home button or the lock button it just unlocks my phone.  It looks nice, but I can't use this anymore without wanting to smashing my phone
+After the update I can no longer interact with the notifications like you are able to before. I could only click on them to open them and that was it. I couldn't even dismiss them. Maybe it'll get better but now it's getting to the point where even though it has device administration its not locking the screen. Hopefully it will be it better one day soon then I'll reinstall
+Please fix wave to wake feature. Does not wake up the screen in one go... And one more problem, whenever I'm using my phone, receives a notification and clears it at that instant it does not sync up with that. It shows the cleared notification after the lock is set!  So plsss u have some work to do...
+Bugs i guess on 4.2 jelly bean. Wave to wake doesn't always work when proximity sensor is covered with hand. But yes it always works when phone is taken out of pocket. That's the only bug that i noticed till now. Otherwise a great app. So, Please release an update with these bugs fixed and get that remaining one ★
+Great lock screen. I love that it will wake my phone as I take it out of my pocket. My only complaint is the notification that is always in my pull down menu. I know it's there for a reason, but I've used other lock screen apps that haven't needed that. If the developers would make that one change, this would be a perfect lock screen.
+During the previous update, which was buggier than a rain forest, I HAD to use a different lockscreen. Let me tell you something: worst days my phone ever had to go through. I'm glad you fixed the bugs, this app is legit the best lockscreen app ever. Don't release any buggy updates in the future please!!! Lol
+This is definately the best Lockscreen. Simplicity is its name. Not complicated. I try others but end up comming back. A few suggestions... Weather info so I don't have to unlock to know. A bit more info on current playback; like album cover. Great work
+Great app and it is very stable and smooth. But I ended up deleting it since I didn't have any use for it, but it isn't a bad app. If you want to delete it, go over to the security section of your device and look for device administrators and remove the checkmark on AcDisplay. Again, great app. Keep up the good work.
+Either I'm completely stupid or there's nothing to this app.  It's like stripping the default Android notifications of all its usefulness, all its functionality, taking away anything that was intuitive about it, and replacing it with something in the beginning of its development phase which is so pointless that it may as well just be a picture.  It's like this app is just designed to take all your information.  The notifications were simple enough as they were.  I thought this may just boost the look of it.
+This app looks amazing but it is not quite there as a lockscreen. Everytime I wake my phone up it goes to stock s6 lockscreen. Then after a few seconds it seems like ac display realizes it's supposed to be a lockscreen. That's the only complaint I have and it's a deal breaker for me
+Omg god man! This is like literally the closest thing to the moto x ect ect active display! This is incredibly awesome! Smoothly runs on my phone (nexus4).. Do face a few problems with the proximity sensor feature but what the hell! This is one amazing app and no major complains or any defect!
+Great work! still a bit of lag here and there though nothing major Could we have custom wallpapers for the lock screen? And holding the home button pulls apps into recent apps list. Just to point it out
+I'm on 5.1 with an LG G4, sometimes the lockscreen seems delayed and I see my home screen for a second before the lockscreen actually engages. Also, it automatically snoozes all alarms making it unusable. Uninstalling for now, but I love what does work. Can't wait to come back
+I didn't mind the lock screen it was easy to setup and get running. The wave to wake up didn't work the best.. My biggest upset was trying to uninstall the app.. It was very hard and I couldn't do it through my phone I had to do it through the app store. But very easy to use and easy to setup.
+Just downloaded to replace moto display which is great but not much customization but It does what I miss from acdisplay when I pick up the phone and it waking up using the motion sensors. This is just waking up by proximity sensor like puting out from pocket. Pls add that and it will be perfect. Or does it do already and I just miss it? And when it is on the phone on off switcher turn the phone off. Should turn on or have the option to choose. Moto x play
+Still needs improvement tho. A bit of lag when locking the phone, it takes a couple of seconds to responde even with the "no delay" option. Plus I like the sound when the phone locks and with this app that won't happen. NEEDS PASSWORD. I don't like keeping the secure pattern of Android because it's like having two lock screens and that's just not the point. Other than that it is a great app! Lol.
+For some reason when I lock my phone, it reverts back to the original Android lock screen for a couple seconds to a minute before changing to the AC lock screen. Which kinda defeats the purpose of even having this one if it's just going to use the old one first. Would rate 5 stars if this was solved.
+You know I actually life this one it looks amazing, its simple, and looks and feels like a new phone. The only reason why I didn't go full five stars is because there is no password feature...I honestly would have loved to use this locker if it had that, but my family is pretty snaeky and I have many little sisters that like to go into my phone and mess it up.hahahah. but yah if it had a password option it would be the best one out there😀!!!
+Sometimes the lockscreen wont immediately turn on, I'll unlock my phone and it'll be on the Home screen, then moments later the AcDisplay will come up. Very disappointed.
+I absolutely love the look, feel, and simplicity of this lockscreen, HOWEVER, can you please fix the issue with my phone opening when I press the home/back/app kill buttons. This defeats the entire purpose of having a lockscreen if I do not need to swipe to open my phone. I ended up having to use my phones pin swipe lock screen to ensure my phone doesn't open randomly. PLEASE FIX THIS!!!!!
+Thank you for providing such a great app. This is far better than the Samsung always on display. I have two suggestions that would make this a five star app IMO: It would be nice if I can adjust the delay when Active mode shows AC Display relative to me triggering the proximity sensor. Right now, it is about four seconds but I really want to be able to wave my hand over my phone. Second, I would like to have my phone behave as a clock full time when it is plugged in, and keep AC Display on.
+It seemed like the way this would work is I would be able to use this app and still be able to use a pattern. When I set this to "replace" the lockscreen the stock one still shows up after unlocking this app. That kind of defeats the purpose. I don't really want to use this if I have to give up security on my phone. At least it looks nice.
+Awesome lockscreen for seeing and handling notifications. My favorite feature is that I can swipe from anywhere in any direction to unlock.    Has a few (very) annoying (recent) bugs such as locking the screen while I'm using my phone if I get a notification or the proximity sensor causing unwanted locks while using
+5 star app for what it is. Perfect for people who want to use their own widgets such as Zooper for clocks, weather etc. Only thing I would ask devs to add is a security feature. I don't feel comfortable having no security whatsoever, but great app and does exactly what it says on the tin.
+This app deserves a 5 only when it works which is not always but rather intermittently.  Sometimes it doesn't work at all, sometimes the notifications don't work etc.  Quite frustrating!  On reboot some of the functions return, but come on...I won't be rebooting my phone 20 times a day just to have this.
+You better like it, because it won't work without admin manager rights and you cannot cannot uninstall it. You are stuck with it forever, you cannot even move it to your SD card. BAD  BAD BAD situation. Wish I never installed it.
+Does exactly what I was looking for. Kind of a "moto display" type thing. The only thing I don't like is that the animations aren't super fluid. Like swiping up to open one, it just doesn't flow like I'd like it too. But that's just nitpicking. Galaxy Note 4 5.1.1
+HTC One M8, Works perfectly on both this and M7. One change - add an option to disable notification dismissal and enable opening. If they get swiped away in your pocket it's a bit frustrating. At least opening them by mistake keeps it behind the lock and in your 'recent apps'.
+I like it but i seem to experience some type of bug or something. When i recieve a text notification, when my phone is set to silent, it constantly turns on and off the screen until i check or dismiss the notification. Is it the texting app i use? Is it something in the settings that i need to check or uncheck? Or is it simply a bug? would really appreciate a responses. My battery sometimes drains because of this problem... I use a Samsung Galaxy S6 Active.
+The concept is no doubt the best.The designer should use source code of Moto and Nexus for how the app activates and runs.Its pretty complex in here.I mean being a core user Ilafter installing and checking it out I realised its easier to just use the default features.But 2 stars for the effort. You can do alott better buddy. Please don't consider it as bad review. Waiting for update.Will install it then.
+It's just like active display I used to have on carbon Rom and it displays notifications easily for you and looks great! The  lockscreen feature is just a tiny bit buggy cause sometimes notifications disappear at least for Facebook messenger
+I love the idea and the way it handles. The only real problem I have with this app is that I can't use my fingerprint scanner anymore (please fix) and I can't raise to wake when not charging. If those were to be implemented I would use this app on a daily basis and give it 5 stars.
+However it seems to be abandoned. There should be an option to change lockscreen text color/opacity (or dim the brightness of it). It's too bright on amoled display. Also option to change font and size for clock would be nice.
+since I use custom rom(resurrection remix). i want to set it as a lockscreen.. and it mention i need to allowed it tke control of my alarm.. but then.. it tell me to choose which apps need to be allow. ac display doesnt showed up. please update fast. i really love this apps..
+Only problem is it only works in pocket mode. ( it displays my glance screen once I pull the phone out of pocket) and not always on . Anyways battery is not effected much and I like the way simple notifications are handled. Could be the best AOD in future to replace stock S7
+It works, unfortunately I can't see the notifications using my flip case. I searched the settings and I couldn't find anything to move the notification area to the upper top instead of the center.
+This application has attached it's self to my phone and I'm unable to remove it! I've reached out to the developers for help on how to remove the admin rights and no one has responded. I have turned off all of it's functions but when you attempt to remove the admin for the application it freezes the crashes the setting! I am reaching out to Google for assistance since I belive this app is pure spam! Galaxy Note 5.
+Seems like lightning n shivering  cannot be used, useful only pre lollipop please rectify the bug so it can be used. It is excellent app but cannot use.
+I have an s6 and sometimes when I click on the notification bubble in acdisplay it stays blank which is annoying. Would be nice to be able to use my fingerprint reader as well. Awesome app tho! Would recommend.
+The lock screen works seamlessly, in every way. It knows when I take my phone out of my pocket and wakes the screen. My one complaint is that you can't choose separate wallpaper; it's either a solid color or your home screen background
+I used this on my old phone and if was flawless and I loved it. Now I have switched the the nexus 6p and am having some trouble. I noticed that sometimes when I had ac display activated I would not be able to use the finger print sensor even after I unlocked ac display and had to do a password. This is very frustrating so I cannot use ac display.
+This should be number one in the play store. It's amazing. Beautifully designed and works every time. Just pick your phone up and it'll update you with latest notifications without having to touch a thing. Should come as standard on all android phones and now my number one reason to not make an iPhone my next phone. Brilliant.
+Love the app but why can i should i have to sacrifice the clock and other basic lock screen items for a widget wgy cant i have the clock displayed and the widget below it. And there is a glitch or maybe its purposely if u double press the home key (i guess it works only in phones with a solid home key like samsung not the touch) your this will bypass the ac display.i.e. if no security is enabled (e.g.pattern) u can unlock your phone by double pressing the home key instead of swiping
+The app is great and looks amazing. But I have two things that could change. First is setting your own wallpaper and the second is adding some sort of a pin to secure your phone even more. Other than that I love the app!
+I didn't like the notification that never goes away and also I can't double tap to wake for some reason. For these reasons I'm just going back to stock lockscreen.
+Always liked Moto X's ambient display over stock Android's notification. Wave to wake never seemed to work but notification still works on both my Nexus devices. Good thing that DynamicNotifications is still being updated whilst this app has been abandoned.
+On my Galaxy S3 this app doesn't work as it should in just about all cases. It wakes up about every 20 sec even though there are no notifications; gesture to wake it up doesn't work; the open animation is slower than stock, etc. Overall it's probably not suited to work with phones that aren't current models. Would love to hear back from the developer as well.
+Great app and idea but too buggy on Note 4. Sometimes with cert notifications, esp from Textra, it would just keep waking up over and over and over until I addressed the txt plus other times even though there were no new notifications it would just wake up. Had to disable it as this was just too annoying however I wish didn't have too.
+I have used this a few times now. There was a bit of delay at startup but now it is running smoother with the new updates. It's a very clean and easy to use locker with great custom features. Highly recommended to those looking for a great, secure and customizable locker. Highly appreciate this locker!!
+The settings and features in AcDisplay are adequate, or more than enough for many users. However, the lockscreen beta feature needs a lot of work (I've sent an email regarding some possible fixes). The app itself is basic, and allows everyone to get the most out of it, while it's functions are very aesthetically pleasing. Also, there is a very short delay between the lock screen activating and the screen turning off, which might be noticed by a few people, although most wouldn't figure it out very quickly.
+What a joke, man? Why not making something that is tide on security, does not bug? Most of the security app bug so easily like this one! Cannot even put your own wallpaper man.
+.... which is almost never. Ok maybe half the time it works as it should.         I've been using this off and on since May of 2014. It still needs a lot of work. Currently I would have guessed it as beta or even alpha versions software.
+The active display notification keeps The active display notification keeps showing up while the phone is in use. This really irritates people because most of us don't want to be clearing their notifications every 5 minutes. up on the notification panel while the phone is in use. This really irritates people because most of us don't want to be clearing their notifications every 5 minutes.
+I love it. My settings went wrong for some reason and I couldn't change the unlock effect for swipe to unlock and it was very piss-taking but this is probably better than what I wanted!!! Totally Recommend to everyone, you guys are life savers in my heart ♥!
+You guys made a great lock screen. I'm on the HTC 10, my only problem is that the fingerprint scanner doesn't work. It will only ask for my 4 digit passcode after passing the lock screen.
+Minimalism perfection. Plus the addition of widgets, AcDisplay is the only lock-screen I care to use.  Bug: After changing settings or restarting my phone, AcDisplay will either take 3-5 seconds to show up, revealing my home screen first, or simply not come on at all. It fixes with turning it off and back on, but obviously this is annoying.
+I used it for a while and it was very helpful but now it's integrated inside my oneplus 2 and I wanted to uninstall it but I can't.  Coz I can not remove it from device administration.  Everytime I touch the tick.  It takes me back to settings and I can do nothing about it..  So this app is permanently stuck on my phone
+Doesn't work reliably with my GS7 edge. I wanted to turn off AOD and use this but it doesn't have an always on mode. Please consider adding
+What is this crap..i am unable to use in my phone and there no any option for delete. Kindly help me to delete .
+I really like this app because my phone doesn't tell me notifications from the lock screen. However it's very annoying that it says acdisplay services in the notifications all the time
+Looks great, works like it should.  I use MightyText as my text messenger and the screen won't stay off when I have an unread text.  I press the power button, it turns off, a few seconds later it wakes back up.  Disabled.  Samsung Note 3, Verizon.
+I reported this bug 2 months or so ago and no one responded to the bug report. Ac display interferes with keyboards, and it is replicated easily. When the device is put to sleep or the screen times out while in an active text box (tested mainly with hangouts, but it happened while typing this review), the keyboard will not input text when you wake the device up. You have to back out of the message for it to work again. This was tested on a nexus 6, multiple roms, Google kb and SwiftKey
+It dosent turn on when i pick up my phone from the table or just when i lift it up a bit.. its just not responsive but works fine of i took it out of my pocket. Whats the reason?
+It does not seem to work on Moto x Pure even though I have the sensors.                                     Edit: It does work with my phone but you must hit it for it to actually turn on. So it can be fixed
+Hate why you dont make a lock screen to open not just a notification, please it will make this app the perfect app on play store. Make compatible with a fingerprint scaner to unlock the phone
+This app is really awesome. I love it. But it's got some flaws like: it's got some lag in animations while unlocking. And it freezes at times while trying to open. Otherwise great app. You guys are awesome!
+I like the app it's just that when i reboot my phone it takes a few seconds before the lockscreen appears if it can be faster i will rate 5 stars no doubt about it.
+The active mode isn't working, I enabled it and when I turn my phone over, the screen isn't turning on
+App does not work on LG LEON LTE  which defeats the purpose of this app. uninstalling if i can somehow i can not access  DEACTIVATE thing.
+Everytime I use it as lockscreen replacement it powers off my phone. I have tried everything possible. Turned off xpose module etc.  But still no way.  I really want to use this app as my lockscreen.
+Works as advertised. Very few bugs. Seems stable and useful. I hate how if I have an app open, ACDisplay will close it, and I'll have to manually go back into it every time I open my phone up. The feature that allows me to go directly into a notification doesn't work, but that's not a big deal. The design and amount of options are what make this app worth having.
+Overall great app. On my Samsung Note 3, after upgrading to Android 5.0, giving problems when I plug in earphones and using the note function.
+The sensor doesn't sense the wave signals at the very first instant.!  It takes time to detect and it's no use of using that feature if this problem remains.!
+I used this app a long time ago on my LG G2 back in the day, but I re-downloaded it for my Note 4 which is running Marshmallow - and, while I like it's use for Active Display, I believe it needs to be updated with more sensitive sensor recognition so that if I reach for my phone or pick it up to look at it, it responds by waking the display. I also want to see an update for fingerprint recognition to unlock the lockscreen because it defeats the purpose of having two lockscreens active to enter homescreen.
+It's super great I especially love I can pull my phone outta my pocket and see my notifications. It would be so much greater if I could see all my notifications though, I don't see my messenger notifications nor my Snapchats which is really annoying seeing as those are my main notifications. Would give five as soon as this is fixed.
+How do I deactivate and uninstall this piece of crap app.  Never have I had an app hijack my phone.  Unbelievable.
+Thought I was going crazy until I read the reviews about no security. I like the idea but the purpose of a lock screen is for your phone to be locked so that no one can slide to unlock. Great idea but not fully executed.
+I REALLY like it. The only problem it has is it has no passcode. That is a deal breaker for me. If it gets one then I'll give it 5 stars. Great lockscreen otherwise though!
+I like this app alot but everytime i use it i am disappointed firstly the app acts as a cover and not as a lockscreen replacement if u press the home button the app is gone nd second reason is that it whenever i get a phone call the details are not visible i have to press the lock button lo see the details... Please look into these matters as quick as possible so that j can switch back to the app
+I tried using this as a lock screen, but it had some problems. You can't set a separate wallpaper for it. You can't set custom shortcuts for unlock areas that aren't just dialer/camera (what about SMS? or a custom activity?). It doesn't seem to block the home button if you have your system lock screen disabled. If you *don't* disable your system lock screen, it takes about 5 seconds for AC display to appear when you wake up your phone. It doesn't report widget size to widgets, so many can't work properly.
+I tried to give the timeout policy permissions but the app keeps crashing the settings. So bummed. Favorite app for sure.
+The issues I'm having on my note 5 is tht it's not working when I take it out of my pocket. Im also having a issue when I charge my phone it gets all glitchy.
+Great for notifications and saving battery. Gives you the ability to tap and wake up your phone. Integrated seamlessly with the knock code system of my lg g2. Smooth ui and simple configuration.
+This didn't work well on my old G4 I now have a Nexus 6p and this app works fairly well on it except for the fact the developer has not included any finger print recognition into the app. So therefore I have to still enter my phone's pin instead of using my finger print scanner it's kind of frustrating.
+This app use to work. Sadly the creator has not made any updates for over two years.
+The best minimal locksceen with great method of displaying notifications. Only bug is sometimes 1st thing in the morning it doesn't work. Have to go into the settings and reset the locksceen switch.
+Except, doesn't work well with Meizu. The wallpaper gets blurred right after wake up. Can you fix that please?
+Nice design and concept. Unfortunately on my Nexus 6P with 6.0 it doesn't work as a lock screen. The device still goes to the native/stock lock screen after getting past AcDisplay lock screen. Can anything be done about this?
+Doesn't seem to work well with fingerprint sensors as it has basically rendered mine useless to unlock the phone with this app active.   Also, doesn't seem to wake very well after movement over the proximity sensor, and doesn't seem to have any settings to adjust the sensitivity, like I've seen similar apps do, defeating the purpose of this app.
+The app is awesome, only issue is it conflicts with fingerprint!! Everyone my note 5 asks for  password and deactivates fingerprint unlock mode. Please fix I had to disable acdisplay until it is fixed. Thanks
+The lockscreen mode doesn't have any security pattern built in... So it is just not possible to use this app as is as it doesn't perform the basic function it should.
+fingerprint sensor doesn't seem to work when applied as a lockscreen. Using redmi note 3
+The app is great besides the occasional wierd text truncation bug, but I'll have to uninstall it because Android 6 does not let you use your fingerprint to unlock the phone if an app turns off the screen. I really like this app, but I like being able to secure my device and unlock it with my fingerprint
+It was crashing frequently, so I thought I would uninstall it. Only it wouldn't uninstall. I like the design and function I just want it to work. And I'd also like to be able to uninstall it. Have the Samsung s4
+Does the job pretty well. One thing I would like is an option to switch screen on when you pick up the phone.
+It's a great app and I've been using for a few days now, but sadly, whatsapp stopped working. Please fix it. And also make it keep blinking the screen, and not only turn the screen on once.
+Great for accessing notifications at a glance. Especially useful for phones with no notification lights such as the J5; you can wave over ths proximity sensor to get a quick overview of received notices.
+Although this app was originally brilliant, it has become obsolete. No update in two years, developer email bounces, incompatible with android updates related to fingerprint recognition. It it's too bad really.
+I believe the app has great potential, however on Android M with finger sensor, the Google lockscreen often requires a pin following the finger sensor read with AcDisplay with Active Mode enabled. It would be great to use the finger sensor with the AcDisplay and bypass the default lockscreen altogether from Active Mode. Visually, AcDisplay is a beauty and has some really nice functionality, however performance is unstable and the integration with the OS is not great.
+This app is actually better than Motorola's native implementation. Unfortunately, I can't get active mode to work on my Droid Turbo 2.
+When a call comes in, the phone does not wake up from lookscreen, thus it's impossible to know who is calling.  also, any reason why the last update was in july 2015. the developer abandoned this app??
+All it does is slows down my phone and I can't delete it ever since I got this app my phone has ran 10x slower and that will never change now
+Bcoz this app uses sensors to detect whether the phone in pocket or not. It drains a lot of battery. Also no security.
+Nexus fingerprint doesn't work with this app, was a huge inconvenience. Hence uninstalled. Otherwise I loved the app. A sleek interface for those who mean business.
+I really like it, but there's a delay on the lockscreen function that makes the lockscreen visible only around 5 seconds after the phone locks. That delay really puts off the whole "immersive" feeling you want out of an app like this.
+Sometimes it doesnt work like its not even installed! I dont know why this is happening coz I didn't greenified it or something. Amazing app anyways. Better than ambient display 🙂😉
+Pretty app, pretty function but locking is... well lame. Add a fingerprint see sorry and I'll use this permanently.
+Just please add a lock functionality and make it an actual replacement lockscreen like other lock screen apps please 😍
+This app keeps shutting down my phone once I set it down, fix this bug and I give it 5 stars it's really good, without that problem
+I've been using this app on every phone I have gotten s3 mini z1 and z3+, and it has never failed and appreciate the developer keeping it ad free and no pro version with more features. I just wish there's an option to pick a wallpaper picture instead of just choosing a solid colour or the home screen wallpaper.
+Pretty great lockscreen replacement for AMOLED screens—especially on a Samsung (because their lockscreen is clunky garbage). There are just a few small changes that would make a WORLD of improvement, IMO, such as allowing more than one widget (there's plenty of space, why limit it?), allowing widgets to be wider (again, the space is there, why the limit?), being able to have widgets without overriding the stock clock, and being able to reposition the clock/widgets and maybe notification icons too. Also, custom apps/shortcut/actions for the corner gestures would be very useful too. No reason to limit those to phone and camera only. :P And lastly, an option to display ongoing notifications (maybe below the higher priority ones) would be nice too.
+Not qorth downloading for note 5 users. Wake up seems to have problems have to wave carefully to wake up the device. God qhy would I want it. Now its sticking on to my phone not getting uninstalked as well. Guess i have to factory reset and lose all the app for this worthless app. Thank you for creation pain in my a**
+It was working very well... then it just stopped. i don't know if its a marshmellow problem but it just stopped. they way i was loving it.
+Like the app but it's very annoying that it's making my phone ask for a pin instead of letting me use fingerprints. Also interferes with smart unlock. Uninstalled because of this.
+Everytime a notification comes in when my screen is on, acdisplay keeps activating (i.e. the acdisplay lock screen shows up). Please fix this bug as the notifications come in when I perform urgent tasks. Thank you.  P.s. also, when I wave my hand over the proximity sensor even by accident while the screen is on, the app goes straight to the lockscreen. I'm genuinely "pissed" by this annoyance. My videos stop playing, my presentations screw up, all because the lockscreen activates.
+works good on Samsung Galaxy s6 some icons are wrong like for inbox and gmail or built in text messenger which shows delivery report right icon, but shows facebook icon for built in text messager messages and don't show textra messenger icon or chomp I've tried but shows handsent , I haven't had others wrong yet but apart from that works well and not a battery drain hardly notice it's running and it hasn't crashed or randomly jumping on screen like some others I tried so just needs few more updates sorted.
+It brings up the "use fingerprint because security policy" thing sometimes. If you can get it to turn the screen off by root or something (or however you can fix this) 5 stars
+It's as good as it could be. But still not perfect. Screen don't light up during incoming WhatsApp calls & my fingerprint sensor don't work.
+On my lg g3 it won't let it snooze. I woke up an hour later today because of it. I thought I might be wrong so I tested it again and it just won't let it snooze. Please fix
+I have been using it for past 2-3 years and its one of the essential apps for me. Sometimes my phone gets unlocked while in pocket, which is annoying but apart from that, everything is good.
+The app just needs support to fingerprint sensors.. so it could be compatible with system lock.. for example  ( when i register my finger the app then unlocks giving the system lock the opportunity to unlock to.. it happens simultaneously. - like next lockscreen app- ) .. like your app alot keep it up.
+Active mode doesn't work most of the time...  Also there is delay in lockscreen even when it's set to no delay
+It is very good app but on my phone text messages notification are not showing on acdisplay.
+It needs some more works in terms of bug fixes and workability, it's waking up by motion isn't working at all, after one wake up screen only for clock and notification check out in second trying the main system lockscreen will came up instead! There's new (I guess) feather in lollipop, trust agents, I think developers could use it to bypass main system lockscreen and uses app's own lockscreen by pin or patterns, Itll be awesome if so, Anyway it's a tremendous work but need deep improvement, Keep going!
+Please consider adding two options - make the proximity sensor time shorter so i can basically wave over my phone for a second to see the time/notifications..  or allow always-on mode.. thank you, great work
+It freeze with doze, sometimes I have to restart the phone cause I can't unlock the device. I'm on CM13
+Proximity sensor is not working properly. To wake it up, have to hold the proximity sensor for at least 5 sec. Phone model: Infocus
+The notifications stay on for only a sec and then disappears..how can I make it to stay on until I clear it out?
+Lack of development. Other apps, like Glance Plus, are on continuous development and became better always on app option.
+Sliding down to remove notifications does not always work on my note5. A clear all button would be nice.
+Zte grand X2, if you hit the "recent apps button" and slide the app to the right you can close off the locker without unlocking it.
+Ummmm it doesn't work at all for me and I can't Uninstaller it off my phone. Please help!
+This app is great!... No hit to the battery... Works great on my note 5, lg v10 and Sony z3v... Very impressive...BUT please make this work with my Nexus 6p finger scanner!
+Love the app, but something is really annoying: how to change the app in the blacklist ? My sms app is in "hide, silent" mode in the blacklist so I don't receive notification... Thank you 💘
+Great app; great ideas!  Active mode does not work well with Samsung Note 8.  Requires too much effort to wake the screen.  Wave to unlock is checked!  Maybe it should have a sensitivity setting.  Also, it would be great if the notification icons could be made bigger than 72, and a size slider for the date and battery level.  All else is good.  Thanks!
+It is an awesome app i used it for long bt now i  upgraded to samsung j7 prime which runs on android 6.0 platform in which this app gives unfortunately stop error Other wise it deserves 5 star I hope the developer improves the app so that it can work on every device
+U can unlock ur phone automatically when u take it out from ur pocket by using this app. Gr8 app to save the lock button.
+My phone was lagging from 2 days which it never did. While searching for the cause i found out that the app AcDisplay was using 524 mb of RAM and u know what i was not even able to uninstall this app.
+Love this apps so much and works well on my S7. One question can I set pin or password when i swipe this apps during notification arrived? Since i dont find any pin set up. It takes two way to open acdisplay to swipe and put in pin or finger print on device before it's open to homescreen.
+I gave it 3 stars . I would gave it 5 stars since u fix that when i open my phone it says i have to unlcok it by password because of privacy policy  . And if iam not knowing how to turn on option that let the fingerprint work so please tell me
+On android 5. When updated to android 6 the system does not allow to unlock with fingerprint everytime, asking for the password. Probably it doesnt trust the app and for security asks for the password
+Slide from corners and double tap to sleep are not working on my device. Wave to wake up feature is not proper to accuracy.
+I love this because ive been wanting it for awhile and can now and i took timw to retupe this app and find it just to give it a good review and rating because its flawless, ad-less, stress less, worry free and easy to use i love its simplicity and diversity great app
+Smashing minimalistic design. One note: I would love to use it on my tablet as well, but it seems that it won't autorotate. Perhaps this is a local problem, but it would be nice to see that implemented.
+Hi Dev I don't know if u read the comments or not but might I suggest a very nifty feature and I hope to see it in an upgrade                                   -use the accelerometer instead of the proximity for turning on the display(waving over proxy seems a bit out of the daily use)a double tap or a simple tap on the table to turn on ur amazing app would be nice use proximity to detect whether its in a pocket or handbag or not.:-) a suggestion from a fan whose been using ur app for quiet some time now:-)
+When I first installed it was lag free but after about 3 months it tends to freeze, lag and become unresponsive great look and feel though
+It's very useful app but something need to be fixed likr you have to click at least 3 times to unlock your phone and  it doesn't work whem you clear your  recent apps. Please kindly fix these issue
+I'd like to give this app 5 stars but it makes unlock slower... On my Samsung Galaxy S6, I have to swipe and then unlock with fingerprints, of you add fingerprint directly in acdisplay I'll give you 5 stars ! You can also add a mode for Samsung clear cover ;)
+First gmail notification causes my S6 to reboot and start in a messed up colour scheme. Distortion blocked colours like the graphics card failed. Not a present experience
+can you please make it work with fingerprint scanner, so I don't have double lockscreen? 😊
+Nice app works very good on Galaxy note edge, just a bug, that it keeps on displaying same notifications again and again until you do not manually "Clear All" from notification bar. Hope it will be tuned in next update.
+Great development. I m loving this app but lack of lock screen makes this app vulnerable to undesired activity. Pls ad a lock screen option.
+i wish this app can be a screenlock so im not to swipe my lockscreen open my pin or pattren and swipe acDisplay again .. make this app can be setup in any screenlock and any device thanks  the display is awsome , dont change that i like it
+If the position of the central notification area can be moved slightly upwards from the present position (center), it will be great., The ability to add a pattern or pin (4digit without the need of an OK bitton, iPhone style) will be great.,
+How do you hide notification content when they come up? My phone is set to hide content on the lock screen as standard but if I get a notification through this app it can still be read regardless. I can't use the lock screen provided with this app because I can't use the fingerprint scanner to unlock my phone if I do
+It looks good but I can't use my fingerprint sensor to unlock..... Any suggestion?
+For some reason AcDisplay now activates itself everytime a new notification appears, regardless of whether the phone is unlocked or not. This is really infuriating and I've had to disable it.
+The only problem I have ran into is when I try and use the Screen off memo on my galaxy note 5 the screen goes to sleep while I'm writing the memo. It is really annoying.
+On my samsung galaxy a3 when i get facebook notifications it makes the acdisplay blink like its lagging and he doesn't stop unless i dismiss the notification
+Lg spirit 4G. Android 5.1 the app snoozes my alarms and makes them useless. Sometimes showing my homescreen first for a second and then goes into lockscreen. Wave function dosn't work sometimes. I like it and I will rate 5 if you fix these bugs
+I would like to compliment you on this awsome app,since I found it I have been loveing it. If I can make a small suggestion,would like to see in the future a "turn WiFi off during sleep" option,that would really make it shine,in my opinion. Anyway,good app,keep it up!!!
+Wave to wake works too late. Needs atleast 4 seconds over the proximity sensor, well that certainly can't be called "wave to wake".. I'm sitting like stupid covering the sensor for 4 whole seconds 😕
+Why is it that on my Samsung Galaxy s6 edge,  each time I get a text message my screen will wakeup... Then constantly keep waking up as long as I haven't checked the message yet. The phone will keep waking up until I Chek the notification.  It's mad annoying.
+Currently forces me to enter PIN instead of using the fingerprint sensor. I really want to start using this app again but the bug is rather annoying.
+I like the interface, but the app is lagging and stops responding too frequently. When I need to use my phone, I don't want to have to wait 15-30 seconds. Uninstalling.
+This morning my acdisplay suddenly stop working, I tried to uninstall n reinstall agn. I even try to turn off every security
+Having issues even just using the app because of notifications that doesn't teach how to bypass.
+I have a note 5 with Android 6.0.1 update. I recently found out about this app and tried it out but it doesn't activate. I don't know what to do and theirs no option to turn on the app
+What would make this app perfect is if it locked the volume sliders when it is used as a lock screen. I find i accidentally turn my phone volume up when i put my phone in my pocket.
+My alarm only goes for a split second then ACDisplay turns it off? I've checked every setting and can't get it fixed. Please help.
+Kinda Works Flawlessly Until I Recieve A Whatsapp Notification and the Name of The sender is Visible even when ive Kept Everything Hidden In The Privacy Settings... Fix That And 5 Stars are Yours...
+work,don't use battery,change double tap action to dismiss AC display not lock screen ,add options to show AC display after lock screen and timeout after 15 or 30 seconds,add this feature but don't add bug!because app work 100% correctly.thanks.
+When you want to unlock the phone it demands I put the pin in and not use my fingerprint and then sometimes it works with the fingerprint.
+App ever, never left feedback but this is flipping mint and makes me feel like I'm in a TV show set in the future with cool features that seem too cool for our development, nice one
+Why does it always go into dark background mode every time a notification arrives?  If it's a setting I'm missing, please do tell.. If it's a bug, well let's just say it's very annoying.. deal breaker..
+I have to enter a password when I want to unlock. if I want to use fingerprint I have to turn the phone on and off and it's a whole ordeal (Nexus 6p)
+One major issue. At least one option " sleep mode never time out" should be needed. And turn off the notification option.
+gets worse with every update. it still does its job but updates should not remove features, only add new ones.
+Cant remove it from the list of device administrators. As soon as i do that settings app crashes. Help?-Galaxy Note 5
+It doesn't really turn on much for some reason, but it's a good lock screen, anyone else having the problem on galaxy s5?
+(1) Active mode works fine when lifting the phone faced down from a table, but doesn't work when I take the phone out of my pant pocket. (2) The app is causing random power off of my Android One device running Android 6.0.1. (3) Add more watch faces, like Galaxy Gear S2 watch face.
+This is app is very cool but I suggest to make a double - tap to active the  ac display but why double - tap to sleep.....because to active the ac  display I need to make my phone get out from my pocket then it will turn on  so that's my short review about Ur app
+For those that needs help with the security for this lockscreen you can use this app along with your phone lockscreen for security because it doesn't have it so maybe that would help if anyone is having trouble otherwise it seems to be ok
+Can't be uninstalled. Very dangerous app. Refused to b uninstalled, had administrator rights.   Had to wipe my phone clean to get rid of this mess
+Double tap to sleep - check.double tap to wake - no.....so please add the feature and this will be best lock screen replacement ever
+For some reason the feature to wake up my device by waving over it doesn't work most of the time 😞 but other than that its cool. 😊
+this app settings are not showing in my phone android os is jeallybean I hope that they will also make more compatible to my jeallybean
+Please respond!!! I love this app but when i take it out of my pocket nothing shows up i suggest that it should wake with a double tap gesture
+It's a really good app, I'd give it 5 stars if you fix the bug that when you wake the screen with the proximity sensor it doesn't show the playing music, it only shows with the lock button
+Needs to have a pattern or pin and even a fingerprint sensor would be great especially because of all the smartphone integrating that technology into their phones
+Nice app but I had to took a star away because this thing really uses of power. Also I never could get the app to activate when taking my phone out of my pocket.
+Part of my essentials for years now. Still wish it had a password mode but development stopped a while ago
+Just needs a better media navigation panel and the ability to view persistent notifications. Ie a flashlight notification so I can switch it off without unlocking the phone.
+It is not uninstalling from my mobile. Please help me. Every time I try my setting stop working. Please tell me the solution of this...
+Waking up of screen after taking phone out of pocket and wave to unlock has some problems, other than that the App is Awesome :D
+When ever i try n uninstall it, playstore says deactivate this app before uninstalling it bcuz its a adminitrator or something like that... I would just like to know how to deactivate it on a samsung galaxy s3
+That is all. Loved it as a glance screen-like addition for Android
+Looks good, works good. Unfortunately has no security so for me is useless. If it can somehow work with fingerprint scanner and actually replace my lock screen then it will be an amazing app.
+Please ADD the gestures features from the ROM as the proximity sensor hand wave and detect unpocketing is much better and accurate than this
+In did not uninstall... It hang my mobile and app manager didnot show the unistall option...  Its freeze..
+After installing this app fingerprint sensor doesn't work. Need to enter the pin manually to unlock the device
+Add 1 feature double tap on screen to wake up your phone and i can't use double tap to sleep phone on any screen
+Suggestion: Option to wake up the device with double tap or gestures. Overall, awesome application.
+I'm using Galaxy S7 and was not showing my whatsapp notification icon when i get a message. This semi fixes it, but notification goes away after 5 to 10 seconds.   PLEASE MAKE IT STAY PERMANENTLY when in always on Display mode.  Also it makes forces me to use a pattern to unlock if notification goes away to unlock my phone instead of using the fingerprint...BS!  Please FIX.
+not working automatically after screen off we need to replacement lock screen like glance plus
+Can't get the double tap to wake feature to work I click it then try it it doesn't work
+It looks great, but why won't it let me use my fingerprint on my note 5?? It's secure, so what the heck.
+Notification pops up when Im using the phone. It should pops up only when it i snot in use.
+Wave to wake works but sometimes, not everytime. If it works everytime, I'll surely give 5 star. That's the main reason i downloaded this app. Using samsung A5 (2016).
+Love it, but it would be nice if I could use my fingerprint sensor to unlock the phone and not swipe first and THEN use the fingerprint, because if I use my fingerprint this app doesn't go away and I have to swipe to unlock afterwards
+The proximity sensor sometimes it is working sometimes it is not, i just rate it 3 if you can help me with the proximity sensor feature maybe i will change my mind and rate it 5
+However wave to wake and timer on lock screen not working on mi4i.  a bit of a let down. Please give me a fix asap.. I love this soo much..
+It won't work I enabled it and everything else but it didn't work please help
+The app is extremely amazing and the UI is beautiful too, but anyone can access through my phone because there is no security.
+Looks very good and is functional. The wave over to wake screen doesn't seem to work well on my HTC One. But other than that its fantastic.
+Makes fingerprint not work, requires pin because "device administrator locked has locked this device"
+The wave to wake feature does not work sometimes
+This app also allows you to use "OK Google" without having your phone plugged in, or screen unlocked! Fastest quick draw ever. 😁
+I installed the app. It does not work! And I can not delete in now. I have tried everithyng!!!
+Had to deactivate it because my finger print scanner on my S6 doesn't work when it's active, everytime I opened my screen I was having to put my password in and now I can't even uninstall it???
+I can't make out why the proximity sensor always get activated while the screen is locked. Do help. Else I'll gonna uninstall this app. Otherwise, it's a good job. Thanks.
+If I will use this app I can't be able to use my fingerprint sensor.
+It'd be great if the lockscreen work as a lockscreen where i can use passcode or fingerprint to unlock, because after swiping my original lockscreen is still there
+It's a fake app not at all work if you install to phone
+Great app i m using in samsung edge phone its look dam good and its just need 1 more think only a security lock like fingerprint patten
+Didn't work, tried to uninstall and it wouldn't, had to do a reset on three phone to uninstall it.
+Only if this had an actual replacement to use as lockscreen to completely disable the one that comes stocked. Enable pattern lockscreen through acdispaly would be awesome feature
+Will give 5 star when they come with fingerprint unlocking. So that I can reach my homescreen directly without using my native screenlock
+How do I deactivate?? I'm clicking on  the button but it doesn't do anything
+So sad, the app looks good but I can't fingerprint unlock my phone when this app is running (Samsung J7 Prime).
+There is a bug where I unlock my phone but while I'm writing a message the phone locks again like 2 more times_ Huawei Y5 II
+Wave to wake is not working properly in MiA1. Please sort the issue
+Only irritating bug is when in Locksreen mode, a missed call unlocks the phone..
+I think you should add a switch button that let's you choose to turn off the home button bc my home buttons exits out of the lock screen and unlocks my phone so please fix.
+I have an note 3 neo and when i press the home screen button it opens up the phone in lock screen mode and if i press it again it unlocks (happend in my pocket)
+How do you take this stupid app off my phone
+It doesn't work for me, and now I can't even uninstall it, come on, pretty bad app
+I am unable to remove it from my phone its stuck!!
+The app is great for personalisation, would give 5 stars if there was unlock animation on my samsung galaxy j7.........developers,  do check my prob.
+Doesn't seem to work seamlessly with lockscreen. I have to swipe once on acdisplay and then once on system lockscreen. 5 star if you fix this!
+It would be awesome if there was an always on mode. So when you turn your phone of it will turn and stay on when not in use.
+Can't unlock my Pixel with the fingerprint scanner when active mode is on...
+There should be a glance feature when swiped on the proximity sensor..
+The app is a v good concept but it crashed too many times and requires restart.  Requires  bug fixes
+It would be best if you could make unlock with fingerprint and / or 4 digit pass code
+Fingerprint scanner not working with AC display.Fix it 5 star ❤
+hello. i love your app. however how do i remove the static notif of AcDisplay services is running in my notif drawer?
+Works as it should but I'd like the feature to wake up when I pick up the device when its laying flat too.
+Please please please improve wave to wake up option
+Very nice app. If you make the corner shortcuts customizable to open any app or activity, it'll be perfect (and so will be the rating :)
+Just one complaint, there is no password option
+If I'm wrong, I'll change my review to 5 stars, but is there a passcode functionality? That shouldn't be much to ask for
+Do download it for it will make you feel great. Always works never fails, along with many features. Best app for notifications.
+Proximity sensor very inconsistent on the Nexus 6
+My quick glance setup error, running android nougat 7.0 samsung galaxy note 5 original rom
+If you make Active Mode more sensitive this app will be perfect and I'll definitely rate 5 stars once it's improved.
+Awesome app - loved active display feature. I wanted to know what sensors does it use to wake the screen when using active display feature.
+The home button still closes AcDisplay when it's set as phone's lock screen. please fix it on the next update! thanks!
+Really good work. Only one suggestion, make it a proper lockscreen app. Add security features of it's own. It is really amazing.
+A bit delay for some reason
+Add option to wake up as we pickup the phone...
+Screen always remains in landscape mode. No change if I make any change in rotation on my Samsung device
+Relatively simple settings and no in app ads only donation for developer budget in maintaining the app.
+It won't appear most of the time when I get notifications. It also won't let me use finger print sensor and asks for pin
+It would lime to Uninstaller this app from my phone because it doesn't work but all I can do is deactivate it great app
+One of the best apps I have ever used would be way better of the lockscreen had fingerprint support to unlock after swiping I'm just in love with this great work!!!!
+but it will be more good if i can make other wallpaper n icon phone n camera in corner like lollipop lockscreen
+Works OK but there are no security options whatsoever, and there's a permanent notification about AcDisplay Services that can't be removed.
+Could you make wave to wake a little more sensitive it never wakes from a wave for me also could you add a pickup gesture to wake
+man ....nice...i hope you have option to remove the clock setting coz i wan a clear view of my live walpaper
+can't use as lock screen on my fire pad, because i have no way to turn on  usage stats :(
+Awesome. But as said it does not work well with stock fingerprint lock. Rest beautiful...
+Spy software cant uninstall it
+This is still my Number One notification handler. It would be perfect if it could use amoled always on ..
+Option to change the color of lock screen, option to unlock phone with fingerprint even when acDisplay is flashing on lock screen.
+awesome app keep it only suggestion is maybe finger read lock so not everyone can open my phone
+Really like it but cant use fingerprint to unlock so have to remove
+Wonderful option for people who want a less cartoon like lockscreen/notification option. Especially LG and Samsung users like myself.
+Please allow us to use finger print sensor or something to provide security measures
+Not good for phones with finger print scanner
+Add double tap to wake up
+I put this on my Samsung galaxy s6 edge, didn't like it & now I can't uninstall it.
+Great app but when I have my fingerprint enabled it won't unlock by just using my fingerprint I have to swipe then use my fingerprint
+didnt work for oppo r9s
+the only lock screen that works on my Galaxy S4. the only problem is it usually unlocked automatically in my pocket
+I love the concept of this app, but I think being able to add a pin lock would make this app even better
+Please increase the time of notification display (sleep) to atleast 1 hour (current 25 sec)
+why the 'reply' button didn't work?
+Every time when i restart my phone I have to approve permissions to activate it.. Pls improve it...
+Except for wave to wake everything works nicely on my N5.  It works but after waving like 5 times.
+Add double tap to wake feature....make app more stable...add some new features
+When you leave the notification, the next time you turn the phone on, it will not let you use biometrics
+awesome potential but not stable . work the thee bugs out and it'll be a favorite .
+Great app. It was my default lockscreen for years. But active mode doesn't work on my Mi4c 🙁
+Used to work ok, now it shows multiple notifications for a single text and keeps adding notifications every minute.
+Would give 5 stars because it is the best app for lock screen notifications. Thumbs up. Keep up the good work.
+Please help. Cannot used on my redmi note 4x. How to setup apps?
+I love this app but the reason why i rated it 3 stars is because it doesnt  have security opsions
+Boringggg.  I just had to root my phone to simply uninstall this app
+Doesn't work for me most time once it sleeps it didnt wake up again
+Good app but it needs the double tap to wake up the screen function
+I can't get it use Widgets...I keep getting a force close of Android settings
+Installed it to try it out and legit can not been uninstalled from my phone
+It need to be get updates its has ancient tym interface it need to be change
+Please give option to move clock position as in center it blocks the feel of wallpaper
+Cant change track for spotify in lockscreen on galaxy s5. Apart from that pretty good
+One of the finest app i have ever used.... just one request plz increase sensetivity of proximity
+Having one problem of using fingerprint sensor
+5 stars if you add the option to use fingerprint scanning to unlock the phone from AcDisplay.
+It's noy uninstalling from my mobile and also it requires administration's access
+But please get the lockscreen mode to work properly.
+I don't like it, it doesnt work so good and also i cannot uninstall the app from the phone
+The wave feature thing doesn't work for me
+Clean, simple not filled with a bunch of clutter just what I wanted don't change anything
+Application does not allow me to uninstall it.
+Great app but please add a feature where you need a password to open your phone
+I can not delete even in phone admnistration
+Please: Add a fingerprint scanner to the lock screen also
+Need to be blocked from bypassing ACDisplay unlock.
+i cannot uninstall it ?? any solution ?? im using xiaomi redmi note 4g
+Works perfectly for my phone. Keep up the good work 👍
+A Fingerprint unlock is all I need but it has none...
+Nice app but facing problems in fingerprint unlock
+It would be good if I can change the position of the clock!
+nice.. bt should give option to change the lockscreen wallpaper.. it shows same as that of home screen wallpaper
+Will reinstall when you add a password option
+I cant unistall the app !!!! because i cant disable it !!! Please fix this bug + thanks
+Excellent, but should come with fingerprint unlock for supported Samsung devices.
+It's nice one but fingerprint scanner not working to unlock the phone.
+It looks amazing however it does not work with the aspect ratio of the galaxy s8
+I wish if it could support for a fingerprint unlock...
+It needs a pin lock or other locks to make it safer 👌👌
+Won't let me uninstall please fix it  didn't work on my Samsung S6
+Very fast and lightweight. Beautiful and at same minimalistic. Keep up the good work!
+Simple interface, simple unlock. Good work you did there
+Improve the detection of motion in active mode cause it currently rarely works
+Add passwor fiture pls
+Not working in my Huawei p9 lite.....please help
+For the lock screen you should allow fingerprint scanners to unlock the device
+Is there a way that i can increase my proximity sensor
+Needs home key lock
+It's alright but the active mode could do with a bit of work
+No fingerprint scanner support it is a no go for me.
+awesome app 5★, but it needs a pattern or password setting.
+Make a fingerprint password :)
+Beautiful and simple locker. But it need faster unlock animation
+But can u block homebutton in lockscreen
+It is cool app...just change the position of clock.. move it to top...!
+Please don't install this it's damage my mobile software it's a virus don't install
+It makes your phone feel like a motorola phone
+Does not work with Smart Lock or fingerprint unlocking.
+Cool in theory, doesn't work consistently. Uninstalled
+Anyone know of an app like this that will work on S8?
+Light & perfect for my samsung A9 pro
+Thanks man nice work and effort....... Salute!!!
+Needs support for fingerprint and or password 💯💯💯💯
+Need to be able to change lockscreen wallpaper

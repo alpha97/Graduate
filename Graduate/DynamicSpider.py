@@ -4,7 +4,7 @@ from time import sleep
 from selenium import webdriver
 from bs4 import BeautifulSoup
 
-appName = "Wordpress"
+appName = "ACDisplay"
 cs_ACDisplay = 'https://play.google.com/store/apps/details?id=com.achep.acdisplay&hl%20=%20en&showAllReviews=true&hl=en'
 cs_CoolReader = 'https://play.google.com/store/apps/details?id=org.coolreader&showAllReviews=true&hl=en'
 cs_FBReader = 'https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android&referrer=utm_source%3Dfbreader.org%26utm_medium%3Dbadge%26utm_content%3Dandroid-page-bottom%26utm_campaign%3Dbadge&showAllReviews=true&hl=en'
@@ -17,7 +17,8 @@ cs_Solitaire = 'https://play.google.com/store/apps/details?id=de.tobiasbielefeld
 cs_WordPress = 'https://play.google.com/store/apps/details?id=org.wordpress.android&showAllReviews=true&hl=en'
 
 browser = webdriver.Chrome(r"C:/Users/fengyouyi/Downloads/chromedriver_win32/chromedriver.exe")
-browser.get(cs_WordPress)
+#C:\Users\fengyouyi\Downloads\chromedriver_win32
+browser.get(cs_ACDisplay)
 sleep(2)
 def execute_times(times):
     for i in range(times+1):

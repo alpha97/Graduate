@@ -11,7 +11,7 @@ import os
 from collections import OrderedDict
 
 #文件路径
-appName = 'Wordpress'
+appName = 'ACDisplay'
 path = 'tmp/'
 trainfile = 'cleaned/'+appName+'_result.txt'
 wordidmapfile = path+'wordidmap.dat'
@@ -22,10 +22,10 @@ topNfile = path + 'model_top.dat'
 tassginfile = path + 'model_tassign.dat'
 #模型初始参数
 
-K = 3
-alpha = 0.1
-beta = 0.1
-iter_times = 100
+K = 6
+alpha = 5.1
+beta = 0.01
+iter_times = 1000
 top_words_num = 20
 
 class Document(object):
@@ -235,7 +235,6 @@ def run():
     dpre = preprocessing()
     lda = LDAModel(dpre)
     lda.est()
-
 
 if __name__ == '__main__':
     run()

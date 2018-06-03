@@ -1,40 +1,860 @@
-The best ereader! I really love it. It is nice that you can customise just about everything you like! The only thing is, I wish you could synchronise your progress/bookmarks across all your devices. So I can read on my phone when I'm on the go and carry on on my tablet at home without manually entering the new spot. Would it be possible to do that at all? Perhaps with a log in. But otherwise this app is perfect! Always works well and a joy to use!
-Needs cross-device synchronisation This is my favourite eBook reader. It does almost everything I need. The only thing it lacks is cross-device synchronisation to allow me to read from where I left off no matter which device (phone or pad) I pick up. Maybe having the app save its book position/mark index to Google drive (or any similar cloud provider) would do the trick. I'm awarding all five stars anyway, but would love to see a synch feature in a future update.
-I loved the app and all features including the flexibility in layout. It supports all formats of e-books mentioned and there is also a night mode . Everything is FREE!! But it would be great if the page turning animation was made more realistic. That's the only thing lagging in Coolreader
-Loved this app used it for years but got new phone LG g4 downloaded cool reader but it can't find my ext SD card now so can't read my books gutted this was best AP out there Help fix this problem please
-Still many glitches Love this app especially the read aloud option can still read my ebooks while I'm multitasking. Always re-install when I change phones but the glitches seem to be getting worse. Forces close all the time even in read aloud mode and constantly loses the page that I was on when I close it.
-Old but very good Highly customizable, every option you could want including advanced font settings, custom touch areas, titlebar with progress meter and/or battery % and clock. Bug with TTS where skipping backward results in voice skipping backward but highlight skipping forward.
+I really love it. It is nice that you can customise just about everything you like! The only thing is,  I wish you could synchronise your progress/bookmarks across all your devices. So I can read on my phone when I'm on the go and carry on on my tablet at home without manually entering the new spot.  Would it be possible to do that at all? Perhaps with a log in. But otherwise this app is perfect! Always works well and a joy to use!
+This is my favourite eBook reader.  It does almost everything I need.  The only thing it lacks is cross-device synchronisation to allow me to read from where I left off no matter which device (phone or pad) I pick up.  Maybe having the app save its book position/mark index to Google drive (or any similar cloud provider) would do the trick.  I'm awarding all five stars anyway, but would love to see a synch feature in a future update.
+I loved  the app and all features including the flexibility in layout. It supports all formats of e-books mentioned and there is also a night mode . Everything is FREE!! But it would be great if the page turning animation was made more realistic. That's the only thing lagging in Coolreader
+Help fix this problem please
+Love this app especially the read aloud option can still read my ebooks while I'm multitasking. Always re-install when I change phones but the glitches seem to be getting worse. Forces close all the time even in read aloud mode and constantly loses the page that I was on when I close it.
+Highly customizable, every option you could want including advanced font settings, custom touch areas, titlebar with progress meter and/or battery % and clock. Bug with TTS where skipping backward results in voice skipping backward but highlight skipping forward.
 Why ruin it? The app was working great! Now it won't even access my SD card. Why does every single developer mess up their product with so called "updates"?! I'd it works, leave it alone! Uninstalled...
-Problem in Android Lollipop It used to be my favorite epub reader app. Back when I was still using Android Jelly Bean, it worked perfectly. But it doesn't seem to work in my new phone (with Android Lollipop). When I try to reduce the screen backlight brightness to the lowest level, the text becomes blurr. It was perfectly fine in my Android Jelly Bean though. So I wonder why it won't work in Lollipop? Can I just send this problem through email so i can show you the screenshoot? Please respond me 😭
-Keeps crashing This keeps closing while I'm reading i have to start over and skip pages to go where i left off its getting annoying. Im looking a different reader to use this is not for phones
-WAS Best eReader period Since Marshmallow, doesn't use ext storage. won't even load from it. "trying to load book from non-standard location". my favourite app just bit the dust in a gory bloody mess.
-Really like it but there is a rotation bug Works great and been using it for a while. The biggest problem I have had is the screen auto rotates in the app no matter what the global setting is. It's frustrating if you want to lay on your side and read as the screen turns 90 degrees. This is about the only app I have come across that ignores the global setting.
-From phone to phone I've rarely had problems using this app. I love it actually. That is until recently. I am using Xiaomi Note 3, Global ROM, Android 6, Miui, 8.2. The app doesn't recognise the external MicroSim. When you have over 1GB of titles it kinds sucks cause it's taking up quite a chunk of space. Hope it gets fixed in the next update.
-Excellent reader with many options I have been using this reader for many years, and it has always served me well. As another reviewer has mentioned however, it seems that in Android 6.0, files located on an external SD card cannot be opened by cool reader. I hope this is fixed in an update soon.
-Can't see external SD card Love this app, but just got a new phone with Marshmallow and it can't see the SD card. I see reviews reporting this 6 months ago, so not hopeful this will be fixed. I guess it's the end of the road for me. :(
+It used to be my favorite epub reader app. Back when I was still using Android Jelly Bean, it worked perfectly. But it doesn't seem to work in my new phone (with Android Lollipop). When I try to reduce the screen backlight brightness to the lowest level, the text becomes blurr. It was perfectly fine in my Android Jelly Bean though. So I wonder why it won't work in Lollipop? Can I just send this problem through email so i can show you the screenshoot? Please respond me 😭
+This keeps closing while I'm reading i have to start over and skip pages to go where i left off its getting annoying. Im looking a different reader to use this is not for phones
+Since Marshmallow, doesn't use ext storage. won't even load from it. "trying to load book from non-standard location". my favourite app just bit the dust in a gory bloody mess.
+Works great and been using it for a while. The biggest problem I have had is the screen auto rotates in the app no matter what the global setting is. It's frustrating if you want to lay on your side and read as the screen turns 90 degrees. This is about the only app I have come across that ignores the global setting.
+From phone to phone I've rarely had problems using this app.  I love it actually.  That is until recently. I am using Xiaomi Note 3, Global ROM, Android 6, Miui, 8.2.  The app doesn't recognise the external MicroSim. When you have over 1GB of titles it kinds sucks cause it's taking up quite a chunk of space.  Hope it gets fixed in the next update.
+I have been using this reader for many years, and it has always served me well. As another reviewer has mentioned however, it seems that in Android 6.0, files located on an external SD card cannot be opened by cool reader. I hope this is fixed in an update soon.
+Love this app, but just got a new phone with Marshmallow and it can't see the SD card. I see reviews reporting this 6 months ago, so not hopeful this will be fixed.  I guess it's the end of the road for me. :(
 How difficult can be to implement SD card read access? I had this app on all my devices and now I just cannot use it with the book collection I keep on the card. Will come back with different rating once this is fixed.
-Amazing! Allowed me to read many books in situations in which I couldn't have. Really practical and easy to use. Cool fact : you can quickly search words you don't understand in the dictionary, so it's perfect for reading in foreign languages!
+Allowed me to read many books in situations in which I couldn't have. Really practical and easy to use. Cool fact : you can quickly search words you don't understand in the dictionary, so it's perfect for reading in foreign languages!
 Books disappears from recent books all the time. Annoying. Try it only if you do not mind to search for a book on storage, then search for a page you stopped reading at least once a day.
-Would give it 5 stars, but... It crashes at random on my Galaxy s7 and my Galaxy Tab s2. Other than that of love the app. I've been using it for years now, and it may crash but it hasn't failed me yet.
-Cut off sentences, but looked good. Unfortunately sentences, even those climactic ones at the end of chapters, were cut off from the second or third word; using another app showed the whole sentence, meaning that this app is faulty in some way. It's a pity, because I liked the look and feel of this app along with the slide screen brightness.
-Great reader, but... On my Galaxy Tab A 6 it keeps on crashing. Very annoying while trying to read, especially having to find the page i was on. Needs an update.
-THE ABSOLUTE BEST READING APP This app really rocks! It won't disappoint You, cool reader reads books when all other readers fail! UB reader failed to read something but this read it! It looks a bit bad but it works better than anything. I even somehow managed to download the messages off a social network and read THEM as a book! Beyond compare, you will love it, do rate it 5 stars!
+It crashes at random on my Galaxy s7 and my Galaxy Tab s2. Other than that of love the app. I've been using it for years now, and it may crash but it hasn't failed me yet.
+Unfortunately sentences, even those climactic ones at the end of chapters, were cut off from the second or third word; using another app showed the whole sentence, meaning that this app is faulty in some way.  It's a pity, because I liked the look and feel of this app along with the slide screen brightness.
+On my Galaxy Tab A 6 it keeps on crashing.  Very annoying while trying to read, especially having to find the page i was on. Needs an update.
+This app really rocks! It won't disappoint You, cool reader reads books when all other readers fail! UB reader failed to read something but this read it! It looks a bit bad but it works better than anything. I even somehow managed to download the messages off a social network and read THEM as a book! Beyond compare, you will love it, do rate it 5 stars!
 The best ebook reader I've used in a long, long while. My only personal concern is that it tries to open the same ebook each time I start the app, not the one I'm currently reading. When I deleted the book, the startup message is "Cannot open book". Then I have to press Back & then click on the book I'm currently reading, from the list displayed. Apart from this one frustrating thing, I absolutely love it. If a solution can be provided, I'd have no hesitation in giving it 5 stars. Cheers!
-Great ebook reader Can't say it's the best, just because after using it for several years on several devices I never wanted to try another app to compare, because this one has everything I need. It's good enough.
-Very good reader, but force closes constantly Very good app, used to be my go-to ebook reader, but recently began to constantly force-close and lose track of the page of the book i'm currently reading. hope this would be fixed soon. meantime, i'm using a competing reader... Edit: using Samsung Galaxy Tab S 8.4 and 5.0.2.
-Perfect This is a great ebook reader on my old phone. It is very customizable. I use it to read html files offline as well as the more usual formats of epub and mobi with a few prc thrown in.
-Until kitkat that was awesome app. Since marshmallow it's nearly useless The problem is with permissions, obviously. It won't even try to access my external SD card. Sad, because this is perfectly doable (some other ebook readers can do it)
-Works well but looks disgusting Great app but it looks vile. Everything from the icon to the app background is revolting. I won't have it on my desktop as the icon is so dreadful. If the dev sorts out the aesthetics I'd give it 5 stars.
-It has one major flaw. It can not read book files from the external micro SD card. Internal storage is no problem, but it won't even recognize that the SD card exists. Otherwise it is quite good for what it does.
-Was one of the best, highly configurable. Perfect for those who don't care to spend a little time preparing it for the best reading experience. Unfortunately, since android 7 it doesn't work anymore, do not recognize SD cards and do not link itself with epub fies. Those faithful to it have no other choice to migrate.
+Can't say it's the best, just because after using it for several years on several devices I never wanted to try another app to compare, because this one has everything I need. It's good enough.
+Very good app, used to be my go-to ebook reader, but recently began to constantly force-close and lose track of the page of the book i'm currently reading. hope this would be fixed soon. meantime, i'm using a competing reader... Edit: using Samsung Galaxy Tab S 8.4 and 5.0.2.
+This is a great ebook reader on my old phone. It is very customizable. I use it to read html files offline as well as the more usual formats of epub and mobi with a few prc thrown in.
+The problem is with permissions, obviously. It won't even try to access my external SD card. Sad, because this is perfectly doable (some other ebook readers can do it)
+Great app but it looks vile. Everything from the icon to the app background is revolting. I won't have it on my desktop as the icon is so dreadful. If the dev sorts out the aesthetics I'd give it 5 stars.
+It has one major flaw.  It can not read book files from the external micro SD card.  Internal storage is no problem, but it won't even recognize that the SD card exists.  Otherwise it is quite good for what it does.
+Was one of the best, highly configurable.  Perfect for those who don't care to spend a little time preparing it for the best reading experience. Unfortunately, since android 7 it doesn't work anymore, do not recognize SD cards and do not link itself with epub fies.  Those faithful to it have no other choice to migrate.
 Have been using this app for about 2 years now. Never had a problem till I got a new phone. Every time I exit the app, the font size and the brightness are set to default. Really annoying.
-App is lagging while turning the page. My devices are HTC M8, which I changed to M9 and got the same problem. Please, optimize it.
-This works well on my Samsung 4. I use it every day. It crashes once in awhile, but I have never lost any info. It's one of the few apps I've paid for - donated in this case.
+App  is lagging while turning the page. My devices are HTC M8, which I changed to M9 and got the same problem. Please, optimize it.
+This works  well on my Samsung 4. I use it every day. It crashes once in awhile, but I have never lost any info.  It's one of the few apps I've paid for - donated in this case.
 Great application. But exists one negative feature. For Android 7 + miui 9 had no access to SD card at all. App shows notification that "application is old..."
-Use Cool Reader 3 on my PC and have always loved it, but after installing this onto my Galaxy S7, and finding out it cannot read books from my SD card, I am going to have to abandon it and try something else... }:[
-Cool Reader, formerly my ONLY, beloved eReader on both my Samsung Galaxy S 10.1 tablet & S7 cellphone, now sadly appears to be ABANDONEDware (the last update, v3.1.2-116, was on July 17, 2015). I'd still be gladly using Cool Reader (or Cool Reader GL) if it (they) had kept up with GOOGLE's DECISION (starting with Android v6/Marshmallow) to impose new security restrictions on non-native apps' [i.e., user installed] access to the external MicroSD card — where I have 1Gb+ of epub books). However, GOOGLE ALSO PROVIDED a workaround mechanism for non-native apps to REGAIN external MicroSD card access (via an in-app popup routine that requests the user to explicitly grant it that permission), & developers who cared about their users subsequently updated their apps accordingly. Alas, no such luck here & I've reluctantly moved on to FB Reader. Such a shame really to simply abandon millions of longtime, loyal, appreciative users without even a courtesy explanation &/or request for additional donations. 😭💔😭💔😭
-One problem Once you fix the screen rotation problem, it will be 5 stars. I've adjusted all the orientation settings and none of them lock it...
-Can't delete files I've been using this reader for a long time and it's perfect for me. But since the last update I can't delete files directly from the app. Fix this, please?
+Use Cool Reader 3 on my PC and have always loved it,  but after installing this onto my Galaxy S7, and finding out it cannot read books from my SD card, I am going to have to abandon it and try something else... }:[
+Cool Reader, formerly my ONLY, beloved eReader on both my Samsung Galaxy S 10.1 tablet & S7 cellphone, now sadly appears to be ABANDONEDware (the last update, v3.1.2-116, was on July 17, 2015).  I'd still be gladly using Cool Reader (or Cool Reader GL) if it (they) had kept up with GOOGLE's DECISION (starting with Android v6/Marshmallow) to impose new security restrictions on non-native apps' [i.e., user installed] access to the external MicroSD card — where I have 1Gb+ of epub books).  However, GOOGLE ALSO PROVIDED a workaround mechanism for non-native apps to REGAIN external MicroSD card access (via an in-app popup routine that requests the user to explicitly grant it that permission), & developers who cared about their users subsequently updated their apps accordingly.  Alas, no such luck here & I've reluctantly moved on to FB Reader.  Such a shame really to simply abandon millions of longtime, loyal, appreciative users without even a courtesy explanation &/or request for additional donations. 😭💔😭💔😭
+Once you fix the screen rotation problem, it will be 5 stars. I've adjusted all the orientation settings and none of them lock it...
+I've been using this reader for a long time and it's perfect for me. But since the last update I can't delete files directly from the app. Fix this, please?
 It is absolutely slow and it keeps hanging. The pages don't even turn right. The font is bad. Who asked the app to change the layout of the book?
-All time fav It was the second epub app I installed and it's absolutely perfect. It has a simple clean interface and highlights and bookmarks with ease,which are the features I look for.been using it on 3 different devices since past 2.5 yrs.so I've used it a lot and it has rarely failed me(no apps foolproof). Best app for epub files.
+It was the second epub app I installed and it's absolutely perfect. It has a simple clean interface and highlights and bookmarks with ease,which are the features I look for.been using it on 3 different devices since past 2.5 yrs.so I've used it a lot and it has rarely failed me(no apps foolproof). Best app for epub files.
 I love you! This is the best reader ever! Thank you! Ver Customizable, and that is the strength of this reader, makes me want to read more and more... Blissfully satisfied with this reader :) yup... and the tts is a luxurious option to continue reading even when you do something else but can't stop because the book is too exciting haha amazing, woo-hoo, enjoy books, enjoy life :)
+Very disappointed that the current version of the app doesn't allow full system browsing. My books are on my MicroSD card, and Cool Reader won't go there.
+Has mind of its own. Messes with brightness lvls, rotates when in phone it's turned off and other small annoyances.
+I get internal or emulated sd internal, but can't file path to actual external sd card.  I have current phone and Android os, and moving files another time is not worth it. Looking for a fix out working app, which ever comes first. Having a reader versatile with formats read and other customization is great. This was my default reader. The initial page load is slower than kindle and bookmarks work, but could be refined and a little more visual.
+As a result can't read any existing books. Most of the options of the program are hidden too now. Very bad.
+Cannot access external SD card on Android 6.0. I installed zx Reader and it accesses the SD card without problem. Hopefully it will be fixed soon.
+I've always downloaded this app in every device. Just hope that my highlighted lines can be copied instead of downloaded/emailed. Still sticking to this one.
+Why can't watch the Chinese words?? Please resolve the problem.. thank u
+Bugs 367 and 386 prevent reading the SD card on Android 6 or higher. This makes it useless if you use a SD. The app has not been updated in over 2 years so it will probably be useless forever.
+After a long time reused, It was gr8 full option apk. Thanks developer.
+Always used it on my S4 but disappointed with the S7 operation because it cannot find the SD card and there seems to be no answer from the author about a fix.  What a pity😥
+Cannot access sd card. This was non negotiatiable if app cannot access my SD card because developers cannot be bothered to upgrade themselves to new Android sdk. Other reader apps have no problem reading and writing to sd card.
+Does not allow access to External SD Card in Lollipop.  Update: No External Card in Marshmallow ---However . . .  Great visual presentations, flexible choices, and good functionality makes a really good reader. I wish that RSS Readers had the same readability, not low contrast fonts!
+This app used to be the best on the market, but new updates have ruined it. Now it cannot read an external SD card. I tried to use it on my Samsung Galaxy Tab A running Android 6.0.1, but no luck. So I had to delete it
+Used to be awesome but now the text to speech skips words, sentences, and sometimes even whole paragraphs. Has been getting progressively worse for at least a year on multiple devices.
+I totally love the app, but I have a request for synchronization with cloud service. That can be payable annually, as per me. I really would like to have same information on different devices.  Could that possibly be done within app?  Thank you in advance.
+I really enjoy this and recommend it. However, it does keep crashing, and reverting to the previous endpoint. I'd appreciate a fix for that; it's really annoying in long documents.
+Finally! An ebook reader that works offline. Would have given it 5-star if it can navigate like play books though. Otherwise it's all good!
+Superb e book reader, customise 9 areas of screen with short tap & long tap, backed short tap both sides move to next page, long tap both sides back a page, great for old Palm pdb files, for us oldies. Don't give up at customising, it's full of great tips, choose a section, short tap night time, everything is there
+Now after operating system updated it doesn't see the external SD card. Have moved to another reader that does work. Shame really as I got on with this reader so well until the update to the operating system.
+Love the interface, but it crashes sometimes when the e-book css is disabled. Also slow to load large e-books.
+I've been using this app for some years now and suddenly it won't save my settings,  every time I close the app the settings reset.
+Used to use this exclusively... updated to new tablet and now cannot access files on sd card so had to install moon reader
+Hi all. Been using this app for over two years and it's absolutely reliable..until now. Upgraded to android marshmallow and now can't access the SD card?!!  What's up with that?!!!! Neeeeeeed a response urgently
+Was great untill I tried to use it on Mashmellow..I can't get it to open anything..It just crashes. Very dissapointed..
+Good, but won't read sd card on new devices. It's not fair that some people have rated it 1 star for that, since Google is the one who broke compatibility. But if updated, this reader would deserve a perfect 5 star rating and a donation.
+It used to work but now I can no longer open docs from Dropbox. Hopefully there will be an update because I think this app had a lot of really great features, and is more customizable than Kindle etc. Unfortunately for now, this app is not worth downloading.
+I love the application! I only would have one wish to make it SUPER perfect. cloud saving for the book. So I can read the book on all my devices and dont need to remember where I left on my phone, when opening it on the tablet. This would be worth a HUGE donation :-)
+I can fine tune pages for best reading experience with the most custom settings on any reader. Don't have to settle for what someone else thinks is what you need.
+I like this app so much but please support with Android nougat ,can't open directly using file manager
+All of my books are stored on my external sd card, which this app does not provide an option to access. If it does, please get back to me with instructions on how to do do it and I will be happy to update my review.
+If you touch accidently the screen anything can happen.. The worst is accident scrolling 10 forward or backward; screen brightness changes is not connected to android auto adjustments! Deleting with pain in my eyes...
+I love cool reader, but for a while now it's been crashing more and more often and having errors loading books.  Both on my BLU R1 HD and my new Samsung Galaxy S8 Plus.
+Can't access my SD card. Apart from that and the fact that it doesn't read pdf files it's the best ebook reader available.
+Crashes constantly! Periodically look at your page number for when it does  crash. Used to be great
+Really pleased with this FREE app thats read every book I've thrown at it. Use it daily. Now's it crashing a lot & returning back to an earlier page, 3 stars untill that's fixed
+Many years use on different Androids and do not have any problems. I like  Dark mode and light green color of fonts on my AmOLED!!!
+For all the Android Marshmallow users, to use this you must have your books copied to your phone memory and not to your SD card.
+On Android 6 do not read sd card but have necessary permissions. Do not ask permissions.
+Most Awesome reading app but forced me to download another one without the pdf support, needs more formats
+Have been using it. But now in Marshmallow and infinix hot 600 it can't open the folders and with .rtf files. Please rectify
+I loved this. But on my Marshmallow LG4, it will no longer browse to my SD card, so I can't read any books.
+The customization options and intuitive navigation options make the Cool Reader app my preferred option for reading on an Android device.
+Vadim, you are the best! Thank you a lot! I use this app for many years. I  never saw any so simple and so useful! I recommend your app to all of my  friends who read books on devices. Good luck to you and more creative ideas!
+Can't access files on SD card (under Android 6 or 7), and hasn't been updated in two years. Sad, since I've liked CR for years, but I can no longer recommend it.
+Cannot access sd card, cannot go up in file manager. Useless. Marshmallow
+It didn't work on an epub file. Thus failing its promise and incurring the  Wrath of my 2🌟s
+Worked fantastic on S4/S5. After recent upgrade to S7, can no longer access extsdcard. Hope you will fix that soon. Still the best reader.
+I'm using it for a variety of eBooks. I needed something to open PDB files and have enjoyed it for over 2 years on various phones.
+Doesn't see files on SD card. Works ok with internal memory. I used to like the up before, now have to switch to different reader.
+Best eBook reader for Android I've ever used. Easy to use and it doesn't lag whenever I'd reopen a book. I really am in love with this app! Great work.
+Crashing often on Note 7. Was good on previous smartphone and tablet. Hope next updates will improve.
+Stopped reading the external SD drive. Please fix it, but for now my mark is 1 star
+I cant express how thankful I am to this reader. the best ( if you're into epub reading. I have been using this for years. thank you thank you and thank you!
+Every time i change the background color and close the app, reopen it and it goes back the original back ground or theme color.    I'm using my new phone android lollipop now.
+Since the upgrade to Android 6, it does not seem to be able to access my external SD card to read my ebooks.  Have used it for years.  Cannot use it now.  Please fix!
+Please make it so that when we highlight a section of text, the highlights stay there when we come back to the book.
+Still the best reader app out there, though the design is a bit outdated. Highly recommended
+Would rate 5 stars for my previous phone (Alcatel One Touch Idol 3), but there seems to be a few bugs on my Samsung Note 4, one of them being that I can't change the font for my epub files, which is mildly annoying.
+App is great forum reading epub and pdf books on mobile device. No scrolling, nice background that is relaxing for eyes.
+Excellent app. But please add acess to external sd card for android 6 version for samsung a 9 pro
+Great, free, used to work, suddenly won't find my books on Sd anymore, now useless. Please fix, same issue with cool reader gl.
+Simply the best free reader on android for many many reasons not the least of which is sheer file format compatibilities.
+Worked great in the past. Now, on my new phone, 'open SD' opens the normal internal storage. I can't GET to the read SD card on 7.1.1 :-(
+Nice, but does not access SD card on Android 6. Use FBReader.
+I love that you have the option of reading or having it read to you. Also, its easy to navigate and is loaded with options. Great work Devs!
+This reader would be perfect if it didn't freeze up every time you lose internet access.
+I recently purchased Samshung Galaxy Tab S2 and the same got uprgaded to Android 6.0.1 i.e. Marshmallow. After that, this software is not able to read epub and any other files from MicroSD card. These are showing as txt files . So this software has now become useless for me.  May be sone future update will fix this, But fo rnow, this is a major problem with this software.
+I am uninstalling because I can't access files on my SD card. I don't have enough space in my main phone memory to store my books.
+worst app  this app can not find where is your pdf file in phone or memory card
+So I made a folder on my SD card but I cannot access it from within this app. Useless for me.
+Seriously?No memory card support?Then you in the wrong store,should be in iTunes store,they don't use memory cards.
+When I showed some books like harry potter, Alice in wonderland it shows no books. So borring. Don't download it.
+Every time I try and open my .mobi book, the app crashes! What gives?
+I cannot find a way to open books in my sdcard. It won't work for me.
+This app worked perfectly before, but not on my S7 Edge with Adroid 6.0.1. The app is not reading the external card. So now I have to use something else that does.
+It looks good, but it can't find my SD Card, so no use to me. Xperia xz premium
+Doesn't work on Android 8.x. It's a pity, used app for years...
+This is probably the best free e_reader available. To make it more fantastic, it is recommended to link a dictionary.
+I simply love this app. It does absolutely everything that a ebook reader suppose to.
+It won't let me open word documents. I see there's an extension for it here but it won't find any of my word docs. Unless I'm doing something wrong.
+Won't actually detect an SD card. Defaults to simulated storage (which is on the phone) doesn't seem to be a way to change this  Note 8
+Once again a reader app that does not have an easy to find setting for using publisher defaults: terrible bg default with no clear way to override.
+IT IS NOT OPENING. Even if it does, it just kicks me out could have gave it a better rate if the bug was fixed. Fix. IT.
+night mode not working on samsung s7 edge.  It worked on samsung note 3.  Far too many options and the color sliders are a pain to use.  There is no support
+I'm experiencing critical bugs for, like, 6 months or smth on meizu m3s, latest flyme.
+I used to  love this  app, but now I can't  seems  to open  my ebooks stored  on my site card in Android 6.0 on my Samsung  Galaxy Tab A 10.1
+Won't find files on my external SD card. Will have to find a different app then.
+Great reader.  Bookmarking doesn't always work and small indicator on the top bar would be welcome.  Thanks a lot for this app.
+Had a problem with search. Can't find how fast search in a book
+(Old version)  on kitkat this app can read my extSD card,   can't on marshmelow. Please fix.
+Most recent update fixed galaxy s6 crash. Great app!
+I very like it. Super app for book reading...
+Dz z my fav ... i dnt usually gv comments .. but dz thing made me give this .. ☺ thanks guys .. love this
+Great ebook reader especially on my 2012 Google 7 inch tablet which is still running well after being upgraded to Android 5.1.1 Lollipop
+It's good. But it will be great if support pdf and word file too.... We are waiting for your update version of this app. 👍
+I had this cool reader app on all of my phone never had any problems with it. I have a galaxy s7 edge and still no problems its a great app.
+If there is highlted text word for word for reading with text to speech but this an app with a great help as an audio book
+I am using it for a long time and don't want to change something :)
+It constantly shuts down tats my only problem other than that its good app plz fix it
+Cannot stop auto rotation. It's annoying.
+Cannot read SD card on Android 6.0. Please fix.
+I've been using this app for years, great work, thank you.
+And on every phone it was working perfectly! Love the functionality and interface. Thank you, Vadim!
+Does not support PDF! not cool reader lame reader!!!
+Please bring back the feature that's lets us open up books from the sd card.
+Много лет пользуюсь этим приложением для чтения. Во время обновлений периодически бывали мелкие баги, но это нормально для развивающегося проекта. Сменил телефон на Xiaomi Redmi Note 3 Pro (Android 5.1.1) и перестали сохраняться настройки, когда я закрываю приложение. Пробовал на прошивках MIUI 7 и MIUI 8  - проблема остаётся.  Видел, что писали уже про этот баг. Для меня проблема критична, так как шрифт по умолчанию очень мелкий и жирный, приходится настраивать каждый раз... Просьба исправить.
+Great app! Please allow to open pass protected .doc files
+Doesn't open books from ext sd anymore. Ext sd isn't even a file source option anymore.
+Doesn't work for rtf format.useless app
+I couldn't really find the kind of books I was looking for. But it's nice to have a free app to find it some of them.
+I can't keep it locked in portrait mode even though both my phone and the reader are locked in portrait.
+Awesome app! Been using it for a couple years and so far it's been the best ereader I've used
+Nice app i love to read books so this os my fav app
+Doesn't read Chinese characters. Can be fixed but don't want to search for a solution. Deleted it. Installed FBreader.
+La mejor app para leer libros. Genial!!!
+I can't seem to read my pdf books on this app. EPUB I can find and read but not PDF.
+Cannot access external sd card in new android or grant access for this app
+Ignores carriage returns (multiple) in doc files.. any chance of a fix?
+Add on memory card is not detected. Please update.
+Used to a fantastic, free reader. When turret stayed playing ads between books, i uninstalled it. Time to give it another go
+Guys add pls 18:9 screen ratio. Great app, appreciate your work!
+Can't even find pdf in my storage
+How can i set Bengali language for bangla book read?
+Can't access sdcard on Marshmallow
+Naverno edinstvenaja poleznaja programa v etom musornike.bolsoe spasibo razrabotciku.klasnaja rabota!!!!
+There must be create account and sync option.
+Used to love it but now it can't access the books in my SD card.
+I am using it for years . Still , have nothing to complain about . Good work . Five stars  .
+Love it. My phone with cool reader is now my primary e-reader. Customisation is awesome.
+Please make it also for dvju
+Text to speech fearure absent
+Used to love this app but now won't see the sd card
+This is the best book reader i have seen ever . Thank you
+Cool reader but no option to save import export settings
+Cannot read from card.  Xperia X compact phone
+After last update work excellent. Thank you. Great application.
+Reads almost every format...One of the best on play store
+Very light progrem, nice interface and easy to use
+Very  small size, for sach  a good reader
+This is the best epub and mobi reader
+Great ebook reading app!
+Cool Reader is a truly amazing E-Reader Application. It is the most battery efficient that I have been able to find thus far and it works on any android. Not to mention... It is free! It works well on all my devices, and without rooting I was able to install it on my Kindle. It also has desktop versions but those can be handled by Calibre.   It does mesh amazingly well with Calibre in format and keeping the meta data intact for books and has the ability to sort by authors, series, etc. whi
+I've used this app for about two years now and I've always loved it. I love that it's easy to adjust the size of the fonts and the background lighting and even the background color. I can read most of my stories and files in this one app. The only reason I did not give it five stars was because of something that just recently started happening. I had to erase my data from my phone a few days ago and when I reinstalled this app, i began to get lots of pop up ads as if I don't turn the page fast enough. I don't know if I picked up a bug and its just my phone, but since this is the only app doing it. I'm wondering if I now need to pay to stop the ads or what. if someone could let me know that would be cool. thanks for such a great app. I really do like it.
+Robust, with many useful settings to customize the reading experience. Great ebook file types support. Been using it for a long time. Some very small number book titles that I have looked weird on my 4,5" phone screen, especially the ones with heavy css stylings, but it's far from ruining the reading experience. Just turn off the css and everything is well. Also, footnotes and footnote links doesn't appear at all, css or not. It'd be so nice if these are fixed.
+I found this app recently and I am positively delighted with it. Not only does it have day and night view but it saves your page for you. It will even read your book aloud to you.. I'm still finding new options every day. I'm so impressed I'm looking for someone to show me a donate button. I can't believe I paid 8 dollars for a different  app, and this stellar one is free. Simply amazing. Thanks cool reader, you really are too cool.
+This works beautifully. Reads all eBook based file formats, allows for many customisation options, bookmarks with ease, and has many functions essential for any avid reader (too many to list). My only "complaint" is that you must find the file using CR, it doesn't just bring up all found on device period, as some others do. But if you know where to look, that shouldn't be an issue. 5/5, would definitely recommend. Edit: is capitalizing all letters Edit: switched from epub to mobi, fixed for now...
+Not as flashy looking as some other but can open most file formats. It has been my ereader of choice for a few years now. Can take a little while to get it configured to how you like it (its VERY configurable!) But once you do you have no reason to have another reader for non DRM files.
+There is no app like this. This is the best thing because it can read any type of format in the way you want to read.  In Kindle, Kobe, and others u can't  read pdf properly and while in Adobe you can't read .mobi properly.  But in this app you can  read all things properly and suitably. It take very less space. You can read gutenberg. org books in best way. Its no.  1 reader. Less space more features. Love it.
+Works OK on my Android, does what it says its meant to. Crashes infrequently when used in horizontal position, losing the last page opened. No adds in my version a big plus ++++! For free its great. I Did not update to newer version no need to add more permissions than it already had. Have it on a computer as well but I prefer to read on CALIBRE because its far more versatile. It takes longer to locate books on Coolreader.
+This is the best reader I ever used. It's clean, neat, has an array of displays, fonts and backgrounds to choose from. And I don't need to import my ebooks from my phone. Only problem is, it crashes. Every time. Dear Developer, will you please update this wonderful app so I can give you a 5* rating? Thank you.
+I have been using this app for sometime  and find it excellent. but now i face a problem.i got an android update and upgraded to android 6.0. After that cool reader stopped recognising the external sd card mounted .other apps are able to access but not coolreader.i am forced to transfer books to internal memory and read.please fix this and i will rate 5 star
+It's been my favourite e-reader for a few years now, on my rooted Nook Simple Touch. Unfortunately the latest version doesn't work and crashes before even starting :( So I'm sticking to the old version. Would love to have the updates work again.   I love that it shows as an option from the Nook's 'currently reading' button, and that I can use the Nook's side buttons to go forward/backwards. Customization of tap zones is a very handy feature.  I do wish the library were easier to use, though.
+Emailed dev but no reply. On Samsung tab. Can't redirect to TRUE root to be able to read from External SD card. Not enough space on internal device so for now can't use Cool reader until/if dev decides to fix. Pity cause looks promising  and prepared to pay if worked
+I have used Cool Reader ever since I got my first android phone some 4 years back. Ever since I read my first book on mobile, this app is always on my phone. Supports most mobile book formats. Has plenty of features, can even read your books out loud. 10/10 accept no substitute.
+I've been using this reader for a long time and loved it... until recently.  When the last update installed it caused some issue with my SD card and I can no longer access my books that are stored on there. I just recently purchased a whole bunch of new books and can't read any of them... very frustrating!  Please fix!
+I used to love this app, until I got my Galaxy S5 running Android 6.0.1 and now it no longer allows me to set the SD card folder as my root folder.  It shows the root as /storage/emulated/0 - I can only assume it's getting that from the system, but why not let me select my own root.  And the last update to this app was summer of 2015???
+Cool reader and fbr reader are my main readers, after moving files to ext sd card, to make ram available for os upgrade cool reader won't read those migrated files. Pretty useless app now. I'd give it zero stars because of that.
+I loved cool reader for years, would have rated it 5 stars. Now I can't use it any more on phone or tablet. It loses my place and reverts all books to the beginning, and will not keep books in the app directory. Have to search files for them each time.
+Excellent! Just what I was looking for...  I'd like to donate, but there is no PayPal option...  No problem with epub format, slight problems with prc (MobiPocket) format... Working great on Samsung S4, LG GPad V500, Gigabyte GSmart GX2... Android 4.4.2 and 5.0. Does NOT see extSD on Samsung S5 + Android 6.x
+I liked the app overall, but the TTS has a known issue of skipping italics and jumping every word after to the next period. I held on for a long time, but no fix was provided. Also crashes periodically. There's plenty of other good readers out there, so moving on.
+It used to be my favorite e-reader.  It turned any readable file into a convenient book format.  But now I cannot access my books on external SD card.  Why?  The same is true for Cool Reader GL.  This is very unfortunate.  I hope this will get fixed soon because I hate to use internal memory for storage.
+Cool Reader stopped working on Nook Simple touch after the last update. Please fix this as soon as possible. Or, if not possible, please let me know how I can revert to a previous version. For me, at this moment this great app you made became 100% useless.  Thank you.  P.S. - when working properly, this app deserves 5*, which will get, as soon as I can use it again.
+I have used this app in the past with no problems. I hadn't used it for a while and deleted it and just recently downloaded it again... After downloading a book it will bring it up automatically in cool reader BUT after closing the app it isn't available in cool reader any linger and I have to find the file again.... Extremely frustrating... Really wish this app would work out for me since I have always used it but I guess I am just going to have to download another app until this one works better.
+I absolutely love this app! It's really not hurting my eyes, which I why I chose this! But guys I wanna know how I can remove the page numbers being shown on the top right of the doc being read....cuz I really don't wanna know how much I read in a sitting! Please do revert back... Would love to get a reply!
+I like this reader, having tried just about all of the others.  I think this reader is better than all the rest.  There are a few bugs, but they are minor.   One is if you have a lot of ebooks,  then a scan seems to forget about some of them.  Second, there needs a way to flush all of the book info and rebuild it with a new scan.
+For a long time, this app has had a serious issue with the tts function that prevents it from reading epubs properly. I notice that whenever it reaches a word in italics while in a paragraph (for example)  it immediately skips to the next sentence. Some sleuthing reveals that it has something to do with the span tag. When I decompress the epub (zip format) and remove all the span tags from the pages, the problem is magically fixed.
+So whoever is developing this app clearly isn't listening to their consumers. I've waited for a month cause at the time I was just reading old book titles. Now some new books has come out and I wish to read them on this app but they still haven't fixed the SD problem with the Android 6.0 update. I would not recommend downloading if you are using a SD card. 1 star
+I have used Coolreader for literally YEARS! Ive alway absolutely loved it! Not Today I am pissed!! Thru no actions of mine 52 books DISSAPEARED today!! You fuys need to fix this crap!! The dl data for that many books is HUGE!! The cost of tge books & now I have to try & figure out which books are missing what tgey are and ATTEMPT to get them replaced! Which will cost me a HUGE amount of time, data & money!! So f'ed up!! What the hell happened to your app man!?!😖😖 So disappointed & mad right now!!!
+I love this application very much. It is so comfortable to read books with it. The only problem is I can't underline or highlight sentences. I want to take notes and read over again the parts I liked. If there is such feature then I don't know how to do it.  I also dont know how to use the dictionary feature. I read the manual but still didn't find it. Please help.
+Couldn't find any better app. This one is amazing i've been using it for a year now and you can choose the background, fonts and size. Pretty much everything that can make me reading in comfort
+If awesomeness was an app, it would be this. I have been using it for a couple of months now and I didn't see a single ad, the default settings are good so you can start reading directly. It feels like reading from an old hand-written book with yellow pages. Mainly used for A Song of Ice and Fire and the immersion level is sky high
+Love so much about this app. However like most I'm sad that the recent update deleted my favorite background (which is why I never went to the coolreader2). Hoping it gets put back in the mix. Still a lot to appreciate.
+When you turn the page and the faster you turn the more it crashes. I can get through a chapter if I turn the page reallly slowly each turn. A bit ridiculous and annoying making it not so fun to use. That fixed and it would be a great reader.
+It doesn't find my memory card! Why? I started reading books on the phone with Cool Reader, and it was finding it.  The problem started after some cool reader update. And the problem isn't in the card, every other app on the phone does finds it! Please fix this, otherwise the app is fine.
+Everytime I open this it keep on crashing whenever it is loading. Please fix so I can rate this 5. I thought this is the best app, it prove me wrong. So, please fix mine. This is the only app installed in my tab that keeps on crashing when loading.
+Was a time when I used to use only this software for all my books but lately it crashes so often. Can't read any book over 2mb in size and the settings once changed in error are difficult to roll back
+I've used this on my old phone for ages without issue. With my new phone, it randomly crashes and closes, losing whatever progress I have. I'll have to try a hard reset and see if that helps, because it's getting worse and happening frequently. Thankfully I still have my old phone.
+Ask someone to help you design good menu.. this one is just an unfriendly maze. So many clicks to change brightness (app ignores the device's global settings), to check page number or to operate the read-aloud. Plus the read aloud skips chunks of text which makes it pretty unusable. On plus side I love the old paper appearance.
+Love it. Well thought out for reading & customizing. Used a lot on Moto RAZR phones. Love one touch night/day mode & how it remembers the brightness. Can adjust everything to improve the readability to suit own needs - obviously designed by readers for readers. Only criticism; may be difficult for some to understand how to customize. I had major problem one time; end of one ebook caused program to crash repeatedly. Last attempt it froze phone -battery not removable so phone unusable till it drained.
+This is fantastic. One of the best with updates. I'm glad I didn't buy a kindle or similar device.  Bookmark problem however. Seems to store but come back in a few days and last one missing! A bit annoying! Can this be fixed? Is there a limit to how many bookmarks you can have? Pdf reading - when will this be added?  Still waiting for PDF reading ability. This would be awesome!!!
+Waiting for new updates fixing crushes. Can not use it - crushes every 5 minutes. But still hope they gonna fix it and still don't uninstall it. Meanwhile using other reader. Guys come on
+It still crashes occasionally even though I'm now using it on my Nexus 5 with 6.0.1, and sometimes the titles are a bit messed up unless I don't allow the document's internal styling. I'd do that but if I don't allow the document's internal styling, italics disappear. Otherwise, works like a charm.
+So much customization and the best nightmode on any app I have, which is a must-have for reading apps. It allows me to read RTF docs without screwing them up, which is a huge plus. Keep up the good work!
+Actually I love this app. Really love. The only problem is - on my Sony z3c (Android 6.0.1) it recognizes sd card, which is an emulated internal storage. External sd-card remain unseen. As soon this fixed - I'll give 5*
+Bricked my phone. Tried another reader that worked well but didn't liked it. Installed this, turned a few pages and then the phone froze. Nothing respond, can't reboot or turn off. That page has been displayed for 15 hours now and I can't use the phone
+The best reader until Marshmallow. Now it does not read the microSD Card (the card with all my books) hence nothing to read.    edit: switched to the gl version, that one can at least read from microSD card (but has other quirks). Reasonably happy again
+All of the fonts are the same,  i. e. The adjustment simply doesn't work. Disappointing. There are other readers. Also,  in a plain text file it interprets an apostrophe as a question mark,  making the app totally unusable. Of course,  the developer will continue to ignore me.
+Crashes with opening selecting word, zone, dictionary, file etc. Had been tinkering around with how to disable page turn by tap (leaving swipe intact) but motive to reopen app everytime burned out. Looks useful, but is as un-updated as it somewhat looks. Pity.
+Used for several years now it crashes upon attempting to load a book, any book. It opens, all is fine, until I attempt to open a book. When I click on a book in CR it immediately closes and a poopup says ”Sorry but Cool Reader has stopped” Why has my Cool Reader became illiterate?
+It is a great reader but...  The reader now starts up with the Cool Reader manual instead of where you left off in your book when you powered your device down.  This is much more frustrating than the next one.  The brightness for both text and book list goes dim.  Going to Android tools and tapping the brightness slider corrects the problem but you should not have to do that.  Aside from these warts, it's the best reader I've found for Android.  Samsung GT 7.7 (Android 3.2) & Asus Transformer (Android 4.03).  Update 8/6/2015 I believe Cool Reader to be the best, most configurable, ebook reader available and I've evaluated many (but perhaps not all).  Cool Reader has crash problems when paging in Android 5 on my Samsung tablet.  However, there is now a Cool Reader GL which uses Open GL and works flawlessly so far.  Great work Vadim!  Thank you.
+If works well on your device it is a reasonably good reader.  You can customize a lot regarding how it displays -- althouh finding the setting you are looking for can be chellenging.  Unfortunately,  it was crashing every few minutes.
+I like everything about this reader, the page turning, the old page look, fonts, etc. My complaint is it doesn't read DRM, which the majority of my books are. Please add a way to read DRM books to this app and it would then be 5 stars!!!
+I used to like this app.  A LOT.  But no more.  Since it was changed to use full screen I can't easily jump to the menus.  Most of the time a long press jumps me forward 10 pages and I can't easily get back.  I'm reading a book now and all of a sudden I'm 100 pages ahead with no easy way back.
+It doesn't want to remember my settings so I have to reenter it every time I start the app. Please help! Still doing it! Please fix it!
+Love hearing all my Honor Harrington books with this. Speech can be a bit stilted at times abs it gets some words wrong like Dr. is always read "drive".  Only printer is that it can't cope with words in italics,  it stops right before the italic word and shops the rest of the sentence.
+I have a problem with your app. Running the last version of the app from google play on a SM-N9005 Samsung Galaxy Note 3 on stock android 5.0. It won't let me stick on using full screen option and every time I exit the app, reverts back to not full screen (the box in the options is unchecked even after I ticked it before exiting). Also it reverts the font size to 28 and to stock dark theme again every time I exit it. Please help. This happened some time lately with an update. Before it was my favourite.help
+Tried many readers but this offers more choices when it comes to exporting annotations either individually or as a text  file or sending to other apps, eg Evernote.  Great choice therefore for students and scholars. Developer responds promptly and helpfully to emails. Updated: since I left review various updates but sadly random and unpredictable crashes remain, losing all notes and bookmarks made since app was opened.
+Will give 5 once it's fixed. Happens more than 5x/hour. Hang and jump back 50+ pages. Please fix it as I really love this app and don't want to change to other apps. Tried reinstall. Still the same. This happens after the update
+A nice, reader friendly interface. The only problem I faced was that I couldnt read pdf format books ( Technically, it may not be the best format). Integrating pdf as well would surely make it my favourite book reader app.
+Missing the ability to invert colour of images in night mode so they aren't super bright...  and  sometimes there's a bug where the app crashes and losses where I left off, but it's usually pretty easy to find my place as I can remember what I've  read!    It would have five stars if it was actually capable of reading files on my sd card on my Samsung s5. (I have given it my permission!)
+The animation of page turning hasn't been changed for ages. The design of bookshelves is sad. The customization of this app plus Kindle or Play Books design would make an absolutely perfect product. At least add some material design in menus.
+Have been using it since 2011 and there is no other reading app that is as convenient as cool reader is. Just 1 issue regarding deleting the books from library. I can delete only one book at a time and not all at once. Its time consuming and annoying. Fix this and you're good.
+I read a lot of books mainly for entertainment but sometimes for school. I favor this one over Moon Reader's settings. Took some trial and error to figure all the settings out though but still my favorite reading app.
+I recently purchased a new tablet and this reader app in any of its various forms does not allow for opening or reading a book from an SD card.  So load up on internal memory or find a different reader. "Unable to open books in non standard location". SD cards are and have been pretty standard locations for a while guys.
+Works best for me.  Very sophisticated, detailed interface; very intuitive and genuinely useful options.  "Book Shelf", "Last Read", "Storage", "Sources" right up front on a "desktop"; no menus in menus.  Crashes now and then  - not too often - but so do I.
+I downloaded android 6.0.1 and this app can't see my external memory card anymore. I lost all settings and all books gone. Bookmarks, comments, all. 3 years of my reading history and all my favourite pieces gone. And how to trust into ebooks and apps and you dear Cool Readers team? I am sad.
+Lets you read ebooks for free. I enjoy the page color, easier to read in low light environments. Compatible with a good many formats. There are minor issues here and there, a pinch of frustration when not swiping correctly and such. But it is a very solid reader, and it is very free. You could do a lot worse than this in the app store.
+Recently got a new phone and I happily installed this app. Found out that my font style and size change each time I exit. It's very annoying
+I can't change the font from script without it crashing and putting script back on.  What is this? Okay so I fixed the font but nothing ever stays were I put it. Font size keeps shrinking and brightness keeps going back to 2%, and now it crashes every 6 or 7 pages.  And it can't read aloud.  I've never had any of these problems before on my other phone.
+This worked Luke a dream until I got the error message yesterday saying "trying to load book from a non-standard path" and subsequently not opening my books any more (which I hadn't moved). Any fix for this?
+Like it much but i have a problem.. just this night i wanted to add a new book in my library but when i click the book i chose it doesnt open.. ERROR 404 shows up instead. What does it mean? Please help..
+Used to be excellent app, my favorite. Alas time goes on, Google mangles Android and Cool Reader just doesn't follow up. Inability to use external card is a deal breaker. I'll miss you.
+One of the coolest readers indeed. A loooot of customization options, just about everything you can think of. However, there are a couple of issues such as paragraphs disappearing, cover not appearing, table of contents removed, and unexpected shut downs.. The latter which is infrequent, but reoccurs many times when you come across it.
+It used to be my favourite app but now it closes every time and randomly, while I'm reading a book. When I open again, it will take me to a different page than where I was. When I try to search for the page, it doesn't go to it and will crash once again. It's very annoying cause it's happening constantly. The one positive is that it can open all of my ebooks, even the ones that other ereaders can't
+I am using your app for a while now, but recently it started crashing like 5 times in a row.. very upset with that, waiting for a fix. Using galaxy alpha
+CR no longer recognizes that I even have an external SD card.  It will only read the device memory.  I don't keep my books there.  Fix this please.
+Lovely app! Best reader bar none. One thing -really- needed: a word/character replace list for the text to speech. So it won't keep saying weird punctuation symbols out loud like "backwards quote let's get down to brass tacks said Biggles". That backwards quote thing is annoying. Also it pauses speech on line breaks in a text file.
+It generally works fine, but feels somewhat awkward. UI needs some more work overall, like better organizing quite cluttered icons. Rendering is also a little strange sometimes. More background options wouldn't hurt either, e.g. it would be nice to have "dark" and "light" UI bgs without textures, not only black and white; more text background textures would be nice. With those bg opts it looks a bit too archaic for my taste...
+This is great, most of the time. However, quite often, turning a page will make the app vanish, completely. When it's restarted, it goes back to the page you started from, so you have to flip through loads of pages to get back to where you were. This is REALLY annoying! Of course, rapidly flipping through all those pages often makes the whole thing happen, again!  Pity, because this really is an excellent reader, apart from this one, major bug.
+Wouldn't care about the constant crashing if the app didn't reset my book to a random page. Not one reply to any crash reports that have been sent.....and they would be 500 plus by now. Also in the almost a year since I started using this app there has been no update to fix bugs and crashing issues. I have deleted the files the app suggests to prevent crashing only to have it crashes again 10 minutes later! If the crashes didn't occur I would rate this app a 10.
+I love all the user control in this app.  Being able to choose the font color is the greatest!  And the color choice is infinite.  Font size and font style are more limited, but with more than enough variety for this picky reader.  The background choices are amazing; solid colors, patterns.  These are just a few, but VERY important choices not available on any other reader app I've checked out.
+It was my favorite app. However, I stucked with a problem that the app does not see my external SD card. So I cannot read anything from it. Please FIX it!
+I don't understand why it keeps crashing on my phone. It's always fine on my tablet. My tablet is an old version of android and my phone is the latest one. Is it not compatible with the latest version of android?
+I had a different OS before and CR worked perfectly. But when I upgraded my phone that has a lollipop os, it will always crash. Nothing wrong with the interface but the app will randomly close. Please fix. And I wish docx format will be supported too. Thank you!
+Was my favorite reader app until move to Android 6.  Can't see external storage formatted as portable.  Unfortunately that's where the books are.  Would be happy to re-rate when bug is fixed.
+This was my default epub reader for many years (since 2012).     Unfortunately, after my Samsung Galaxy Tab S2 tablet was updated to Android 6.0.1 three days ago, I wasn't able to use Cool Reader any more to open the epub files on my SD card. It seems that Cool Reader 3 simply cannot access files on the SD card in Android 6.0.1.   I tried the other app "Cool Reader GL" offered, but it too cannot open any files from the SD card.    Hopefully, the developer can patch the program so that it can read files off an SD card in Android 6.0.1.   Otherwise, I will need to find an alternate epub reader that can open files on the SD card.
+I love this BUT am constantly having problems with the background going really dark & making it really hard to read. Not sure if anyone else has had this problem but nothing i have tried seems to work.
+..At all. It was good app before all those updates. Now I can't open a book without crushing the app and reopen it several times. I would be happy if it wasn't so laggy.
+-Newest update.    Crashes and loses current book more than in any version of last 4 years                                            The only reading app i use... And i read many hours a week
+Reduced trom 5 to 2 stars. Still a great app but cannot get books stored on sd card. Any chance of sorting this out as,other than that, it is a really great app
+very excellent application. The ancient Froyo tablet I favor for ebooks can only use an old version, but the cold version is plenty cool enough.   QUESTON:  There's no icon. App mgr can't see it, it's not on all apps, no ghost icon either, no little android guy.  I launch it  from the old anttek app mgr pro because no other app can see it (the reason shortcut apps don't work). It doesn't even show in notifications.   Is there a way to manually add a shortcut by moving files  or maybe decompressing the apk?   THANKS!!
+Why I get this text when trying to download books from online catalog ?? Otherwise it's best reader on google play store, but for now it's of no use
+I loved how the complete setting for the app so we can change it whatever we want. But it's so annoying when the app keep crashing and force closed in the middle of my reading. Please fix it immediately
+Gets the job done. The customizations options are wonderful. I had trouble finding my way back to the library menu sometimes. But overall highly recommended.
+It's not bad. Unfortunately, there are a few problems that make this very irritating to use. First, the app will not load from--or even recognize--an external SD card. So I have to store anything I want to read on my device's limited internal storage. Second, the formatting for paragraph breaks is messed up in a lot of different file types, making everything one long wall of text. Finally, the app doesn't load any images that a file might have in it, so anything that has maps or bonus art can't be fully enjoyed.
+I lost my place in my book and cc decided to start again but the drop down arrow whilst in the book has disappeared so I can't skip to pages or even read out loud anymore. Help or fix
+I do love this app, but last few updates haven't really been helpful. And lack of  being able to read from SD card and portable usb dongles. Been very frustrating 4 weeks. I need to read my bloody files. I use .mobi, and epub and older files .pbd files are unread. Sadly this program no longer deals with .rb files. I've had these from the early days of e books. Before releasing any new versions this e reader, test the app fully before releasing.
+Using it to read Chinese books but sometimes certain paragraph will turn out to be gibberish where other e-readers decodes it perfectly. Hope you can find the problem. Hate to abandon this great app. Been using it for years.
+Perfect app for various book formats including chm.  But one thing which i also expect from cool reader is to read out PDF files also..(rather i would give it 5 ⭐  I hope u will settle down this in upcoming updates..  Thanks.
+No PDF support, the first de facto ebook standard ! :( It skips entire sentences during TTS. The controls need to disappear during TTS so that the text is given max screen real estate. It needs to allow TTS pronunciation correction like @Voice TTS plugin from Hyperionics, especially the Regex option. I will come back to it occasionally to check on developments. One last thing - it needs to allow Share... from any app especially browsers and store web page URLs in the library.
+I have used this app for months now,  easily my favorite reader. Never had any issues except for maybe a crash here and there. Please fix...
+I love this reader but now I am having issues with the night mode text and I can't see it.  Instead of the yellow I am used to it is now grey and hard to read
+... When updating to a new version, can we keep the old prefs? Having to setup my own personal preferences for screen layout every time the app is updated is a bit of a pain... Still love it though. x
+Still think this is great but there's a problematic bug that appears regularly, after finishing a book the option to browse the file system isn't there and as the search option doesn't seem to search files in the device it can be impossible to open another book
+It was my only reader app till recently. It outperformed all others until I placed a 128gb sd card in the phone and it cannot access it, so I had to uninstall the app. What a shame.
+I've had this app on 4 different smartphones now, and I can't imagine not having it! My one and only complaint is the lack of synchronization abilities across multiple devices. Add this feature to one of the donation packages, and you have a buyer right here :D
+Started off well enough, but now it doesn't see my memory card which contains my books. Other apps have no problem seeing and accessing this card. Pity....
+Indexing too convoluted. Who has their collection titles memorized? I want to browse the shelves. Wanted to love it, cause looks nj ice, but uninstalled.
+Keeps dumping me back to the launcher & losing reading progress on an ASUS ZenPad 10, Android 5.0.2. App has been great for me in the past, but is too unreliable right now. Fingers crossed that it is just a temporary bug, or x86 issue that can be resolved.
+On my Kindle Fire, the Kindle reader read my PRC books fine. This app gives a message saying, "Error Reading File." My books appear and seem to be recognized, but they just don't open.
+I don't know if it's only me but since I updated my phone system the reader cannot recognize my files the titles worked fine but the content are just a bunch of question marks. Was a great app previously, please help thanks
+I like the read aloud function, but unfortunately it does sometimes completely skip a line or more of text. Has difficult finding books from my micro sd card where others seem to manage just fine.
+Favorite reader for years, now it has a glitch. A few minutes into use it goes blank, screen says "unfortunately Cool Reader has stopped" uninstalled, reinstalled, still does it. I'll try again, for now, using Aldiko.
+Love this app strong versital in a compact size. Reads most formats and saves your place as well. Even among several books. Would give it five stars but it has a tendancy to crash after 15-20 pages on my lg Vista when changing the page,  its an annoyance that is quite frustrating. Ootherwise fix that and I will give 5*.
+Awesome app, and I would rate five, except for the small issue of the audio skipping portions of the story when it reaches an italicised word. 😎 Update to fix? Pretty please? Promise to re-rate 5 if you do.
+Recently bought a new phone with Android Marshmallow - Cool Reader does not see books on SD card and I cannot navigate to them. When I click on a .fb2 file using explorer it does not open with Cool Reader either.
+A little bit more with pdf documents like resizing text to fit screen (for phones) and it would be the perfect app.
+I love this app, it is the best of the kind! Unfortunately it doesn't work well on Android 6, i cannot open files from SD on my new phone... Looking forward to getting an improved version soon!
+I'm using it all the time - the backgrounds and font rendering and myriad of options are the best out there. I only wish for shortcut for font enlarging and possibility of custom backgrounds and font! Is this possible?
+Love the app but after updating my Note 4 to Android 6 it no longer reads my external sd card where my library is stored. That needs to be fixed
+Now with my new phone and tab , it cannot read sd card. Keeps crashing too. No idea why. Worked like a dream when using with my old phone.
+No longer allows me to search for books on my micro SD. Shame... used to be my favorite reader.
+Only bookmark is present, and it's not straightforward. Can you put an option to just select and highlight the selection?
+Love the UI. Easy to use but i dont know why,for some books,this app keeps crashing and suddenly stops when i reach certain page. I m in the middle updating the apps.i hope it will solve the problem
+Use it all the time. Function keys are where you naturally want them to be. My only gripe is the difficulty on getting the font and background colors just right. I was toying with changing the night mode colors and completely lost the white font. Couldn't figure out how to get it back. A "reset to default settings" would've been so clutch. Had to uninstall and manually delete the settings folder.
+I absolutely LOVE this app. The best I've tried out of several. The only complaint I would have, and the only reason I didn't give 5 stars, is that when I edit the book tags (title, author, series, book #), it doesn't save after the app closes. :(
+Option rich, faster than anything else, easier to use. I can set font size, color, background color, scroll mode, choose your background, every option I can think is needed is there.
+Even though this was a great app to use for my first book, it doesn't open any other PDFs that I'd like to view. This is frustrating because the book was in PDF format which worked great.    Please fix your application
+I love this app but recently when I'm reading the app closes on it's own It's really irritating because it doesn't even save my place so when it closes and I start it up I have to find my place again. The app is really great I would rate 5 star if this problem wasn't there
+Best reader I've come across with. Even compared to other readers. Just hope they can invade PDF formats.
+when I first downloaded worked fine now it shuts down and takes forever to load if it even decides to load... thanks for fixing crash problem  I love it again
+Customization makes this app. At first I'm thinking it's decent, gets the job done, good enough. After tinkering with the settings I'm now using a completely new reader (scrolling, larger font, night mode, etc). Perfect for me now.
+I use it for book in rtf. It crashes from time to time what leads to wrong position in the text after the restart. Wrongly displays upper and lower index font text: doesn't return to normal font size so sometimes many pages are displayed in small font. Also doesn't separate short lines (so they are concatenated without any space between) and doesn't recognize some headers. It doesn't use fonts selected in preferences, and changes brightness just before you change page (no adaptive strategy of lowering brightness). No way to connect to the dictionary. Very complicated settings interface and of course no help/documentation.
+My phone doesn't have file format or sd card so I tried to download my books from gutenberg via the app and I  am only offered a handful of popular or recent books and no ability to search gutenberg.
+This used to be the best reader for Android until you upgrade to Lollipop or newer OS.  NOW IT CAN'T FIND ALL MY BOOKS ON MY SD CARD!!  This is definitely an oversite by the development team.  I started looking at other readers and found several to be equal and better than Cool Reader!   Will not switch back since your team cannot keep up with technology!
+Love the readers versatility and integration with a dictionary. One bad thing: Newest android crashed my SD card accessibility, please fix soon.
+This is the absolute king of all readers for android. Love the small size and fast loading. Works like a dream on all my devices. I really like the "read aloud" feature and use it to listen to books while driving.
+Crashes all the time, then opens up 2 chapters back. Touching the screen accidentally flips between chapters. Total crap.
+Crashes ALL THE DAMN TIME just reading TXTs. I mean what the... Not to mention having to disable text autoformat because it displays like 3 sentences per page, of which most are stylized as titles..
+I simply have never used any other reader that suits me as well.  I love how you can set the controls to be used with either hand (I sure wish my Kindle would allow one-handed operation with the left!), and how easy it is to switch the theme from day to night and back again, or just to change the brightness with a slide of a finger.  It's ready to use as soon as installed, but it provides an amazing number of preferences to customize.
+I love the night mode. I only wish it could read djvu
+But you need to fix the external sd card issue on Marshmallow. I don't want to keep my books on the internal memory.
+I've been using it since Win mobile 6 and see no reason for any one else. For some purposes used to try 2 or 3 other readers, and found that Cool reader is really cool)) many thanks for Vadim!
+Hi Vadim, latest build format saves on lollipop - upon restart format bar placement and font size get reset.
+It is still my absolutely favourite reader, though for some reason it fails to save my font size settings. Every time I exit the app and open it again the font jumps to the tiny 33 :(
+Very nice book reader. I miss the look of the library. I am upset that the application is constantly returns to the phone's directory.
+on a Samsung J-7 every three or four pages the app crashes. Worked marvelously on an S-3, but on newer platforms its instability render it unusable.
+Fast reader which lets you customize just about everything. Because of the option for 2-page horizontal layout, it has even replaced FBteader as my favourite lightweight reader. A must have for geeks.
+This has been a great reader, but it never saves the setting such as brightness and font size. Every time I leave the app and go back in it has reset back to original settings
+Best UI and features of all other apps. Been suffering over 10 months with crashes every half hour and loosing book position. Today did a factory reset on tablet and installed ONLY this app. 3 crashes in first 15 minutes. Google Play says last update June 2015 - over a year ago. Last year filed ticket on Source Forge but developer never responded. Moving on to #2 reader, FBReader. What a shame.
+Downloaded this app after google play books started acting funky, so much faster to down load books, the screen rotation is bad but I can live with that.
+Great reader for the file format options,  but crashes LOTS.   When you start it back up you've usually lost your page and need to search it out.
+I read laying down. The screen constantly rotates. I've turned that option of on my tablet but this app overwrites that and rotates the screen anyway. It should stick with the system settings.
+This is the only ePub reader that can render a book properly while maintaining publisher stylesheet. It is vastly useful for reading technical books that contain source code. I only wish the UI were more modren.
+Unfortunately, I can't see my SD card after update to Android 6. Is this an issue in the app? (or maybe some system glitch)
+Best reader ever!!!! But can you please make the icon more cooler? And can you please include a library like the ones from UB reader?? Oh and being able to change the background color for home menu would make it more cooler than ever! Thanks :)
+For no apparent reason and at random times it shuts down and as it does not keep the last location you are at you have to start from your last saved bookmark.
+I used to love this apps UI but in the new update, the app isn't able to detect or read my External SD card any longer
+Repeated crashes have me looking for an alternative. App randomly and frequently closes and loses my place. I have to remember to bookmark every chapter in order to cut down on scrolling to get back to where I was.
+I've been using this app for a few weeks now and everything was great up until today where suddenly night mode makes everything far too dim. Please rectify, I chose this app over others because of the night mode.
+Hasn't been updated in three years, and can't access the current filesystem to find books, rendering it virtually inoperable. Gutenberg online access is pretty limited, too.
+some text (maybe 1%) shows in rubbish while other reader can display the correct text.
+Used and enjoyed this app for years.  After updating the phone to Android 6 the app cannot see SD card anymore. Any suggestions will be greatly appreciated.
+i used to love this app but now it crashes every time i try to use the dictionary feature.  when it crashes it loses my page. please fix this.
+Title says it all. I love it. I use it every night to read to help me sleep. Update: After upgrading to Android 6 (Marshmallow), Cool Reader fails to load epub files from external SD card.
+More Gaggle crap. It could read everything but my books. What are the long-nosed snoops doing, reading everyone's information? Uninstalled.
+I love this app, but only one problem though still crashes sometimes i hope u could fix that
+This ereading app can't access the external SD card. Any books you want to read will need to be kept in the internal storage. Very disappointing.
+My favorite reading app, but I'm about to uninstall it, because it's  crashing in the middle of books. You really, really need to fix whatever is  causing this.
+Looks like an iPhone app submission that was rejected by Steve Jobs and Scott Forstall in 2009. Very unappealing home library screen, saw no easy way to change background, would hate to see it when switching books. Never got to use it to read anything.
+Cannot for the life of me figure out how to get a text or html file of a book on the Web into Cool Reader. When I open CR, it just shows 2 file folders; one for my SD card, and the other for files but the book text I want to see in it is on the Web at a free ebook site, not on my device. On the Web, there is no "download" function for the text or html. If I click either, it just presents the book content in either text or html format. How do I get it from the Web to my device and then into Cool Reader?
+This is a great reader, between this and allreader, but cool reader its nice how the set up and buttons are when running read aloud voice reading....minuses: it doesn't read .mobi
+it is realy nice, I loved it . it is  top  candidate reader  to be my favorite but setting the page tapping etc it is little complicated for  me, (For ex.  I couldn't manage to highlight a word to check the meaning in  the dictionary and i coulnt manage find the shortcuts  to set font size etc in one tap, i had to go to menu for each action  everytime). Maybe it was my bad, but it should easy for anybody, it is little complicated, As an opinion ,maybe there should be an easy user menu.
+Love this app. Have been using it for a couple of years. It cannot access the SD card if you have Android 6, which is a bit inconvenient. It looks like the dev is no longer working on the app, which is a real pity.
+This is not THE best reader out there, but it does have the most versatility of all the ones I have seen, and this makes it ONE of the best overall. All for the low low price of.....free. thanks for creating this for us.
+Program instantly crash on galaxy S 6.I need to reopen program around 15 times to open it.
+After latest update encoding problem with Lollipop Samsung Note2 still persist. No suitable fonts for Chinese characters.
+This was great until it was no longer able to "see" the external SD (physical card) on my Note 4 running 6.0.1.
+Quit working with latest Android release.   Can no longer access the external SD card, where my books are.   Useless how.
+This is a very good reader. But contrary to others, mine often crashes after the last update. Please fix.
+Been using this for a year now, compare to Gplaybooks, this app still works even the screen is off or ur doing other things on ur phone. I don't read sometimes, I always use read aloud. Love the app ♡♡♡
+Useless. Cannot access external SD card from internal browser. Also can't seem to open files put to it from a separate file browser either. Uninstalled.
+Its stupid dont let me log in to it says cool reader has stopped
+Then it would open up with a different format. The one installed. Then I would have to reformat it to my liking again. After the THIRD X😭 I uninstalled it. Work out the bugs people!! This app can be better than Aldiko or Moonreader if you do. All of which I use by the way. Until then, its two or less stars in my book.
+Its an excellent app. But the last update breaks on my phone. Please fix it!
+This is my favorite reading app by far. I like the day/night ability, I love that I can swipe up/down on the left of the screen to modify back light settings. I love that you can customize the actions for the touch the screen.  I adore that there are no ads. I prefer the old parchment background that is available.  I've tried many other ereader apps but this one is hands down my favorite for my phone.
+Used to love this app. Now it is worthless. Does not discover my SD card.
+I'm re-downloading to new phone. I love this ap. Used for years. The public domain stuff is free, and im finally reading all the classics like Lady Chaterly's Lover and Fanny Hill! LOL! Seriously, awesome app! Actually read a bunch of classic science fiction, and a few classic novels. Finally read Huckleberry Finn.
+A couple issues: 1) the read-aloud feature will occasionally skip one or more sentences. 2) on my ASUS tablet, the app does not respect when the auto-rotate setting is off (which should keep it in either landscape or portrait mode).
+Понимаю, что смысла писать нет, так как разработчик это, видимо, не читает. Но все же - как предостережение пользователям. На телефоне с Android marshmallow приложение перестало показывать карту памяти (при том, что карта была перенесена из старого телефона, где читалка её видела прекрасно). Пляски с бубном ни к чему не привели. Эта функция не работает на всех вариантах Cool Reader. С сожалением перехожу на другую читалку.
+Hands down the best reader out there. Logical interface and user friendly navigation through the features make it a spear longer than other more glossy reading apps. I use it pretty much everyday for almost 2 years now without any significant number of crashes.
+a very coool reader! way way better than the other readers I installed . thankyou for this app I can now read my reviewers and ebooks :)
+Doesn't work from a long time. I can't open not even its own manual. The best alternative remain AlReader by Alan.Neverland.
+For small file size application, this is very revolutionary!
+Really a complete reader and even better then pro-readers available online for a price. It has all the options you can imagine to customize it to your preferences. It is just like VLC Player for Pcs. It has finished all the players available on the scene. I'm sure that Cool Reader too will do the same.
+I use this app daily and love it. I look forward to trying the new "GL" version although it's hard to see how this one could be improved. Thanks for a great FREE app.
+I've been using this for years. There never was a problem until just recently. I really would love it if it would stop crashing. Thanks.
+I love cool reader. Used it on 2 previous phones. Got new phone and cool reader wont access my sd card which has all my books. Please fix and will rate 5 stars.
+I couldn't find a way to get access to anything on my memory card where all my books are. Can you help please? Before the update I would have given a 5 star rating but now I have access to nothing I'm afraid it's a 1. Sorry
+Version 3.1.2.84 didn't work at all on my Lenovo Yoga 2-8. 2 days later:  Looks like all got fixed in version 104.  Good boy Vadim, that was a quick response. Otherwise an excellent application. Reads all my old book formats without having to convert. Thanks!
+Great e-book reader. But the latest version crashes every 5-10 minutes!!
+I don't know on how many years I've been using this but its wortht to give praise than nothing. Its really worth it using this since I've converted a lot light novels into ebooks to read them.
+The file browsing system SUCKS now. It has been changed so its stuck on emulated, with no way to go back and access my SD card.
+I love this app, but since I got a device with Android 6.x, the app no longer will look for books on my microSD card. I used to be able to store books on and read them from the SD card's books Directory and now I cannot. Please fix this ASAP. Phone is a Samsung Galaxy On5.
+T'anks 2 Vadim Lopatin 4 easiest, most user-friendly & stylish doc, rtf, & txt reader [not editor] I've come across-n-15 yrs on web.  Has convenient quick tab 2 scroll thru long list while a file itself is presented pg by pg from either swipe right/left or tap on either side of screen, n jump or go back 10 pgs by pressing & holding down on touch screen which suffices most x's 4 my own purposes when I just need  to read sumth'in. Mahajo.
+Crap, cannot even find real SD card, only able open emulator card 0. Trash.
+Updating my review. Could there be any settings for Read Aloud feature? Cause the automatic voice doesn't understand formatting and skips not only words in cursive, bold, etc., but also the whole sentence after it.
+Keeps occasionally crashing. Sometimes I tap to turn the page and the whole thing shuts down,  not saving any of my reading process.  Pretty annoying.
+It crashes when tilting android phone to read in landscape or portrait.  Last crash wiped clean the books file from my sd download directory also.
+I like this app, but it terminates on Lollipop every few pages and looses page number it was before termination, almost unusable. Samsung Galaxy 10.1 2014 edition.
+Been using this for a couple of years, tried many others and nothing comes close if you want a high quality, fully customisable reader that does all book formats without any unnecessary bloat.
+The app is great but please disable the auto rotation feature as sometimes it is difficult to read and the device in which you are reading the book already has its built in auto rotation feature.
+Works very well. Like the read out loud function. Could do with a better voice however.
+Download my digital books that I have on my SD card it didn't show it when I punched the SD card on the menu and it wouldn't let me go back to the very beginning so I could slip my own if I can't get to my books isn't any good to me
+The app was great but now it crushes and it loses the reading progress which is really bad. Please fix it otherwise I'll delete it forever.
+I could not use it to read my pdf , doc, and any other time of books , I have the new tab s2 Samsung
+Can't navigate to my SD card. What is wrong with these programs that they don't look for the SD card. Hear this one has a menu with an icon that says SD card and you tap it and nothing happens. Instead you get the internal storage rather than the SD card. This is like the 15th program I've tried to use. Get the basics right guys or we don't keep your programs and eventually pay you something.
+I can't seem to find a way to read books from my external sd card (which is where I like to store them) and it crashes fairly regularly.
+I hate this app it is confusing and I have absolutely no idea how to use it the manual is no help at all
+Every time i try to read a book, after awhile it crashed and then force close by itself. What happen ?
+Could B a really GREAT App but has problems: glitches & hangups, timeout conflicts, etc NOT snuff to stop using it tho
+No other ebook reader compares. I find this one so comfortable with a better layout than most but now that I've updated my ph it won't read my external memory card!!!
+I've been using this reader for a couple years and it recently started crashing after an update. It freezes or closes without warning. Frustrating.
+CoolReader crashes few times a week. All books dissappear,  present book starts from 1st page. So annoying!  Need to look for another reader.
+Does not work properly. Sometimes it opens books for infinite time. And often it quits on page turning. There are better apps.
+It was really good way back, yet now it opens nothing from SD, gives a lot of errors, and simply does not works.
+Good features but controls and operations seem convoluted, obscure and repetitive. Too hard to just read a set of books.
+Love the app a lot. I am a huge fan of classics and this app gives that feeling of reading an old favourite. It's so simple and user friendly, been using it for a while now.. Thank you!!
+I downloaded this to open chm files as described in app info but there's a serious problem with the formatting that missed the file seriously it's very bad however I haven't tried it for anything else yet it doesn't even deserve the one star.
+Have been using it for more than a year.  really good and many custom options are available.  Would recommend to all readers
+It opens the file but doesn't display anything. Then it crashes.
+Very easy to use, all the extra books are a bonus, didn't feel lost as all the icons are on display adapting the package to suit yourself is no problem like it better than Moon reader!!
+The best out there, largest file type support and plenty of options for customizing your reading experience and no ads. Could use a UI overhaul to match the modern android.
+Kept skipping around the chapter,  dimming or brightening the page instead of scrolling. Lost my spot several times. worst ereader
+Used this app for about a year. Start to crash in previous update. After last update still crashes. Less then before but too often. Forced to move to another app.
+Couldn't use it. As soon as I downloaded it and started it my lighting went so low I see anything. Uninstall asap
+It gives 'error while loading document ' when loading PDB files ... I don't think it is capable of opening Palm OS PDB  files as claimed in the promo ..
+Does not work with marshmallow on Tab S or Note 4. As it cannot read epubs on the SD card.  Otherwise great
+Errors 404  500 won't download books in 2.1 where fbreader wont even install.  Use spicysquid EbookReader.  Works well 2.2.
+Would be 5 star except it will not access books on sd card in android 6. Have it on older os's and it is the best ever. Please fix.
+So much functionality makes this app really great. I enjoy reading with this app- can't say the same about any other app I've tried.
+I have had this for 3 years and now it wont stop crashing. I uninstall and re install it every week. This will be the last time I install it.
+Horrible app, they ignoring system settings, crash 20 time per day, and don't save place where I read last time.
+Crashes a couple of times per hour of reading on average. Them have to open again and find page I was on.
+This app is excellent but I hope it could read .azw and .azw3 file
+Doesn't support PDF format. A great many books you read are in PDF and hence I find it restrictive.
+No updates anymore, which is no real problem except that i keep getting kicked out and it doesnt remember where i was. Abandonware.
+For last two years keeps crashing unpredictably. And my Samsung Galaxy Nexus is no longer supported?
+I think I must have tried every e-book reader out there as I have many many books in many many formats n this reader has been able to read them all, thanks to the dev's for an awesome app
+Not see SD card on note 8. Also if you try to open the book from file manager it not work.
+Does not save my settings - eg always changes my brightness. Prefer to have it permanently in portrait mode, but half of the time - even when I change both settings on phone and the ap - it stays on "sensor" mode
+I've only tried out a few readers and there's no reason to try out anymore.  Cool Reader is the bomb!
+Its one of the best eBook reader, but only glitch is that it cant read books from external memory card. Please do something about it.
+No  PDF support and quite unsable for me.  It seems you can not freely browse filesystem while searching for ebooks. No PDF support on top of that.
+This is just an excellent app. Many options, way better than any stock reader. Kudos to the Dev for this one. Highly recommended.  The dark option is great, nice background, warm aesthetic appeal.
+Night reading mode still hurts your eyes because it is not complete pure black like other apps
+This used to be my fav reader, tho now a lot of the old features I loved doesn't work, and just :( PLZ FIX, I TRIED SO HARD TO MAKE IT WORK
+It's a good app, but it's auto rotating it self. Then i check setting on my phone, but I already turn off auto rotate. Please fix these, i'll give 5 star for comfy read
+Can't use app because it has no way to browse to an external SD card. Also it doesn't respect the phone's orientation setting, what's up with that?
+I started to use it about 5-6 years ago, it was version for Windows, now all my phone's and tabled have it. The Hank you a lot for the great job and support!
+Loving it. There is so many details you can customize, making it a fine tuned reading app. I use it with a Samsung phone s4 and tablet s2 9.7 and works great so far. Thanks for the app!
+I used to love this eReader, but I keep all of my eBooks on my MicroSD Card so as not to use primary phone storage, but now all of a sudden I can't access my books...
+Every time I restart the app, my bookmark history is erased, which isn't fun.
+I pressed the word for look up and it took me to a different random page every time.
+I'm using this app for a few years. After trying other readers I can say this one is the best. I will appreciate if it would work also with PDF files. That would be great.
+Have used this app for many years. It was the best. But since Marshmellow it can't find my external sdcard. I'm hoping it can be fixed.
+Hangs a lot. Hard to use interface. Text can not be selected easily. Dictionary does not work.
+This is my fave reader but keeps crashing pls fix it  so I dont have to change my prefered app for reading
+...until my device updated to marshmallow. Now it does not read files on my sd card.  Please fix this!
+works great other than android 7 issue" cannot find path" to books on sd card
+But I'm having trouble getting it to open rtf mode books. Says error
+Kept crashing whenever I tried to open an epub that I have opened in other readers
+Why you can not support Vietnamese language! Pls try more!
+Useless, didn't find my SD card properly on my Samsung Galaxy Tabs S with Android 6..
+Does everything an ebook reader should; packaged neatly and full of customization options to get it just right for your ease of use. Particularly like the implentation of night reading mode.
+This was a great app but since I updated my operating system I can no longer access books on my memory card.
+excellent job, sir.  best e-reader there is.  works great on kitkat, lenovo 13.3" tablet.
+The eBook reader is perfectly awesome. I use it everyday and it ensures that I am well fed. Can you please make the icon more flatter? That'll be great then.
+Cannot access SD Card on Samsung Galaxy S5 anymore.  This used to be the best reader, but newer versions do not allow SD card access.  As internal space is limited this is a dealbreaker.
+Crushes, bags, stopped reading book at 25% because it can't turn page!
+Since updating my S4 to marshmallow I cannot reached the SD card, which is where my books are stored. 'Browse file system' no longer shows SD card.
+Thanks for the awesome app. Read all my ebooks on here. No problems so far. Please build in PDF support so that I can read my PDF books on here as well. Thank you
+It was my favorite reading app on my old phone, but on this version the font setting won't stick so I have to keep changing the font size for every session. :/
+Hope Vadim won't give up that project. There are only few competitors worth mentioning in Google store and it's a pleasure to see oss app that really rocks!
+Yesterday's update killed the program on my LG G4, app won't open at all
+I really love your app, but I think it would be better if the tts has a sleep timer on it. I usually fall asleep listening to my books.
+Cool reader but search feature sucks. Impossible to add to library from sd card
+Since last update to Marshmallow, it would not see SD card or Dropbox/Google drive/One drive.  Can you fix it?
+Why it can't read my books from external storage? It happened after I updated my  phone system. Thank you
+Nice app. But It keeps crashing fix it plz
+It is cool but please can you include an edit bookmark function so I can add my own titles to bookmarks.  I would give five stars for this.  Thank you.
+Ever since the Android OS update it doesn't see my memory card where I keep my library.  I hope that gets fixed.
+Was 5 star app,  but after latest updates there is a slowdown at start when phone has no/poor internet
+I like the reader a lot, but it crashes a bit too often.
+It automatically jumps to 10 pages when screen it touched for few seconds. Developers pls help me with this. Other than this cool reader deserves a 5 star.
+Compatible on many format in such a small size! It has so many options so you can customize your viewing. Cool! :)
+Surprised how readable are EPUB books in this reader. Would like if it support PDF. Its not just viewer. It reformat pages for easy readability and allows nice clickable Index of the chapters. Great reader.
+Very useful reading epub books. I am using this app for two years to read nearly 100 full sized books. Thanks to the app-producers for providing free of cost.  IPS
+Refuses to open doc format! That makes it close to useless for me.
+App does not keep settings between sessions. I will close it, go back to it and the default background, font, etc are there.
+please update so can use for android 6. really awesome app and i don't want to use another reader
+Tiene un montón de opciones es para la lectura. Es super dinámico. No pesa nada cualquier dispositivo podría correrla no tiene nada que envidiar a su competencia que pesa hasta 10 veces más.
+Nie da sie opisac innym slowem jak cudo. Po prostu czysta miodność.  A jesli ktos ma krzaczki w miejscu polskich znaków to polecam wejsc w opcje i zmienic czcionke.
+Does not work, I can't access any of my books. Uninstall
+Not working for Android 6.0 for Samsung S5. Not able to access external SD card.
+It would be very nice, but it forgets last opened page and restarts book from the first page from time to time. I reinstalled  reader, but it didn't help. I have android 6 on my phone
+Wow...after many other installations I got it...It made me read books in Hindi language.....but the user interface need to be more fairer
+Love this app. Nothing fancy just bare bones without ads. Great book reader
+The app is very nice,been using this for half a year. But i wish i could view my books just like a library. It looks cleaner to me.
+A legjobb ingyenes ebook olvasó app, habár vannak hiányoságai. Örülnék, ha lehetne a könyvek szinopszisát olvasni, ha lehet személyre szabottan létrehozni 'polcokat' és ha lenne benne valami goodreads összecsatlakoztatási lehetőség.
+Works great on note 8. Hoping for more realistic page turning options in the near future. Great app. And best background for a book app I've seen so far.
+Great app but please fix screen rotation bug. Its not following the global settings.
+Does not access the SD Card where all my books are located. They need to  fix this to make it useful.
+It may crash few times a week, but it is best reader I've ever seen.
+Very nice app.but in marshmallow it can't acess the books on external storage(memory card) would you please refine this issue?
+no found my sd card pdf what joke waste time
+The app cannot access the external card, where all my books are stored. Uninstalling until corrected
+Latest 6.0.1 updated and have lost access to ext SD card. PLSE investigate
+It does not Read books on your phone especially if they are in pdf format!!!! I hate it 👿👿👿
+Best practical book reader ever, can read Kindle format files among other formats. Small no nonsense app. I love it.
+Way better than kindle or kobo.  It does sooo much more than any other app out there.
+This would be 5 stars except that with my new tablet, I can't get it to even see the SD Card that all my books are on.
+Good app and with some options to personalize the view. Like it the option to display to page at the same time. Please improve the page transition animation(more realistic) .
+Been using for years, can't access sd card now, please update it's almost 2 years without update, gonna use moon+ reader pro now
+Unlike other application it supports PRC file thus enable you to read Kindle content.
+When I search 'epub reader' this app is nowhere to be seen .. Google play shows other apps with much lower rating ..
+Phone updated system and now I can not get it to recognize the files on my SD card to read
+Harmadszor cserélek mobilt és harmadszor választom ezt a progit újra.Elégedett vagyok vele. Updt.: Negyedszerre is.
+Only app I use for reading.  Been using it for years.  Can open pretty much any format I have without having to convert it.
+Everything is great. The only issue: it pretty often opens previous book instead of current one.
+In my opinion the best epub reader on android. Works flawlessly and looks great.
+can no longer access the books i have on my SD card. no option to switch directories. using marshmallow on galaxy s5
+Please fix this, and I would give 5 stars
+Selection of text in the ebook doesn't work.
+This is a very cool and smooth app to read epub for sure. I am satisfied. But i can't read bengali with it. How can i read bengali epub by it? Please help me out.
+It don't work in android ver.6 platform
+Horrible consent let you find anything
+Does'nt access SD card. Useless. Uninstalled.
+Although the app is very good, it crashes way too much for it to be prefered over other e reader
+Just one issue regarding the dictionary plug in .. Maybe It would be exceptional to have a dictionary within the app
+Almost perfect, the only thing it's missing is PDF support, which is what I use for most books I read.
+Cant use the internal file browser to view books on the sd card. Wish they would fix this bug
+Please allow the text-to-speech feature to read words printed in italics, thanks for a great app!
+Simple. Practical. Just about the required features. The page background is the icing on the cake. Keep up the great work and thank you.
+Perfect book reader with support golden dictionary. Amazing experience. BUT if dictionary open in popup style than it would be more better.
+Great reading app that is loaded with features, Worked perfectly on my Galaxy S5! I recommend it to all of my friends.
+I couldn't figure out how to make it read an e-book in the microsd card. So I uninstalled it.
+I wish it had a "file association" feature so that it launches automatically when you tap on the fb2 file you want to open in MyFiles browser
+One of the best reader I have ever used! This app is the reason that I prefer epub over pdf now! 😉
+This is the best app ever. I have read very much books on it but it will be very good to add *.pdf.
+Absolutely love this app use it every night so easy and user friendly and remembers every book where i left off 5 stars
+Won't allow me to read files from external device, and it doesn't support characters with accents (vietnamese)
+Its excellent! Cool like its name.. Superb interface... good antique background... infinite controls.. Long live developers . .....
+It would be really great if the headphone hook button could pause and play tts read back.
+Best reader out there! You can set the color , font,  word size, and make it  read to you.
+There still a lots to improve and lots to change but still the best so far. :"&gt;
+Current version could not access files on the SD card, not useful
+Best e-book reader I've used so far. I wish there was a sound when flipping pages though.
+Used to be okay, but this app can't read external uSD card somehow in Android 7.1.
+This app is very good you don't need to ask question the app is easy to use
+Nice app, but am not able to use hindi unicode epub, please work on it
+I have been using this app for ages now to read books on my phone. It is very easy to use.
+Can't open an Epub from my external storage card.
+Works perfectly and always reliable , no crash   experienced. Good job dev.
+Cannot read file from SD card anymore since upgrade to android marshmallow,please fix this problem
+New update removed the settings bar at the top and made the font giant size. How do I fix this?
+It can not download books, you write  a title of a book but it doesn't search.
+After mashmallow update on galaxy s5 doesn't access external sd card.
+Cannot fix rotation.
+This app helps me with my homschooling and I can read when ever I want a 5 star rating for me :)))))
+Can not access to SD card on Android 6 or higher (damn new google secure policy)...
+Has all the functionality I want and a nice file/book selection program.
+Why is PDF not included? Can you please include PDF?
+I use this app and only this app for all the reading I do on my phone. Recommend this to everyone looking for a reader app.
+Don't work pdf  to voice...
+Brighrness not adjustible after opened the reader. Too bright to read in the darkness.
+Very Well Tought Out And Exected Program. Had To Provide A Humble Donation...
+Can you fix it? Add custom directory or something
+I just downloaded this app but can't download books! Give some instructions
+You should be able to put a sound when turning a page, like in Moon+ Reader app.
+With this reader every single thing is customizable ! Wow !! Just a perfect app for book lovers.
+Can not open extsdcard, can not change charset
+Awesome App! But doesn't support Pdf
+I like it so much !! It's the most comfortable reader I've ever used. Thank you a lot !!
+My favorite app for reading, very comfortable to use, a lot of flexibility, great customization on look and control.
+Won't install on SD card and crashes on launch.
+Love the layout and the fact that it can open several types of files.
+No longer works on lollipop or marshmallow and no reply from developer
+Can you guys download my app nonstuff chatmap
+Why I cannot delete a book after some update?
+Cannot read files on SD card
+Using it for months. Has a lot of options for customization... Good gesture control... brightness control with flick ... Dictionary integrations... awesome
+Just great, the only issue is that I can not see the books on my SD card
+Good app, would have rate 5 star if it were to have support pdf.
+Just add PDF to the supported formats and you have me for life!
+Why ICAI website epubs are not downloading?? Pls help..
+This is a great reader I've been using for years now. Thanks Vladim for a great product.
+Bestest app guys u must download this app......thank you soo Much for this awesom app
+Very good App, indeed enlighting contribution to the ebook world...
+This cannot read PDF files
+Uninstaling. Can't find books on my phone. Can't load books from SD card.
+Excellent app for reading books. Lots of options for customizing and has a bookmark. Love it!
+Need sleep timer with text to speech option.
+Best reader app out there, bar none.
+Loved the app specially the reader option. But sometimes skips entire formated texts.
+Please add .pdf support
+No Unicode support for Tamil Language.
+Please add option to read PDF
+I've been searching for this app since I have my phone, now that I have it, I absolutely love it!!!
+Most favorite reader for mobile. Helps me read mobi files
+Love the app but it crashes a lot
+Excellent. Very intuitive, configurable, works properly, easy to set up... what a relief!
+My favorite reader. Wish it could see sd card files in android 6.0.
+It's a good app dosent support PDF
+Great reader! Highly customizable and does what the app page says it does.
+Working perfectly. Understand ansi script in russian. Absolutely happy with this app
+make an option to search files.
+Best epup & mobi reader in Android I have seen so far😎
+I love this app... I feel like its a real book m reading.
+Wish it could read docx.
+Samsung Galaxy core prime
+Moon reader can chock on this
+Couldn't change default folder.
+Will try and give review on this software.
+Soooo happy to have this reader! Thanks a lot for developing such jewel!
+Best reader you can find, great for when you need to enlarge the text
+Someone want to tell me how to bring up the menu easily?
+Ligero y eficaz. El mejor que he probado. Muy customizable.
+I sometimes read at night and it's so fun and the app is awesome
+Best reader so far. Text to speech option is one of the best.
+there's nothing else even close to this one
+Best reading app, I've been using this for years. Keep it up!!!!! 👍
+Great app keep up good work.
+Like to brightness slider for both day and night
+My favorite book reader for a many years. Respect to Vadim.
+such an excellent app and noble reading experience.
+it don't find pdf file. don't read prc file. only read txt :)) what is app?
+Itz pretty good fo da size.......best reading app ever....;)
+Exactly what I need in a reading app perfect.
+please add one more file format pdf please. ..
+Best ebook reader I'd recommend.
+the best e book reader on the market
+Best reading experience for Android !
+Best reader app till date...loved it❤❤❤
+Vadim, this is a very good application. Is there any chance you will work on the text to speech portion? It has gotten better over the years but still wont resume after ending a call and it stops reading aloud when I open the GPS. I use it to read to me when im driving. Im still very impressed with how it performs. Thank you
+Impossible to adjust the font size finely. The ranges between two  neighbouring values  are too big. You can allow to enter the numbers manualy.  Sometimes the app launches at wrong page. The gap between the text and right edge of the screen can not be removed. It is still about 0.5 cm with the right margin set to zero.
+Supports many formats, nice GUI, easy to use. Just like it... :-) TTS - I assume it is a system setting. But it would be nice to change the language output somehow easily. Now I need to go to the TTS settings, switch the voice set, start the app and listen finally. Huh, any chance to do smtg with it? Thank you...
+After latest updated no longer able to open .fb2.zip files
+It really stand for its name. Its a really cool reader. I highly recommend it.
+Great reader.Especially useful is night mode & changing font size. Chose this app cuz could select books on extSD in current file structure & many supported formats. Never able to open mobi files that Kindle app could. Stopped using CR to select books as they were inconsistently sorted - use MyFiles which would suck more if the ratings, read, and to be read features worked. Stopped rating, adding series info, & renaming since info disappears. Even w probs would be best reader ever if PDFs were supported.
+Just love wood background and great interface. But there are some cons : after switch to other app and switch back it takes some seconds to get to reading position. Last update causes constant freeze+crash after which reading position resets dozens of pages back. Meanwhile I going to moon+ reader till fixed.
+Having an exremely hard time locating the option on how to lock screen to portrait or landscape. It's really annoying every time the screen mode changes or the text formats when I move my device.
+Used to be my favourite reader but since my device was upgraded to 6.01 it will no longer see my Ext SD. A real shame because Coolreader was amazing. Given that the last update was in July 2015 I guess this has to be classified as abandonware. Pity
+Used to love it. Updated it,  now it takes forever to upload, format and open. Then, when it eventually opens,  it hangs & just stops working.Urgh! Please give me back the old version that worked just fine. I knew I should not have done the update.
+Whatever you did with last fix has broken mine! Keeps crashing while im reading and locking up! Not happy! Was perfect before!! Trying uninstall and reinstall...
+Love the paper backgrounds. Lots of functionality. Be sure to learn them or you'll end up turning the brightness down by swiping on the left pane and think the app is broken like I did for an hour. Lol
+Text reads OK till it encounters a capital letter (proper noun) without preceding period. For example: "We ran down to London for tea." "London for tea" is not read. Please fix. Other than that excellent app
+Crashes seem due to page animation, turning off in settings, middle menu, page animation, no animation seemed to be a reasonable workaround. Other than that, Vadim did a great job on this application.
+App used to be great but now I can't get get 5 pages without it crashing. Same keeps happening with my wife on her tablet.....
+This app looks like it was designed in 2001. The actual reading experience is not ebooks to be fare.
+Still the best reading app ever! Thanks for bringing back the old paper background. A bit slow when loading, but hey, nothing's perfect... Thumbs up!
+Can't get the dictionary working but hey ho, this is still a fantastic app, very customisable too. If it synchronised between my phone and tablet I'd given 6 stars
+Good to use but so frequently get 'unfortunately, coolreader Has stopped' on my s3. Makes it unusable.
+The app has a horrible design. A lot of the finger toggle options don't work, it's difficult making selections. On top of all that, occasionally, when I open the app, it doesn't open my current selection, like it does normally. Instead, it opens the app as if I haven't even selected that book. It forgets that that was the book I was on and gives me the options to open books previously read. That alone is a problem worth avoiding this app for.
+Wonderful app. Should be 5 stars, but I've got problems with "browse file system" panel ( menu is not functional, extSdCard is not accessible, no ability to customize) - could you please fix that?
+Could you please share old version, the one before first version with crash on start? Until now it is not stable. Sometimes black screen after start, some rare cases - app freezes.
+It used to be the best app to read books on but now the updated version does not allow you to go to specific  page numbers and percentages . Could this error kindly be fixed
+An amazing piece of software that does what it has to without ads. All functions are available. The only "In App purchases" is the "Donate" button. Bright control is impeccable. It searches for my books all over my device and present them to me in any way I want. This is the kind of software one is happy to donate money for further development. Well done!
+But today was a problem on Elephone p5000. App crashed.
+Excellent work, Mr Lopatin! The reader supports about every ebook format; just short of pdf and  DjVu. Something I loved. Might as well add these in a plug-in -- just for completeness' sake :)  The interface is very customizable and has smooth animation. Probably the most complete ebook reader I could recommend to anyone.  It would be fantastic if users could add their own fonts to the existing set. Also, the app loads a little slowly - compared to moon+ and FB reader; though it runs well enough once loaded.
+Love this app. I have used it for years. Skips on the the text to speech when words are italicized. Fix? Can I set something to stop this? Would love it if I could pause the tts in the ui for my Android device. Not complaints. Just suggestions. I use this app more than any other on my phone. Keep up the good work.
+Wonderful app, i've been using it since the early days... And hey, don't even think to touch an old paper background! Lol
+It reads mobi so well. Kindle, Aldiko, etc failed to read it.
+By the latest update I experience the app closes every 10 min of usage pls fix it soon        🔜  after  this new update facing same problems
+I use an Acer on the Android platform. This app crashes every few pages and when I restart it, it goes back to the page it was on when I opened the app.  Terribly frustrating.
+It's almost not usable. Just crashes all the time. Sometimes it's on the first page turn.
+Sometimes hangs on load. Does it try to connect to server?
+It has very nice customizable features. i love it. Have been using this for more than an year now. Also the day and night modes, scrolls and such features make it a really nice app.
+Back to a 5 star rating!!! Thank you for listening to your fans of this incredible reader. So glad to have the old backgrounds back that we loved so much.
+Google nexus 7 tablet 2012 , with new Android version unstable
+But how to controlled the auto scroll speed.need a seperate option to activate or deactivate scroll option,not automatic.settings are complicated.read loud option should be improved.images of the player should dissapere automatically.
+It was cool at first, but after dropping my book three times and forcing me to start from the beginning each time, I got fed up. Uninstalled.
+A brilliant app that desperately needs a design overhaul
+6stars, for listening and bringing back the old paper background. Thanks Cool Reader!
+After using 6-7 so called r book readers i tried cool readsr and um loving it
+This is good work. Much appreciated by an avid reader. Did my comparing, and this is my prefered ebook reader. Try it. The price is right.
+Great app. I really like the ability to adjust the brightness with the book open. Very  flexible, but simple to use.
+Used for a while,  does everything however latest update has lost my book history?
+Drains battery enormously fast on GS3 4.3.  For the rest - great app!
+I always love to read book everywhere, this app comes handy.
+Very great app. Can read my notepad and rtf file easily. Thanks!!
+Fantastic. Love the fact that it provides multi level archiving for my library.
+Thanks for returning old book background! Awesome app!
+Edit: yay texture is back. Great software.
+You can adjust this app to what ever your needs or desires are. The only thing I haven't found is how to sync book and location between different devices, ie. Phone and tablet. I expect it can't be done.
+Please  return old paper background! Reading now is not comfortable. Thank you very much, it has returned!
+Good app! But after the last update app crashes on Samsung Galaxy Tab 3
+If you turn off and leave the program running the text settings stay,  once exiting however,  the text resets to microscopic size
+Well, it's back. Thank you for the best reader on Google play!
+Excellent work in options, and making a program easy to read with.
+This is easily the best and most customizable reader available for Android. Most versatile for book formats and devices.
+Best book  reading app.
+Love the app. I've had it for years but yesterday the background changed. Please bring back the old paper one. This new one is too bright, even when you dim it. I hate it and it makes me want to install another app for reading. Please fix it
+Please bring back old paper background. Eye strain too much after long period of reading. Other than that great reader. Just one final request add PDF support.
+Favourite ebook reader for years now but what has happened to the 'Paper 1' background texture? It is now shades of grey instead of shades of brown. Please bring back the original as it is the only background my eyes can relax to. (See second image from left at the top of page which shows original.)   Until then only 4 stars.................
+Still great app but please listen to the plebs' cries! The old paper texture is sorely missed.
+Why has my background changed - think it was "Old Paper" but vanished yesterday - please help to get it back.
+I set but lost old paper background.  Galaxy tab 4. Please! I like this good app.
+Best one I've tested so far. Customizable and great function to adapt luminosity by sliding on the left or right of the screen.
+Only thing missing is the ability to read pdf documents.
+To make it totally perfect add pdf, so I may delete the other one.
+Unfortunately I under-use its capabilities, as I have had no cause to try other formats supported by the application. Nonetheless, as a pure book reader, it is one of the very best. There are plenty of configuration options, for those who insist on such things. The biggest failing of Cool Reader is the Library function, which basically doesn't exist. For me, this isn't a problem as I use Calibre Companion as my library app. When I click on a book, it opens up Cool Reader. When I exit Cool Reader, it returns to Calibre Companion. This is a surprisingly quick process. I have encountered other readers that aren't as fast switching from library mode to reader and back. It's not a program for everyone, but for me, it is extremely useful.
+UPDATE: DO NOT DOWNLOAD,  APP WAS ABANDONED IN 2015. OR TRY IT BUT DONT BUY IT SINCE NO UPDATES IN 3 YEARS, WOULD BE WASTE OF MONEY.     Old update 2015: Its #1 in ebooks! Even Google Books supports PDFs and its FREE. UNINSTALLING. Cool Reader my ass.
+It's that it's so much better than the others! I change phones, providers, plan options... I even test other readers now and then. But only after cool reader is safely installed and configured. Kudos to the developer; Cool Reader is on its way to becoming a legend.
+All of my devices have this ereader. I am accustomed to staring databases for hours on end. I've found that a black background with green lettering is easiest the eyes, and this is the 'only' reader that can do it on. All you need to do is uncheck the 'Enabled Document Internal Styles' in the 'css' menu in the settings. The tab to the right of the 'css' tab is where you can change the background and the text color. You also need to change the text in 'Title bar option' below the other options in the tab.
+(Droid Razr Maxx HD) This is the *best* *free* reader app. Tap zones let me hold it AND turn pages with the same hand; it's better than paper! Lots of customization. Reading RTF on Android is a miracle, plus all other formats except PDF. I have none of the bugs listed here. Finding files was unusual, but switching between "recent" and "folders" displays I now easily go from Books to Downloads and any other folder, just like windows. Yes some limitations but being free and so many formats it's worth it. &lt;3
+The issues I had with a previous version have been fixed. I really like this app. Best reader I've tried. Other reviews said there was no brightness control but that isn't correct, just swipe up and down the edge of the screen. (Galaxy s5)
+It became very glitchy - disappearing menus and books, force closes. Also interface and navigation should be changed to something more user friendly. Updates are not often.  2015/01/30: Update - it is very glitchy now, moved to Moon Reader which lacks a lot of functions of Cool Reader. Once Cool Reader was the best.
+Found it very good for years. The only drawback is that it cannot detect/or change encoding automatically, specifically for east Asian characters. I have to use PC to change the txt from ANSI to UTF8. So I moved to FBreader. I'd like to use this again if it has the functionality.
+'Export bookmarks to text file' is very useful. Report bug:  The app is starting to crash since yesterday ( 23rd Feb 2015  ) while trying to add highlighted text. And when the app is restarted, the eBook opens in Scroll-View mode instead of 'PageView' mode.
+This such a nice little app, and I really do mean little. Installed it only takes up less than a MB of precious internal storage, and about 11MB of phone storage. I've found it to be very stable apart from the odd exception of a badly formatted epub. I like just about everything about it, and I've tried every ebook reader I can find, but this one beats them all for ease of use and readability. I now prefer to read ebooks on my phone than on my Kindle thanks to Cool Reader.
+I really like this app. I read a lot, and use the read aloud function on my way to and from work. My issue is that I noticed the other day that while in read aloud, it ships large chunks of paragraphs. It'll read the first sentence or two then skips down quite a bit.  Fix that and it's a 5 star app in my books.
+Guys i had the same crashing problem when i updated the last update. Just uninstall the app and reinstall it again. It will work fine. I hope they can find a solution without this process but you can do this till then.
+Its awesome. I can easily study the large files of .txt and .doc formats. It would be better if unloading .pdf files. But, nothing to worry, i can convert the text in pdf files into .txt on a computer.  Readout loud is also wounderfull. Totally this app developer is worth to be acknowledged.  Thank u very much.
+I only got this app because it supports text to speech, which I really wanted to use for when I'm going on long drives and the book I want to listen to doesn't have an audio book version. Although it mostly works, the is an annoying problem when encountering italic and/or bold fonted words. It will read out the paragraph up until the mentioned word, then skip the italic word and the rest of the entire paragraph and continue to the next. Another issue it has it that it will often read a paragraph twice.
+As soon as I get really into what I'm reading, the app crashes. And doesn't save where it crashed. Once I flip to the right page it crashes again and again. Just let me read!
+it should load screen rotation options from the phone's settings, I was trying to read a stupid fufffffing book, but I can't!! it keeps rotating, and u can't switch it off in app settings, 10 mils of idiots
+But crashes every few minutes when trying to actually read the book, which is incredibly frustrating. Would be great if the read aloud would read italics in a sentence rather than jump to the next sentence as it can get a little hard to follow.
+App is great. I like its background, Classic paper style. But 1 problem that annoying me is orientation option does not work at all! When I lay down and tilt the phone, app automaticly switch to landcape though I turned off my device auto-rotate screen and set orientation portrait to the app. But still doesnt work. Pls fix it!
+Ammm it was 5 stars... But for the last 6 months it was unusable.  With the new fixes,  i can't evan see the  Mobi books that were working fine a year ago. Am i missing something? LE.  i just had to scan the directories.  Everything is brilliant. 5 stars  Thanks
+When I first started using Cool Reader it was amazing but then it started giving the "Unfortunately Cool Reader has stopped" message just about every time I opened it and eventually wouldn't remember my books, either opening a previous book or starting at the beginning of a book that I was halfway through. It was too frustrating to use so I switched Pocket Book and I'm very happy with it.
+This app has a crude unfinished appearance but it works very well.  Compatible with just about anything that I throw at it, it offers several options in terms of background type, font size, font color, and font style.  My only complaint is that the menu layouts could be cleaner and more attractive. Clunky menu navigation is the only thing preventing me from giving this five stars.
+I like this application. Only problem: it crashes regularly on .doc documents (older ms word format). New comment: THE APPLICATION IS STILL CRASHING. The "goto page #"  feature is buggy. When I use the slider, then often does not go to the selected page. I had uninstalled because of the crashing.
+I fell in love with this app the very first time I used it. It's so amazing. I could control the brightness without needing to go to the settings and I also can pinpoint the exact page due to the page number above. The percentage of the power left of my cellphone battery can also be seen at the upper right corner so I don't need to close the app just to check my battery. Really amazing!
+Love this app but no matter what I do it won't save the font size between sessions. The font it defaults to is incredibly tiny,  almost unreadable. 5 stars once this is fixed.
+there are some many options!!! if you can dream it you can change it. i doubt you can ever find a better app than this. i personally like reading licht grey in solid black so my eyes don't dry out or hurt. i am reading on a 5.5 inch oneplus one. can't recommend it enough!
+Very good software, amazing interface. I'd say better than moon reader. But, the only disappointment is that it can not open pdf files. :-(  would give it 5 stars if you are able to add pdf support.. Thanks..
+Great App! No flaws... Buy after the new update the app does not save my prefered setting for font size, it goes back to the font size 30 which is too small, everytime I exit the app
+So very frustrated that my font/format settings don't stay the way I set them. It used to! I set them big and bold because I read outside on a phone a lot... please put it back or fix and I'll give you back that fifth star!
+Always shows "Error while loading document". And the library sucks, it's hard to add document into the library. Need to learn how to manage documents from MoonReader.
+The one which opened up worlds to me without corrupting it with cheap adverts, it helped me through hard times, and I am really thankful for that, as soon as I get my credit card, I am giving an gold donation without thinking twice
+To solve the latest upgrad freezing problem: just remove (completely) the old one and reinstall from the play store again. This worked for my Galaxy S3
+Have been using for sometime and this reader just gets better. Did have some crash issues, but now fixed. For free makes it my number one reader.
+I've loved CoolReader until now. I spent $30 for a 38 MB epub ebook, a large reference manual, and CoolReader chokes on opening it; after waiting over 30 minutes for it to open and format this 38 MB epub file, I gave up and installed FBReader, which opened the ebook with a delay of about 8 seconds. Please fix!
+Table of contents non-functional ----- and the rendering of uncommon characters DEPLORABLE. Altogether didn't really deserve one star - but since that's the lowest rating I could give this crap app, I settled for it.  How it could have gotten so highly rated by other users is completely beyond me.
+I can't  change font color. Dark mode doesn't  work correct. Text is too dark no matter of bright level.
+Thanks Gergely Kovács, because of your comment, I was able to solve the crashing problem upon starting the app. I was feeling very down when I thought I wouldn't be able to use this.  So thank you very  much.
+But useless for reading online literature. When you try to load anything from online libraries, you get 404 or 500 errors. And even when something loads, navigating through it freezes the app.
+Using nexus 7, after update to new android the app started to crash really often. Can't read anymore
+This app is so easy to use, compatible with all types except PDF, but c'mon who reads books in PDF on phone?! I like the way it formats documents for that easy on the eye read. It is almost as if you are reading a book.
+Best small size ebook reader ever used.I just found one problem.The contro panel for read Aloud is too big.The volume and Rat control bar occupy unnecessary spaces.If possible  please hide them inside a optional button and make the control panel smaller (Height).    5* App.Keep it up DEV. Thanks : D
+Used this app for long.was really d best n very easy to use.its acting weird recently.doesn't remember the page where I left reading,once I close and open again all recent books r gone n then have to start from searching which page I left at.tried reinstalling but no difference.plz fix
+Can't see what real page I'm on in cool reader so I can't note the page for my study essay. I'm assuming this info is in the book file as the same file has real page numbers when opened with Google play books. Can't search in Gutenberg archive (can you in any of them?).
+This used to be my favourite app but it's constantly crashing every time I turn a page. (Nexus 7 Android 5.1)
+I have been downloading a lot of apps that can open a file and all of it failed me I wasted a lot of data and I found this app and saves the day I was close to deleting those files which were impt to me but I had no choice coz its useless anyway. Thanks to the creator.
+I've been using this app for years. Free, no ads. Extremely intuitive hidden brightness slider controlled by sliding your finger up & down the left side of the screen; wish the rest of my phone operated the same outside of the app. You can customize everything: font size and color, background everything (day and night mode), what the hidden grid of nine short and long press screen panels do, etc. Put a bit of time into learning and personalizing and you'll wonder why all your other apps don't work the same.
+I really love it but what I dislike is when I open to read txt format stories with more than 1.5 and up MB, it was slow on turning pages and much worst, won't open.
+Need to override embedded css settings in epubs. This app has a lot of nonsense settings, too many in fact, but what is needed most, readability settings, are lacking.
+All is good again. Thanks for the rapid start up crash fix. Respect to Dev!  This app is the business.
+Please add an animation for scroll that will make it smoother (slows down scroll after lifting finger instead of stopping suddenly).
+Lots of useful functions like night mode(really easy on the eyes) & backlight brightness control by flicking on the edge of the screen! Download ColorDict & link to CoolReader so you can look up word meanings while reading. Been using this app for 3 years. Highly recommended! Great job app developer!
+Supporting a lot of formats, is very stable and has a lot of settings. Using it a few years and never had a problem. Probably it's the best reader so far.
+I love this app, but recently it stopped opening my newer .rtf files. They were all made on the same computer in the same program but newer ones won't open. Great app though, if it updates and fixes this I'll be sure to revise my review
+I read alot, so this is good reader for my lifestyle. I can read on the go, at night while my kids are sleeping.  When I am working or driving I used the read aloud function, it skip some words, in which I may miss some of the storyline. Since it is free, I can't ask for much. Thanks for making it free:):)
+I needed to open an RTF document and this was high on the list in Play. Sadly the formatting was wildly wrong and it wasn't readable.
+App has room for improvement in data displaying. But the best reader app for user customization. Only thing missing is PDF support.
+i have tried most of the other readers they all have their good points BUT i keeping coming back to this one.  One of the major pluses is the capability to use it as an audiobook - great for driving or mowing the lawn.   the pages look great, it scrolls smoothly and finds and loads books quickly without having to copy into a separate directory
+This is the best reader I ever used, so I gladly rate it 5-stars. And I'd love to have the Reader do a bit more: I often read same document on different devices and it takes time to find the latest place I read. So, it would be real cool if the app could somehow synchronize the latest position in the text I've left, with my other devices.
+It was very good, 5 stars, but today, after the update, it cannot start at all... The fix came very fast. Thank you!
+All the letters are read from left to right which is not good  . Hope you could fix it  and make it  to support RTL
+And it's actually a free app. How mad is that? I would have paid good money for it. And believe me, its that good. Honest. Would I lie to you?
+Stable and excellent app, able to read books aloud, looks good, easy on eyes and works really well on my early generation tablet. Highly Recommend !
+but it crashes on my asus tablet,fix would be wery welcome... :-)
+This is the best epub reader when used in day mode. I have some epub books which would not work no matter what setting used, the font is dark on dark, impossible to read.
+it is very good. sadly it doesn't  support new version of Fora Dictionary,  I hope it will someday
+The auto-scrolling is a wonder, keep your arms and hands warm when laying in bed reading - what luxury. Now if I could only master the brightness control by flick I would be one ecstatic bunny!
+This ebook reader is really great, better than most of the ones I've downloaded before. I only gave 4 stars because it can't open rar files. I hope you guys make rar files viewable in your next update. :)
+This app makes my day... Thanks for fixing the crash so soon :)
+Easy to use. I just download an epub file book, look for it in downloads or wherever and wala its there to read. Better than any abook reader ive used. THANKS SO MUCH FOR MAKING THIS WONNDEERFUL APP.
+Frequent crashes in android 5.0 with not saving last reading page. One of that removed all my saved books. But still sometimes some deleted authors appear in the list.
+I installed this because it says it will open .rtf files but it said "can't open"! So I tried Office suite 8 and not only did it open but it even has edit.
+It's a good but it keeps skipping some of the text in the document. Also providing support for pdf n including docx file format will get it 5 star
+I am very very disappointed with the read aloud function of this app, it's just skipping words, sometimes the whole paragraphs, please fix it as soon as possible
+It gave me issue back when i accidentally uninstalled it and then installed it back. It started loading a epub book of 400 pages to 1500 pages. But i reinstalled it after a long time, seems to have taken care of that issue. But the loading of any pre-opened document has a lag time of 4 5 seconds, its actually annoying. Rest is all ok.
+Great way of selecting words. So nice to find a reader that does what i ask, instead of what Google, Amazon etc want me to do. Easy to customise background, text size, user interface, the action of screen touches... Works well, reliably.
+It's my favourite reader but as for the online catalogues, why can't I see all books but only scroll some of the books? And a search function would be great, to be able to search for the book online and such.
+After upgrading to Lollipop, coolreader shows Chinese characters as question marks. Hope it can be corrected soon.
+Does almost everything it needs, to make reading an hassle free experience. I wish it could sync with my offline dictionary.
+Loved it u can read any book usin this book. And its not like kindle where we have to buy books but here we can download any book from torrent and open it here. Again i m sayin it it is awesome
+Now it's time to upgrade your world best book reader and give to it the world best design!)
+All of my books on google drive is in RTf format and none of them won't open with this crap. Uninstalled!
+А вчера обновилось и перестало запускаться вообще. Lenovo Vibe Z. Upd: Только что обновил опять, заработало. Спасибо, отличная читалка!
+Последний билд плохо работает на android5 - после переключения на coolreader из task manager'а сверху и снизу остаются черные полосы
+excellent, can't ask more for free. love it. not accessing public library catalogue.
+I love almost everything about this app. Sure, there could be improvements, but I have no complaints. I especially like having complete control of my library in a normal file structure.
+The best reader you can find for your e books with lots of customization.
+just what was looking for. the improved library search  system is not far and waiting to see how it will come out. so good for my eyes to read whether pdf or word document
+Could only be better if it also supported the .docx format-- Otherwise, best eBook reader I've seen for Android, and worth the space on my tablet. :)
+How can i install dictionary. I've tried fora dictionary from playstore  but it won't work
+No doubt that it is a very good apps, but I want dictionary. It has menu but dictionary not installed. How to install?
+Giving 4 because TTS was a bit off on some books. But good job
+I have been using this app for years. The only complaint I have is I wish it supposed mobi format.
+I use the HTC one xl with android version 4.2 and I can't seem to find the TTS option on my cool reader,please help,anyone.
+Setting brightness, switching to night mode, exporting bookmarks, it's all very smooth. I'd like to be able to turn off internal styles by default, that's the only improvement I can think of.
+I use it on both my tablet and my phone for reading. I just wish there was a way to sync the two. (Online sync is on the wishlist at the site, so hopefully, not too long.)
+I have reviewed all eBook readers in Google Play. This is the best reader with all features expected from an eBook reader.
+Read option is not working properly. Most of the time skip words and paragraph also. Please fix this issue.
+Easy and intuitive, to say the least. This is a must have app in my sematfon at all times, period. Tapi bukan yg period orang pompuan tu laa..
+Good reader but can you add PDF to formats supported?  Then I would give it 5 stars.
+(no sound; text flashing by) Uninstalled and reinstalled, but still no luck
+Bengali fonts are misplaced in words. Is there anything I can do to fix?
+I've had this app for years and its the only one I keep coming back to time and again, Thank You!!!!!!    Update: it wont read lit files, is it the app or the lit file?!?
+The best book reader among others, but I uninstalled it - it doesn't see my SD card (Android 6.0); all my books are there
+Brings you back memories of ♪THE GOOD OL' DAYS! Simply love it!!!☺May I suggest the 'CHAPTER SELECT' function that is most usually equipped with E-BOOK READERS???👿
+This really is fantastic ereader.  Performance is flawless.  I've never had it crash.  There are enoigh features that I regularly use without being excessive.  All around a great product.
+Ive read more than 40 novels via cool reader ... Itz awesome ... Great work guys ... Excpt it doesnt support PDF files ... Still desrve 5 stars ...
+Yeayyyyyy... my reader is up and running once again.  Thank you!!
+Too bad you can't read pdf with this,uninstalling
+I like this app, but recently, some books that Project Gutenberg has put out plays incorrectly. Maybe it's something in the books' format, but it will read the same page over and over and over again.
+The most complete reader app for tablets. Lots of formats accepted, import local files, nice UI. My default e book reader! Congratulations to the developer!
+Great app.. Has a read out loud option which I love for long road trips.
+It is unable to read or detect any type of file from phone.
+Seriously. This is the best ebook reading app I've ever used, rven though I would love if it is updated and can read .docx files as well.
+Great app but in read aloud mode will stay in scroll page when going back to normal reading mode. Also in read aloud it will miss random sentences and paragraphs.
+Cool looking AND functional. Cute how it gives a default cover page for books without one. Beats other ePub readers in my book. Pun intended.
+I just love everything about it. So far I don't see any problems.  So keep it up! ;-)
+Cool reader is best application for reading my favorite e-book in epub format. it should be available for windows phone and pc.
+Perfectly works with any devices, it's comfortable to read and to adjust brightness and moreover there is beautiful amination
+I like all the customizability options. Only thing I can think to make it better is PDF support.
+Unable to download eBook files....shows error 404
+Has issue with reading same line over and over.  Hard to stop it.
+I love the variety of settings. Different backgrounds, easy to adjust brightness and format, it's been great. Thank you!
+Aunque hace dar mas clik de lo necesario para hacer ciertas cosas como guardar bookmark y highlight
+It good but I feel like this app take my battery alot.
+I hate it dont download and wasre your time
+All kinds of options, feel and brights all in this, best part is it's actually a top of the line reader but free!
+After many search found the best reader . shows recent books  and very easy to use. Thanks for making such a nice app.
+I like the way that the library actually shows the book covers. Mbany times the cover of the book is what makes me decide to read it or not.
+Kindle will not allow me to read some mobi books. Cool Reader works with everything so far.
+Certainly one f the best! Wud hv been great if u Put ther an option to uncheck auto rotation
+Works nicely in Samsung but frequently not response and stop in Asus Fonepad 8. Can this be fixed?
+The only one that shows all text from certain books dowloaded from project gutenberg. Thanks. Great app!
+would b nice to have Unicode/epub-embedded font support (as in FBR)
+By far the best Ebook reader out there. I tried a half dozen before I came to this one
+Own book directory as home. So that easier for me to browser my files.
+The fact that it actually pays attention to the stylesheet of the epub is great, well done (:*
+Seem that it is not working  every time I use need to set font size
+Unfortunately does not read .mobi files. Please do something about this
+Thanks to this app I can read a ton more books than before. Thank you
+Last time I tried out it used to crash. Now its fixed.
+No app out there beats Cool Reader and whats great is its free for ever. :) :) :) :) :) :) :) XOXO XOXO XOXO XOXO
+Its my best companion as a regular reader ! Nice background very amazing reading experience yet ..! 5 stars ..!!
+Taking 2min just to load my 100mb chm file!
+Excellent, Cool Reader is the best eBook reader on the market.  Can't wait for a Windows 8.1 version
+Now I dont have to buy Kindle or tab.. 4.5 inch phone will do just fine :-)
+It is east to personalize and the commands can be set on the page  to search, find, bookmarkect
+impossible to browse file system freely, no LAN access for some reason.  uninstalled
+Flexible easy to use. Allows u the change the size of font, and many more.
+Can you add a quick dictionary on the app itself should be amazing then
+It does help get the job done but......drains hell out of battery
+Stay cool dude, thanks for a great app. :)
+My favorite reader..but it wont save current settings after exiting the reader..please fix it... thanks..
+Correct it and rest it is an awesome reader app.
+App  Not open .pdb and .mobi file
+I love this app for an authentic "paper" background.
+Does everything I want fast and easy. A definite keeper.
+Best epub ebook reader for Android. Everyone must have this...:-)
+Great app will read text file books will not read 3m cloud books
+Samsung™ Galaxy Note3 SM-N900
+I love cool reader! Very good app!Add pdf
+Please add PDF reader
+Love the app but sometime if force close refused to load
+how to switch off the screen rotation??
+Absolutely Awesome app. Easy and User friendly, with Great Results. Thanks to Dev team.
+How could it miss pdf file system
+This is the best app in the entire play store to me :)
+Impressed my school because it is the year of reading.
+My favorite Reader is alive! Stay  Cool!                                       * * * * *
+Best ebook reader ever..fast and reliable..keep it up
+Make it customize scrolling speed

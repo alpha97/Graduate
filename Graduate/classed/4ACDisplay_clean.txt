@@ -1,0 +1,245 @@
+This is such an awesome app. It appears we can only place one widget on it though.  Unless I'm missing something. Right now I have the flash light widget. It's nice to have fast access to it. The only thing that could make this better is being able to set the wallpaper to something other then our home screen wallpaper. My lock screen was a modeling photo of my wife.  My home screen is Cortana from Halo. My wife's  photo is to busy to be a home screen but it would be  great if I could use it as a lockscreen
+Now it only misses one thing: a security. After all, it's a lock screen, so it is pretty ironic for a lock screen to not have a security. Also hopefully more customizable, like being able to change your wallpaper. Also the notification bar shouldn't be able to go down while in the lockscreen. Those are my suggestions.
+I was looking for a lockscreen without any flashy wallpaper or a lot of shortcuts, I mean when I will need an app I'll just open it, there is no need for it to be on my lockscreen. The thing I liked the most about this lockscreen is the way the notifications dissolve when pushed down. The solid color lock and the backgrounds are awesome,I keep them in random order. This lockscreen is The best for the users who love to be simple.
+The app is nice. I enjoy the sleek look it brings to the table; a nice change of scenery from the stock lock screen. however, it's a little irksome to me that the screen unlocks just by pressing my home button while the display is on. I also seldom experience an issue with the screen display coming back on just after dimming once a notification has been shown and no action taken. any way to fix these issues? Then you're golden!
+I would had rated this 5 stars if it wasn't for the fact that I can't put in a custom widget (which was probably the main reason why I was excited for this app). I was able to have it actually work once, but it was also the last. It could had been better if it had its own passcode options. It's such a disappointment that I don't see any solutions yet.
+This app is wonderful. It's simple, attractive and very functional. I love the way the glimpse of your notification appears when you touch on the icon and vanishes when you take your finger away. Then darkens to remind you it had already been checked but doesn't disappear entirely until you actually check it.
+please add more corner gestures to open apps, let me keep the display always on, let me unlock the screen by pressing the home button as once i press it, the lockscreen will disable, the only way to unlock is power button. And please let me set a password. Doesn't matter if you ask for root i am fine
+I love this app. The design is amazing and the simplicity it great, but if I press the home button once while its locked, it unlocks the phone... There's no point to the lockscreen if it can be unlocked that easily! That can even happen in my pocket!
+This app has worked perfectly, but yesterday I noticed that I wasn't receiving some push notifications, I mean I'll get some app icons/badges, but the LED doesn't blink for some of the missed notifications.   Last night I went to the settings for each app and checked to see if maybe the notifications were disabled --- nope. At the time, I was chatting on Kik and changed the color of LED from white to blue, then went into the settings for this app and toggled on/off, which seemed to have fixed the issue. Also, I was missing the Pinterest icon/badge (showed the icon on the notification bar) and the LED missed notification.  This morning, I noticed the issue returned and showed no icon/badges or LED missed notification for Snapchat and Wordfeud. I then toggled the on/off switch via your app -- didn't fix the issue this time.  I've already done a hard reset and reboot. I'm gonna clear data and cache, and if that doesn't work, I'll reinstall the app.
+It works really well, just a little more work on the lockscreen, probably add a password or something. And also can you please take away that notification thing that stays at the notification bar, I'd like it more if it's not there.
+I like it a lot but im having an issue to where my original lock screen will show then the lock screen that I chose through this app will pop up. I see my original like screen for a quick second then the acdisplay will show. And it happens every time I lock my phone then hit my power key to light the screen up. Please let me know if I'm doing something wrong or is this is happening to anymore that has rated this app. And a fix for it because I want to use the app but it there isn't a fix for it I'm doing this delete it. Thanks.
+Fantastic application. Really, really like and enjoy this over the stock lockscreen and many other locking applications out there. The only gripe I have (though small) is the animation for dismissing notifications is very crude and glitchy. It works, yes, so I shouldn't complain, but it does not match the rest of the "aesthetic" that the rest of it conveys. Fix that, clean it up, and it's flawless.
+...it doesn't 'really' act as a lock screen. Pressing the home button on my A8 unlocks the phone. I should have to swipe, as an accidental press with unintentionally unlock the phone. Other than that it's people the best out there.
+A lot better than DynamicNotifications and other such apps. Material design looks beautiful. Just add the pattern lock (even if it's not "totally secure"). And lock the home button while on the lockscreen.
+EDIT 2: Small glitch I've noticed is when I lock the phone with my notification tray open, it remains open over the lockscreen. |  Sleek and functional/minimal. Looks so much better than the stock lockscreen. I've noticed a couple of bugs:the swipe animation freezes sometimes, and the clock has a lag in updating the time when the screen turns on. The only thing I didn't like was how I could only add one widget, and that when I did, it covered the clock. Other than that - great!
+High quality lockscreen app that actually works. Music controls work for Spotify – seemingly rare among lockscreen apps. Is there any way to get the AcDisplay constant notification out of my notification tray? Seems to be unneeded clutter having it constantly running up there. Other than that everything is good!
+I loved this app for its simplicity and neat UI. However the main feature for me was the way proximity sensor worked every time flawlessly. But now I have to use power button every time to tum on screen... Really disappointed.
+1. While locking it take some time to kick in..  2. Acdisplay services in notification bar is frustrating. Remove it if possible.  3. Active mode is not working like double tapping and waving.. fix it and i will give you 5 stars
+1) Remove the permanent notifications that show up in your notification bar, it's distracting. I went through the settings and I didn't find anything. 2) fix the delay issue when unlocking the screen.
+I haven't had any problems by now. You should add a lock screen security like the LG. Just by tapping a code it unlocks. And at night for the clock to be always on. I hope you keep improving this app cause it's awesome. And one thing, I love the fact that this app doesn't have any annoying ads.
+Please remove the "acdisplay" in my notification bar! What is the purpose of that? Its annoying. Also this is a lockscreen with no security features...i can't even set a pattern or pin...there really should be a way to actually "lock" my phone. Other than that I really like it.
+It's so simple and elegant. However, I've been noticing something that inhibits me from giving this app five stars. Sometimes it just stops reading notifications and I need to clear all the data on the app to fix it. Please fix.
+I want to SET another wallpaper as a lockscreen wallpaper and not the default wallpaper. So please.... Also the persistent non clearable notification in the panel 😅   Everything else is just fine. Runs on cm11 😀 No bugs
+Ok so I actually liked the app until I realized I cant Uninstall the app not in system settings not through normal drag to Uninstall explain to me why in God's name am I being forced to keep your app on my phone. Update even trying to remove admin privileges to the app settings convienently crashes. I am in able to remove this app
+I was looking for something like this. Amazing performance! Just one thing i want the developer team to know that the music player widget is not working, is it not supporting on my device (Nokia X+) or some settings problems? Kindly let me know.
+I like it a lot, but it still has some issues. For example, if i have an alarm turned on and when it rings and i dismiss it, my regular lockscreen appears. This also happens if i press the home button. I'm with Lenovo A859. I granted access to notifications and everything, but sometimes it doesn't overwrite my stock lockscreen. Could anyone give me an advice about this?
+It glitches often. When I press an icon, the notification doesn't always appear, can't always get past the lock screen either. Perhaps it's not updated for Marshmallow, but it's so close!
+I loved this app on my note 3, but force closes when I attempt to add a custom widget. Emailed the developer weeks ago with no response. Upset I payed for an app that doesn't work.
+The constant "AcDisplay services active mode, lockscreen" bar from the notifications panel when the screen is awake. Also the weather icon - I already have one! Can't disable yours. Please fix!
+But I would love to be able to set a separate lockscreen wallpaper, instead of the home screen one I use. Also sometimes the app crashes and unless I kill and start  the process again the notifications are not shown after that.
+Battery friendly and simple. This is ideal if you're looking to keep your phone looking light and modern. Kudos to the devs.  Edit : Hope the devs will address this problem. As of late the Lock screen doesn't turn off if I get a notification. I've set it to turn off five seconds after I get a notification but it doesn't. It will show the display and time without switching off which can be quite annoying when youre in bed and get a notification that makes the display light up all night.
+5 stars if/when we're able to add lock screen wallpaper functionality. Why not have the option to use either home screen or lock screen wallpaper? Seems weird to only do home screen when Android natively has a lock screen wallpaper option. Good app otherwise. Very clean and sleek.. lock screen and application menu wise.
+I read the help. Thats a bad logic. Every lock can be broken but that doesnt mean that we shouldn't have one. I wanted to donate but just then I realized you arnt building a lock at all.
+I like it a lot but it doesn't act as a proper lockscreen. It just acts like an overlay to my system lockscreen. Is there any way to make the app replace the system lockscreen?
+I really think you should make just a lockscreen. This app is something in between a lockscreen and a notification app and it is not stable all the time. But it looks so beautiful and nice. I can't use it like this and I wish you will make just a lockscreen. It will be a fantastic app in the market.
+The unlock animation was smoother. When I unlock the white screen with the lock icon stays up for a second or 2 and it get annoy especially at night causes it hurts ur eyes. Please fix and then I will give a higher rating.
+I've used it for months and loved it, but not being able to set a separate lock screen wallpaper was a big deal for me. Since stock Android now wakes up for notifications, the only thing this app has is swipe anywhere to unlock, which I will miss.
+But is a glitchy mess which constantly fails to work. I enable the lock screen but when I unlock the screen, it gets directly unlocked without showing the actual lock screen. I enable active mode, but I have to manually press the power button everytime I take it out of my pocket. If I lock it and immediately unlock it the lock screen appears twice. If I scroll down my notification bar and lock it, the bar remains on the lock screen. It also constantly keeps taking screenshots of the lock screen. Uninstallin
+This is a great app. Have been looking for something like for quite some time now. This shows what you need to know, who sent what and when. Update: seems to have some issue with Marshmallow. Sometimes the notification text is blank even if you press the icon.
+The 1 and only problem I have with this app is it opens up the whole messenger app. So I get text pull phone out of pocket and phone lights up the lil text icon.....(so far everything's awesome) then I tap that icon and see message with a reply button....(again still awesome) so I tap reply and small lil messenger box appears while I'm still on lockscreen (still awesome) I type message and hit send button and as soon as I hit send it opens up the whole messenger app (noooooooooo!!!!!) I
+it's truly a good app but..... there is two thing wich make me unable to use it... first the home button wich make me go back to the default lock screen even using xposed. secondly it make screen off memo unusable since it make the screen back off after 10sec.
+It's pretty good, like its minimalistic, and it's pretty easy to use. Although I would like if you would remove that annoying service tab on the notification bar, and add an ACTUAL security for the lockscreen.
+The lockscreen needs improvement on smartphones without home buttons. Also its a necessity to open notifs when double taping or swiping them. Another thing is to remove the acdisplay service from the notification bar. Dont forget to improve the calling system too.
+If your looking for a lockscreen this app is incomplete.  In fact,  it notes the lockscreen feature is still in beta testing so really this app is not doing its 1 job.  Example: phone unlocks automatically without swiping and can be done by just a button.  Sometimes even auto unlocks when a notification comes up.  For the most part this app looks promising as it's clean and minimal.  However it's like a video-game you buy which needs constant DLC to make it work.
+really awesome. near perfect. the only thing that bothers me is the notification that can't sync with the one from the system (stays on lockscreen when I have dismissed it on notification bar) . is it possible to do it in 4.2.2 or it need at least 4.3?
+I love this lockscreen! Pity that it dismisses when I press the home button, which defeats the purpose of a lockscreen. But the design is as beautiful as it is simple! And I love that it wakes up when I open the lid of my case, just to get a glimpse.
+Love this app however just lately it's started going to the lockscreen everytime there is a notification regardless of if I'm in the middle of doing something. Very annoying
+In my nexus5 keeps blinking like a night on a discotheque when I get a new notification,  no lockscreen and no active mode ON but anyways gets the blinking when notified. But when it works is a beatiful app.
+Ac display services is just stuck in my notifications. Can't go away. Can't seem to find a way to clear it. Do something about it asap. Otherwise I'm uninstalling this app. Drains battery quickly too
+Its like a damn virus. It was fine when I first downloaded it, just didn't like the look of it. But now I can't remove it no matter what I do.
+It doesnot work properly un my phone samsung j1. It doesnot wake on  waving... and crashe stops report shows much time....notification doesnot  show... how plz solve all this problems
+I like the lockscreen, its simple and beautiful. But need to fix the home button because its easily to unlock just by pressing the home button. Kinda useless lockscreen because of this bug. Fix it and I will rate 5 star.
+App creator abandoned the app! There hasn't been any updates in years and it needs a home button locking option. Like the way it works, but I'm not going to use something time developer doesn't update anymore. No response to email either.
+I like it so far but would love to be able to arrange widget, move it somewhere. And also I hated the dark tint when using custom wallpaper. It looks the same like the stock Android.... The screen is turned off a couple seconds after pressing power button. Setting sleep (more &gt; sleep) doesn't help
+I love this app and enjoy using it, but every time I try to turn on the screen I'll hit the button and it'll take a couple seconds to come up. Used to not have the problem but I do now and it is incredibly annoying.
+It has pause and change of song but not stability once only it visible and if screen off and after on invisible. Lockscreen and active mode should both in same option and in notification tray it should be invisible. I don't like it  Using More Ram and Battery fix it and not stabile some times. Gestures should have access to use phone apps.it can be easily bypassed by pressing minimize button,home button, accidentally touch or pressing of any button fix it, R u work r not no update for your app I hate u...!!
+Great app, works great on my redmi 4... installed this app cos, my fone  doesn't hv a multi-colored notification light... still got a few bugs  though...
+Remove the ac in the notification bar its useless... And improve that lock screen, i always have to turn it on and off because it stop working... Other than that, awesome! 5 stars when fixed!
+Plz fix error with music playback on lock screen.... It sometimes lag when i tap power button quickly it shows home screen first then lock screen this is bad thing
+I love the app.  It's super sleek and nice.  But ever since my phone updated to marshmallow it's stopped working. Hope it comes back soon
+I know that hey won't support security mechanics since "it can only be done badly". However: I won't use the native samsung lock screen and the AcDisplay app just because I don't want someone to just unlock my phone if it's lying on the table for example. Therefore not an option to add unnecessary swipes/clicks and lockscreen above lockscreen...
+There's no way to stop it from unlocking when the home  button is double tapped. Also it crashes when I try to add widgets
+Was working fine on 4.4.4 but when upgraded on 5.1, one whatsapp notification is constantly being repeated many times. Uninstalled till a solution is found
+Looks great, every once in a while it'll glitch slightly but no big deal. When you press the home button it'll exit the app and take you to the stock lock screen, not a terrible feature but it should be able to turn on/off.
+It's an awesome alternative for those of us who are missing the "active display" from Motorola devices and certain custom ROMs. I'm giving 4 stars because it seems to mess with my notification light. I hope dev can suggest a solution. Either way, great job! Thanks!
+Ive enabled privacy settings but it doesn't hide name/picture of the SMS sender & also the name/picture of messenges received on Facebook messenger are displayed.
+On ZenFone 4, loving it... just one thing irritates: constant notification of AcDisplay services... remove that and it can be simply the best!
+The active notifications are simply ingenious. Touch the icon and you can preview the notification. It works with every app I receive notifications on. (Facebook, my texting app, WhatsApp) I love that I can pull my phone out of my Otterbox and the screen wakes up. Also, it'll wake the screen up if I lift my phone off of the table. The sweetest feature to AC Display is the widget integration. I like customizing my phone and being I can use KWGT to make a custom lockscreen it solves my custom needs.
+Although i loved the app as it is the most simplistic lockscreen but please fix two things. First the notification of active mode in the notification panel which is highly irritating and please, please add your custom pattern lock it would be perfect then.
+This was a blessing in disguise!   After trying so many other lockscreen replacement apps for my Lg G4 with recent updates and not being satisfied at all, this app is so simple and beautiful and does exactly what I was looking for.    Simple swipe lockscreen with clean notification icons.   Thank you!
+It's a great program I like the fact you can use live wallpaper but would prefer to be able to use a live wallpaper or even animated gif images as the lock screen background separate from the wallpaper. Other than that great app. One thing I haven't found is to enable a security function to securely lock your phone.
+A little buggy. When you lock and then press the power button to show the lock screen, it seems to blink a little or lag behind the stock lock screen. Otherwise, I love the features of this app.
+Please please please show me how to use this app without using it as a lockscreen. I'd like to only receive notifications but still use home/power button to leave to my original lockscreen. This is all I really do need so please consider. Thank you
+Save your power button, no need to press power button or volume keys to wake device. Must have app. With frequent updates
+Hello, love this app but could you please add raise to wake feature...  Ac display should pop-up when I raise the device....  I know it works when u take it out of the pocket but would be great if it works simply when u raise it like moto display does...  Thanks
+This is an amazing lock screen, however the only thing I really want from this app is just to add a separate image as the background instead of just using the wallpaper. If that comes into an update, I'd gladly give it 5 stars.
+It looks amazing and this is why this bugs me so much, when you power on the phone, you see the lock screen and just a tap of the home button unlocks the app, it is very annoying and it should be a fixed lockscreen
+Love it a lot. No premium features, this makes the developer the best developer ever. Keep it up with the excellent work! Waiting for beautiful apps from you!
+The notification, when selected to be open, gets cropped on the sides for a moment. I think it's a animation incomplete when opening the notification.
+...I've had the pleasure of using. Rivals the stock Android lockscreen in terms of clean and minimal looks, but i always come back to ACDisplay.
+Its like i pull down the notification panel and i lock the phone...and when i unlock it the notification panel still stays as it is.... down on the lockscreen! Which actually negates the base of a lockscreen whatsoever!  Fix this issue anyhow!
+fix that i don't want the wallpapers will be same as my homescreen wallpaper i like this Ac lockscreen will have his own wallpaper set hope for the nxt update that will be available in this application. keep it up more power
+A-M-A-Z-I-N-G 😀 Literally. It does not drain your battery, in fact, it kinda improved my bat in a way 😂 But dayum, I prefer this over my old rusty notification lock screen thingy. This is way more reliable, it's beautiful, the design is smexy asf 😂😂 This is litteraly one of the best personalisation apps, also, the best notifications for lock screen appy thingy evrrrr 😊❤
+I love it but, when I get notifications from facebook messenger, the messenger chat head is showing up over the lockscreen, so it's pretty much useless. Fix it and 5 stars
+I would only change one thing - the constant presence of the notification bar saying that the app is active.
+Love The handling of notifications, but if you're going to let it act as a replacement lockscreen we HAVE to have a way to lockout the home button.
+But I'm wondering why does the lockscreen can be unlock just using the home button and recent apps key? It made the phone easily unlock while in the pocket.
+Use it especially for the lockscreen functionality. Could you make it possible to choose a custom wallpaper? Also, could you make an option to pin the last notification (so that one can see the most recent "news")? Thanks & and keep up the good work. Would be happy if you  continue to improve your precious app.
+this is such a nice app i ever use, but for me its has a problem that notification is not dismissed automatically where  notification is read out. please solve it . i need this apps.. reply  me soon i am waiting
+Every time you unlock it with power button it doesn't work and most irritating thing is only if u r lucky enough this lock screen display will work or else on clicking unlock button it opens up to standard or say stock display screen plz improve on this and there's lot of lag in this app
+I wish there was a security feature. Some bugs include: when using quick reply app (by jawomo), the notification symbol is a caution sign ( only happened after I updated to marshmallow) and after you turn the screen off, it flashes back on for a moment. Otherwise, this app is awesome.
+So I get a notification and the screen will light up for a few seconds then turn off. When I turn on my phone screen manually after that with the power button it doesn't show the notification screen anymore just my regular lock screen. Is there a way to keep the notification screen every time I turn on my screen as long as I have a notification? Other than that it's an awesome app !
+This app has style AND substance. My only two recommendations are 1) option for a wallpaper that differs from your home screen, and 2) option to set lock/unlock sounds from files on your device. Otherwise, keep up the good work!
+Cant believe the developer made an ad-free software. The app explains everything leaving no doubt. Works great with Android. Will donate at least one ice cream within the next few days if it keeps the great job!
+It impressed me as well as my friends! One thing though, it unlockes when you press the home button of your phone when you read a notification, please fix that :) then it should be a factory app for all smartphones
+I love how the simplicity applied in this lockscreen gives the idea of a cool way technology works. Just that can you help apply password features to make it look more of a 'lock' screen. Other than that, it's 110% awesome! Thank you!
+Nexus 5X - Marshmallow. Use to love it, but want to have this as my default lockscreen but cannot until it supports fingerprint unlock and use as replacement for standard lockscreen. Will keep in waiting....
+We can not access notification centre quick controls on the lock screens please keep that option
+This app is awesome....!!! Just request one more feature in it: Integration of pattern lock in this lockscreen so that we can remove system pattern lock and we dont have to undergo the process of unlocking two lockscreens (first acdisplay and then system lockscreen).  Other than that, this app is more than awesome...thnx for that..!!! 😊😊😊
+There is one glitch ,when the lock of your phone is just swipe while notification display is on, capacitive touch button( recent apps and home button) on galaxy phones tends to remove it.
+Yeah. That's the problem, the chat head shows on top of lockscreen, it'll look neat if that doesn't happen. Or should I hide messenger notifications?
+Very elegant and handy. The only bug I've found so far is that tapping on the notification content won't open the linked app if there's more than one notification. Or at least that's what happens with whatsapp. Other than that, wonderful app
+After i updated my fone to 5.0 lollipop d lockscreen became buggy. It unlocks by pressing home button n sometimes after swipe unlocking it locks d display again.. please fix this. Also a suggestion to include always on mode like v find on d new galaxy s7 n lg g5..
+Please3 improve the stability. I love this app, but lack of stability makes me keep off and on this app. When i press the power button it will goes straight into homescreen and skip the lockscreen.
+I would love an option that displays the notification fully then shrinks it down. Good app though.
+This app didnt do what I wanted it to do. Now it has disabled the uninstall button when I try to remove it and this is setting of a lot of red lights!
+Please remove this problem if when a press the home button in Samsung device it will automatically unlock please solve this problem otherwise it is a good app
+it is works fine with my oppo a37... love it... handy... because my oppo is not amoled and did not have led notification .. this software is helps alot!.. thanks
+This is a great app, I find it the best way to have notifications on my lockscreen even on Android Oreo, it could use an option to stack notifications from the same app instead of showing every single one separately, eg for Twitter, Facebook.
+When i swipe down the notification, the animation not smooth enough, please fix it for 5
+Very very cool... the only the thing I would like you devs to improve is the effect... Anyway, good job
+Very good app and feels like moto x but it not same like.   when you pick up phone it glow up but you have to press the power button but over all it is very good. liked it :) :) :)
+1.persistently showing camera logo in right. 2.Security options.3.Font changing capability.
+for those of u whose power button is not working...this is an amazing app..totally stable, never hangs
+on Textra app. Even with the Textra app set to have no repeat notifications, AC Display repeats the text notifications every few seconds until it the text is opened and read. Clearing the notification on AC Display does not stop the notifications. Other than that, awesome app.
+Works well so far but every couple of hours the annoying "just dismiss this notification" notification shows up
+But please make an option to enable the notification bar, or maybe add some other option beside the dialer and camera, i.e our own selected apps or something.. Thanks!
+Please fix the bug whereby the home button bypasses the lock screen. It is the most pleasant looking lockscreen I've use 'out of the box' so far.
+But I would like ull to provide with an update where d status bar can b seen... As u know thts quiet essential...
+And pls remove that notice on the staus bar. Its irritating me
+heads up notifications are displayed  on lockscreen please fix this other wise everything works like a charm
+This thing won't uninstall. I do not want it on my phone anymore but cant remove it.
+Unique work but it hides notifications only for Whatsapp, for fb messenger it hides the text but shows the name. So need to be updated but i dont think that is going to happen, developer hasn't updated this app from ages lol.
+Awesome work devs with this app, but one suggestion, I would really want to put a different lockscreen wallpaper Instead of black or home screen wallpaper, kindly add that stuff as well to add a custom lockscreen wallpaper
+My block button isn't functioning but this app save my smartphone useful days.
+This app is fantastic already but it needs something more, it needs more option of hanging the wallpaper of the lock screen. Not just homescreen's or a black wall but maybe from gallery??
+... I'd love to see a feature for a different wallpaper than the one from home screen. That would be great!
+Simple & useful notification without unlocking the phone. Keep up the good work !
+(I have Samsung Galaxy s6 edge) Everything work excellent except that I can unlock it (other than normal) by pressing home button or multitask button. Can I have some help?
+Whenever i press my physical home button nd recent apps button, it unlocks the phone. Can you please look into this bug because i really love this app..
+Chathead pops out on lockscreen. And home key can unlock also unlock it.
+Has anyone else noticed the battery draining faster since installing this app?
+For some reason, application icon not displayed in lockscreen (when there's notification)...
+Pressing physical home button bypasses lockscreen, causing unwanted unlocking in pockets.
+Active mode makes the power button useless.
+Just one thing if I could keep the active display on for approx 1 minute instead of 25 second Otherwise it's a wonderful app
+Finally got this app working appropriately and it works like a charm.  Would love yo see some further development for current and upcoming versions of android. But for now it will work.
+Pressing home key bypass the ac display the app needs Home key blocking option.
+Please make such that when you unlock it, instead of the colors you would see the phone's display, like a transparent lockscreen, or like the wallpaper option that already is, or add a transparancy option to the colors....that would be awesome, and it would deservea 5!
+Please enable an option for analog clock also with Digital clock in the lock screen and Remove AcDisplay Services bar from notifiactions panel.
+No torch No custom wallpaper Camera and dialer dont work when pin is enabled.
+The app is very cool and shows your notifications when received but the only problem is that it unlocks when i tap the home button or the multitask button is it suppose to be like that?!
+The best lockscreen I have ever tried but sometimes on Android Marshmallow it doesn't work well and there are some bugs. Need an update
+It probably one of the best lockscreen apps I've come across on play store, although a option to set a custom wallpaper would be amazing. Thanks.
+It is a very good aplication, but could be better, just like if you can apply your own wallpaper instead of the homscreen one
+Kindly clear notification bar from lockscreen.... I want full lock screen without notification bar....i want only time and battery status on lock screen bar but network is showing and hide... Kindly do fully hide network status...
+Love this beautiful lockscreen. I'll never use another lockscreen again. However, I would like there to be some security features, with passwords, patterns, something. However, I do understand that its job is just to be minimal.
+The lockscreen's bypassable by home button... But I don't really care, because I have a seperate screen anyway, since this is a pseudo-lockscreen.
+Make your own lock security n remove the acdisplay services on status bar then i will donate your electricity bills😊
+I love this app alot but I figured the notifications on the lockscreen dont go away if I launch the notification from my panel rather than the lockscreen
+Excelent app ! i use it as my lockscreen, i would give u 5 stars if the Home button (hardware) doesnt close AcDisplay
+Loved it!! Please keep developing this. Just some minor issues with stability.
+It does not launch when we start using power button
+How can i deactivate this thing? I hate this application... It's annoying... It is not deactivating.. Normally...
+Please add lock for status bar and hotkeys.. When i swipe to open camera or dialer from bottom corners, i can press home and get tu main screen.. Btw. please add pin lock.. Thank You
+Some notifications duplicate while in the lockscreen. For example, Twitter creates to notifications, Messenger creates dozens. While Spotify doesn't have any notification. Please fix this, it's a good app.
+Super! The lockscreen is unique in its own way but I wish it would have been better if it had fingerprint support also.
+Pressing home button twice unlocks too, but that's not the purpose of the app. Please fix, you already have access to notifications and device administrator. Also I have root access and xposed.
+Remove bar from notification panel and  change the clockscreen position like top,middle,bottom. Otherwise very good app. I like it.
+One of the best lockscreen i have used. Is there anyway to add separate wallpaper for lockscreen?
+But if would be nice to have different wallpaper in lock screen , not the same in home screen... So please change it in the next update... By the way... thanks
+Fix the facebook messenger popup problem.
+Can't see a single notification, nor can I remove apps from the blacklist, therefore this app is rubbish to say the least.
+Works as described. Is there any way to remove the persistent notification?
+I've been clear all notification from status bar, but when i lock the screen, some notification in lockscreen still show, and 1 more, need button to clear all notification in the lockscreen, so don't need to swipe down 1 by 1
+The only thing is that lockscreen should have a bit more stability...and please remove a.c. display active message from notification panel
+Everything works just fine, as it should! Design is beautifull and well-considered! Just make option "disable Home button on lockscreen" and it will be perfect!
+Is there any way to disable unlocking by home button on Samsung devices. Plz add security features too in order to make this awesome
+App is very very useful and good but one thing is we can't choose lockscreen wallpaper for our own choice..
+It's very good, though I've noticed a little bug. If I press the home button on the ac display lockscreen, it opens the default lockscreen.
+It's something I'd use but please disable home button or add option too. ⭐⭐⭐for now, will keep but not use till updated.
+home button override locker no work around
+Just got a new phone and had to download this, as I love the simpleness of the app. The notification previews on lockscreen is a bonus too!
+Works great does what it says. No ads and even has xposed module built in for deeper hooking in the system. Great job developer.
+Please make it so we can set a custom wallpaper; one separate from the homescreen
+Add ability to set lockscreen wallpaper(other than homescreen wallpaper)  Add fingerprint support  Ability to remove the cloudy effect
+How can you change the wallpaper bcoz it is having a dark background when I open it which I don't lyk.. .
+I really love this lockscreen. It's simple and efficient. But for some reason i can't remove the vibrate when i unlock it.
+So clean and so so beautiful. Add in the option to set a passcode and the ability to set a wallpaper to any image I like and it'll be perfect!
+I'm installing this on every phone I own but one thing is can I use custom wallpaper instead of home screen wallpaper?
+But, i must agree with the others that you should add security lock, and remove the lockscreen notif bar. Good Job ;)
+Love the new animation.. It can have more options in customization
+Very nice display... Unlock animation is super... Notification handling is best... But a little buggy 😕😕
+Stock Android like looking pattern and pincode capabilities will make it becomes complete, but I still love it
+I only wants your elegant lock screen so do a lock screen app and remove the stupid status In the  notification bar
+I luv the app... But I'm not getting notification popups on my lockscreen at all.. Please fix
+I really love this. I cannot adapt to others screen lock application. It really great. Ive tried to use another but i cant.
+Please include the option for setting the lockscreen wallpaper separate from the home screen wallpaper in your next update. Brilliant lockscreen app!
+But fix the home button unlocking...5 month later. And no fix yet....
+I loved how I can use it as a lockscreen but you should add a password, wallpaper picker. TY :)
+Still buggy, sometimes it doesn't show up. Or need to unlocking it twice before showing the native lockscreen
+When we are listening to FM radio and the phone locks the signal from FM radio gets disconnected. Pls fix.
+Please fix this. What's the point of using a lockscreen when you can press home button to unlock
+Nice app but pressing home button wud take directly to the home screen without unlocking through this app.
+Please make Home-Screen Launcher like this Lock-Screen. And add simple menu button, like simple line and Micro-Box on center of simple line.,
+Wow, fabtastis app simple yet very effective notification 4stars would be 5star if it came with a finger lock ...
+Try to press button to wake but screen stays black
+You should add clear all notification button. I think, it will really useful. Overall. Great app!
+Add brightness control, improve notification content fading animation, proximity sensing, enable pattern lock
+I really like this app you are a great developer and you have great ideas keep it up :) sincerely Delray from Malaysia
+Please remove acdisplay lock screen notification bar from notification panel. And add bing images as background.
+Notification icons multiply after screen on/off Please disable back home recent butons
+Runs flawlessly and looks great but I wish there was some way to have a password or something
+It would be 5 stars, if there is way to remove that always persistent notification about lockscreen
+Can you make background setting light or dark.(i mean too dark of wallpaper)
+I like the font. I like that it uses my wallpaper. I like that it has so many options including glance screen stuff.
+I LOVE this lockscreen! But, it needs more improvements! Like prevent messenger chat heads showing on the lockscreen.
+Ich kann die Hintergrund nicht wechseln
+I really like it,  but I'd prefer being able to chose a picture from my gallery as background.
+The lockscreen doesn't work whenever I press the power on off button
+Wish I could hide the notification of this app in the notification bar
+For example allowing it to use your lock screen background not your home screen wallpaper
+Main Home button unlocks the phone..please clear the issue..all its the best lockscreen
+If possible, give an option to chose the wallpaper from gallery. And make it support MX player.
+Just 1 request pls turn this notification off from the status bar...
+That is some really piece of art  and very innovative way of knowing notification
+Really didn't care for this one....i was expecting something completely different...not my thing thanks
+Just what I need, simple, easy, light, and nice ui design. Really love it
+Everything is nice but the home button issue that have other users too and a pincode that's missing too
+Remove the bar from notification bar or make it optional.
+It shows notification which are  when phone is unlocked... Please do something
+Can anyone tell me how to apply password
+Good, minimal, but has inconsistent lockscreen, and notifications repeat.
+Nothing much to say its look cool and thats good enough for me
+It would be awesome if you put a security lock passcode or something on it.
+Allow facity to add a custom lockscreen wallpaper
+It doesn't behave like a lockscreen,it should prevent home button from unlocking
+I love it for my Nexus 4,.. releases a lot of pressure from the power button :)
+Great app but the notification is always displaying on my notification panel, how would i remove it?
+Hey developer !!! Plz add password option
+Pressing home key unlocks the phone.
+Need some improvement however. Best notification lockscreen so far.
+A good app but it doesn't give privacy settings that a stock lockscreen does..
+It would be a perfect lockscreen application if there is a lockscreen wallpaper setting.
+Great app. Was looking for a notification screen and love the display and what it does!
+I love this lockscreen, but it should have a passcode or something, but either way I love it
+Why does the home button unlock?
+Just press home button and it unlocks the device??
+Amazing application, just what was I looking for my smartphone Lockscreen.
+Upto Now not bad, keep developing, add a charging display.
+Really love this application. Will it be possible to customize the font color?
+Would be nice to have an option to set a custom wallpaper.
+Love this app lockscreen.. Keep it up. 😄😄
+What to say.Absolutely amazing.Great job developer keep it up.
+Superb neat and smooth.  Love it.

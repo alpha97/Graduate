@@ -1,0 +1,227 @@
+This is a great small and free app, but it doesn't solve underlying problem with Android Lollipop 5.0.2 screen lock. I've searched for some app to show small and compact notifications after upgrade from Kitkat 4.4.4 to Lollipop 5.0.2 on my Sony Xperia Z3 compact. Despite this beauty works smooth, it only makes things worse: to unlock a mobile I need to make FOUR actions: press power button, swipe AcDisplay screen, swipe my unlock pattern. This is just ridiculous!
+Great app, my partner has a Moto phone and has this function built-in.  I have a OPO and it's exactly the same. I can preview full WhatsApp messages without it saying I've read them and I can keep read receipts on!  Looks great!  When I swipe up to unlock I have to do this twice which I don't know how to fix.. Help?
+I absolutely hate that if it's set to active, or the lock screen, a notification is always present in the notification shade. Just looks tacky and I hate it. Almost enough to make me uninstall the app. But I am giving it a poor rating.
+How do you deactivate this rubbish app? I can't do anything to make it uninstall its useless I don't even get the notifications... Its just there for no reason and won't go now.
+It work fine for few weeks, but since last 2-3 days notification are not showing on lock screen, pls help me to resolve the problem as the app and concept is very good,really help a lot ,waiting for reply
+Not able to uninstall after I gave device administrator settings ! If I go to disable administrator , my settings keep crashing. Works with other apps, on for this app. Have written email to support last week, still no answer!
+My settings menu crashes every time i try to disable this apps settings to uninstall it, so i can't get rid of it. I'm running stock marshmallow on a nexus 6. I've never encountered an app i could not uninstall. Users be cautious.
+PLEASE HELP! Can I know how to uninstall this. Because when i get to device administrator setting, I seem like cannot untick and disable. It keep crashing my setting. I really need your help.
+I really like this lock screen. It's the only one that I've seen that I actually want to use. The only problem I have with it is that it doesn't disable the home key before you unlock your device. After I hit my home key and I lock and unlock my device again, the lock screen doesn't appear for a moment. Allowing me to access my home screen and/or any app that I already had open. I don't know if this problem is able to be fixed without root, but if it is then I'd like to see this fixed in a future update.
+I m having some trouble after updating to android 7.0 (N), The phone gets locked and didn't unlock by fingerprint. And says "The device is locked by administrator". Kindly help.
+This app is not updated for over a year and fingerprint does not work on my s7. It keeps asking for the pin. Have to Uninstall it. So sad because it was my favorite for over 2 years
+Cant deactivate  it from setting samsung s5. Please help. Its a good app. Bt i m low on memory and i cant deactivate it :/ sent email to the developer so many times no reply. Seems like he doesnt care at all!! Very sad!! Plz replyyyyyyyyyyyyy No reply yyyyyyy
+There's an issue with handling stock lockscreen on my Sony Xperia XZ Premium. Whenever AcDisplay times out, I cannot use fingerprint sensor for unlocking and have to manually type the password. It says something about device administrator locked device.   If you can fix this issue this will be a five star app.
+I cant delete the app! It wont even let me clear data. The app is usefull,  but I was just trying it out! There was a bug,  so I wanted to delete it. Thanks alot. There goes 100mb that I wont get back. Never mind I deleted it
+I would like to uninstall it but when i try my phone says it is a device administrator. When i try to turn it off my settings crashes and its only with this app for some reason
+Can't remove from phone. When trying to remove it from administration, settings app stops working.   Edit: Emailed them twice to get help. Still no response. I wish I could give this app -1 stars. Edit 2: Still can't remove from phone despite contacting the creators. Thanks a lot
+I really like it, but the only problem is that I can't uninstall? It gives me the option to disable, but there's no uninstall. I went to the application settings instead of the Play Store and the uninstall option is grayed out.          EDIT: I'm silly,  I realised it's because it was running as a device administrator and I didn't disable be for uninstalling.
+Does any one know how to deactivate it. I have a Samsung note 5 and I've tried so many times and it just says settings has stopped working. Help!!!!
+There's no option to uninstall this app. For uninstalling, i have to uncheck it in device administrator, but when I click on it, the settings app crashes. So now i cannot uncheck it, means there's no way to uninstall this app. So I'm stuck with this app for life! 😠 Guys please do not install this app, it's complicated useless and you cannot delete it afterwards...
+I don't know if the problem is with my phone.. But the wave gesture is not working on my device.. I mean, it works at the first try.. But then after that, it's not working anymore.. Pls fix this. Thanks 😁.. BTW, cool app bro 👍👍
+The app is fine however it has a lot of bugs. The biggest dissapointed is that I can't uninstall it. It has access to device administration and when I am trying to remove it from device administrators Settings app crashes all the time.
+Its decent, if you have notifications to the point where it is on the bottom row just unlock you're phone because there is no way to dismiss those notifications. Along with that if you play music the lockscreen will all of a sudden dissapear. Although you can solve the problem by opening the app, it's pretty stupid to always have to open the app when I'm listening to music.
+It makes a lot of problems in my smartphone .. you can’t uninstall it from your device .. it's like parasites .. it will become one of your device administrators .. and above all it has access and permission to steal all data on your device and to read all of your notifications   ..   Please BE aware and careful .. It is a harmful app .. Don’t use ..
+Your app is the best. The music player pause and play works fine for most music players except Gaana app. When i pause the music it stops and notification is dismissed. I use this one so may be you could work a little with it.
+Ive been using ac display on my OPO for over a year and have had no major issues. Currently running it on a s7 edge and have noticed a reoccurring issue. After my alarms trigger and go off, ac display does not function properly on the lockscreen. It no longer appears on my lockscreen. So far the only solution for me has been to either restart the device or toggle the on/off button in the ac display app settings. Please advise if anyone has insight, thanks!
+I used this all the time with KitKat and had no reservations at all. When I upgraded to Lollipop though, I've run into a lot of problems. It will no longer let me drag down the notification shade on lock screen anymore which is really irritating as well as it often just doesn't launch. Sometimes the screen will constantly turn itself on if there's a notification sitting there. Screen will time out and then pop back on eternally until you dismiss it. Unfortunate that this isn't as good on the new OS. :(
+When I go to device administrator to deactivate it crashes my settings. I can easily deactivate any other app. But as soon as I hit the switch of this app it crashes instantly . HELP
+I can't active the app .... It requires some permission. Already give administrator permission but it won't works..
+I really loved this app. It solves a lot of problem which I never knew I had.  I just have a feature request: Can we have less brightness when using it in active mode?
+Doesn't unninstall, deactivating Device Admin manually doesn't work. The Help Menu on the app doesn't remove admin and doesn't unninstall either. Ridiculous really.
+How do I uninstall this.. tried to deactivate it but it has more control of my phone than I do. I'm not the same level of admin as this app so I can't deactivate it or unistall..
+The application itself is really neat, it's exactly what i wanted, sadly the rating will be low due to it's not replacing the lockscreen, it's adding on top of it, which means i can't simply use my fingerscanner to go into the device immediately.  The idea is 10/10 it's exactly what makes Android much better, hopefully this can be sorted.
+It didn't do anything and now it won't uninstall! When I try to deactivate it, first, it only tells me I have to deactivate it before I can uninstall it. But that's what I'm trying to do!
+Has been a great app but recently it started glitching. It will keep  re-waking up my phone even though I've already re-locked my screen. It used  to stay dark after waking the screen just once, even if there was an unread  notification remaining. 5 star app otherwise
+I like it a lot except it keeps having a notification in my slide down notifs saying "just dismiss this notification" it comes back dozens of times a day even after I dismiss it. AND it always says "blah blah to exit full screen" very annoying.
+How do I uninstall this? Keeps crashing to stop me uninstalling. Going to have to wipe whole phone just to get rid of this one app, as when I try to remove device permission it keeps crashing.  I'm hoping it's just badly written rather than malware.
+The app is not leaving administrative permission as i want to uninstall the app but as soon as I click on uncheck box it force stops my settings and restarts the UI. Fix this issue as i want uninstall this bloody fake and irritating app.
+To uninstall it i am suppose to deactivate it from device administrator. The moment i do that my settings app gets crashed!😓😑
+I need to remove this app but it will not let me!  It won't even let me disable the entire app. I like the app but I am trouble shooting a microphone issue that happened shortly after installing this app. Please help!
+Once I installed it it wouldn't let me unistall it so I am very angry about it, says I need an administrator to deactivate it, restarted my phone and still was on there, highly highly disappointed.  I DO NOT RECOMMEND THIS APP!!!!!!!!!!!!!!!!!!!!!!!!!!!
+I emailed you guys about this issue. Every time I try to remove this app as a device admin it crashes my settings. Please resolve this issue because it is putting a bad name on your app.
+The app works fine, but I wanted to uninstall it and still cannot, as it clings to administrator privileges. Very disappointing.
+The screen doesn't wake up whenever i pick up the device, even when the phone is charging. Help
+But everytime I press the + button to add a widget the app crashes. Pls fix. Thx
+Its not working on my samsung galaxy j7 when i installed it its shows nothing on my devise nd even i can't uninstall it just waste of time or waste of Memory use
+The app is amazing but it is not going off......i am unable to unselect it in device administrator!! Its not working
+I wanted to remove this app but it crashes my settings when removing device administrator. Currently stuck with this app on my phone and im not happy.
+I can't deactivate this app, when I try and remove administration rights the page greys out and returns back to the original menu
+Han sido corregidos sólo algunos fallos en mi Galaxy S4 con lollipop, pero de vez en cuando tartamudea el sonido al bloquear o hacer el doble toque para bloquear, también me gustaría que apareciera la previsualización de la imagen de contacto de WhatsApp, ya que sólo aparece de algunas apps como messenger. Arreglen por favor para que con doble clic botón home no se desbloquee. Agreguen seguridad por favor y mejoren los fallos del widget de música. Eso es sólo en lollipop, con kitkat funcionaba genial.
+The app is pretty and functional. While there aren't too many features, the existing ones are integrated beautifully and intuitively. Plus, the fact that it's open source makes for maximum customization. Apps like this are what make Android great.
+only problem is..  not sure whether all devices have the same issue but in mine it uses up a lot of RAM ..sometimes even up to 400 MB
+I love the idea but it works quite slow on my Vibe Shot,  when I swipe to unlock,  I get a 2 second delay before my device get unlocked
+Está muy bien está app, solo que me gustaría que agregaran la función de desbloqueo por huella dactilar, ya mi teléfono cuenta con el, y al establecerlo como pantalla de bloqueo tengo que desbloquear la app y luego mi pantalla. Pero fuera de eso es genial
+It is so great but.. Please fix the bugs. I can not turn it on when I need it . I want it to be always on but I do not know how. Plz reply my. Thx for the amazing app. 😘
+Happy that the update fixed my problem. Thank you for hearing me out, devs. This app has endless possibilities. Than you for hearing us out peoplr who is still running an Android 4.3 smartphone. More powers!
+I downloaded this app but i didn't liked so i wanted to unistall the app but cannot unistall because its a device administrator so i went on the device administrator to deactivate it from device administrator but it gives error and settings are stop , now i am very angry on this bullshit app
+Didn't end up liking it, but now it WILL NOT let me uninstall the damn thing. It refuses to let me deactivate it as a device administrator. If you install this app, DO NOT, allow it to be a device administrator.
+App works great. The only issue I'm facing is the unlock by waving hand. It works 1 out of 10 times. So just make this workable. Else this is a great app.
+Ne znam sta je problem otići u podešavanja i onemogućiti da bi deinstalirali...
+EDIT. IT TURNS ON RANDOMLY EVEN WHEN I ALREADY UNLOCK MY PHONE AND ITS  REALLY BUGGING ME. AND I CANNOT DEACTIVATE THE ADMINISTRATOR THINGS PLEASE  FIX
+I try to set is as locksreen in my Galaxy Tab S, but it keeps saying "need to avoid overlaying alarm and phone apps" and when I click it, it directs me to Wifi setting... pls help me! I want to use this lockscreen so bad :")
+Doesn't work with fingerprint API so you either have lower security or you have to unlock your device twice. Also you have to jump through hoops to uninstall this app, trying to deactivate it only causes Settings to crash.
+It have been months since I last write my review and I'm still unable to uninstall the app on my Note 5. It keeps crashing everytime I try to deactivate the app on the device administration . I hope you gonna try and fix this problem instead of ignoring it .
+When I try to uninstall, it doesn't let me. I found that it needs to be unchecked from device administrator, when I try that it just kicks me out of the settings. Emailed this guys for support before posting this review and waited for a week for the reply but no response. Very disappointed.
+THIS IS A MALWARE! CAN NOT UNINSTALL (Before uninstall the app asking to be deactivated due to its administrative privileges. But when you try to deactivate it nothing happens on Galaxy S6 Edge. Either buggy or a malware).
+Settings kept crashing when trying to add a custom widget on LG G3. Asked dev to fix and was told it was an LG bug and to "Flash custom AOSP-based ROM" which is a pretty lazy response and not practical for the average user. Uninstalled.
+I can't uninstall without deactivating the app in device admin. When I go to deactivate it crashes my system settings. Very irritating. Nexus 5 running stock OS on latest build.
+It tells me to activate the notificafion permission,then it takes me to the notification center,where the notification permission is already active.I get back into the app,it tells me that the notification permission is not active.What can I do?
+Its OK until you want to uninstall it have gone into device administrator but that doesn't work ..have tried to email Dev ..but email not recognised the app itself works well and you can disable it...but I've yet to find a way to uninstall it!!
+It doesn't work on my device. And when I'm trying to delete it. It won't allow me to. It keeps on saying that I  need to deactivate it first. But there's no way to deactivate it. Don't get it if you have the Samsung Galaxy S3 like me. Run as far away from this app as you can.
+Wont let me delete. Disabled it as a device administrator but still doesnt let me uninstall. Horrible
+It would be better if there would be an option to start the app on boot cuz once I reboot into my OS... it takes about a minute or 2 for ac display to start up again.  otherwise... no issues  😊
+Why are people complaining so much???? The notification is there so the app isn't killed. Most of your questions are answered in the help section.
+App is good love what it made to do but why I can't see my lockscreen thts my only problem plz help..it directly takes me to my Home screen
+I like it, but its taking up space and I want to in install it but I can't. It says I have to disable it before uninstalling, but I don't know how to do that. Can someone please help
+Great app so far, similar to the features on the droid turbo I used to have. I wish you could wave your hand for showing notifications. I'll give a more in depth review after a little more time is put in.
+Don't install it guys. I am stuck with this stupid app. I am unable to uninstall it. Looks like i have to reset my phone and hope to get rid of this nasty app
+I am trying to delete this app off of my galaxy s5 and it keeps saying "this is a device administrater, you must deactivate first" it's deactivated and it still won't let me Uninstaller please help!!!
+Unable to deactivate admin access! Crashes the settings when I try to do that! Even after restarting the phone. Unable to uninstall! Not working well with the unlocking screen! Factory reset?! Galaxy S6.
+Once you download this app. There's no going back. You can't uninstall it unless you deactivate it from devise administration, but there's a problem. IT WONT LET YOU!!!!!
+This app is a virus and won't let me remove as administrator I can deactivate others apps fine but this one do not install
+Bad experience. I'm trying to uninstall the app but I try to remove it from the device administrators and the settings crashes. I can remove every single app except for this one. Fix this!
+Unable to pause/play or skip songs with the lockscreen controls. Pressing them does nothing and forces me to unlock my phone to use these controls.
+yeah this is the message i get every time i try to uninstall it through settings~apps~acdisplay~device administrator~come back to the first step.
+I go to device arministration to deactivate but it keeps saying that settings has stopped everytime i deactivate this app. How can i deactivate and uninstall it?? Please fix this..
+I have LG Optimus G and ad soon as try to add a widget the app crashes and it says "settings have stopped".
+Cannot remove from my device. I have deactivated it in security. But in the play store I cannot u install as it asks me to deactivate 1st. Help.
+I hate this app its taking up space and it won't let me uninstall even ythough i deactivated it I hate this help
+If i wanted to remove it why dont you let me uninstal  until i get rid of with root blessings
+The app refuses to disable itself as an device administrator so I am stuck with it
+It's not letting me delete the app it said make it in to a device administrator and I did and now it won't turn off
+Unable to uninstall.. crashes the settings menu whenever i try to deactivate in device admim
+Cannot remove this app from my Galaxy S7. Keeps crashing when I try to remove from device administrator. Since I cannot remove the app as an administrator I cannot uninstall without a device reset.
+It will tell me that every time I try to add widgets the settings crash
+Whenever I try to deactivate the device admin for this app, the setting page reopens and it never gets unchecked ! Please help, I can't uninstall the app !!! ...... I've an oneplus x.
+"EXACTLY", mark my word, "exactly" what I was looking for and still no replacement found after using for more than 1 year. But no updates since a long time.
+It worked for me initially.   However,  no it does not.   In addition, i cannot delete this app.  The unistall button does not highlight for this app.
+It's a virus. Once  you  install it it will never get Uninstalled forum your device until you reset it. Useless.
+It requires Administrator permissions and once granted, you cannot deselect the app as the prompt "Unfortunately AcDisplay has stopped working" every time. Being an administrator app you cannot therefore delete the app!
+When I am trying to uninstall it to save some space, it doea not let me uninstall it. I've already tried deactivating the device administration but nothing happens.. Please, help!! Thanks a lot!!
+But i can't because i can not deactivate the administration,when i tried to deactivate my System Option App was dying
+I dont like the fact that it wont let me Uninstall the app. When i try the setting force stop shutdown.
+I am unable to uninstall it Whenever I try to remove it as it is my administrator , my settings menu crashes Please help
+Dear developer I'm unable to deactivated ur app from device administration. Please help me uninstalling.
+Unfortunately unable to uninstall.Go to Settings &gt; Security &gt; Device Administrators and uncheck AcDisplay. You can now uninstall AcDisplay normally
+Can not even Uninstall it ... I tried to uncheck it from administrator but it freezes my phone and stop the setting
+This app taking Admin permission n not able to uninstall it... Kindly avoid this app
+I cannot uninstall this app from my phone. It's so frustrating please help
+Great app for minimilistic lockscreen for any android lovers but now I am faced with an issue that I can't uninstall the app due to administration permission the settings app crashes all the time i try to deactivate the admin for the app
+I csnt uninstall it. Even if I deactivate it, still doesnt uninstall. I  badly need space on my storage. How can I uninstall it.
+This App will not let you uninstall. Total mistake to get this App. You have been warned.
+The notifications doesn't get dismissed even after you viewd the notification you have to dismiss it manually
+I dont know why, when I locked my phone is doesnt appear seems buggy app.
+And I guess it is the problem which every Lollipop user is getting
+If someone is near your device and you are not.......he/she could read the notifications.....thats the only con.......but if u leave that.....this app is awesome
+I want uninstall this App but cannot do so? Its asking me to Deactivate but cannot do so? How can I do this?
+Can't uninstall! Set as a device administrator, can't seem to be able to deactivate it and uninstall the app.
+Why can I not uninstall this app?? It is impossible to do so. Please help
+Undoubtedly the best but there is a problem where missed call alerts don't show up in the lock screen when I get a missed call on honor 4x. Please help !!
+Not enough words in my vocabulary to appreciate the beauty of this app.
+These many no. Of updates from the last 8 months and not the problem of having a security as been completed.  Try adding that one too. The app would be a lot more awesome.
+I was about to uninstall this app and suddenly, it stops when I want to deactivate from administration menu to uninstall
+after download you can not delete this app off your phone
+Need help ... It says need permission and im stuck with later and nothing what do i do?
+Because it wont start working after turn it on whats the problem waste app
+what is the procedure to uninstall or reinstall this app ?? I am unable to uninstall AcDisplay. need help
+It is not a good app its harmfull your android device plzz dnt dwnld plzzzz
+i am unable to uninstall this stupid app. plz tell me how to uninstall hated it
+It crashes every time I try to uninstall it. Warning!! Don't make it a device administrator!!!
+Pleaseee help me to delete this app i dont want it in my phone
+I tried uninstalling it!! It's said to deactivate administrator permission. But I unable to do it!! It's annoying!!
+Can't uninstall it.. As soon as I try to deactivate it as device administrator,  settings crashes .
+How to uninstall in this app? I dont want to use it.
+Please don't install this app. its is not an app but virus. The app had taken device administrator permission. After that it disables admin privilege for me. We can't activate or deactivate device administrator rights. We can't uninstall this app. Only option left is factory reset.
+I can't uninstall this app,  and every time i try to uncheck from administrative permission it fails dose not want to leave me phone.
+Not able to uninstall this app. Became default device app
+Just love this app. Shows all the notifications in a minimalistic manner. Wave to wake feature is also awesome...
+Why I can't remove this app from my device?.... This is insane
+1 star for the worst way to uninstall an app. Ever.
+Please guide how can uninstall this app.
+App won't unistall from My device even after restarting in safe mode!!!
+Can't deactivate in order to uninstall.... Have to factory reset my phone.. Terrible....
+tried to use as a lock screen. couldn't get back into my phone afterwards. nothing I did helped. had to restart the phone to gain access to it.   And the app refuses to release its administration privileges for me to uninstall.   do not install.
+This app doesn't let me uninstall it, it has an issue with administration activation and it doesn't let me turn it off so I can uninstall it and the developer doesn't respond it's wasn't what I expected from so I want to uninstall it.
+Not sure what I missed but I can't Uninstall  this dang thing. Help
+I cannot uninstall for some reason... It won't even let me deactivate device administration... I have no other overlays or apps drawing over so I'm not sure how to uninstall...
+I cant turn on device admin. What is a problem.
+Using Redmi Note 4G with Resurrection M Rom
+Its very nice and works well but plz let me know how to disable device administrative option in orde to uninstall it
+It's a beautiful app design, not well secured, but Please include a way to auto dismiss the notifications after opening them
+I have installed in my Lenono Vibe P1m, but its not working. The app is not getting any administrator rights.
+Won't work for me and won't let me get rid of it
+Cannot unistall from phone!!!
+I had to restore my phone to default factory settings as it wouldn't let me deactivate AcDisplay as the device administrator.
+I would give this 5 stars but i cant Unistal the application, iv stoped the service and deactivate everything and nothing, please fix
+This app sucks mobile settings. Hello admin can you please tell me how to uninstall this application as it was showing administration.
+Lock screen permission not complete on my device users status not working on my device.. how to fix it?
+I have to open the app constantly for using it... Kindly request u to help me out
+Cannot deactivate or uninstall, okay so this app first of all didn't worked out for me and now when I want to uninstall it, I can't.
+But help me I can't see the setting in this app
+I need to delete this and I've went to my administration setting and it won't let me .it force closes . How do I delete please
+Dont download this app. It will not let you delete it , if you choose to.
+since there are lockscreen feature, why dont you add password feature for support that lockscreen? btw. this is cool apps.. i like it
+Please check Nokia 808 or nokia n8 sleeping screen app and make same app like that for android amoled displays
+I can't uninstall this app. Hate it.
+It won't let me uninstall or deactivate what do I do?
+I can't uninstall it without changing device administrators, and it won't allow me to do so.
+It always force my settings to stop when deactivating in device admin. Help me?
+How can I delete this app... this is not working in.my device nor getting uninstalled. Please help. Me
+Once you install the app out won't let you deactivate it from being a phone admin. Please don't install this app!
+This app sucks I had to hard reset my phone just so I could get rid of the app
+The developers all ready explained why there isn't a pattern lock feature in the app just read the help section
+When i try to uninstall app says deactivate when i try to deactivate nothing but same
+How do I uninstal this app I really need to know if anyone can help please let me know
+Being a device administrator keeps getting disabled but other services are kept on. Please fix
+unable to uninstall...waste app...i giv zero
+I like to uninstall on my honor 4x mob but its not happening.. Help!!!!
+Installed, tried, now want to uninstall. Won't let me unless deactivated. Tried to deactivate, again, won't let me.
+Please help. I can't deactivate this app because it won't let me. How can I???
+Won't let you delete the app even tho it clogs up memory and makes your phone slower😑😤
+I've tried a lot of the lock screens in the store, this one is almost perfect for me, thanks...
+It won't let me unistall the app. If i still can't do it im reporting this app.
+One of the most useful app in my phone...  Saves a lot of time as well as button pressing... 😀
+Muy buena para los que no tenemos LED de notificacion
+It's alright but how do I get rid of it please help
+I cannot deactivate it as it occupies large memory on ram ... How to deactivate it ?help plz
+Won't let me uninstall it after granted it device administration permission.
+As of now no problem, let me know.  But its the best when compare to other
+I cant uninstall dis.pls help me.want it out of my device right nw
+It is surprisingly good for a free app. The motion detection is spot on. And it looks very professional.
+How do you deactivate the app from my phone 📱
+Love the app, desperately needs nexus 6p fingerprint support.
+It won't let me uninstall this no matter what I do
+Please help, i really like this app, but is nt working on my Sony Xperia Z1...
+Need help to "deactivate" so can uninstall it!
+Kenapa gak bisa di uninsttal dari device administrator
+It won't let me deactivate it off my device !!!!!!
+cnt deactivate or uninstall plss hlppp  Android 6.1 Samsung
+Cant uninstall this app.  Tell me how should i do it
+After u install u cant uninstall it so be carefull
+App doesnt let me remove it from device admin...
+Motion pretty much doesn't work at all on my moto x 2014
+Just try it, I would recommend it for lollipop  and above device owners  too
+musixplayer dont support? play pause previous
+I want to uninstall this app  pls help
+How to remove this app plz help me
+Using it for a year now I guess and still would love to!!Good job dev!
+Won't let me deactivate in order to uninstall.
+Device administrator I can't get it of tablet :(
+Just a few animation fixes and this app will be even better. Get it now!!
+For Some Reason I Can't Uninstall The App?!
+I can't uninstall this app... please help me...😕😓
+This is a great app at all. But please support fingerprint function!!
+I can't remove this app. Need help.
+How to uninstall this freaking app
+WONT LET ME UNINSTALL
+Dont use thia app
+wow, the 1st app I must have on any device
+This is a good app but need some improve and an update .
+Hey!!! I can't deactivate it To device administrator!! I want to uninstalln it!!!!!!!!!!!!!!!!!!
+When is a password is coming to this app it would make it a lot better
+Just needs to improve stability, otherwise it's okay.
+Lack of dev support
+Cant uninstall this app
+Cannot uninstall this app the phone hangs when i try to uninstall this app.
+Cant uninstall this app??
+I can't uninstall this app this region I hated​ this app

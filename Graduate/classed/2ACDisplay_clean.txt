@@ -1,20 +1,305 @@
-Perfect Minimalist Lockscreen I've been using AcDisplay for a long time now. It handles notifications simply and smoothly, right out of the box, but now has plenty of customization options available (esp. custom widgets) The only problem I've encountered so far is the occasional non-responsive media controls, but I'm sure they'll be fixed soon. Thanks, dev!
-Love the app, however, there are a few bugs. I noticed that whenever I press my physical home button, it automatically unlocks my phone. Not sure if that was done on purpose though. Also, when I press my recent apps button, it takes me to my recent apps, which I don't think should even happen. It would be nice to add an option to set a custom wallpaper for the lockscreen as well as enable pattern and passcode lock. Other than that, I really like how simple and straightforward this lockscreen is.
-1. WHEN USING LOCK SCREEN FUNCTION WITH PASSWORD CAMERA WILL NOT OPEN. If you want to use the AcDisplay lock screen and a pin, you simply enable AcDisplay on top of your stock lock screen. However, when opening camera from an off display using volume button shortcuts, AcDisplay will be in your way. Also, when using the AcDisplay camera shortcut, you will have to enter your pin before being able to use the camera (versus being able to use camera from the lock screen with the stock lock screen). 2. PHONES WITH FINGER SCANNERS MAY NOT FUNCTION PROPERLY. Many phones such as the Honor 5x, Honor 8, Nexus 5x, and Nexus 6p have a fingerprint scanner that allows you to go from an off display directly to the home screen when your finger is scanned. You cannot do this with AcDisplay, as the AcDisplay lock screen will open up every time your phone is unlocked.
-Lovely app but... This app has such great potential I hope the developer isn't dumping it. Apps like "Glance Plus" is taking over but aesthetically can't compare to this, functionality wise the former has unique options like direct unlock with finger print, auto disable when call alert, the gesture wake seems more sensitive too. Would be great to see features like these on ACdisplay cos this app is well written. I think a lot of people don't mind paying for good written apps.
-Great so far. The lock screen is so beautifully simplistic and so far it's been working great. Only one issue: I have the app set to stay enabled even when there are no notifications, but every so often I'll wake the phone screen and it just gets right into my phone. The lock screen isn't there. So just that one issue. Something I'd really like to see is the ability to set some sort of security to the lock screen, whether it's a password, pin number, or pattern.
-I totally love it but... Everything is so subtle and clean. Just one thing, make it more stable for music player. In an instance, I was playing music and in the first time I looked at the screen I saw the toggles of musixmatch player and a blur of the artwork as the background. That was great but I turned the screen of and I turn it back on and everything was back to the clock and the phone's wallpaper. Please fix this because this is one of the best apps. This fix could mean so much. Thank you and I hope you will respond.
-Good but flawed The minimalistic design is very pleasing and I really like the functionality. There is one issue: I have a phone where most of the time I use the fingerprint to unlock. Because this needs system administrator privelages, often I will click and my phone will tell me that because of Android security policy I need to enter my pin, and not use fingerprint. Also, it would be simpler if you could set a fingerprint within the lock screen instead of having to clock again to your normal lock screen to unlock.
-Hi, i love this app it's so elegant and simple yet good aesthetic. The only problem is that for devices like mine which has fingerprint sensors. Their compatability is too far from acceptable i think it's due to the security policy. The case being that you can't use it together with the fingerprint and the users will also want to keep a lock on a phone for security and we can't use the app in sync with it
-Works as expexted, but doesnt solve Android issue This is a great small and free app, but it doesn't solve underlying problem with Android Lollipop 5.0.2 screen lock. I've searched for some app to show small and compact notifications after upgrade from Kitkat 4.4.4 to Lollipop 5.0.2 on my Sony Xperia Z3 compact. Despite this beauty works smooth, it only makes things worse: to unlock a mobile I need to make FOUR actions: press power button, swipe AcDisplay screen, swipe my unlock pattern. This is just ridiculous!
-Great app just needs a few additions This is a fantastic app for someone coming from the Motorola ecosystem that misses the active display as badly as I did. There needs to be a way to swipe the media player out of the way to access the normal acdisplay screen. There also needs to be an addition that brings up acdisplay when the phone is picked up after sitting for a set period of time. I have issues with the proximity wake but pulling it out of my pocket always seems to work. Otherwise this is a fantastic app!
-Little bug When i was unlocking my phone, sometimes it has delay and after 1 to 2 seconds the lockscreen will appear. And when someones calling, i need to unlock 1st before i can see whos calling. Its nice and clean but need passcode. I'll give 5 star for this lockscreen because in my opinion this is the best. But it lacks feature. If you can release a paid version app, I'm willing to buy this lockscreen.
-Almost perfect 1) The following feature is called active display, it was integrated first into a Nokia 909, later introduced into a few Lumia Whidows Phone devices. 2) On windows phones (that the following feature was available on), it was labelled as "Glance screen" and it was separate from the lock screen 3) Glance is essentially an extra layer over the current screen lock layer. 4) I tried most of the alternative apps, yet I come back to this one all the time 5) GET IT NOW!
-Glance plus app (Why its better?) I don't want to use glance plus instead of ac display because acd, it's really beautiful! But I have to use glance plus because of two features: Customisable Analog Clock & Calender (both at different times can be added to lock screen). I don't want to use glance plus. Ac display team please, do something. Thanks. Waiting for your update, acd!
-Perfect I always wanted something like this but I wasn't able to find however I think now I have with you AC Display. Now I am so much used to it that it is hard to get away not to use it. This is a feature that every phone should have. But no problem all of us have Android devices and therefore No Problem.
-Probably the best ever lock screen app in my view. It's very simple and good looking, and works also great. Although it says the lockscreen feature is in beta and may not stable. But it's enough stable for me and works well. The very minimal look and unlock animation makes it different from other apps. But there no password or pattern protection is available in it. Please add some protection and the app will be PERFECT..
-Great features but please work on supporting 'smart lock' of samsung When i get home, the smart lock keeps my screen unlocked meaning i dont need to type in a password to unlock it, but with Ac Display set as lock screen, i always have to unlock the phone with a password every time i turn it on.. please fix (: -edit: nevermind i dont have to retype my password but i have to swipe a second time, however if i dont have a password set, then i dont need to swipe twice, i need a password on it tho
-I love the app, it works smooth on my s7 and helps a lot with notifications. The only issue i have is when I try to unlock my phone, it opens the ac display, then after I swipe it goes to my lock screen before ac, and tells me I can't use my fingerprint to unlock my phone. I don't know why but if that gets fixed it is definitely a 5 star app.
-Home Button The app is nice. I enjoy the sleek look it brings to the table; a nice change of scenery from the stock lock screen. however, it's a little irksome to me that the screen unlocks just by pressing my home button while the display is on. I also seldom experience an issue with the screen display coming back on just after dimming once a notification has been shown and no action taken. any way to fix these issues? Then you're golden!
+Edit: 'Had to uninstall. Started taking too much resources/battery in the background I don't know, if it's a bug or anything. Kindly fix it.' Really cool. It's a no nonsense app. Please do rem though this app keeps on running in the background and though it's not really a super heavy app but it's not feather weight either. It is perfectly fine by me, coz I find it to be totally worth it. It gives you a  buttery smooth  experience and the lock screen looks wise is damn cool. Love it. Thank you so much!!
+The lock screen is so beautifully simplistic and so far it's been working great. Only one issue: I have the app set to stay enabled even when there are no notifications, but every so often I'll wake the phone screen and it just gets right into my phone. The lock screen isn't there. So just that one issue. Something I'd really like to see is the ability to set some sort of security to the lock screen, whether it's a password, pin number, or pattern.
+The best one have used. Simple. But not so smooth now. If there is a carrier notification on home screen and if its not removed and screen is turned off and then on again. the app responds abnormally making the ac display lock screen blink continuously. Also if we are able to choose custom background instead of black or homescreen,it would be great! Down rated..fix the bug. would love to rate 5 stars then.
+This app is fantastic regardless! I would love some features like lock screen options, etc. But either way you did a great job. I was using Nils previously and stopped and really didn't find another one I liked until now but I have to try it out and see how it worked in my everyday use.
+The s7 Edge is the second device I've had ACdisplay as my main lock screen. Only issue I've come across is recently, when I have a notification and I click the icon, it won't give me any information of the notification in place of the widget anymore. If somebody can tell me what to do to sort that out, I'll rate 5 stars. As of now, it's the only nice looking lock screen worth having.
+When i get home, the smart lock keeps my screen unlocked meaning i dont need to type in a password to unlock it, but with Ac Display set as lock screen, i always have to unlock the phone with a password every time i turn it on.. please fix (:                              -edit: nevermind i dont have to retype my password but i have to swipe a second time, however if i dont have a password set, then i dont need to swipe twice, i need a password on it tho
+I used this lock screen for a very long time and loved it, but I had to stop using it because there was a bug with it that would disable/shut off my alarms immediately as they were starting. This, in turn made me late  for work on several occasions. If that one bug would or could have been fixed... 5 stars,  best lock screen ever.
+Great minimalist lock screen. The wave proximity sensor unlocking function should be improved though. As well as adding more options for swiping from upper/lower right/left, not just dialer and camera. And it would also be perfect if you can edit the size of the clock. Hihi. Still an awesome app though! :)
 Hi. I really like this lock screen. the feature where you can set the lock screen background as your home screen background. It even world with live wallpapers! I have not yet figured out how to add a pin, password or pattern so one of these would be nice (preferably pattern). Thank you and keep up the good work.😀😁😃😄
-It's doesn't work what so ever. I'll have to lock screen enabled yet when there is a notification, it will just unlock my phone instead of showing the lock screen. So instead of showing me notifications it unlocks my phone while in my pocket and ends up opening all my apps because my phone is unlocked. Even when I tap the home button or the lock button it just unlocks my phone. It looks nice, but I can't use this anymore without wanting to smashing my phone
+it's a gorgeous app, it makes my phone look minimal and pretty, but there's one little thing that could make it better !!! and it's adding a custom image to the lock screen, having the same as the homescreen removes the personal user touch.  I hope it gets changed in the near future 😀
+Love how it looks, love the functionality. Almost everything is where they are supposed to be, other than 2 things. 1 - unlocking the phone is a hassle - please please help us with this. 2 - the ability to pick a wallpaper to show on the lock screen. Looking forward to the updates and giving this app the extra star it deserves.
+This is by far the best lock screen app with notification that i have ever used..  keep up the good work..  but just one more thing..  if you can actually have a function to lock like password and pattern locks, that would be amazing...  then i will give you another star..
+This is by far one of the better lock screen apps out there. One thing, though is that it has absolutely no security. I think it would be great if ac display can use something like lg's knock password. That way, you can still keep the minimalistic look. For now, I'm going to stick with pin genie, but this is still one awesome lock screen app!
+Honestly, I find this lock screen way better that the android lollipop lock screen too! This is exactly what I wanted: minimalistic, useful and it doesn't even use a lot of battery! The only reason I haven't made this my default lock screen is that there is no password lock. Besides that, I recommend this to everyone who don't like their like screen's looks.
+The app is amazing and works better than the Moto display, in my opinion! But there's a thing that really need to be fix: in Android 5.0 or 6.0, when we unlock the Acdisplay, we have to swipe up the Android lock screen again to show pattern lock screen.
+It's good, but if you make it more compatible with lollipop and marshmallow lock screen, can be better. Another thing, can you put always screen on feature? And, don't forget that the new phones have fingerprints readers, just make it most compatible and you have the perfect app. Good luck.
+This is one of the best looking and most inventive lock screens I have seen. However, it would be great to see a built-in lock function. It's the one thing keeping me from using this as my current lockscreen.
+This is the best lock screen. It's a shame it hasn't been updated in a few years. All it needs is fingerprint unlock integration and the ability to add custom wallpapers separate from the home screen. I'm pretty sure this is open sourced so if anyone wants to take the challenge!
+Widgets are not working on LG G3 and the Facebook Messenger Chat Heads appear on top of the screen lock when somebody sends a message. Besides that it's a great screen locker, cool design and useful features. Would also like some quick settings buttons somewhere.
+Oh no... It's crashing and no notifications... Here was my take when I just started using the app.... But.. Disappointed... Can we please fix the issues! Awesome minimalistic locker... Just works.. Tried so many screen locks... But this one rocks and works each time.. Specially when you have android 5.0 versions... Love this app. Cheers! Look forward to more features soon! Great job by the development team
+I love this app, it does what it says it will and it looks amazing. The only problem I have noticed so far is the app bugs and doesn't appear when you clear your notifications on the lock screen, but not in the notification panel. Other than that it is awesome.
+I can not get the app to lock my Samsung S5 screen. I have tried multiple times and it has shown up only once for me. I do have it set for no delay, but that's not what I'm getting. So disappointing.
+It's the closest thing to my old moto x that I can get. It works great and does have lockscreen ability despite what many people say. Just disable the phones default lock screen.
+It's a beautiful app, I love the look, but you need to figure out a way to make it work with a pattern lock independently of the android lock screen.. Else I unlock through the app and find myself again at the default lock screen.
+I didnt think that there is a lockscreen app that doesn't actually allow you to lock your device (in the sense of requiring a password or pattern to access it), but this is unfortunately one.
+But the only thing Is that it doesn't have a security password or anything ..hopefully it's something that can be added in the near future .   .   Oh one more thing if you could add more shortcuts instead of just having camera and phone like flashlight and so on that would be great .....
+The s6 doesn't have the same IR sensors that the newer motorola devices have so the implementation is not nearly as integrated.  Not responding well to motion or gesture.  Transition to lock screen is clunky.  Makes me miss my moto x2...
+Can you maybe have a way of enabling a pin lock screen? Just for security reasons. And also you should disable the navigation keys completely as you can unlock your phone with the home button.
+Updated my s6 to marshmallow and now the icons that show on the lock screen for notifications are screwed up - what's app shows as a triangle with ! inside, gmail is an h icon. What's going on?
+I think this is a well polished simplistic lock screen and I love it but  please update your app so we can have a password and swipe locking. Then I'll give it 5 stars
+As a self proclaimed minimalist, i fell in love with this lock screen. Sure, it doesn't have finger print unlock but I have all my sensitive apps fingerprint locked anyways. The ONLY thing this app could add imo is the ability to use a separate image for the lockscreen. Do that, and i will immediately raise it to 5 stars. Scout's honor.
+I wanted to like it. I like the simple interface but the problem is that this works randomly sometimes I saw it sometimes I didn't. It would constantly go from this to my normal lock screen.
+it always respond even if it is not as accurate as Motorola but it still works and its free too so a worth of download and will rate it
+I can't seem to select a wallpaper different from my home screen for my lock screen. Also I can't have multiple widgets set up? So I have to choose either a clock or weather or Play Music? Doesn't give the freedom I want from a lock screen app.
+Having problem to set as default lock screen when password/pattern enabled.  Can you make it password enable so that we can disable system lock screen.  In MI-Redmi 4 faced issue.
+The only bad thing about it is when I turn my screen on it stays on for five seconds don't know how to change that and should give the option to set a picture on your back round
+great, simple interface -- but could you please add the option for notifications to stay on screen as long as a user wants?? that's the ONLY flaw I could find with this app.
+It's cool, but I need some help, I'm using asus zenfone5, I'm not quite understand how to replace the lock screen display system with acdisplay lockscreen., because I already following the instruction and it's still not working., The second problem is, it will "Locked" with Acdisplay whenever a new notification come up. So I had no choice to disable it, and just waiting till it fixed. I know it's still beta, and I will look forward when you fix it, thank you in advance., p.s.: Maybe it just me that missing some step but I don't know. Need help.
+I had issues on Android 6. It seem the lock screen appear everytime I received notification. Anyone can help me? I really love this app 😭
+I believe this is still in beta, so minor issues are to be expected. Lately, my phone has been unlocking itself when numerous notifications come in rapidly. It's not a huge deal, but it's kind of odd. There's also a bug where my notifications will break my lock screen when I click on them. The whole screen turns black, but after unlocking and re-locking, it's totally fine. Neither happen all the time, but often enough to where I kind of expect one or the other.
+As much as I love this app I can't give it 5 stars unless there's a password feature added. I want to make this my default lock screen but it leaves my phone vulnerable
+Best lock screen replacer I have tested, and I've test a whole lot. Works right every time you turn the display on. Thanks, I hate Samsung's lock screen!
+Would it be possible to disable it when on home Wi-Fi and there are no notifications to be shown? Also, the lock screen time out should have an override as for now it interferes with apps that run on top of acdisplay (most noteworthy is the Note 5's screen write app).
+Good app..  But older notifications which are read out earlier, reappear on the lock screen. And disappear only after clearing it.. Which is very annoying.. Please fix it.. Otherwise very good app.. Waiting for reply
+Its amazing I gotta admit but its pretty inconvenient when I have to unlock this plus my previous lock screen with the pattern lock in it. So my proposal is that you should add a lock-type to the app so that we can choose what method of lock we can use to lock our phones instead of just having one way to unlock it but overall the app itself and the display is amazing and I totally recommend it 5/5
+The inability to choose a different wallpaper for the lock screen is hurting this app. Your choice of wallpaper is the same for lock screen and home screen.
+This app is awesome, flawless marks, except it lacks the ability to lock. If you feel no need for a lock, then dive right into this minimalistic app. I wish there was a way to set a PIN or Pattern lock, or maybe some other, custom type of security.
+It looks so beautiful that I can't explain but it miss the one thing that is being a lock screen. Sadly it doesn't have a lock.....
+If I lock and unlock my phone quickly acdisplay lags and then works when I'm already on my home screen. Other than that it's been a beautiful app but this is very annoying
+I love this app. But I woluld really like to have the freedom to choose a different  wallpaper for my lockscreen rather than the same of my home screen . It limits the app by not providing the option to choose wallpapers of my own .please update the app with this function I really don't wanna uninstall the app. Please consider this .. Thanks and hail the developers.
+I know this application is all really about handling notifications and the lock screen is more of a side feature, but that's how I use it. The interface is very clean and simple but can also be customized with widgets. Corners can be assigned for phone or camera. It'd be nice to be able to launch any program. I love that you can interact with the normal android notification pull down while the screen is locked, to toggle the ringer or wifi. Memory usage is good, CPU is nil. Great job!
+Geat app runs beautifully on my S5 mini. Only one complaint is that there isn't an option to put a password. I the coulc please be out in place that would be awsome.
+Yah I know the developer wouldn't add security but that's what's missing
+This is a great lock screen, with minimalism at its best. A lockscreen is the only thing that makes it not perfect. Additionally having no lockscreen takes away the name lockscreen.
+I really like this app and I've been looking for a nice simple look screen for a while now. However, there are some things I don't like. I don't like how the lock screen wallpaper must be the same as the home screen wallpaper. I also don't like how it seems to dim the wallpaper.
+Doesn't work. Installed and turned on. Still have existing lock screen with no way to disable it. Gave up.
+Contact photos in Google Messenger not displayed, among other apps. Great design though. Will remain on my lock screen in hopes more apps get support
+This is the display for a lock screen I have dreamed of. It sucks that you can't use a password or any type of security on it but the app does a nice job explaining why so I understand and it does not make me love the app less. Great work.
+Pretty great lock screen replacement. The only thing that I wish would be on it is the capability to auto restart if the process bugs out due to memory problems.
+This is my favorite lock screen app but recently when I unlock it will lock it again or it will lock it without me pressing the power button. Please help.
+It seems to interfere with OnePlus' native "black screen with white time and notifications" this one just does it better, but I don't know how to disable OnePlus' native one. As of yet.
+If somehow the screen gets locked with notification panel being expanded,then it still remains expanded  over the lock screen when I turn on the screen.
+The app is good but there is no option to set a password on the screen luck. this will make the app perfect.
+This app is good yeah but it just lacks the ability to lock your phone, quite useless if you can't even lock your phone I mean what good is a lock screen if you can't even "lock" your phone right. Also the fonts, I hope that someday we can change the fonts
+It's a very good application but you must let us change the lock screen wallpaper.
+It starts automatically with reboot.good.but lockscreen crashes sometime.bad.so I have to install picture password locker as secondary locker which also starts automatically after reboot.the combination of two is perfect for me.
+everything else seems to be fine, but the music controls do not work anymore.   EDIT: are you guys going to create some type of security with this lock screen?
+I love it very much very smooth and elegant buuut, it dosent have a a security also it goes to my homepage if I press the home button whilst on the lock screen , but overall it is a great lock screen thanks you😊
+Almost perfect but a small problem. when acdisplay active and lock the screen again,it will flickering the screen then complete lock. My device is LG G4 on lollipop 5.1
+Only need to make it able to unlock directly with phones fingerprint scanner.  And secondly make the widget automatically float on the lock screen to avoid screen burn in on Amoled screens.
+Really liked the overall simplicity of the lock screen. However, really want to see some security features such as an addition of a pin or else I'm stuck with 2 lock screens.
+I just wanted to give the developer(s) a round of applause 👏👏👏 This is one lock screen I will always keep (I've changed about 7-8 lock screens in the last couple of months). There are still a few details you can make like password or unlocking circle going transparent, but this is also a 5 star app. Ty
+Just what I needed. Nothing fancy but looks good and flashes up notifications on sleep mode screen so helps reduce chances of missing them. Recommended
+Awesome app, would be better with "Okay Google" hotword detection EDIT: For those who dislike the constant notification, long press on it, click the little i, and set notifications to none :)
+Very slick and working well so far.  Only gripe being that I can't get BBC Weather to show up on the lock screen.
+Not 5 stars as I believe it should provide option for basic authentication at least say a password or pattern. Otherwise a cool and good app
+The User Interface of the notifications is absolutely beautiful. BUT here's the thing - this is a lock screen without a lock - Frankly a disappointment.
+Would be better if i had option of just waking directly to lock screen whenevrr i take it out of pocket, its very painful to double swipe to reach notifications.
+Minimalistic and beautiful, this fulfills all I want in a lock screen. 4 stars because it misses one point, locking. I couldn't find any way to put a password of some kind, and I would really appreciate if you'll add it. Great app overall;
+Android has upgraded to smart lock but this app defeats the purposes. Every time the screen goes off, its locked. Stupid. Uninstalled.
+I love to use this as my lock screen, and is perfect for checking notifications!! The only thing it still needs is a camera shortcut. Then it'll be perfect!!
+It's good. I want read full massage on  lock screen so please accept my request ......please .....pleas
+I love this lockscreen! This is the awesome lockscreen app! Good job! I hope it could be password there. Sorry for my bad english
+A beautiful, clean lock screen with good features & design. Needs some improvements for example : it needs a password or pattern unlock for the lock screen so I can disable my current one.
+Cant disable the touch buttons on lock screen, keeps unlocking my phone on my pocket.
+It would be even better if you added a password lock feature to the lock screen. Also, make it so the lock screen doesn't disappear if you tap the home, recent tabs, or back button because I'd love to use this as my actual lockscreen. Do this and I'll give five stars! This locker is the best!
+Definately stayed as my new lockscreen as soon as I tried it!  4 Stars only because there are one or two features missing, like for example a display of battery percentage, or the ability to access the status bar from the locked screen for quick settings edition.   Thank you for making this app!
+Very good and simple lock screen which is very light and functional. Cant really call this as a lock screen as it does'nt has a password protection. It will be the best screen lock on android platform if   full string password and (or)  finger print protection with privacy control(ability to define apps that could be unlocked with out password) is added to this... Expecting new essential feature soon...
+Honestly i love this app im not thr person to give a good review when the apps bad but this apps flawless i wont ever change it my favorite part is that its so simplistic never gliches out and its reliable best lockscreen app for android hands down
+I liked the app but now that it has served its purpose, it cannot be deleted because it has crashed the settings every time I tried to revoke its administration control.
+However, please add custom lock screen wallpaper support so the lock screen background could be different instead of the same with the home screen background. The lock screen also can be easily bypassed by home and multitasking button.
+Most minimal, easy to use lock screen put there! Beautifully designed! But wish there was support for pinning third party apps to the corners of the screen. Only options are dialer and camera. If it had third party app support this would earn 5 stars for sure!
+While performing some job then it is also showing notifications with black screen if new notification arrive. Earlier everything was ok, U don't know what happened !
+It is the best of all lock screen applications! It's simple, slick, notification interaction is great and the music widget is simply 👌. I only wish we could be able to choose a specific wallpaper for the lock screen, and the ability to set a pattern/pin lock would be appreciated. Other than that, 10/10, great job.
+As you know ASUS has no option to disable fabric lock screen you can just put it to swipe so i get delays on locker if you can fix it, pls fix it! And please delete Ac option reminder on notification bar
+On a nexus 6 now and I missed the active display on the lock screen. Acdisplay seems to have all of those features. Outstanding app so far.
+Phones with sensors,more sensors can meetup all the requirements without and 3rd party app which needs a higher budgets as well. But as for the mid range smart phone users with less sensors this is the perfect app for checking notifications and an amazing lock screen.  5 stars
+This app is perfect for what I'm looking for in a lock screen. Easily accessible notifications, simplistic look and zero issues. Excellent app!
+I'd say the main issue is the apparent lack of support for fingerprint readers. On my Nexus 5X it just refuses to move past the lock screen after reading my fingerprint, which is rather unfortunate.
+The unlock background should have a transparency option too, instead of having an opaque screen every time you unlock. You should also be able to position the time and notifications, maybe you want the notifications on the right side of your screen or above your time, etc.
+I really like this fast and simple  but is there any type of security on this  i mean  its called a lockscreen but it does not seem to lock your phone as such or i cant seem to find  any type of password or finger print  type security otherwise i would have given this 5 stars
+I'd like to see the lock screen feature work with fingerprint reader supported devices like the Nexus 6p, etc.
+I love this app. It does exactly what I wanted which is to put simple notifications on my lock screen without all kinds of unnecessary stuff getting in the way. Reminds me of my old Moto X. Also doesn't seem to harm my battery life.
+I really appreciate your stuff  Mr Artem it is fabulous the lockscreen which i want since long decade finally you made you made it possible for me i seriously don't understand why people leaving bad reviews on your stuff i had donated to you all your stuffs in your app 😃
+Rated 5 stars. But I need a Password screen after swiping notification screen.😃
+Notifications are hard dismiss when there is more than 1 line of notifications and when you try to dismiss it by pulling it down it just shows the notification below it and it gets really frustrating
+I think I've finally found the best replacement for the standard lock screen. What would make it perfect is unlock methods being added to the app, having the ability to quick reply to messages, choosing any wallpaper for the background
+Love it , I think it will be better if it has more customisations. And features like pattern ,PIN, password. And support horizontal mode for tablets . the last one is very important to me, i hope you add it .
+This is happening last couple of weeks. On arrival of new message or notification on lock screen the screen flickers like crazy on my Note 5.
+Man u admin... Iv been using the app fr almst a yr... that's a pretty wrk dude.. loved it..if u can make it wd secured lock screen wud b grt..even thou its worth 5 star dude
+Enable developers option and enable skip lock screen and if you have password it will only display the password page AC display will pop up first then the password page
+Cant uninstall app? Force Stop or Uninstall options are grey. How can you make an app that can't be uninstalled. Total Bullshit. I been emailing developer, no reply. F...ing Bullshit....
+First I'd like to suggest to disable that home button action because it turns the lock screen off......and adding some shortcuts on the lock screen would make it very good..i hope you do it in next update..
+The app works impressively well, it's highly customizable, very neat. Great for people who need short preview of their messages without them taking all the lock screen. Minimalist and useful, doesn't draw battery.
+I love this app, I have a suggestion, it would be cool if you could disable the home button on the lock screen so you have to swipe. Also please disable the Samsung captivate buttons from illuminating on the lock screen
+I like the app, it works well. I find that if I lock my phone then turn it back on right away it defaults to the standard lock screen for a second then clicked into AcDisplay. Besides that it works really well. Good job
+I installed it on my HTC one M8 but I still get the HTC Sense lock screen. It doesn't seem to work.
+Very polished and professional looking, regular updates, customisable, very very good. Can we get unlock sounds and full screen album / Spotify / podcast covers while playing... Quite important...
+I'm enjoying using this, but now if I'm using my phone and I get a text message it will lock my screen and I will need to swipe again to continue using it. Any help in fixing that would be appreciated.
+Weird with fingerprint reader and any other pin lock. Having to "unlock" twice. Very nice layout. Hope it works
+I liked it very much. I would like to rate it five, if it have option to reply directly from the lock screen. Now I'm getting notifications to see on lock screen, but to reply it, I'm using finger print to open then responding.
+This always on screen shows up after the lock screen. Should be the other way around..
+This is the best lock screen. I love it. It makes my LG V10 more useful and a unique yet elegant design.
+I would like to have option to disable AcDisplay lockscreen while charging, in order to use 3rd party charger lock screen, thanks so much!
+Unlike other lockscreen apps, it doesn't try and replace your lockscreen, but works alongside it, only coming up when you've got notifications. It's an important difference and I like it.
+Please add a way to lock the screen with a fingerprint or password(PIN) and also remove the notification thats says "Ac display service active". Otherwise great app !
+When I get a notification when it is locked, the screen will stay on, and stay active. I hope this can be fixed.
+PLEASE IT IS A BEAUTIFUL LOCK SCREEN BUT IF YOU CAN HAVE SOME KIND OF SECURITY IN IT THAT WOULD MAKE LIFE PERFECT .
+This app is great! Weldone developers! I would just like if you add the feature to use lockscreen pattern or some type of a password if we want. Then it'll be the best! :)
+Easily the best lock screen on the store. Would be better with a password option though.
+Very minimal, very effective, and very beautiful, only one drawback is that it does not provide any lockscreen security
+Latest update has issues with music controls showing up on lock screen.
+Love the app, but the ability to set it as a lock screen is meant to be secure, no matter if the pin or password options are easy to bypass, a lock screen is a lock screen. If there is no security it's just a screen.
+Good app but i have some isue when notification occur the screen when on and will turn off if the timer reach 0 but after screen turn off the screen will turn on until i open the notification this is very annoying
+Awesome lock screen app till now in the Play Store seen many videos for top 10 lock screen apps And 8/10 This lock screen app places it self on 1st position.WORTH IT!!thanks developers!
+User interference is very good but I get active screen very few times when I shake my phone very hardly
+Awesome lockscreen...simple and yet beautiful, apart from all the lockscreen and notification functions the ability to use custom widgets takes it even further..one of the best lockscreens in the playstore now.
+Quite possibly THE best lock screen...but trying to us Chronus Weather widget but all of the widgets show up with a red triangle.
+I can't access my notification bar from this lock screen but from every other lock screen! Once you got this... This app is just amazing!!😍the best lockscreen app!
+Only complaint is that there's no security options without doing a double lock screen but apart from that, just an all round great app
+There is no built in pattern and I have to unlock two screen which is quite frustrating.
+I want to use ac display with picturesque lock screen. When I do use it,notification comes in Stock lock screen(which is not secured). No notifications in the other lock screen. I am opening two lock screens.
+Not able to revoke the device administrator access. Want to uninstall it. Not able to revoke the granted access please notify me the procedure.
+When the app crashes, I reopen it to find that notifications aren't showing anymore
+Incredibly hard to uninstall and didn't really work as a lock screen.
+After the update I have a lot of issues about rotate screen etc..
+It's good overall but I do wish it would have a lock screen for security. I use this app sometimes but my main lock screen is Snap Lock because of the actual security.
+I can't set a widget. It says "Unfortunately the process com.android.settings has stopped"
+Thanks god u can doubletap to screen off while condition lock.
+But the baddest thing it doesn't concern password
+Love the interface and would love to keep using it but it seems to be a battery killer. Going to disable for a while and will amend my review depending on results.
+One drawback is that there is no lock screen wallpaper Not working with Nogut
+I do wish you could set a custom background, though.
+Really love it looks beautiful, it would be perfect if I can put a pattern or pin with the app instead of the built in lock but it's still great
+This is the only lock screen app that had never stalled on my phone. The ability to place any widget on the lock screen and make it interactive was exactly what I wanted.
+Really like how it gives a minimal notification on your lock screen. Anyway you can turn off the background image? Recommend HIGHLY
+still waiting on secure lock features for the lock screen. would make this experience complete. Willing to pay!
+Good app. Any way, the lock screen feature is really unstable
+This is the best lock screen I've ever used, when it decides to work. Which isn't too often
+Best app of it's kind but one feature need to be added please add always screen on after wake up notification cause it goes back after Max 5 secs
+brilliant, beautiful lockscreen. everything i ever looked for in a locker but PLEAASSSEEE allow for a security function!!! it will make this app perfect. i will leave 5 stars in advance :)
+Using this app for ages, i loved the ability to add Widgets, but massively disappointed now. Doesn't function with Spotify, no lock code, please please please fix.
+I wish it had the ability to set a PIN, but I really like the feel it gives off. Just wish I could get rid of the notification bubble.
+Everything was fine except one thing. If i touch my right capacitive button then lock screen is gone.. !😒
+Is there a way to set a pin lock from the acdisplay settings? I don't want to go in my phone settings, then lock screen, and set it up from there. That'll just make my phone have 2 lock screens. The acdisplay, and the pin lock one.
+I do love this lock screen compared to my old, stock android one, if only there was a camera shortcut on the lock screen... (Please add a camera shortcut! :)
+Nessun problema,ogni volta che cambio un telefono é sulla mia lista dei download se non il primo,complimenti,continuate cosi
+One thing is missing..  The Pin/Password protection is needed
+I am not able to get notification on lock screen
+I really like the simplicity.  But i cant find the option to put a pass code.  Whats the use of a lock screen with no security?
+Hacked my phone and put ads all over my screen
+So far so good. But I'd love it if the lock screen mode is not a beta content anymore.
+It would be so much better if it had an option for separate wallpapers for home and lock screen other than choosing the same wallpaper automatically.
+Simply amazing but one thing, please I need put my own shortcuts not phone or camera only, I will appreciate it
+Is there a way to show the fingerprint reader to override the lockscreen on this? Seems I have to swipe the lock screen away before using fingerprint reader on nexus 5X.
+Not Uninstalling. Deactivate problem force stopping settings
+Love the notification one, but the lock screen is the best feature in this. The developer should consider make security / passworded lock screen though.
+There is a bug when I lock the screen the screen locking sound comes six times please improve it. Then I will rate five stars
+Lock screen does not rotate. Otherwise good app.
+Simple, stable and smart. This lock screen make massive notification looks clean. If you are looking for a lock screen to replace your stock lock screen, you must try this!
+This is the best lock screen ever! Recommend this for every Android user! I just wish there was a custom pin or pattern lock screen to go with it and for that I give I a 4/
+Samsung has hardware buttons and when on locked state with screen on, pressing menu/recent unlocks it. Good work on home button though !
+Over all its a good app only thing lacks is password for lock screen if u add it would be awesome
+It dosent work on my Sony Aquos device tho and i will rate 5 because this is still beta and it works on my other phones and tablets
+Best notification app over the locked screen,  we can only set one widget through this app that might be the concern , but it works greatly.
+New note 5. All permissions granted. Soft reset didn't fix. Won't act as lock screen either.
+Useful app to have and does a good job. There haven't been any updates for long .Finger print integration would be great
+The lock screen won't change with android Marshmallow. But other than that, its a good lock screen alt.
+Hey, this looks very nice however I don't know how to exactly set this as my lock screen. Help?
+Works great but why is it a constant running notification there should be a way to disable if you want to see that and have it not pop up
+I really liked this lockscreen app, it's modern, simple and functional, however it must have a pattern or pin lock.
+But I have a question, is there an option to set a password for the lock screen?. If there is I would appreciate the info.
+It's simple, clean, and easy to set up. Best way of displaying notifications on lock screens in my opinion.
+As tody all phones have fingerprint reader so add support to read fingerprint.
+Cant deactivate cant uninstall :( never worked! Not even the notification the app sent...idk what went wrong.
+Everything is great.i only have one request.When the screen gets turned off it should get locked at that instant
+Great! Add pattern lock and make it 5 stars! PS. also sms notifications are not pushed on huawei ascend p7.
+But I could have given it 5stars if it had supported the screen rotation as I love it on my tab
+congruent with my personal aesthetics. extremely clean look, perfect notification preview, by far the best locker i've come across.
+Saves time by given you all the notifications from the lock screen. Simple. I wish it had a Tasker integration.
+If this app could have security for the lockscreen of some sort, it would be the best in its class.
+Such a good lock screen app :) Hope an update brings a password option though :)) Good job!
+Love it. Minimal, stylish, use it all the time now. Greatest lock screen (that's what I use it for) I've encountered.
+It would be perfect if the lockscreen had the option of adding a password
+Great app, very useful. Be nice if security was added to the lock screen (pattern, etc.)
+I love that this is so minimal. I've been looking for a lock screen like this for ages however it needs PIN entry to be great.
+Lock screen is not working fine
+Everything is so nice and well made, however I do wish there was some sort of security feature.
+Works well. I like the look and the minimalist nature. It would be nice to have some sort of lock protection though.
+It's a great app but Nexus imprint not supported and so this application is of no ise for me
+Everything is well except apps settings. Scroll is frozen on that screen on my meizu 5 pro
+Can you please add the battery percentage on the lock screen? Thanks. Edit:Thank you for that!
+It would be better if we were able to set different wallpaper than our home screen
+Sweet, simple , and smooth. This locker is well worth 5 stars.
+I want to yours it as a lock screen but i so want a password
+Simple and Perfect.  Please add lock mechanism to access the phone  Update: Actually it works with default lock.  so it has it
+It's a little glichy, but that means it's only in need of a little development. It works so well, and has been getting better!!
+Can you set your own Wallpaper? I want to know if it's possible.
+Simple lock screen & notification screen (& not blotted with suggestions and ads)
+Need to add a password lock screen not just a un-secure one
+Please add pattern or password lock in next update then i will rate it 5 stars...thank you
+i really love this lock screen however is it possible to add finger print support                thank you
+Works great. Great Job 👍. Being able to weather update would be nice along with the Clock.
+Thanks to team Arthem chepurnoy... it's been sop easy to see and access notifications... keep up
+One of my favorite Lock screen...thanks team.. i think adding additional wallpaper feature make it awesome..
+Its wonderful!!! all features are good. The lock screen is pretty simpler . The wave to unlock feature is useful and wonderful
+Great app overall, just wish there was an option to set a lockscreen wallpaper within the app's settings
+You need to add a security password of some kind.
+Can you please add fix the screen lock function to not mess with the finger print unlocking?
+Please try and continue to improve the lockscreen sometimes it goes to the default lock screen
+Can't control Spotify and Netflix from the screen anymore.  Any chance to fix?
+Like the interface just wish there was a pin,, pattern, password option.
+Awesome! But lacks basic feature of choosing your own wallpaper as lock screen wallpaper :/
+Me gustaria desbloquear el dispositivo con la huella digital
+The perfect lock screen app. I've tried them all and this is the one!
+moreover it is more like motorolla lock screen.. i like it
+This would be really good if u can set a pattern lock or numerical password
+cant complain it work as it shoud be, but can we have a call option
+Why cannot set paterrn or pin in lock screen ?
+Please add some type of security on the lock screen
+Feature request : I would love to have the ability to set custom lockscreen background.
+A lock screen every mobile screen dreams
+I need to set a password. Please allow this app to set password
+Good app for managing notification.  The lock screen requires improvement and more customization options.
+Nice UI "upgrade" from an LG lock screen. Works perfectly and looks good while doing it.
+Best lockscreen app it's so smooth can you please add access to camera from the lockscreen
+Have the option to choose a different image, I have a different image for my lock screen then for my wallpaper
+I wish I could Add a passcode on the lock screen!
+I would love to see some security added to the lock screen function
+Its just one of the best amoled screen type  With simple and worth it diplay interface
+Like moto x.                   But it have to include password in it
+Probably my best android lock screen Personalization app yet for the last 3-4 years...
+A beautiful lock screen. Shows just what I need when I need it. Thanks!
+Nice Plain lock screen. I'm missing fingerprint unlock feature.
+Pressing home button disables the lock screen
+This is a great lockscreen but please add password lock.
+The notification didn't appear on the lock screen.
+Great lock screen! In the next update please consider adding security passwords!
+In it swap to unlock the device they have to provide a partton lock as well
+I like it a lot. Great alternative to stock lock screen on HTC One.
+The lightest lock screen I had ever used .. Simple and best
+This is a cool app. Completely different lock screen from all others apps.really fantastic.
+Everything at your lock screen..what else i need
+Just cudnt find the settings for the time duration of the lock screen
+AcDisplay brings a refreshing lock screen to any device.
+One of the better lock screen appd but could use some fixes.
+I will never change to any other lock screen.
+All is perfect except, when I pressed home button, it unlocked the lock screen..
+I absolutely love this lock screen but my notifications aren't showing up on my lock screen
+I love the app, really. But I need security lock screen functionality.
+It's The Best Lock Screen App In The Universe
+Best notification based lock screen I've ever used.
+Minimalist but can't enable pins, customizable lock, etc
+Why miss screen lock option?
+I love the simplicity, but I wish there was a pin lock for it.
+Where is the password or pattern setting?
+Need PATTERN LOCK option
+Need a lock pattern or pin
+Buggy when recieving carrier flash messages,long way to go for perfection
+It's great I just wish it had a password option
+This app is very awesome...simple...this is best lockscreen...but i want password protection... please add password protection
+How do I add a password to the lock screen?
+Lock screen wallpaper and weather forecasts
+Great app..but add separate lock screen wallpaper function
+Very nice and sleek design.. Just wish it had a lock function
+The most reliable lock screen on the market. Simple, fast, and beautiful.
+One of a kind. Try it, you'll love it!
+Best lock screen app, which enables active display
+Nice application!! Best lock screen i have used so far...
+Has potential to be great app *is now the BEST app of it's kind!
+Like flow is amazing ..feelss smooth i really really love it
+Marvelous lock screen. Hats off for developers who made this app.
+need update for oreo..
+Please include more control over when it is on or off
+Can't give access to active lock screen....
+Would love a landscape option for tablets
+Love it. Just need a finger print unlock function.
+Dabble tap screen on option provide than best...
+Best lock screen on play
+es compatible con sensor de huella?
+the best lock screen apps ever ... keep it up !!!
+Awesome. Best lock screen replacement
+Pretty fast and class lock screen
+Best app in store for lock screen
+Simple and usefull app.. Just love it..

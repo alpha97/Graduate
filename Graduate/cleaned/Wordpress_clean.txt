@@ -1,30 +1,1029 @@
-Latest update caused issues with Jetpack and multiple posts duplicated due to app errors. Uninstalled, this app needs less vanity updates and more rigorous testing.
-Currently has poor performance (typing lags significantly behind your keypresses, and takes several seconds to show changes from predictive text) as soon as you try to edit a post of any reasonable length. Usable only for the most trivial of work on a blog - stick to the website for real work.
-Shittiest application ..doesn't even match up to expectations even with an upgrade ..lags a lot and often restarts uselessly ...less modication tools on a free domain..app developers should honestly learn how to upgrade and make best out of limited resources.
+Formatting is a nightmare, it changes formatting without you doing a thing  (paragraph spacing, etc). Also, no discard changes and limited undo while  you are still using a draft.
+Latest update caused issues with Jetpack and multiple posts duplicated due  to app errors. Uninstalled, this app needs less vanity updates and more  rigorous testing.
+I wish when I read the article. The page would be pretty like how my laptop  sees it. I like the photos on top with the title but on the android it  didn't look like that. Not a big issue but not as visually appealing as  laptop view.
+Currently has poor performance (typing lags significantly behind your  keypresses, and takes several seconds to show changes from predictive text)  as soon as you try to edit a post of any reasonable length. Usable only for  the most trivial of work on a blog - stick to the website for real work.
+WordPress is great, however this app won't connect to my self-hosted  wordpress installation. I've tried setting my WordPress domain to the site,  the logon page etc.. nothing works
+This app would be ok to add thoughts or small edits to a draft/post if it  didn't keep overwriting my posts with old drafts, automatically publishing  days old content resulting in loss of work and removal of entire posts from  the public view as they're converted back to drafts. Easily avoidable by a  confirmation dialogue, this should not be a premium feature through a  plugin.
+Shittiest application ..doesn't even match up to expectations even with an  upgrade ..lags a lot and often restarts uselessly ...less modication tools  on a free domain..app developers should honestly learn how to upgrade and  make best out of limited resources.
 A completely dysfunctional app that lacks direction or help files.
+I try to add more page but it doesn't added
 Its A great app to share your views and state your opinions
 So easy to type a blog post from wherever you are!
-Only useful if you do the most rudimentary tasks. On my first test, I ended up giving up and just logging directly into Wordpress Admin via a web browser. Photo uploads fail 50% of the time, and the message "generic error" is a useless for troubleshooting. Worse, the app is so basic you can't access all of your post settings. Very disappointing.
-Good web interface. But the Android adaptation in the app is very bad. It's a great deal of difficulty to format the post. The formatting done in the post edit page is NOT retained when the post is published. Enters and paragraph breaks are ignored and all the content is published as if in one line. Paragraph indent is not consistently implemented. Only way to write a proper post is to use the web interface. That too, we have to write the whole post in the interface. Copying and pasting will again have same formatting errors.
-It's a good all to easily update or create idea in post or page. Managing is a bit tricky so I firstly use it as app for the blog. I got a bug when modify the "heading" of sentence, the size become different, even for same heading, base on where you click, what was the size before, .. I need to load the page again to fix size
-The app and the website don't work in sync with each other ! I've got posts deleted and modfied cause I saved a draft on the app, then finished the post on the website, and then re opened the app to find the blog rolled back to the draft. It is a huge pain to use the app this way. Would rather prefer a consistent website instead. Thanks, but no thanks !
-I should be able to write in the app, not have it lead me to a web browser. Where the app then freezes. Very frustrating.
-Overall, WordPress left me with a regret, that my time would have been better wasted had I gone for another CMS provider. The quality of the customer's experience is absolutely deplorable.
-The biggest issue I have with this app is that when I try to write a draft on my phone and then press the sync button, it automatically publishes it to my blog and send it out to my subscribers. To me, that is not what the word sync means. Rather, I would have interpreted that to mean syncing my draft updates to match the draft updates that I have saved on line. If I want to publish something, I want to hit a publish button that is very clear about uploading the final product to the site. I don't want to be taken by surprise when a substandard draft is on display for everyone to read.
-Previous version was more better after copies and paste very difficult to do some parts are in bold and some parts are in italics, editing problems in new version. Unable to upload files because no option available to upload files.
-This app has one very annoying feature. If you start writing a post draft with it, the publish time for the post will be when the draft is first saved, and not when the post is actually posted. Let's say I start a draft today using the WordPress app. Then, a week from now, I finish up the draft, but now I'm writing in Firefox on my self-hosted WordPress instance. The "Publish on" shown on the post will be the date when the draft was first saved using the app, and not "Immediately", like it would have been if I'd created the draft in Firefox instead of the app. Long story short; the "Publish on" value should be "Immediately" unless something else is explicitly configured, regardless of if the draft was created in Firefox or using the app.
-The app is great... But is sorely lacking in certain aspects, the most important one being that it has no private chat option. I run a blog with multiple contributers and communications regarding posts and other stuff are a real pain as they need to be organised off WordPress. So at least put in a chat option between site contributers if a built in chat option is too much to ask for.
-Overall great experience having this mobile app to manage my content from anywhere. But Blbadly need a function to "SEARCH THE BLOG POSTS" Will re review the app to 5 star after this update. Keep it up the good work team;)
-In As Much as i Loved the App for Updating My Blog, The Absence of Audio File Uploads Makes it Worth Nothing To Me. Kindly Work on it And it'll be 5star
-Dear Developers, After the last update the app is being excluded from my recent app list. I am running on android 4.4.4 Kitkat. Hope you guys fix the problem soon.
-It's all good but the only problem is while I try to select feature image, it doesn't work. I click on a particular image and it uploads a different one almost every time.
-What a joke. No WSIWYG editing and the preview is also not showing what the post will actually look like. This app is totally useless.
-This app is perfect but please I need to be able to search for posts; scrolling is not all that easy. Thanks
-App is not good music bloggers can't use this app because you can not upload audio ...very bad
-Doesn't have a "sign out" function. To achieve that, you'll need to uninstall and reinstall. Just an update on 4/28/18: Still requires uninstall and reinstall. Great stuff.
+Only useful if you do the most rudimentary tasks. On my first test, I ended  up giving up and just logging directly into Wordpress Admin via a web  browser. Photo uploads fail 50% of the time, and the message "generic  error" is a useless for troubleshooting. Worse, the app is so basic you  can't access all of your post settings. Very disappointing.
+Good web interface. But the Android adaptation in the app is very bad. It's  a great deal of difficulty to format the post. The formatting done in the  post edit page is NOT retained when the post is published. Enters and  paragraph breaks are ignored and all the content is published as if in one  line. Paragraph indent is not consistently implemented. Only way to write a  proper post is to use the web interface. That too, we have to write the  whole post in the interface. Copying and pasting will again have same  formatting errors.
+It's a good all to easily update or create idea in post or page. Managing  is a bit tricky so I firstly use it as app for the blog. I got a bug when  modify the "heading" of sentence, the size become different, even for same  heading, base on where you click, what was the size before, .. I need to  load the page again to fix size
+The app and the website don't work in sync with each other ! I've got posts  deleted and modfied cause I saved a draft on the app, then finished the  post on the website, and then re opened the app to find the blog rolled  back to the draft. It is a huge pain to use the app this way. Would rather  prefer a consistent website instead. Thanks, but no thanks !
+I should be able to write in the app, not have it lead me to a web browser.  Where the app then freezes. Very frustrating.
+Overall, WordPress left me with a regret, that my time would have been  better wasted had I gone for another CMS provider. The quality of the  customer's experience is absolutely deplorable.
+The biggest issue I have with this app is that when I try to write a draft  on my phone and then press the sync button, it automatically publishes it  to my blog and send it out to my subscribers. To me, that is not what the  word sync means. Rather, I would have interpreted that to mean syncing my  draft updates to match the draft updates that I have saved on line. If I  want to publish something, I want to hit a publish button that is very  clear about uploading the final product to the site. I don't want to be  taken by surprise when a substandard draft is on display for everyone to  read.
+Previous version was more better after copies and paste very difficult to  do some parts are in bold and some parts are in italics, editing problems  in new version. Unable to upload files because no option available to  upload files.
+This app has one very annoying feature. If you start writing a post draft with it, the publish time for the post will be when the draft is first saved, and not when the post is actually posted. Let's say I start a draft today using the WordPress app. Then, a week from now, I finish up the draft, but now I'm writing in Firefox on my self-hosted WordPress instance. The "Publish on" shown on the post will be the date when the draft was first saved using the app, and not "Immediately", like it would have been if I'd created the draft in Firefox instead of the app.  Long story short; the "Publish on" value should be "Immediately" unless something else is explicitly configured, regardless of if the draft was created in Firefox or using the app.
+The app is great... But is sorely lacking in certain aspects, the most  important one being that it has no private chat option. I run a blog with  multiple contributers and communications regarding posts and other stuff  are a real pain as they need to be organised off WordPress. So at least put  in a chat option between site contributers if a built in chat option is too  much to ask for.
+Overall great experience having this mobile app to manage my content from  anywhere. But Blbadly need a function to "SEARCH THE BLOG POSTS" Will re  review the app to 5 star after this update. Keep it up the good work team;)
+In As Much as i Loved the App for Updating My Blog, The Absence of Audio  File Uploads Makes it Worth Nothing To Me. Kindly Work on it And it'll be  5star
+Dear Developers, After the last update the app is being excluded from my  recent app list. I am running on android 4.4.4 Kitkat. Hope you guys fix  the problem soon.
+It's all good but the only problem is while I try to select feature image,  it doesn't work. I click on a particular image and it uploads a different  one almost every time.
+What a joke. No WSIWYG editing and the preview is also not showing what the  post will actually look like. This app is totally useless.
+This app is perfect but please I need to be able to search for posts;  scrolling is not all that easy. Thanks
+App is not good music bloggers can't use this app because you can not  upload audio ...very bad
+Doesn't have a "sign out" function. To achieve that, you'll need to  uninstall and reinstall. Just an update on 4/28/18: Still requires  uninstall and reinstall. Great stuff.
 Its I think a good application for first time user to make website.
 Keren bgt lah, cukup membantu buat yg suka nulis tp malas buka laptop..
 Hi dev, can you add justify button on app?
 I don't like , showing create your WordPress ad on my website,
 Can I earn from this site pls tell me
-Can't login to my self hosted wordpress site
+Can't login to my self hosted wordpress site.
+I liked the app. Hoping for cooler graphics in the new version.
+Who the hell would use this for page creation .. lmfao
+I love Wordpress, but I freakin' hate this app. It's very unstable and  worst of all, it somehow automatically reverts some of my posts back to the  draft, which is really bad since I really on some of those posts for  traffic. Terrible app. Please fix this.
+One thing I can't seem to find in the app is a way to manage the categorized links to external sites that I have on my blog. I will have to go to the website to do this, unless I'm missing something (if so please let me know).
+A friend told me he could only scroll back to mid 2017 on my blog using the app. I figured it was his phone so I installed the app. I couldn't scroll further back than mid 2017 either. So I asked another friend online, who I knew used the app, to check. He couldn't get past mid 2017 either.  This app isn't good enough if the visitor has to go to my website and using a browser, use the Archive widget on my blog.  If there is a setting that all 3 of us have overlooked, I'd be very glad to know what that is. Otherwise, I'll just recommend the regular Dot Com site using a browser  Update April 18 2018:  The developers got back to me and informed me that the app can only handle the latest 300 posts. So 300 posts and that is it. Since I write over 300 posts a year, well, that won't cut it for my followers.  The good thing, at least now I know why my friends couldn't browse my whole archive on the app.   I appreciate the team letting me know.
+Need ability to filter blog posts by Published or Scheduled. Sort Publised  in descending order of date published, and scheduled in ascending order of  date scheduled. Just like wordpress desktop browser view.
+Please add a feature to justify the texts of a post. Please !!!! --------  Could you please add option to change the colour of the font. That would be  very helpful
+I'm not sure how to check who is following me. I can only see which sites I have followed. Like Instagram I want to be able to check which sites (from the ones I'm following) are following me.
+After this recent update post setting is shifted to another place plz fix it
+after update, always show upload fail and uplaoding in taskbar
+I can not upload images from my Android cellphone.... This app uploads  image as blank light blue display area.
+I Love You For Giving Me Hope And A Chance To Enjoy Life Helping With  Aliens All Over This Planet
+I'm a beginner but I'm enjoying learning more about this word press.
+Where did the settings per blog post went? I cannot set the featured image, tags, and category of my blog post :(
+Please fix image upload issue
+Need searching feature for blog post
+It's really a nice app. It helps you to socialize with your creativity.
+I dare not open the app. Somehow dropping unwanted local changes to pages and posts is too hard for them, so if you do anything wrong you must go back to your browser to revert it. And it is equally hard to query the server whether a new version is there, so it will go ahead overwriting the server version if you just open your post in app, no warning of course, even if you make no change at all in the app! Allow for user mistakes, please. Phones and tablets are not platforms tailored for creating contents.  It's a shame, the app should be so much more useful.
+The app has a problem with network. I got data and my network provider is  working very well but the App tells me that there's no network how come.  Other apps are working just fine 😡
+This app looks like it is incomplete... In particular, if a page or a post have local updates they cannot be discarded, and might overwrite recent updates made from the site. Moreover, customizing a theme sends to the site. Really?
+Not pleased! Blog posts appear in one big unorganized list. Most of the time this list  is not in sync with the blog. I am unable to locate/load the important posts I currently work on. Please add a SHOW DRAFTS ONLY FILTER. It will make using this app much more practicable.
+Please put the Justify icon back in the shortcuts! And I have many issues with formatting; WP doesn't allow me to bypass the paragraphs; I can't work the bulleting and numbering. Not too conducive/easy to use for computer noobs like me.
+Overall, an excellent mobile app including most of the desktop features. I'm just missing one really easy one: Justification for text. And there is a minor issue concerning the updates of the archives which always causes my phone not to synchronise properly when I finished an article on the computer, saying "local draft" instead. 5* if you get that fixed. Thanks.
+You cannot include pictures to create an offline blog entry. This seems like a very basic thing anyone would want to do. I want to be able to create an offline blog entry- and when I have Wi-Fi I want to simply upload this entry.
+After the past 2 updates, I don't get notifications, I have to open the app to see what is happening. I do get an icon notification sometimes, but no sound. Swiping to left to right causes the app to crash. In the app while writing a post, kindly do give us the option of writing with different colors. I write on the go so this app is the best. But it crashes and it doesn't allow me to report it. It just stops working. My phone is a xiaomi note 4. I have reinstalled the app, also checked my settings. No idea what to do Update : now I don't get notifications at all, neither does my scheduled piece get posted on time. Pathetic
+Over the past few years I've seen this app get worse and worse. In the most recent updates I've lost all my draft posts and if I save a draft post with a mobile Internet connection it sometimes loses the post entirely. It's a terrible thing and if you can I suggest you avoid using this app. WordPress simply don't have the competence to make a good app and the updates have made what was good into something worth a one star review.
+Working on an entry for the third time, after adding a photo wiped out the text, then the next time it blanked the whole entry. No option for recovery, so I'm left to author in a different app and paste into WordPress. Frustrating.
+Doesn't work for self hosted web even i've just installed jetpack :(
+Now increasing 1star. Please add search option in blog post.  very slow .. lots of drawbacks .. company ignoring complaints kf customers and also ignoring improvement of app ...   now today 2 stars .. now also some improvments require for better result .. give more options in writing new post ..
+My issue isn't really with the app, but the fact that I can't get any support. I've emailed and contacted their "professional user" and gotten ZERO response! I paid for personal plan, and have the transaction record of it coming out of my account. But they have my account listed as "free" therefore I'm not allowed access to actual help. Many attempts later, I'm seeking acknowledgment here
+rate only after bugfix .bug  is =     while  regstrn why it  connects to  amazone  server instead self hosted  site .i  have  local webservr.so   app  should  work offline. stop  collecting  users  data...
+I used this app for education purposes and will continue as it gives me a great way to write important stories that I wish to share with the world.
+This app is great but to customize the theme it re directs you to the site.most irritating.
+No matter what I've tried, uploading images is a pain. So far nothing leads without multiple attemps...
+I'm using Wordpress to build up a reviews site, following and traffic.
+I hate that we need upgrade to premium to able post audio
+Exact amount of E-mail follower are not shown on app. Else all simply great
+Couldn't even login to my site... kept giving me a "generic_error" smh
+I like it and does it require a internet connection
+Easy to use. But why I can't upload from this app? Need help
+Interior painting contact Tumi high reflective retro publicity work
+All the functionality working well except post slug. I don't know but I am not able to add/edit slug of posts. I am trying to add slug but it's taken default title automatically.   For English language it's good but what about other languages. So please check this and let me know I doing wrong or any issue with the app ?  Thanks
+The WordPress app has really become a great way to keep notes. I am an older person uninterested in social media and WordPress is ideal for me. I'm glad I've had my account almost ten years! Love it!
+I am really annoyed right now with what just happened. I typed an entire poem of about 8-10 stanzas on the spot and I had to pause my work for some reason. I updated the saved work and suddenly I see what? A screen with only the first three LINES of my first stanza. Now what can I do and what can you do to repay for my loss? It was definitely one of those Wordpress glitches and I am fuming right now. I HAD to publish that post right away. I have no backup, nothing. I need some response from your side. Otherwise I am deleting my blog.
+I like this app a lot. I wish there were some improvements however. A way to remove the WordPress hosted site that you aren't using. Also for posts, I'd love to break it out between those published and separate for drafted. Sometimes I start multiple drafts and they are hard to see amongst all posts
+It's a great app. Except for mobile posting. I always have to manually code the font colour. Please fix this. I faced this hassle every time I posted from my phone.
+Still not getting notifications. Contacted Automattic as requested but no response.   I also have to "like" posts at least 3 times before it "takes".  Original issue still not resolved:  The app has stopped sending notifications. They are enabled but I never receive them. If I go into the app on my own, I can see the actions for which I should have been notified, but I'm not notified. I have to go in and check manually.
+The only thing the app desperately needs is ability to upload media items other than image/video eg pdf. You can insert pdf already in the library but you can't add it to the library.
+This app has syncing problems. I started a blog post on the app and then finished and published it on desktop version. When I went back into the app, the post was still a draft and whatever I wrote on the desktop version wasn't there. It then synced and reversed the post back to draft with half of it missing. I had to go to WP admin on desktop version to restore to the published post and republish it.
+I am having problems logging into specific sites. When I try to view content, it shows that I am unauthorized. HELP!
+It's useful to quickly do a short post and upload photos/videos from your phone to the midea collection though, it fails when you write two paragraphs the app just closes... Usually I can reopen the app and the two paragraphs are still there automatically saved in a draft; it's annoying for anything serious. The code function went away with the latest update and now you can't put everything in a post unless you skip the app and open in a browser... It's useful to use for uploading from a mobile but not if the image is high quality, you can trust the upload to fail over and over again, only to have it say it got uploaded but then be unavailable to view. The last couple updates killed the hope for this getting better. Please put back the option to use HTML rather than just the editor? Like I said, the change in the update is the only problem except, they did not fix the close out glitch. Yes, it happens with this app on all my family's mobile devices. Please fix the random / unexplained closing out of this app. No, the ram was not full. Yes, I turned it off and then back on. Only happens with wordpress. Please fix in next update. I gave four stars because it's so useful for quick / short stuff. I didn't give fuve stars because of the close out glitch.
+Login as contributor show error you don't have permission to view or edit posts
+App is very buggy and unstable. Plus, no response from support.
+Can you make your plans accessible to India too. I mean I just want to purchase it with my Indian currency
+This is my first blogging platform. Please tell me how can I see who all have read my posts?
+Galaxy S7 Nougat 7.0 cant edit published pages becomes a jumble of words but ironically doesnt freeze
+Really Excellent Apps, Firstly i face some problem, i report it to support team, they reply, thanks.
+Please allow multiple accounts login at the same time, without connecting one account to the other.
+Gyorsan elkezdhető a poszt, és bevághato bármilyen tartalom, képekkel is.
+Mo a pre un blog sulla me puttanate
+I like it but still need someone to help me put using it perfectly
+Please add document uploading feature
+Simple to use, not buggy, decent look
+Shabd.brahm.hei.jo.koi.samje
+Buggy, just lost a almost finished post because of a synch issue. I would expect a so much better App from a company like Automatic.
+I'd pay good money for a WP mobile editor that actually worked.  This is so broken for image controls (legacy doesn't resize at all, acts like it does... visual eats images and never works.  Beta.. works but for some DUMB reason has stupid 'random!!!' image resize options. Arrgh! ) so now my workflow on mobile is to use this pile of steaming ... to upload images in the broken beta editor... RANDOM resize the images close enough, publish the post but delete it, then log into the browser editor and resize the images correctly in the library then insert into a new post. Broken but at least (FOR NOW UNTIL ITS WRECKED AGAIN) I have a work around.
+I don't know why but I can't write an article through the app. The app redirects me to chrome whenever I want to check my site or write something. Please fix it.
+The app is a good idea but keeps on crushing and consequently deletes all you have written in the blog. Please fix it!
+Sve radi kako treba, Problemi koje sam imao rešio preko support team-a, a bili vezani za hosting koji sam koristio.
+Overall app is very much useful.  But the sharing option in post settings is not available in app. It would be great that is included in future
+It is great app for making website and blog. I have made my own and starts blogging and get good reviews.
+S'il vous plaît j'ai des problèmes de televersment des images depuis la récente mise à jour
+I wish it would not hang this time...But I like its feature and it helped me a lot.
+I think this device will make it easy for me to share news and views with friends from wherever I may be.
+You cant modify the plug in using this app
+It's a great way to start your beginning on WordPress
+The best app i ever used for web development.
+Uploading custom image sizes would be a great addition
+Gives one an opportunity to make money online.
+Lol. What are we, in 1993? Enable in-app purchases for Premium WordPress plans. Not sure why we have to go to WordPress just to pay for a service there's an app for... In-app billing exists for a reason. Weebly for the win.
+One of the best apps I've used to maintain my sites from my mobile device. However, the stats are far from accurate. Just this morning again I got 4 likes on a post, but only two views. Sometimes I get 7 users from 10 different countries. And clicking through to a post from the stats dashboard is counter intuitive. View stats should be accessed through the ellipses, and the actual post should load when I tap the post title. Oh, and I can't load a featured image to an offline edit of my post if there is no network connection, even though the image is on my device.
+The app is pretty handcuffed when compared with the web editor. The app lacks easy linking to already published posts, a way to copy a previous post, and the mouse support on Android is terrible - formatting buttons and most dialog boxes don't respond to mouse clicks at all. Basic interaction with the admin side, such as comment moderation and stats are fine, but for actually creating and publishing content, the app is very much a second class citizen compared to the web editor. Full integration of the web editor capabilities would make for a much better experience.
+Wordpress App is bad. There's no comfort in posting through it. Most of the times, you can't even see your draft, sometimes your draft gets automatically disappeared after you have written 4-5 paragraphs. The team seriously needs to work on it as mobile posting is no longer a privilege, it's a need.
+I have never noticed this problem before because I do most of my writing and editing on the easier, better-laid-out legacy web interface, since it is less  bandwidth-intensive  than  the newer UI. The problem is that the app deletes two spaces after periods, replacing them with one space.  Now I have to go back to the computer and reinsert spaces for ease of readability.   Only 1 bug in prior release that has bothered me -- cursor jumping around on edit screen.  This release has for some reason removed ability to upload images (either via gallery/share or from new WP menu). Need to get this fixed right away.
+Tried 3 different wordpress self hosted sites i own and it can't find any of them yet my phone browser finds all of them. "there is no valid wordpress site at this address"
+The app was excellent before the update that removed the ability to caption photos. Now it's pretty worthless, and it runs a lot slower than it used to. Bummed, and wish I wouldn't have updated
+I use an older version, and love it. I will not upgrade any software that works. Because the updates usually come with problems. The version I have is fantastic. So why upgrade? I use my Wordpress Daily. Love it.
+Sorry to say v9.3 is a big step backwards. Copy now displays too big in editor and line spacing is unrepresentative. Worse, text entry is enormously laggy on Galaxy S4 running Android 5.0, to the point where app is virtually unusable. Will be using web editor and crossing my fingers for another update soon.
+This app is terrible if you need to do more than just straight post. I hate that I can't single space and I can't even edit html to fix the spacing!
+Everytime u view another blog through the app (where I'm already signed in) it asks me to sign in again which doesn't work and I get stuck in an endless loop of successful sign ins and never make it to the content
+While typing in editor mode, the app keeps crashing and returning to Blog Posts section again and again, the latest changes had not saved too. This occurs on my Android 5.0 phone.
+Can't add captions, can't view the order of images, gallery allows on uploading one image at a time and adding it to the gallery (desktop version allowed on more, before update). Disappointing app update.
+This app should also be created for Windows phone , I have to borrow my brother's android phone to add images to the post. It will be much help if developers could create a app   usable in Windows phone ( I use Windows 10 ).
+I am unable to put the ads in header amd footers if u guys can help me out then i can re rate it again
+Can you make it so that wr can "delete permanently" the spam comments? Currently in the app I have to send them to "trash" before I can permanently delete them.
+It's pretty good, but I wish I was able to customize the theme of my site inside of the app. That would get 5 stars from me.
+I like WordPress overall for blogging. Though there is great concern for me about why this app/page continues to have security issues with passwords and private info getting hacked with what seems to be regularity.
+It's ok but when I try to log in in a another device it"s say My account  does not exist
+Please solve please, i used wordpress self hosted , the slug is not working  i m always try but it end with nothing. Please solve.
+Please can you upgrade the app so that we upload our music too online
+I want to try it, next ill give the rank.
+This is the best blogging platform. One thing that I would suggest is to allow earnings through ads on free plan also. By doing so, a huge number of professional bloggers will turn up to wordpress and not to blogspot.  Thanks
+This app worked very well prior to the last update but they had to go and play with it so that now it is a woefully painful piece of rubbish now.  My advise to the developers of WordPress is they need to STOP MESSING AROUND WITH IT.
+For the last God knows how many months I have had no end of problems with this app. From not being able to upload photos, to my site being hidden when it's quite blatantly not, and not being able to start a new post, oy being able go into setting for about 5 seconds be for it puts me back to the main menu. Support advised reinstalling Jetpack, but that's not changed a thing. I'm giving it one last try. I'm not the only one having issues either. There's a few ppl I know who are having problems. No updates fix this.
+After last update, publicizing is not working properly. The posts are shared on Twitter but not on Facebook. Please help me about this, otherwise 5 star rating.
+This works just okay in most aspects, but I realise it always screws up my scheduled posts! I would schedule a timing for a completed post on my computer but this app will just revert the post to draft and NOT release it on the scheduled date. I'm considering uninstalling this and just working on my blog through Browser alone now.
+This is a great app. However, a post somehow duplicates itself and gets uploaded more than once over a slow network. Kindly fix this.
+So far so good..  While not all feature work on this apps, it is still good to make some quick updates and new posts when on the go via mobile phone...  Superb..!!
+Hello. The App is good. But I just want to ask something. How do you upload photos to Facebook (to WordPress Photos Album) from WordPress? Please teach me. Thank you.
+can't log on with the correct password .. how useless is that?
+Kaise kaise Kya Kya dalna Chahiye Hum Nahi Jante Hain Dosti Ke Liye Kuch achha quality Banaye
+The app works fine after the new update. I appreciate the devs replying to my previous review though.
+Thanks WordPress. How can I use this blog to make money?
+Is cool and easy to use, but you guys should try and add SEO in it thanks
+I want wpress  app beta please android
+Crashes on my phone a lot otherwise a great app
+Fantastic application for those who want to increase the knowledge regarding blog and those who love to write blogs.
+Already install but srill cant create a new account..stupid app
+It's good app to share blogs & Nicely to handle easily.
+Yuup!! .. VerizoBox Inc.
+Great app but can't update a post from the app. It keeps saying an error and keeps on retrying it self all the time... even when i exit the app it keeps on giving notifications that it failed to upload every single second.
+Hey there, people at Automattic,  The latest update seems to have this issue. The editor is way too slow. The text lags behind and takes 8 to 10 seconds to appear after typing in. It's really irritating as I can't practically write anything at that pace. Please fix.
+Wordpress Mobile Needs some Features...  Although the Mobile Wordpress app is an incredible help as far as being able to publish "On-theGo" is concerned, it's still lacking some key features that would "Really" allow us to "Finish" the Blog Post to our satisfaction.  Ie. Font sizing... undo button... and some other features that I'll have to go back to the App and look at later to remember what they were because I stopped using it as often for those very same reasons.   When I would use it to write Blog Posts, I would still have to go to my Blog site and finish the post all over again! Smh...  Anyway... please tighten it up because it has some "Real Potential" to be a Great Help to Bloggers the world over once it gets tightened up and Perfected! Good Luck and Godspeed!!!! :)
+I write longer and more often now with this app. It's excellent and only limited by the quality of your mobile typing. The new Visual Editor works well, previous problems have been fixed, thanks guys.
+Old version was better. I updated it yesterday but this is worst than older. When I write a caption on an image there is not any saving option. 😑😑
+I am happy with the application now. I don't have any issues with it. I love WordPress. I am so very grateful for WordPress. You guys make it possible for me to share my work with the world. The community is awesome as well. Shout-out to all my followers thanks guy's for your support and encouragement. Boop! From Gothic Realms. 🤣
+It used to work well. After updating to Version 9.1.1 it tales about 8 seconds to add one new character to my blog on my phone! I had to edit via Site Admin. You should allow user to go back to previous versions.
+I honestly give up with you guys. Doesn't anyone test anything there? Every new update seems to break something.
+The app always say generic error while I try to upload my content
+pointless if the wordpress site has either google auth or captcha enabled.
+This a great app, but I noticed a bug today. The comment editor is using raw text, leaving the html tags such as  showing. Please fix.
+Wish the editor was a bit more heavy duty.
+Thank you for this update it works excellent now, so I'm changing my rating from 1 star to 5.
+No search option for your blog posts - hope it gets fixed
+It would be a lot bettet if you can upload multiple media at a time.
+App isn't opening after update.
+Best way to tell about yourself to the world ..
+Nice app. Easy to use.
+Early versions had severe bugs making it semi-unusable.  Now it can get the job done, but there are still plenty of little rough spots.  Update: suddenly it's become unusably slow and laggy when editing lengthy posts.  Turns out the editor had got set to "beta".  If this happens to you, set it to "visual".
+The update wrecked it! It has literally crashed three times when I was writing a post which was i had open for about in total. If it not broken why fix it. If it is broken then at least pay someone to test it.
+This is the most dysfunctional app I've ever tried. It kept doubling every word I typed. It told me I didn't have permission to post things or add pictures.
+This app is getting a bad review as every post or page I go into, ends up having local changes marked against it. Nothing was changed...
+Really like this app. One thing is annoying. Desktop (browser) gives easy access to the link of a post. I think it's possible in the app (it was) but I can't find it
+I only started my site because I was bored. But the interface is really simple and easy to use. All-in-all great tool. I'm thinking about getting a paid plan sometime in the future.
+I love having mobile access to my WordPress Account when an idea for a blog post strikes me on the go. However the app itself I find very glitchy and it lags. Most recently any title of a blog post cannot be written properly. Every letter I type will duplicate or triplicate itself (ex Hhheeelloo instead of Hello).  If these issues were fixed I'd change my rating to a 5.
+With the recent updates, this app is now nonfunctional. I have to force stop EVERY time I make a post. It gives an error for no reason which won't go away until I force stop. I have been using this app for years with no issue but now I want to delete it and give up
+Terrible app. Click into a post and it takes it down from the site and requires republishing
+Very hard as reader and to post on. The app almost seems pointless.  Crashes...a lot.
+After the Last update, the app is not opening. Please fix the issue.
+I think it was great for the people like me who want to share their story or maybe just like writing about their dailylife :)
+View site & view admin are linked through external browser's! Why?
+App is not opening since last week. Pls fix it as soon as possible
+After the last update all my words become doubled as I type
+Cant uplod post alwas jetpack eror
+I can't log into my own account. It takes forever! Logging into my account is easier through chrome, but this app's giving me a hard time. fix this.
+I'm constantly having issues with this app! I write a draft and then it fails to upload. Not only that but now it's constantly trying to upload and is stuck in a loop! I can't access the post now to edit it or copy the content out to finish it in the browser, so I potentially have to rewrite it!
+I was hoping the WordPress app save me time, than going through the web page all the time. all I found it buffering everything to its crippling slow, I am writing anything turned into major frustration, and a autocorrect jumping in at the same time, making complete dog dinner of the whole article and undoing it bigger nightmare against the buffering.  The problem is I was not touch typing at speed with my external keyboard. If I was to do that, couple minutes later would like a ghost was typing it. It's not like my 10.1 samsung tablet is some form slow price of junk to warrant it????
+Well, couldn't get even the basic functionality working - typing (editing) a post! Input text appears long time to appear, often the cursor moves randomly, the app either hangs or crashes. I'm using S8+ so certainly RAM or other hardware isn't an issue. Forced to uninstall and continue with the web(desktop)version ...
+I've just recently had an issue with the stats widget and the app not updating the statistics. I've contacted you guys and were able to help, provide friendly and fast support. The issue is now fixed. You guys are amazing, thanks a lot! :)
+I can't post anything. I've tried several times to use the hoping for convenience. I have not found using this app convenient at all. I can't update posts or pages. I can't upload media files. After trying to update or upload the app continue to retry. I would love to actually be able to use the WordPress app without being frustrated.
+The one thing I don't like is that you guys haven't fixed the gap between lines. If there is a 'shift+enter' equivalent for the app, please let me know.
+Have tried updating 2 different blog posts through this app. I received a jetpack error both times. The app starts flashing a 'draft saved to device' message, but the drafts are no where to be found.
+App is easy to use, but very disappointing upload speeds. I've tried several different WiFi networks now, and it's always the same thing. I upload several pictures. The first few upload fine, but then the others don't. Content also gets lost occasionally. Please fix this!
+Update: **updated the other day and it's now unable to upload a post. No way to stop it from constantly retrying, either. No way to easily find drafts. Great for managing comments but otherwise useless for me. Will have to uninstall to stop the constant retrying to upload.**Handy for typing up quick drafts when inspiration strikes but I can't imagine actually doing all your blog publishing from it. DEVELOPERS - PLEASE create the option to set the post type to "draft" as a default. I've almost accidentally published just a few sentences intending to create a draft several times. It's a pain to have to change that every time. Or if that's already an option, where do I find that setting?
+I have yet to be able to connect to my own site. Even after I connected it once, it reverted back the very next time I opened the app. It won't let me log in, and continues to have connection errors whenever I try.
+You won't be able to open your article again once it failed during upload. And please, also add option to open the drafts that was saved using browser rather than just the drafts written from the app itself.
+Should have the saving draft function. I lost my long input after accidentally pressed the back button on my Samsung Note 5. All gone. Don'T have the mood the rewrite it. There is also some problem with the format after you insert an image.
+Me encanta esta aplicación.Creo que es muy completa,y además es muy fácil de manejar.Por lo que enseguida aprendes a utilizarla.Lo único que deberían mejorar son los planes de gestión de los blogs.Creo que debería haber más posibilidades, y que no se debería tener que pagar nada por ellos.También decir que tienen que solucionar el problema que se produce a la hora de publicar fotos.A mí me da error continuamente,y no entiendo por qué.Pero del resto,es una app perfecta.
+I am unable to upgrad to business  as I use only Internet banking...  Please add option for Internet banking which would make users to upgrad without providing card number.  Regards from India.
+Previously a five star application. However, after the most recent update problems abound. I emailed support. I will update after I'm contacted by support.
+Lot's of improvement in update. But when it comes to editing large post like 1000+ words, apps hangs especially in visual display thus for large post with 1500+ word I have to use text mode and add html tags manually.  Resolve this issue..
+Very easy to use. It's a really creative app for bloggers Anyone can start blogging and can learn many thing about it from here very easily.
+If you want an app that gives your dreams a voice, and your ideas, a platform to build a castle upon...   Then Ladies and Gentlemen, look no further, for this should be your final destination. WordPress should be your final destination.
+Don't know what happened, but all of the sudden the app won't upload ANYTHING, then whenever that happens, for some reason my site gets red flagged and nobody, including me, who owns the sight, can look at it until I go and re-download jetpack on it. No idea why the app does that but the regular sight on PC never does this.
+I'm loving it's going to be the best New year to all of America Love an houners I'm proud of America and us and all who  stands proud Happy   😎😍😉😚😂😂😅🤣😂😂😉🌏🏖️🏔️. 2018!!!!;;;:!!!
+Whenever am sharing my blog that link is showing that this page can't be found I need help wrote my first blog with lot of efforts and unable to share it
+This site give opportunity to everyone to show his hobby or profession to the world.This is the best app ever I found in this world.
+Mostly good. Sometimes when I schedule a post it doesn't post. The posts page could use two tabs, one for published and one for drafts.
+Gets worse with every update, bloated with a stupid blog reader makes no sense. Everything is just terrible about this app.
+Showing error XML RPC methods is missing on self hosted wordpress website
+It shows generic error when i am trying to publish the posts. Please help
+What kind of username I can write in wordpress I cannot understand
+can i ask where i can see the blog posts i have deleted? i can't find where the "trash" is. thank you!
+This is a very good app for people who love to express their thoughts. Also, for beginners it is very easy to understand and interact with other bloggers on this platform. Loved it
+The app won't let me upload pictures and the saving on the app doesn't always sync up with the actual WordPress site and vice versa
+Why do I need to enter an email address to access my own self hosted site !
+Very impressive,doesn't even take up that much space.Thank you so much.
+Thank you for making it so easy to embed Youtube videos and Twitter and Instagram posts.
+I love Wordpress! I have created a growing blog on it and it is so nice and easy to use
+That is fantastic and mostly useful app for creating a new blood or website.
+Need your help how can I contact you???
+Thanks for helping me to make a website Word Press
+Good App ready buy a good plan..soon
+Can't approve comments due to a Json error.  Can't access site info. App is error prone. Downloaded the update, no fix. Pixel XL so phone is not outdated.
+I have used both for login as well as customizing using same email but when i type my password for customizing it says user dont exist
+I tried to add my sites, but it doesn't work keeps telling me to check the URL.
+How can I change my site address? Google shows steps but I am unable to change it on the app. How can I go about it?
+Normally the app is solid but last few days it's been going haywire and won't upload from mobile. I have a modern android phone and the app is up to date. Is this a bug?
+Keep promising, however haven't delivered yet... I've been a WP poster with over 1,400 posts published. Please listen to me, your loyal user!  I've been told that the 'any image size choice' would be returned 7 updates ago. (Where I can choose a specific size, like 700 to match my theme) Nothing yet. Smallest size1000px. Must resize pix individually b4 posting!  Now, I've noticed you've taken off the 'like' star from the notification comment area, so I must go to post to like comment. Please fix these slight indiscretions... and I'll forgive you. It's Christmas after all...
+Please you guys need to work on your upgrade.  I still prefer the old version that enables me to do my work faster and better.  Please will appreciate your response and correction to this upgrade..
+I have a query. When i try writing something on the app itself the line continues on one line itself. It goes on and its difficult to edit. The line does not break when it reach the end of the screen 😶
+A great app for blogging. The would even be better if you could change the background theme to night mode. Like Twitter and Reddit.
+I like this app.  I can express myself and tell my feelings.  I can see post's from other people and how they are relating to the world.
+Why is it flashing 'saved as draft' if it lets you update at all. I hate when you screw up updates when there was no need to update at all
+Unable to use paste without adding a letter first then it will let me paste, then I have to delete the letter I had to put there before it would let me use paste, other than that it's cool app
+Much easier to use than the website. Just wish it had support for more than one account.
+I want to, and almost need to, use this app. Why does the text use only one line when I'm creating or editing a post? Why does the enter key on my keyboard become a "done" key when typing? Where can I learn how to use this app?
+14/The app fails on my Galaxy 8+. Can't input a profile. Can't log on using two factor authentication. Just a general fail.
+Horrible privacy policy Actually gives example of using a picture off your device without permission.
+I can't fatch my blog with this app.i complete it's configuration but it still not fatching.
+This app helped me a lot on my blogs and reviwes for adventures or places that I've been to. It really works like a charm XD
+best app to maye own blog for free of cost. loved this app
+I really like this app and the whole wordpress ream is really nice and I really appreciate that. They are really helpful from the beginning and their instructions are great!
+Amazing progress programmers.Loads exceptionally speedy 😀 Good to see publish button added to main blog page.
+It's a pretty good app to use in conjunction with your blog. I love that I can upload photos straight from my phone or quickly start a post. What I don't love is that it defaults to publish and I have to change it. My poor followers have been sent a lot of draft posts from me accidentally hitting"publish". ☹️
+Today an update! What have you done! 8.8 is foul! I go to write a post, title in, picture added ... but it will not allow me to press return to write beneath the picture. What the hell is going on? My return key says "done"  I am unable wither I write first or insert media it makes no difference. I can not press the return key to drop a new paragraph or add on a new line. Please correct this or help !
+I'd give this -5 stars, if I could. Customer service is virtually non-existent, and when they do reply, they're completely useless. Completely wasted my time for weeks!
+I have recently started posting blogs through wordpress, just to make it easier I have downloaded this app & this truly made it so easy for a new user to work. Thank U wordpress :-)
+If you want to share your thoughts and ideas in a web blog then this is the ONLY app you want.  I can post and share and draft anywhere anytime with any device.  I can track my site and trends I can see what articles are a hit.  I can find and share with other writers.  I can have other writers share content on my blog to help with traffic or share exposure.
+My comments are not getting published on others sites please help, I have already have written my query in the help center but of no use, please help
+I am not able to customize and see all the themes like spun. I wanted to know why?
+Can't load blogposts or analytics, there are no updates required on my phone, no updates needed on my plug ins. I've tried deleting and reinstalling. Just won't load them. Useless.
+The app couldn't let me sign in to my WordPress account.  Update, I was drunk when I wrote that and I was inputting the wrong password.
+I love this App like die, I use it for my blog...  My suggestion is that you Guys should create a page for uploading music, since you Guys have updated the video page..   #kadoo_master #boss_of_k_m_s_music_worldwide
+Last update was a mess. I couldn't connect to my self hosted site
+Some posts do not appear on app but they are there on site .Overall performance is good but takes lot of time to load older posts.
+The app when used on my Galaxy S6 uses a cache and will update my writing based off of old data.  I have to uninstall and use a web browser to ensure my data is safe.
+A request to developer to add formatting options like justify and adding colors to text. If this feature is added it will be an excellent app for wordpress users to upload posts.
+For a blogger, this is a perfect app to start blogging.
+Extremely useful and the best part is you can check statistics of reviews ,views,likes and comments love this app!
+Is the Right Site for right person and the app is very nice.
+No option to add hosted wordpress sites
+I got a different phone with a different flavor of Android and the good date picker is back!
+Have to pay to make it work right
+Very easy and convenient to use, love the fact you can navigate without any problems: Thumbs up guys and thank you:. :)
+This is an absolutely fantastic application , It works perfectly and smoothly on my honor 8. But I have 1 suggesting that while reading ,the navigation buttons should autohide , and the option to top notification should be available to so that we can get full view of the blog we are viewing. Other than that everything works perfectly.   Just the full screen view would be really appreciated as most other apps autohide the navigation buttons , which are stupid on android.
+No photo editing, no ability to reposition photos within a post, and no ability to change authors. The app works well enough, but with all the missing functionality vs the desktop, it's barely worth the time it takes to download
+The app is very great and productive but the only thing which bothers me lot is absence of views on the lower fourth section of the blog post, as they appear on desktop. Lastly, great app but it will be very nice to have that feature.
+Was working fine, but now if I share from YouTube app, the URL of the clip appears in the edit / preview screen, but disappears when published. I then have to re-edit the post and manually paste the url back on and republish.   Samsung S7, android 7  Please fix
+Just provide the app the ability to load links , it is a basic necessity for bloggers. No twitter/instagram/other link loads visually.
+Can't publish post it always say *Generic Error*  pls what is this??  same thing with the last update.. pls fix it
+Your latest update has DROPPED the option, under the editor's post settings, then status, to pin posts to the top of the main page. WHY???  This feature is critical for how I manage my blog. PLEASE RESTORE IT!
+It would be great if I could actually work on the site I have. It keeps telling me site not found when I'm working on it in the browser.
+I like this app so much. Easy to use and everything is simple in this app. Don't need any specific knowledge to use it.
+Whenever i am updating the app, it uninstalls itself and i have to reinstall it. Please resolve the issue.
+I LOVE THIS APP BUT CAN Y'ALL FIX THE UPLOAD PROBLEM FOR GALAXY S8 IT TAKES 2 LONG 2 UPLOAD MOST OF THE TIME ON MY PHONE IT WON'T LET ME UPLOAD MY MUSIC 2 SONGS I UPLOADED IT TOOK A FULL DAY JUST FOR THOSE 2 SONGS PLEASE FIX
+One of my blog This app is not able to login through it.
+I hope the next update will feature an option for justifying the paragraph for mobile users. Very convenient and easy to use, though. Keep up!
+I really wish there was a way to layout blog posts without resorting to html
+I kinda prefer the older version because when I share something using the older version it shows the title but this version doesn't can you please fix it
+Menarik buat bisa akses informasi Stat dari manapun. Request feature, please add support for multiple account
+Cant upload pictures to self hosted wp site. Plz fix. image is tiny
+Can't publish post through app, keep saying "Generic Error", wth is that???
+First time I tried using the app it deleted the draft I was working on.
+Quick and efficient for statistical analysis and comment moderation.
+Does not allowed to enter without save the password in google
+Dear Developer..Please fix a search function for finding posts and pages it could be nice.
+I can't give it a full mark. The editor is so poor that I gave up and let things be. When I enter 2 times, then publish it, the enters don't appear and it's a little harder to read if it's like that. Please fix it soon.
+I use this WordPress app to write on my blog & web site the only issue I have is my dashboard isn't comi ng up in the app,and I still have to log into godadddycom whom i purchased my domain through otherwise it works Well! I just can't post some things from the app!
+"Media could not be refreshed..." (still), and now I can't paste. Not using SwiftKey, not using the default Samsung keyboard. WP used to be great, but it seems like every update makes it worse, not better. I don't need new features; I need an app that has its basic functionality.
+As soon as you open this app it will upload its last version of your draft even if you have worked past that version on another device. Resulting in the erasing of progress made BE WARNED!!!  I find this an incredible oversight why can't it recognise that over writing a newer version with the local older version is not something that should be default?
+The application was working good but now when i am going to add image it's showing error downloading msg. Now i can't add any image using this application. Can you please fix this?
+Good app just seems like it's made for apple come on guys I have a note 8 and it would be perfect if I could use this app to its full potential drop down menus don't work and there seems to be so many more features on my iPhone lol
+deleted post returned. Somebody just hacked my WordPress and deleted the full content of a post. admin is being mirrored i think. governmental or non governmental, nobody, im sure is allowed to hack and create delete shortcuts
+This app is terrible. I've had it on my laptop before and it's just as bad, ( if not worse) than using it on the tablet. I suggest if they're going to make an app for wordpress, they should probably allow the writers to publish their writing by centering it, changing font size, etc. I always have to publish my stuff after posting it and going in and correcting those mistakes making it 10 times harder than it should be. This app is made for people who enjoy writing, not to make what they enjoy more stressful.
+Doesn't bring in any of the E-commerce elements of my website. Useless for most on the go work if you run an online shop.
+Its so bad. The edits you make online would not update on the app. Therefore you can't move to the app to edit. Terrible.
+Shitiest app ever! Won't let me log in , it's showing my password is incorrect when it's not , and no way to reset password. Please don't download ir
+It's a great app..  I really liked it..  You should try it if you have a passion of writing 😉😊
+If i edit image alt text then there is no button to save the changes and there is no option to align text to centre.. please update it
+Removed or broke support for self hosted sites, read the FAQ but the instructions for self hosted don't work.
+Its a great app. Have always been passionate about writing and got a chance to express my views through this app.
+Doesn't work for self hosted WordPress
+Great App. Superb support team from the WordPress. Keep up the goodwork there y'all
+It's a start for everyone who loves to travel and write
+You can express your inside and feel little bit relax
+Its good and auto helping. But it let with only song uploading.
+October 2017. App user for ~3 years now. I like the design and easy use; I'm still missing separate sections for 'drafts', 'published' and 'scheduled'. It's difficult to retrieve very old drafts in this format. This is the main issue for me not reviewing this app to a higher mark. Thanks for considering!
+The app consistently erases the progress I make on a post either completely erasing my previous writing or making only the first saved version of the draft available for download and editing, erasing my previous progess in the process. I updated and reinstalled and the problem is still here. This makes the app completely unusable and it cost me a lot of my time. Strongly suggest not installing the app until Wordpress addresses this issue in a new patch.
+The app keeps giving error messages when trying to connect to Jetpack, and won't let me reply to comments on my blog
+Pretty handy app for me. I am running a multi-author website and I use this app to review & publish the posts written by various authors. Currently, I could not see the name of Author in the posts anywhere. I wish developers could add the option to display name of author who wrote the post. Then this app will deserve 5  star rating.
+In principal a good app. But there are some caveats for me. I get e-mail post notifications although I disabled them. The statistic does not show the data in time.  I get for example a like but statistic shows no sees and no likes. Comments I made sometimes  only show hours later.
+Good but I am not able to customize the look of my website like add widgets ,link of my facebook, twitter,Google+,Instagram and my WhatsApp phone number ...is there any way to do all that stuff using WordPress phone app
+v 8.3.1: Problems keep multiplying. Now this version strips out formatting and hyperlinks erratically. Worse than useless. It mangles my posts. Time to give up on this misbehaving app that I wish would work.
+after switching to beta, which i regretted it, it becomes very bad. very lagging, i cannot write anything with inserted image links already in the post.
+It's generally a good app, but somehow I cannot edit the details of my media files, which is kind of annoying.
+Spins for a few moments and gives me "tap to retry" every time
+When you switch another site after registration previous one has been gone in site list. So only one site is manageable now. I think more than one wordpress site could be manageable without reregistration.
+Good for adding minor updates etc. Wondering if there will ever be any compatibility with drag and drop page builder plugins like SiteOrigin?
+featured image auto crop problem
+i cant log in with this app to my self hosted network...button of "add self....." dissappear.tx
+A greats app!! Saves a lot of time... Now don't need pc to post!
+It's definitely one of my fav chats n how to communicate w friends n family 😉
+Doing a grest job guys. If I could ask for any one thing it would be for the ability to search blog posts from within the app. In the scrolling of posts to find the one you want to edit is very difficult. No other complaints at the moment. Mostly happy self-hosted blogger. :)
+Permission to make calls and see my phonebook?! Why does this app need to make calls or mark my acquaintances or it won't even start?! Did I get some funny version of Big Brother spyware or something?
+Spell check?  If there is a spell check, I was just wondering why it is so difficult to locate.
+I have my WordPress hosted on GoDaddy and I can't log in since there is no option to log on to sites hosted elsewhere
+This app is great. It would be cool if it shows total word count for the article.
+Needs to improve better and faster synchronizing of drafts from app with blog post edits. App lags in editing posts even when I've been editing online. Now my newly edited posts are lost because the app still has the old draft.
+WordPress is great, we're still using it.  And it's free, so we can't complain.  But the app does have many many quirks which cause problems.  Two of us edit our blog on different devices, and posts go missing or fall out of date regularly.  I think it would work perfectly fine if you are a solo blogger.  Once a month the app will need reinstalling as it gets stuck and will not fetch all new content from other editors. We still think WordPress is great, but the app quality itself is terrible
+No menu indentation/structure so it's hard to remember menu hierarchy. No option to modify excerpts for pages. Give the app the same set of features as the desktop version and Wordpress will beat all competition.
+I don't get notified if anyone likes or comments on my blog, unless I view the app. Also, not able to draft a post, it automatically posts on it's own which is annoying. --- The app has a lot of issues.
+Still using deprecated "i" and "b" for italics and bold. I'm unsure if I am the only one demanding it, or if it is an impossibility. Absence of Publicize is always felt.
+Great app but I can't seem to access my self hosted site from wealthy affiliate . It used WP-ADMIN. If not for that, it's great.
+Hope this app can more improve... i want see content table on my friend wordpress so i dont need scroll each page to find what i  want to read
+I find it more intuitive than the website, but there are definitely flaws. Primarily being that if I edit a schedueled post online the app doesn't synchronise, and there is no way to manually do that (that I know of). Uninstalling and reinstalling is the only way I've found!
+This app is good for mobility but it makes my phone hanged very badly whenever I try to use it.  I don't know what's wrong with it. It sucks.
+I have an important post in local draft and the app crashes every time I try to open 'blog posts'. Waste of time.
+Can't upload posts that were created in this app to the connected website keeps saying Could not post in database. Not sure why but pretty much useless now
+Most of the times i don't get any notifications when someone replies to my comments...can you please include some kind of Scroll bar? In case you didn't know, it's a real pain to manually scroll down hundreds of comments...
+Great app. This is my second phone to use WordPress. Not comfortable with out it in my phone.
+Very bad so much bugs in this app so please it when i open our self hosted website so it created so much problem
+nice app really...love the accesibility. The best blogging site for new budding; enterprising and promising writers.
+It's good enough to check what happened with your blog or update simple things like profile photo, but for more complicated task, prefer using the website
+When we are going to edit  post, App crashes.
+Unable to use with self hosted site.
+dicent blog app. do the right thing right
+I can't see my own website rest everything is good. I like it
+plz., support of systems, service and privecy.
+I was super impressed with the app up until I went to edit a published post, the app wasn't updated and showed my blog post as it's first orginial draft? All my edits and revisions since then are all gone. It was considered a draft again and unpublished. That was days and days of work disappeared within seconds. I will no longer be using this app.
+Good but missing Custom Post Type support. I add CPTs into most of my sites and only being able to update blog entries is very limiting. Image handling is a bit buggy. Really good when fixing typos or creating quick posts. The earlier versions of this app were way more functional.
+Uploading media does not work properly. Some files do not upload and the app does not resume automatically which is annoying. But even worse: Some files are uploaded several times if you try to re-upload and then you end up with duplicates. Also if the app closes in the background it starts uploading all media of a post again. There is also no source editing. Recently it just started crashing in the media library. In summary the media upload is useless.
+Thanks for the update, it works now, but sorry I being rude, I want request mass upload image to media, because it trouble me to choose, scroll, submit/upload and do it again till finish.  Once again thanks, I really love your app
+What an app!!! As a writer who puts in so much mental effort to produce posts. The app can't even do it's basic job. A post I have been writing the whole day just disappeared. Why don't the drafts retain the recent updates.  It's sickening I tell you. Especially if one has deadlines to keep.
+My mobile app is working just fine. It's the Desktop app that's now an issue. I've forgotten where I've kept all codes and the authenticity code is not being sent to my Vodafone number. And neither am I getting any pop-up notification on my mobile app! Help
+Very good usage on my Desktop, not very practical usage on the Tablet. If you have a Mac/Desktop, use it on there please because using it on any other device is a waste of time! But, it is really good for the simple PC!
+I wanted this to delete spam comments - and I cant do it. If I bin a comment or mark as spam, it just comes back after a second. No errors, nothing.
+I like using WordPress as the interface is very straight forward and clean. However, I do not like the fact that when I view my post the font is in different sizes which I didn't select. I a not aure if this is down to the theme that I am using. If this could be looking into then my rating would increase in stars.
+There's something wrong with the app.  I just changed my password & it's telling me my password isn't my password. Just how many damn times do i have to do this and when are you going to fix this problem.  I've always been a fan of wordpress but if this isn't fixed, I may have to reconsider.
+How can I update my beta version? I saw in gitthub that there is now a version 8.3? I'm still at 8.1 and editting old posts is now slower than before. I also can't edit properly when indents/hanging indents don't show anymore.
+Oh, where to start with Wordpress! As a computer science student at worcester state uni, I very much enjoy working on the internet. Wordpress is the perfect platform for blogging or normal website design, for personal or professional use. I use it for all my blogging needs and it suffices completely. I can't think of anything that I'd want more from the app, but there is one feature id like to learn to use/have updated for easy implementation in wordpress: links to donate small sums to the author of a pages posts and features to place specific sized ads in ones post to support Wordpress itself.
+Media upload is Useless and since I can upload pictures, I will not be using this app for now. Earlier versions were way more better and easier.
+This is the app I've been looking for,,for A very long time I've been searching how I could publish my articles and create a website and this app did it.  though I'm still getting use to it  But it's a app everyone should have. Don't use to rate apps but I must for this #wordpress
+Lagged on the longer posts. Great app thou! Proud of Wordpress now~ Please read my comment on the previous version. Thank you in advance.
+Worked fine for the first few days but now it keeps showing "GENERIC_ERROR" when I try to save or publish a post then saves it on my device which is pointless if it's not online. Contacted support and no response as at yet
+Worked fine in Android 7, did a clean install on Android 8, but now cannot find a WordPress site at my address anymore.
+Still not working in Android. When uploading a post, it says it can't due to a "generic error", in fact the error that has been said fixed in the previous update.
+Can only edit blog posts, doesn't seem to allow me to edit any other important aspect of the site (such as Knowledge Base, Pages, Tables)
+Please add Live link search. This is really best option missing in the app. I have to manually copy and paste link in the app then the anchor text. Please add this feature. Again a request plz.
+I want to thank WordPress team because you made my task easy! I want to take my WordPress blog for business purpose. Thank you very much guys!
+Sadly the blackberry app is far superior. No automatic notifications, cannot edit comments. I'm constantly trying to work via mobile browser now.
+The app is defective and its really annoying, it doesn't sync properly with the website. So changes made later on the website are reverted back to the way they were before when you open the app, its really annoying!
+I have a self hosted site and would like to edit it.... With this app... Not a chance. If it is possible then I cannot figure out how to do it
+This app allows you to do SO MUCH MORE THAN YOU EVER THOUGHT OF!!!! All entrepreneurs need this, Freelancers, Writers, Artists, along with half of the working force, need this!!
+It lags whenever I opened the editor.  I used the beta version that was suggested and now regreted it.
+I thought I'd give this app a try for my business blog. I'm glad I did. It's user friendly and easy to set up.
+I am unable to log in to my wordpress , I don't know what's happening, it wasn't uploading so I uninstalled and reinstalled, but all it says is an error occured
+Couldn't log in when entering URL of my self hosted WordPress site. Says enter a valid email adress
+UPDATE: i appreciate your reply TY! i will use the browser version, it's quite fine.
+Perfect App...I'm Have My Dream Website Finally. Thanks For You All Word Prees. Good Jobs.
+I thought with this, I will be able to login to my paid WordPress website. It doesn't accept my logins
+Can't install plug-in of instant articles. You guys charge money for subscribing business plan. At least allow us to add plugins for free
+Easy to use app for bloggers like me. Though I couldn't do the right formatting for my blog posts when I do it on this app as compared to when I log on to it via PC.
+Can't sign in ..this application waste of time ..deserve to ban from Google play store. -_-
+Fitur edit postingan masih terlalu minim seperti pemotong more. Tolong dilengkapi, untuk pengguna android
+Please considered to put search box facility to this app. Put the post search box on Blog Post menu and edit function in Post & Page ●●● Stats because when user need to find their previous old blog posting they need to scroll down a lot just to find it and it's surely bit wasting time to find it. I have made hundreds of post and sometime i want to update (edit) the post and it was old posting so i need to scroll down a lot just to find it. I cant imagine user with thousand of posts :-(
+Yay. It's so much better now. Amazing job. I finally loved blogging because of the ease of using the app. ❤
+I can't log in to My account in the app, i have to use website. Please fix.
+difficult to manage , you must learn to make it more simple but save
+This app doesn't let me upload pdfs. I have to use browser for that.
+It has helped to share online  our small charity well!
+Can't connect to my website running WordPress.
+It's easy to use and helps me post on the go
+Excellent. Can manage everything on the go...
+It used to be great but with the last couple of updates the text editor has developed a mind of it's own, often jumping to random sentences in the middle of typing. Considering the whole *point* of a blog is to write it's utterly impractical if I end up wasting the whole session trying to stop the text editor from randomly skipping to different points in the text.
+If Android has a better blogging app (1) What is it? (2) Why is it better? Only thing is I would occasionally like to have video in my posts, but I also understand that not everything can be free all the time. Simply the best. Update 04/09/15: The latest update is spectacular, looks so much better with the new formatting.
+I love WordPress. I've been using it for a while to run my website, and I've never had any serious issues with it. I just have one suggestion. When I write my posts, I like to make a bulleted list of notes in order to organize my thoughts. I wish there was some way to separate notes from the actual content of the article you are writing. Maybe some separate menu that is attached to, but not a part of, the main piece.
+This is a great App if it wasn't for 1 fatal annoying flaw. No matter how hard I try and what settings I change this App will NEVER allow you to see the most recent comments first in the blogs you subscribe to. ...it's flippen annoying to have to scroll through 700 odd posts just to get down to the bottom of the page to see your recent posts. If this app fixed this flaw, which by the way, the desktop version works fine, I would give it 5 stars
+Great app, BUT when I opened it, it automatically uploaded a post I had open and overwrote the several hours I had put into it on my other device. The devices should sync not overwrite automatically!
+Everything is okay except the Editing part of a published post. Everytime I tried to edit a published post it showed as Local draft and didn't get published. This is also not happening to every posts but two of them till now. I don't know what is it upto.
+The stats widget suddenly said 'problem loading'. So I removed but when I tried to add again, it was not there in the widgets menu.
+Keeps taking me out of the app to customise my page. I would prefer to stay within the app as then all changes are translated. Otherwise is good. Better on a tablet platform than smartphone, I think.
+I am impressed with big change that I wanted to see on WordPress app. I will be more happy if it add paragraph styling (right, left, middle, justify), underline & heading functionality. Hope it will be included on next update.
+Overall, user-friendly. Just wish I could search for my published blogs like I can on my laptop. It takes a while to scroll for some that are months old.
+Thanks for availing Android App but it lacks so many significant features which are available in desktop version like adding a table or pop-up.   Plus we also don't get SEO details as I'm using Yoast SEO  Plugin.
+App helps me continue with my hobby even when I am working on another important thing..
+Confuse how to add self hosting site with this new upgrade
+I think its great and easy to use.I can write blogs and I can share the things I want to.And also it only need to DL 6mb..
+How to add self hosted site in new wordpress app i doesn't found link for add self hosted site .
+This one is the right place for writing blogs and any other content on the Web!  Most popular and easy to use environment is taking it to sky highs!
+Won't post, won't fetch galleries, basically all it can do is see the existing posts. I get a GENERIC_ERROR and nothing more
+Good and brilliant. But i will give 5 star if you can enable Sticky post option from App when writting a post. Can you?
+Very good app... But only one requirement. There is no search option to search my past posts for editing purpose. Please add a search option.
+What is the beta? Whet i try to write a post it shows "beta"..!! I don't like.
+Good but  please add tuner system in free version
+I used to love this app until an update that no longer allowed users to edit the HTML code in the blog editor.
+Its agood app for me.I can gain mobey from it.somwtimes i gain little and another can gain much.
+Overall awesome app full credit to developer. Thanks for giving nyc app
+No longer has the option to log into self hosted site.
+Please let us be able to post music directly from the WordPress application... Looking forward to that in the next version of this app
+Is their a reason a Webview isn't used?  So that the site is loaded in app, and not loaded externally.
+App is awesome. ***My kind request is support for managing two or more wesites*** If there it would be the best.
+Please add search option, like a category and tag filter, for blog posts.
+Pwd me get started on my personal blog.
+Jgn Lupa Follow Eyra Okeyh 👌
+No custom post types or plug in control.
+Love this app, always on time when I need to write my thoughts out.
+Add theme and plug setting
+Please add Video Embedding option... :)
+Unable to follow people, huge bug: I press "follow" but it acts like I pressed it twice. It becomes green for 0.2 seconds and then unfollows again. Moreover If I add more than 5 photos on a new post (taken with a mobile) the typing process becomes unnervingly slow and the app stops. Please fix it, I need this app to work.
+I had saved my blog post and now entire thing is vanished. Please I have put lot of effort to write it down. Is there any way I can retrieve it?
+Great app with some really, really frustrating bugs. It will drop the hyperlink reference and leave the  in, it has duplicated whole paragraphs. Really like the layout and the app, but these bugs drive me crazy.
+Rubbish. Won't accept my login and password and yes I can type. IOS feature apparantly
+Unable to upload new images to media library now able to view existing image files
+Guys do I edited for ownself the type of LOVE? I DID FIRST STEP I QUIT MY LAST OPTION already. Bye. Dad by dear.
+WordPress is the best open source cms platform. And this apps keeps even better
+word press. good app
+I can't upload audios via this app, it's really making my audio uploads a headache as a blogger. Its only about videos and pictures. It crashes when I post multiple pictures after copying and pasting from other webpages. It also doesn't paste to the exact places I place it to be
+This app screews up everything you already have made. If you have used/or are using the web part of wordpress and combines it with this app...it screews up everything. Ex; if you have set NO IMAGE BORDER on your images, and edit the post in this app, it adds borders on all img. If you have set FULL SIZE on images in the web edit and the uses this app, it resizes ALL images to very small when you open/edit only one of the posts...it has made my page horrible and made a LOT of extra work afterwords
+I updated and now I cannot aend my posts. it says general error or term ID error. I reinstalled but still does not work. if only there was a way to go back to the old version. this is wasting my time.
+I am not able to change my post slug in the app. It's showing option but not updating in posts. Kindly guide
+Well. I just tried to reach my account using computer. But the browsers say something wrong about the dns problem. It's okay when I attemp to try in app. Why it can't when it goes to computer?
+Giving it 1 star because there is no option to search and directly reach a post, otherwise I would give it 4 star.
+Well I was really happy with this app but now whenever I try and follow any WordPress link, it diverts to the app and just shows me my control panel.
+No longer able to log onto self hosted blog
+Awesome .. Every app update brings  greater functionality. I think one day all people will have their own blog in their pocket..
+I like to try this because I always wanted to make my very own website
+Thank you for making this app in mobile~
+Nzuri sana hii app.
+This update is the best, thank you very much for adding the slug edit...
+Tank My bloge :alikhani98.ir By wp ☺
+I love reading and writing and this is my perfect platform!! ❤
+Add Punjabi language AEAP. 😊😊😊
+Note to self: don't update this app ever again. I always end up rolling  back to version 7.8_434. Way less presses needed to get the exact same  thing done plus it's less cluttered. Newer or complicated doesn't mean  better sir. Check v7.8_434 out again please........he's a real winner, and  gets the job done the best. He ensures smooth, seamless, dynamic, and  elegant super-functionality. Love version:7.8_434.
+wordpress is good but this app is very bad. doesn't have in app browser, every time need to go to browser to access almost everything, almost e.ve.ry.thing. other than that, i post something just now, then accidentally hit the trash button, no way to recover it, the undo button gone in just a second. and need to upload picture trillion times, whether it was uploaded then gone or it was hidden, can't see it while writing in a post. the only thing i am fond with this app is that we can use multiple other site in just one app. overall it's very bad! sorry.
+The app is amazing as ever but I have two issues. One is getting the same notification multiple times in succession. The other is that the last two updates have removed the word count from the posts in my reader. Would love to have that back. Also, if you guys could add a word count marker in the post-writing section, it'd be terrific. As it stands, there's no idea how long my posts have gone. Thanks.
+I love this app, and I prefer Wordpress for blogging. The interface is simple, user-friendly and easy to use, but I hope there is more button for writing formatting such as "read more", font size, etc. Yes, I can write another format on html vers., but I must searching the code from google. Overall good, but keep it up. 😄
+I don't like this update, because, I am use wordpress apps on mobile i click theme customizer but it's pop up to other browser to login and edite theme, but i can't login everytime every hour, every month,  I am use my current login detail, but it's can't login anymore, I want back to edite theme with wordpress apps,  And i want to use 2G network to use surf on wordpress, Please fix this my problem.  And onething we(my friends and me) want to say is "when we click theme customizer in wordpress mobile apps before this version, it's pop up to login page we insert our login detail but it's doesn't matter,  I hate this problem and today current version update..  Please allow and care me to my request and complain.  Thank you.  dt.26/8/2017 And now this time, i want to make more suggest and complain,  We want to park domain on free wordpress host, blog/site  but wordpress said "you need to upgrade for this"   Please can you make this things work on free wordpress host because some webmaster or blogger is very poor we still not have money always, i think if you make this thing work,! You have more or lots user in free wordpress blog pr site,  This is my problem, last month i create free wordpress blog and i use to buy domain in my low money, then i have no money to make upgrade for wordpress, but wordpress tell me to upgrade to use my domain?!! there's no way for me because i have no money!😂 yeah it's true my monthly budget is very low,   i hope you all understand what i am saying,,,,  I am not good in english, but please help me out for this problem.   Thank you.
+My blog that I worked a long time on and was nearly finished, deleted before I could publish it. Never using you guys again.
+Good app but cannot get my profile picture to appear on the app. Works fine when accessed outside the app. If they fix that then 5 stars.
+Please allow to login without jetpack....I don't want to install site slower jetpack thing
+I need to see all of my liked post, but this app did not let me :(
+What is up with the Beta not having code view?  It's lost its functionality to me, three stars is generous
+I tried beta, hate it. How do I switch back???!!
+Image uploading buggy as hell, for the last year I've been using it.
+No resize tool which is a huge Downer.
+Awesome app to manage blog
+The syncing needs to be rectified. I published a blog through my laptop and when I used the app, it still showed it as a draft. When i went back and checked on laptop, it had been unpublished. Whatever changes that are made on the app are synced. But the changes made from some other source is not synced with the app
+WordPress can be a dynamic living  resume  for writers who  use it professionally . This is a perfect app for those of us who are tired of Facebook and frustrated with the free for all gun-slinging format of Twitter. It's a great place to refer people you want to impress with your ability to string a few sentences together and make sense.
+This app was really good. However, since last update it has become really laggy. Now it costs 10 seconds for a sentence to appear after I've typed it. When I've uploaded images and I've saved my blog as a draft, the images will disappear. And sometimes all Enters will be removed out of nowhere. My whole story will be one blob of a text. To fix all this will take me literally hours, due to the enormous lag. Also, the service is very bad. I have issued this problem 2 months ago, when it first occurred. They told me it was probably my phone. Which it clearly wasn't, because I followed all their tips. Now, 2 months later the app has become worse and worse. Now I've uninstalled this app. When these problems are solved this app gets 5 stars, but now it's unworkable for me.
+After having used both mobile web-based browser interface and this App... prefer composing within a browser instead as the interface in there appears to be more fully featured with the added benefit of having the browser's spell check available (Firefox). The advantage of this app is perhaps the ability to compose off line.
+Overall, the app is well done with the design and the prime functional features availability. Personally, as a regular user, I would like to suggest if the developer could include the Page Attributes features and the align:Justify tool. I'm not sure with the other users, since some might prefer cleanliness when they're posting their post, thus the justify alignment and the parent page would make it more helpful and easier to organized their blog posts instead of needing them login to the web apps to make the adjustments. Thank you Automattic Inc for implementing this user-friendly journaling functionality apps. 😊😁
+Facing problem with your widget on my Android 4.4.4 smartphone.  Please solve the problem as soon as possible.  I use your WordPress Widget feature frequently.
+I like this app because it makes it so easy to see notifications for comments on my blog posts, notifications that someone responded to a comment I left on another blog.
+Amazing app for readers and writer with great community. Problem: Can't 'like' the posts and follow the bloggers
+Keeps failing when I attempt to upload image(s). Please contact me for screenshots / error codes.
+I've tried other sites but I didn't feel comfortable putting my poetry on their sites. I love Word Press because I control my writings and who have access to it.
+Hey. There has to be an option to change the author. Please add it in the next update. It is vital for open blogs.
+I couldn't upload an image in the blog!!! Please tell me how to fix it! Even after uploading the image wasn't visible
+Was editing my draft. Clicked 'update' to save content (notification even showed up) but now everythingggg is gone :') lesson learnt: not to update drafts through app, it's better safe than sorry i guess
+Makes me work faster on my WordPress news site....  It's fast and simple to use. 👥
+Delete This Nonsense Blog2
+I think that a client should have the right to develop an app in the WordPress.
+Ótimo aplicativo. Só falta ele funcionar quando vou adicionar fotos nos posts.
+Couldn't find "continue reading" button. Please add it :)
+Excelente app. liviana y administra efectivamente varios sitios a la vez.  recomiendo.
+I have joined already have post something and I wish I ll be having an amazing experience here ☘
+My site used to work.fine  However after shifting it to a new host it is inaccessible in the app.
+Best kind of aap in human history
+Wonderful app to update your site on go ....
+Good. Recently started having trouble with app freezing.
+I use this app rather than using my laptop, easier for on the go,  but on Android I cant filter any of my blog posts, so they all appear, published/scheduled/draft, really confusing! Won't be using it for writing posts till at least that's sorted, looks like laptop will have to come out!!
+Best app to interact with your viewers with a simple publishing interface. One suggestion: Please make the site editing possible as an in-app tool rather than a laggy one in an external browser.
+Not able to upload pictures since many updates. Please fix this. Because using this app is supposed to be convenient, but right now it's not. Fix this issue Thanks
+My biggest concern is it makes a external DNS request and ignores local Host file and DNS server changes. I use a couple .dev domains and does not resolve.   Release the DNS requests and I'll be a happy camper.
+Im using word press on ipad pro. I dont find any option to change font color or to change font size.theres no option to insert or create table.preety much many options are missing which are required for blogging..only bold, italic,under line options are not enough.also i find word press complicated.its not possible to delete catogaries,linking post to particular pages with different name and all..At least give all documenting related facilities in word press which are given in microsoft word..And provide easy integration with microsoft word.
+Its cool tool for mobile blogger. I have suggestion you could make it as wordpress dashboard so mobile bloggers easily can manage everything. As it will give your more installs. Thanks
+I have many WordPress sites. We can't admin a site with this app, only post and edit. We can do that with the browser on mobile. So I don't see any value-add here. Sorry. Uninstalling.
+I can't find the app icon in my phone. In play store it's shown as 'installed' but it doesn't even show up during search in my installed apps. So eventually I can't open it at all. 😐
+In settings lot of option unavailable compared desktop view
+Can't view the blog from app. Says "Error: Password field is empty". I chose "stay signed in" without improvement.
+I found this app is very useful. It makes us easier to post on the go. But additional function of font colouring and formating, youtube linking will certify 5 stars.
+If this app had a "make post sticky" button it would be perfect and I would never need to log into the web interface for sticky posts which I use a lot with my theme.
+Every time i try to write in this app, it hangs every now and then
+Website data won't load to the app. Logging to reCaptcha protected website isn't supported. Will wait for improvements before reinstalling.
+It's been more than Six months, I COULDN'T LOGIN as self hosted site.
+Good, but doesn't handle a plugins custom metaboxes.  That leaves me using a browser.
+Nice app i am now a blogger through the help of wordpress developers.
+Make easy to checking traffic my wordpress
+Local drafts can be accidentally trashed way too easily. One click of a button and it's gone. What's worse is that there is no way to retrieve them. I can't begin to tell you how many hours of extremely dear work of mine I've lost because of this. Gutted and extremely disappointed.
+What is going on with word press! I used to love this ap! But ive not been able to upload any photo or video for 2 weeks. Tried uninstall reinstal and now it wont even fetch my previous posts! Please fix! Not been able to blog in way to long!
+Been using this for over 2years now. Truthfully, am not very happy with each updates. I expect something bigger, common this is wordpress android app we're talking about. A full BBcodes placed will do all the trick we need. The basic, b, i, bquote aren't enough. Kindly work on this.
+Previous version was way more functional when using the app. Now I cant change font styles, sizes and colour. And this is just what I found so far. Really not happy with the new update.
+This app used to work fine with my self hosted blogs. However the current update does not seem to work with my SSL enabled sites, and it seems I am not alone.   Given Google's preference for SSL enabled sites, this is disappointing for an app that claims to power "28% of the web".   I hope this will be rectified as I am looking to do more posting of ideas from my phone rather than relying on my memory.
+I really love using WordPress, but the app is stressing me out a bit. The photos I upload are just not showing, they're a solid colour, and I can't use them. Please fix, because I don't want to stop using this app or the WordPress site, but I will have to if there's no improvement. Take care, guys. ~^^
+I am unable to upload pictures. I get an invalid Jetpack response. I'm self-hosted but it was working fine the last time they fixed Jetpack image issues.
+I can't upload a feature image on a theme that supports featured image. I'm pretty pissed. I prefer the way it was before so please upgrade
+I don't normally  rate unless something  touched me.  WordPress is heaven to me.  My dreams are coming  true thanks to you.  Thank you
+The stats widget is not working. There should be a way to discard local changes without clearing the data and logging back in.
+Posts don't sync nicely with browser version. Local drafts keep overwriting latest versions and don't recognize updates made via web browser.
+Really like this app. Only ever use it as a back up for the real thing, or for checking stats
+Waste Of Time Ni Good Up The Worst App evah
+Editing the photo to add captions dont work
+Photo uploading problem get solved.
+Please add undo button it's disastrous without it!
+Error in line gap when copy-paste a text
+Earlier when I used to add a link I could colour it and highlight it with the color of my choice. Now I can't! Why?
+Please, get 'Safe Mode' for low devices. Thank you.
+The edit button isn't working, so I can't caption, resize or center my images. Please fix ASAP.
+Can anyone make this work with a self-hosted site? Anyone? Once upon a time it did but that was quite a while ago.
+Hello. The program is good. But I have a question. How to add any program to my web page?
+I uploaded an image, but when I click on it to edit, it won't do anything.
+Has everything I need to maintain my website on the go!
+Helpful to manage website :)
+Just started... will update. So far the software looks much more advanced than Simple Different. The templates are professional in design and appearance compared to the cartoon ish looking software I've been using so far. More to come...
+Please add more function buttons on "making post" part on the next update, sometimes I have to open browser to edit my posts (such as alignment of text, the app does not have it,...)
+Make editing text with colours and all like on desktop.
+I used to like a lot the app until I have lost a whole complete local draft... Even if I had connexion, it didn't update the local draft and stood with the previous online copy, which it was an unfinished work. Also, it doesn't charge correctly all the media library. Why?
+Using this app is extremely dangerous for your website content. It seems to lack version history checking, and will push its most recent version over everything on your website. Foe example, if you finished and published a post online but had an open version on your phone, poof-there goes all your work. They get a couple of stars for trying to make an app, though. It would be super useful if it just had a version control or option to manually resolve conflicting versions.
+Overall good, but I am losing some content quality. Why don't add a custom permalink feature plus focus keyword and meta description box available from Yoast SEO plugin.
+It's a great app, I've been using it for over a year now. But experienced a sudden breakdown. I see this error: unexpected end of stream on okhttp3.Address@ each time I want to upload  photo
+after edit a page unbale to update the page. only local change. upload failed. please help  edit- bug fixed
+Why is the ESRB censoring this app as "M"? Is it because the ESRB is owned by anti piracy organization The ESA, and as such has a hatred for open source software like WordPress because it goes against ESA's anti-copying agenda?
+I love to use WordPress blog since 6 years ago to share my insights. The WordPress app for Android makes easier to post directly from my smartphone, yet to upload any media content such photos.
+You suck.. hardly let me enter name password mail.id. just wasted my time in creating account only..don't happen so deleted
+I love the fact that it allows you the privacy of your thoughts in the sense that they make sure to ask before they post. In general its really nice it's makes me feel safe to share my thoughts in the most descriptive way possible as I can also add photos and design it accordingly. Its awesome.
+I'm sick of this app constantly closing on me in the middle of editing posts. It ruins the blogging experience if it takes a dozen tries to share your thoughts and photos. I post less now because it's such a glitchy hassle.
+It is showing me Invalid SSL Certificate when I'm trying to login. Kindly tell me what is the issue. So I can start working.  Reply​ ASAP
+I've used this app a few years ago from my iPad. Since then, I've changed the host but my controls are the same and I have no idea why the app won't recognize my login. I'm extremely frustrated.
+Vocês poderiam colocar o botão de justificação de texto?  O app é muito bom. Só me queixo de usar o código para essa ação.
+Could be better. I really like the "see more" option the website offers, so it would be nice to see it added to the app. I only use the app to respond to comments and update pages. Everything else I do from my Admin panel.
+App is great aside from one thing. Android app has no means to separate posted, scheduled, and draft posts. This feature is already in the IOS version. Hopefully that feature is coming soon.
+Unable to past my blog making the app completely useless to me.
+I want to change my site's title, but it doesn't work, pls help:)
+The app is improving and much easier to edit, without having to fire up my old laptop. Still would like all editing options available on app.
+It does not update my drafts when I edit it on pc. Then when I enter and exit the post on the app, it saves it therefor losing my updates I've made through the pc
+Why the hell I can't login in WordPress app? I tried hundreds of time but it always says "your password or username is incorrect"😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😤😤😤😡😡😡
+Need post share options. Every app has this option today. Example poor app like  Google blogger app has it. Please update. ...
+I enjoy this app. Very personalized, I use it as a personal blog for my work. Need to see auto-save for drafts.
+****" stars because app does not have the post visibility option ...hope will be added in the next update
+Gak bisa edit pos rata kiri, kanan, justify, rata tengah. Repot.
+Great save for the lack of word count.
+Love it! I can write any experience with Wordpress. Thank you so much 😉
+add a quick browser in same app please.
+Can't login into self-hosted site. Fix it !
+why i cant login the wordpress through this apps???..
+its good  app to upload and instantly share blog feeds.
+Upload file faild
+Can't create my acc it's not getting synchronised with my Google acc
+Can't even log in, here have 7 digit code ... oh error must be 6 digit code. After waiting 4 hours for SMS code! I just got six of them.   Most likely expired as well. Tried again get code same thing. Unusable for me.
+This app is ok. At times it is slow, but it gets some of the job done. Overall I would say this is like going out to a McDonald's restaurant when you planned on getting wholesome homemade food from Grandma.
+It would be great if there was a 'night mode' as well. As I have been using this app, I have come across the fact that there is no way of translating posts in other languages. Please look into it.
+Well I think you should improve the writing experience and on end phone like mine after typing a long post it start to lag and a lot of glitches and my cursor get placed to a different position and a lot of things like this.
+I can't publish new post,after creating a new post app fails to upload the post and when i try to upload image into post it says "forbidden" .. this happens on all kind of accounts(author or administrator ) pls resolve this ASAP cuz my website needs to be updated everyday
+Great apps. Easy to use. But, I can't change my username. Is it a permanent username since I've created one with the same email address? Can I change my username without creating a new one?
+This app has some glitches where it does not always connect to the latest posts on the website. So if you find and go to edit a post you might be editing a rough draft or old update . Then when you realize you exit out and then IT SAVES with out me telling to CAUSING me to lose lots of WORK. Please update so nothing gets saved unless you submit and tell the app to save. Also my WordPress on my computer no longer has the option to go back to prior versions of the post. Hope new updates address this problem.
+So sorry,but this app is so inconvinient. Maybe cuz it's new for me,but how,for example,can i find the beginning writers and poets. Just by tags? I'm sorry,but,yeah,i do really don't like it ((
+Worst app i have ever used, when i upload image i got upload failed error, when i update post i get failed error, when i publish new post..ypu know what..? I got upload failed & generic error error every time
+It made my work so easy... Now i can write my blogs directly from phone too..  Yippeeee m loving this app !  Xoxo
+Quoting text is super buggy. When I try to remove quotes, it just copies and pastes the text afterward, making post editing a nightmare.
+Since update i can't even login. All it get is "site already exist in app can't add it" Great stuff
+The app is little and it is really useful though coz you can blog on the go but my the only thing that bothered me is that when I put photos on the blog i'm making, it literally takes a lot of time to upload. zzzzzs
+I can't upload any photos or videos! It takes forever…I wasted a lot of time
+I cant update post, by using this app, always shows message - something went wrong try after some time....!!!
+While entering into the site. The order of watching the posts are nice. But i need an update to view an older post in a compressed manner. Viewer's watching the heading of the older post, then they click on that post to enter.
+Time consuming, not working hate this app:-(
+Great app but the widget to check daily stats stopped working.
+I just love this app whenever i have to blog from my phone it works amazingly
+After upgrading to this latest version Cannot access my existing blog.  Cannot add it anew as well, as it is reported as "existing"
+It's quite good to use this app. I need not use PC to blog. But, how to add more tags or keywords to each post????
+So fall its easy to find anything you need and easy layout to follow for and website or blog creation. I love it
+Thanks to this app... I can manage my articles in my own wordpress site
+Want to build a quick page or site... WP can do it!
+I'd like to have the choice of which picture is featured on my blog. Most of the time it picks at random. Also, I can't follow certain followers, and you make it easier for ppl to pick and choose who leaves comments or not. Sometimes you can't leave a comment, and the person doesn't know. Other than that, I really like the app.
+Find another domain. I did not recommend for subscription. I was debited but not renewed without my confirmation. I asked for refund but it was not credited to my account. Pls be careful because they will automatically debit your account.
+Can't upload new posts only edit published ones to self hosted site, thought I could make my work easier with this app, instead of a tablet in my purse I have to carry around my laptop in a backpack wich is really inconvenient.
+Bought a new Android tablet to write blog posts on the go, but the app doesn't work. It keeps telling me it can't load posts, insights, comments, pages,... nothing is loading. Please fix this so I can use the app to write posts.
+[ still downloading the app ] I really like WordPress having found their app, am so happy... That's why am rating although it's not yet installed.     ***** Yea yea I shouldn't have said all that, what kind of blog app doesn't save my documents properly i mean this thing lacks the 'do' and 'undo' button... Made me delete permanently my four-days-long unpublished article
+Today i'm going to delete the Wordpress site as no post showing the reader even though the privacy is public and visible to search engine. Wordpress is better than Blogger.
+App worked fine until overnight update, needed uninstall, re-install to regain functionality. Annoying bug, but otherwise great app
+update deletes everything, including drafts😠 ok, it isn't deleted it is still in the data folder but not usable. advice from support, delete appdata and startover.. support is good so..
+You should put an undo option/ button if one wants to revert a change made in a blog post through the app
+Used to work good for me. Now I get messages couldn't retrieve site info and posts and pages couldn't be refreshed at this time. I've searched but can't figure out how to fix
+The app wont allow me upload media of any kind keep saying invalid response from jet pack it also wont let me upload my pages or blogs it used to work perfect and now it is very difficult it was working before not sure what is wrong please help
+This app is awesome! It allows you to blog on the go right from your phone! You have all the admin controls that you would have on your computer or laptop right in the palm of your hand.
+Added self hosted website. after some time it logged out. trying to login again and getting error saying website already added. can't access my website now from app.
+Can't edit any pages at all. Just comes up failed (self hosted WordPress). Editing posts is ok. But need to edit page but won't let me
+Lost my drafts twice already in 24hours. I'm going to type at a note app now since it's the third time I'm rewriting my post. :(
+This site brings out the writer side of me. It helps me to write my travels and adventures that will be a guide for people who also a wanderlust like me. Thank you guys! Keep it up!
+It's all new to me. Self taught, flying by the seat of my pants.  This is what Flat Earth Truth does to a man.
+Although I have successfully published my first blog, I am so angry as I had drafts for 2 other pieces o can no longer find to finish and publish
+Good app. But I can't find anywhere to underline text. Could just be me tho
+I loved it but the previous version was slow when i try to publish post i hope it not the same here
+I am unable to upload any images to use as a header, background, etc.
+We can earn money from this ....I have tryed to do but no response...say how to earn money from this...
+Needs a bit more features in the editing part like font size and resize and crop image .
+How do I add the read more tag or is that feat not available via mobile app?
+I want to be able to edit/change post permalink(slug) from this app, but I can't.  Pls consider this for future updates.
+Waste of memory, so tough to login... Uninstalling now
+Nice app, we need ability to upload other media apart from video and photo.
+It is too easy to fat first get and delete a post by mistake. There needs to be a way to recover deleted posts.
+This is very nice app for Android And this app is very useful for creating website
+It's guud But it could use some work
+How  many  site  I can  create  with  one  premium  business  account
+Why i cant log in ? But in my other phone i can login
+Problem loading widget
+Can i add my Instagram profile follow link in my blog...??
+It's fantastic. Check my page, convolutedpercerption.wordpress or search SixCubed for my new page.
+Helps organize my writeups. Thumbsup to the team of developers
+highly recommend it to anyone starting off.  give it a try.
+While editing posts Undo option should be very important and save option also. Every thing I type or doing bold , numbering they all automatically save. I want to do unto some times I can't do that because there is no such option. There should be Undo option till last saved post.
+I love the app because it lets me get more done, but it's not letting me post to my blog page and it's frustrating me to no end.
+Yeah project owes me adderall only.dodges around this April.2017
+I alwayes used Wordpress for my sites. It is very useful. I like to suggest that you add (pings and comments addjestments from the mobile, application just like Wordpress website,for Android and iPhone users. Thank you for continously updating the app and making it better.
+Very easy blogging platform&this app helps to write new posts on the go.
+App is great. Super easy to create or update blog posts. Easy to use interface - clean and simple just like the website. BUT:   1. IT DOES NOT LET YOU MAKE LINKS OPEN IN NEW WINDOW/TAB.  2. IT DOES NOT ALLOW VIEWING BLOG POSTS ON YOUR DEVICE'S OWN BROWSER.
+I'm never able to upload photos. There's always a problem. Also, plenty of times it tells me it can't load my posts... all I try to do are these two things ALL the time... so, what DOES it do properly besides add to the long list of apps that are already on my phone. Not happy. I'm always forced to wait and handle it on my computer instead of "on the go". Inconvenient.
+Downloaded app. Logged in and tells me "you do not have permission to make changes to your website " seriously!? The last straw, up for renewal in a month so ditching WP for GoDaddy, I have neverfound WP user friendly for website design.
+Just two starts coz, the content I used to rewrite or correct that used to revert. All my mistakes corrections used to revert ...😕 its embarrassing if this happens after publishing the blog n ppl show me my mistakes even after corrections ... Please fix it ..or if there is smtg I can do ...let me know !!
+I am getting trouble to log in my self hosted WordPress blog. If I log in WordPress powered blog it automatically lists my websites connected with jetpack but cannot post new and refresh old post. Must shocking update ever !!!
+Was using the app great until 2 weeks ago when I can no longer log in. Have changed password on laptop and reinstalled the app on my phone and still can't. I post most of my updates on the go via my phone so now I haven't posted updates for 2 weeks   Feeling really frustrated and don't know what to do.  I sent emails 2 weeks ago to you  still no reply.
+I managed to log in once. It logged me out when I closed the app and now when trying to log in it just tells me the site already exists in the app and I can't add it. Completely useless. Deleted.
+Everything is great except that i can no longer upload multiple photos at once. It used to say "upload using our new picker" but now that option doesnt exist anymore. would be great it wordpress could fix this.
+Profile opens but it's unable to load up any of my posts, pages or stats. This has never been a problem with previous updates.
+It's great for me as I write a blog every week and I'm not always on my laptop. Feedback gets listened to and sorted too!
+When I go to delete a comment (usually spam that has sneaked through) I tap the Trash icon, and I get a toast mess saying "invalid come to status". What is going on? Is this a bug?
+This app is horrible for creating new blog posts. It has been for a long time and I wonder how the developers haven't noticed it yet.
+I have a new phone Samsung 8 and notice there is no Notification feature in the WP app. I can see the feature on my old Samsung 5 phone but not on this one. Did something change with the app for newer model smart phones? Please advise
+I seriously din't lie the new update which they did...it's very difficult to make few local changes... please get back the same interior in blog post section!!!
+Blog post and it's content is not visible on web browser even my previous Posts are not visible..No help either
+All my categories that I have set are not showing on Mobile application that's very difficult for people who always update my blog on mobile please fixing it.
+My opinion is that as it is downloaded  easily &  also free , so every one have this app if he wish to write something in fashionate way,this is the right platform
+Hi i am a food blogger and from last 3 days my posts pictures are not showing...no thumbnail, no feature image ...😐is there any solution? I am using Galaxy note 5!
+Functional and always improving. I use it regularly but wish when I share a video from YouTube it would post it correctly instead of posting just a link. Otherwise nice app
+Just unable to post/upload/update anything on my wp account and website.
+Not able to log in yo same account when already login on desktop with same details
+It's cool really cool expecially the auto save part, it really saved my tail today..
+The best blogging app I've seen so far, just upgrade your blog spot and your up for a real experience
+Dayum... this app just makes a binge reader like me feel like im in heaven  Rocks
+When i click to write the blog they can not open
+Old way to create a blog for you and your friends
+the app is good but there is no spell check feature for the blogs which should be the case.
+You can add anything to your blog, anywhere. Its a nice app
+Please add an undo option.
+This Is A Great app For Uploading blog post... I Love This  app.....👍
+Easy to use by mobile and possibly one of the best free blog websites.
+Yes I love this App. Very disappointed when WordPress lost two of my Blogs sent weeks waiting for reply. No answer yet even though I showed all evidence of ownership.
+It seems complicated at first, but if you stick with it and read the help sections you will get the hang of it. I love that the layouts are way better than Blogger! Please check out my blog.  A Simple Living Dream
+My wordpress account was suspended without any explanation. Luckily I contacted them and they reinstated it after a (nerve racking) day. I have backed up my posts now and will continue to do so. Other than that it works beautifully!
+No idea whats happened but all I get when I try to log in is be thrown to some "jetpack" login !?!?! I can't get into my account. Sent an email to you 4 days ago with no response  absolute crap. Never had any problem till a few days ago when it had logged me out at some point. Now cannot get back in. It says that I already exist. Not happy !!!
+When it updated, it dumped all my log in information. Now it lets me log in and not get to the panel, so it's unusable. So angry right now.
+I like WordPress app and used it extensively to run multiple sites, till last update.  Login problems after update, removing app from my phone.
+About all this app is good for is reading blogs. DO NOT TRY TO WORK ON YOUR OWN BLOG IN ANY WAY USING THIS APP!! It will totally screw everything up, including deleting drafts, messing up your formatting, dating new posts incorrectly (thus burying your post in the feed), etc. I'm really not impressed.
+Everytime that I log in the app, my self-hosted WP website will go down!! I tried twice, and both of time I am not even able to upload a single post without crashing my website! Absolutely the worst app ever!
+I don't know what is wrong. I cannot make a post with my WordPress app but on browsers I can easily do that.   I can approve comments on moderation but I cannot add pictures to articles and publish. Gosh so boring
+No more possibility to upload multiple pictures since the last update. This renders the app useless. :(
+Have been a happy user and advocate of the Wordpress app till the recent update and am facing the following issues: 1. Can't upload any photos to my post at all. Nope, the photo(s) don't even appear in my Media Library. 2. Batch/multiple photo upload option to my post is gone. I usually upload over 10-30 photos to my post and its beyond ridiculous if I only have the option of uploading 1 by 1?! Gallery option is not what I am looking for either!  Submitted a ticket/query to the Support/Chat to resolve the above issues. Will update my review if this is resolved! Till then, this app is a 1 star for me. Have to resort to using back my laptop for blogging now. Disappointed as this was my on the go mobile app for Wordpress.
+I have sent an email about this too but after the last update I can log in to the app see my page for a second then get booted out to the log in page and constantly get told that I am already logged in when I try to log in. I have tried uninstalling and reinstalling and it does the same thing. Keeps insisting I log into jet pack which I am not logged into on website.
+Latest update: all settings gone, forces me to log in to Jetpack, won't show me self-hosted sites already set up, won't let me set them up again. Now completely useless.
+The option for HTTP authentication for self hosted sites has disappeared. I now can not log into my site using this app.
+My word you have ballsed this up WP. Does anyone know another app to manage self-hosted sites? Preferably one that won't let me down while I'm doing time critical work like this one did yesterday! 👍
+Amazing app and more than anything else I'm really happy with the support the developers provide for the app. Really appreciate the commitment. However there are still some small improvements needed.
+With the last update I can't upload photos in my blog, it's more than a week and it's really horrible as I don't have a laptop with me during the trip, just a phone. Please do something about it.
+It used to work gracefully but now uploading picture is a pain. It does not let you change the picture size like before. Really disappointed.
+After the latest update I am unable to upload pictures.  Anyone else having this problem?  Solutions please.
+For some reason, it glitches out when I try to upload media. I use it for school and this is a huge problem.
+Latest version seems to have gone wrong. I cannot preview a draft.
+Any chance off adding and the other options like being able to do featured image and videos .Or rest of options .having massive issues with app since last update as wont access my site. :(
+Guess there was an update and I can no longer manage multiple sites with the app..5 sites I manage are not gone from the app and when I try to add then it tells me that I can not do so. Please fix so we can manage multiple sites again.   Thanks​
+I am unable to upload pictures to my blog posts on my mobile app. Please fix
+Tried to install twice in Moto G 4 running Nougat. The app fails to open every time, so I am uninstalling it now.
+I like it but usually I answer my comments with bold text but this app doesn't allow me to use this feature. If you add it, I would be so happy.
+Love the app for quick looks on my blog and comments. For blogging I use my desktop ☺
+This app worked great untill latest update, now can't post anything and the editor is jacked up and puts weird formatting in you preventing you from editing the post that you are then unable to post
+I think this app is good but for me the stats is not showing properly I feel because my Frd told my blog is good and took screenshot and sent me the blog but the stats show only one
+Unsatisfied When I upload pic but pic are not showing with post Plz help me..
+Update broke the app. I can no longer access my blog posts.
+This is excellent app but we can't upload documents like PDF Files, Docx, Etc. Please Do Something for This.
+i can't post a pictures on my blog after i update the app. please fix it
+Fix the widget 5x2 size.. it uses extra line, while it could be 5x1..  Edit: hope it'll be fixed
+After the latest update, can't seem to upload pictures. Fix it please.
+hi please add Persian language to application
+how can we change our web address
+Can't fetching post blog with https after update..
+A very nice app to use and write stories
+I could never use it because the editor doesn't work with the accent marks and special symbols with my bluetooth keyboard. It's strange since I can use it without problems with any Android app. For instance, while writing here, I can type "adiós" but in WP editor I get "adi´os". It's the only app where I have this problem with my keyboard :S
+It worked until a week ago. I can't see my self hosted site or post to it from this app. There is ZERO help on the forums for Android apps. They added the jet pack login mandatory which is stupid. Please make me change my stars and fix this app!
+The new update removed the option to have multiple sites under different account names, which is an inconvenience.  Now, I have to log-in and out of each account instead of having a single content manager.
+Added something called jetpack which breaks all connections to self hosted site. Shambles. Back to blogger.
+Its cool, but the content of post scattered when viewed in a web browser apart from the App
+The editor is very poor. I cannot add links and I cannot upload audio files
+No password protection!!! Needs Fix! I only entered my email, it froze and when I reopened it showed my Username AND password in the login section. I did not enter it. I just downloaded the app literally 30 seconds ago. All I had to do was click the 'eye' to see password and there it was. This is my first time using this app or logging in on this phone. Technically I still haven't logged in myself, since your system wants to for me, but I can now get access to anyone's site if I know their email and anyone could have got into mine.
+I love using the app vs having to use a pc or tablet all the time. The only trouble I am having is figuring how to change on the app from blog I created for an organization to another blog I have created for a different organization. Any help would be appreciated. Do I simply sign out and open under the second one which has a different name, email and password? When I went to sign out on the app to ion another blog it was saying I would lose some things. Thank you.
+One minor complain. On Android I don't see an option to discard the local changes(from the app) made to the blog post.
+It's all good, as I'm a newbie I have very little to add, but I'm unhappy with a glitch, it's just that Everytime I write a whole piece and then go to add the picture, then come back the whole content is gone, just like that! This happened twice already, kindly help
+It doesn't auto add your jetpack websites... You have to manually add them into the list (even though when you get a notice about that site, you can access the info with that alert without adding the site...).  Not a very well thought out app.
+Good app.  The only thing I cannot do is format text e.g. left-right-justify.  Am I missing something?
+Error 403 everytime I try to upload my posts. Used to love this app but it has become very frustrating..
+I've been with WordPress forever and got the app when it launched. It has grown so much! It's light, it's nimble, it sips at your battery and is thorough. It is also, pretty. Excellent all round.
+The app doesn't sync well with the my website well. The changes in post and pages are not reflected. Please solve this problem  Please add some new editing option to the app
+You can no longer view your site within the app. Great job, WordPress! The most essential function of the app - removed.
+WordPress Android app is getting better day by day, but I am hindi user so I have to post articles in hindi ,that's why WordPress generated automatically hindi url, this is really bad. Please provide a feature to choose url for any post. Thank you
+It freezes on my panasonic p81 when I try to edit or upload a post and I have to reboot. Please fix this problem.
+Changing my original review to 1 star as this STILL doesn't work properly and I seem to always get a http 500 error. Some fundamental functions are missing as well.
+last update was junk...I cant reload my post..tried force stop, relog in and everything 😭
+Very worst app,ever seen need improvement and we can't get like, followers ,comment
+When somebody will listen to you for just a moment let the air out and share your comments it comes back to you with a bunch of love.
+Nice App, easy all step future for Manage blog post, loved it.
+Nice app,help us to write blog anywhere,anytime
+Very good app that is a superb platform for launching One's artistic career and also easy to use.
+I don't like it, it keeps crashing and it takes forever for a picture to upload when it finally decides not to crash
+I can't upload pptx from phone app
+It's amazing, it helped me to reach a bigger number of audience at once
+Please add the direct option to color font (ex. &lt; font color="" size="" &gt;Word &lt; /font &gt;) it'll help us directly to change font color.  Otherwise app was good however it's RAM usage is little bit large but it's worth it. I LOVE WP  Thanks!
+A total useless app as I can't even access my connected sites doesn't even shows them in the sites list yet on the WordPress site & desktop apps they're working flawlessly.
+Works great. I'm able to update or write new blogs easily from anywhere with this app.
+Good but i can't create self hosted site in it otherwise it's too good.
+It's easy to use and shows the main features of my web site.
+Very helpful app to start and manage a blog easily.
+Very useful app. Can help ppl with knowledge.
+Thanks to WordPress app that make my writing fast and easier
+Quick and dirt WordPress as it was meant to be... Quality nice 👌
+Page & comment box same scroll way nice. ... but
+Always fails to upload media files and when updating text it sometimes uploads but often fails. It's a shame because this would be an awesome tool for blogging whilst on the move without need of laptop. Hopefully it will be improved, I'd really like to use this app. I've rated it 2 star because the concept is brilliant but it doesn't currently work properly. Please fix. Thanks. Ryan :)
+Upload photos now is faster. I dont have to worry its failed few times anymore. Love it! 👍 i dont have any trouble with this app. And btw.. can i give you a suggest? if someday you'll have a plan to add payment method link to google play for this apps. So people can pay a plan for website they want without need to go to main website of wordpress. 😆 Thank you!
+These past few days, I can't publish a post properly. It always says error 404, something like that. Because of that, I still open my phone's browser to publish a post. And I'd like to suggest that if writing a post, can we have more editing options like text alignment and colours? I'd love to have that one on the app. ❤
+Well, it started of well but now I am encountering new problems every single day. The app is not user friendly. Kindly upgrade it. I have already posted my queries to the contact group. Waiting for the problems to be fixed. But this shouldn't happen. I do request you to please make it an app worth using. I just starting blogging and do not want to loose everything by deleting my account.
+Love Wordpress,HATE this app. You're literally just better off using your browser to do everything. Adding a self hosted site is always a problem signing in.
+I thought it was good, if a little hard to learn till I read you should use a "child " copy so updates don't overwrite your blog and you have to redo it.  That totally de-motivated me.  :( Trying to go through the steps to create and use a child copy was just too much for me to figure out at this time in my life.
+I love the convenience and simplicity of this app! Only downside is you can't upload star points from grocery items, you have to go to the website (but it instructs you to do so on the star point, so it didn't affect my rating)
+I used this on my phone all the time to work on my blog. Then, suddenly, it doesn't work properly. I've uninstalled. A shame because it was really good yesterday
+The spacing on each line is too big and it makes your work look scattered. It's difficult to close the space... This is an inconvenience
+Ich finde die App an sich nicht schlecht aber ich finde ich brauche keine App, wenn ich eh immer an den Computer muss um alles nachzuarbeiten, weil ich am Handy keine Bilder bearbeiten kann. Man kann weder die Größe verändern, noch kann man Bilder zuschneiden noch kann man sie drehen. Eine andere Eigenart ist nämlich, dass die Bilder manchmal einfach gedreht hochgeladen werden. Das bedeutet, dass ich jedes Mal extra an den Computer muss, um die Bilder nachzuarbeiten, was unglaublich lästig ist!  Schade, weil auf dem Computer hat man sehr viele Auswahlmöglichkeiten für Einstellungen.
+Thought it wasn't working so I have it a bag review, but it turned out that one of my plugins was not allowing the app to connect to my site.
+I deleted the app because I got fed up with the fact that I barely can do anything on the app anymore. Reinstalled it thinking there will be some changes but for me it's worse. I can even see my draft or go to my home page. I can't do much. It's pointless having an app for WordPress.
+Lots of bugs with the editor. My post went online with no tags and no categories, and the app doesn't even let me try to fix it.
+Guys you should add the 'stick to the front page' button on the app. It's usless if you must log on the pc to do it!
+I updated the app today, and I am annoyed with it. Upon trying to customize it I was sent to a browser. What's even the point of the app now?
+Useless this not synchronize your post, and don't work correctly.
+I love this app i just wished there were more female friendly beauty blogger platforms to choose from :(
+Wont sync with the work i have done on computer
+Can anyone tell me is this the real app of world press and how can i connect this with goggle
+Nice app for creating website without knowing any BASIC programming I recommend it for everyone
+Works well, would like to manage updates from this app but it does not do that.
+Great app! But please add undo-edit feature in the next update! Thanks
+Best thing to put our minds into the world
+Cant edit my templates from the app
+I cant post! Why cant i post... Its only on draft
+cannot view post, page & comment
+Maybe I can see my site with this app without opening another app to see it
+Love it gives instant access to my sitw
+Editor is missing not even half the functionality as the one in the web browser. You can't even add a heading or set the font size. The only way to do it is by going to the HTML editor and add a tag that way. The only good thing about this is being able to manage posts, pages and comments (move or remove them). If you want to edit posts or page on your phone or tablet, you're better to do it another one and copy + paste it in using the web browser admin panel.
+I blog every day and this lets me post when I am lazy. Also useful for reading my posts, I am a poet.  Unfortunately, today it's just not loading at all. Super frustrating when I blog everyday. I just did the post on Facebook but I hope the issue gets resolved. May be due to a recent update. Reinstalling after the issue is continuing.
+App spying on me!!! When I click on an image from the attachment screen. app says "cannot load attachment". But some ip in Washington Virginia immediately hits my site for the same image. Why???
+It never works for me. I can log in and see the dashboard, but whatever I tap on, be it posts or stats or anything other than settings, it tells me Posts couldn't be refreshed at this time, or Stats couldn't be refreshed at this time, etc. and I literally can't do anything with it. Browser editing for me too I guess. It's a shame because it would've been much more convenient.
+I loved the idea of it. Unfortunately I ran into a headaches worth of problems. When you contact them, no One answers leaving you stuck and frustrated
+Absolute dog crap. Uploading pictures might as well take a century if they work at all. The formatting gets completely messed up if you don't use HTML, but I can never switch to HTML because the photo uploads which never finish block me from doing so. App crashes every 5 minutes and has numerous glitches.  Very, very disappointed as I love the WordPress platform and was counting on this app for a blog I was doing while traveling but it did not work at all.  Extremely unimpressed. 1/5. Would be 1/10 if I could give it such a rating.
+Does not work with several popular comment subscription plugins. If a blog has comment moderation enabled, and then an administrator replies to  (and thereby approves) a comment which is "pending moderation" from within this app, the comment author will never get the reply notification email.   This is because this app appears to somehow bypass the `wp_set_comment_status` hook when administrators reply to a "pending moderation" comment within the app. The `wp_set_comment_status` hook is what fires the reply notification emails for many comment subscription plugins.  There is a clue that the developers know of this bug (I do see it as a bug) because, in this app, an administrator can "Reply" to comment that is pending moderation, but in the regular WP Admin interface, the button is labeled "Approve and Reply" not just "Reply."  I hope this gets fixed as it would be great to use this app to approve and reply to comments, and fire the `wp_set_comment_status` hook so that comment authors can receive email notification of the replies.
+Three things plague this app for me. 1-You cannot upload on the featured image button, you have to do that on the main screen of the site. 2-You cannot get the edit post link through the app, have to log into dashboard on a browser. I need these links to submit post to my editor through Slack or Trello. 3-There is no word count visible. I need that since the sites I write for have a minimum word count. All three of these would make this a five star app for me, else it is useless for me and I might as well just write through the browser.
+I don't understand why I see all the texts from the discovery parts translated into my mother tongue. I research things in English then it appears in Turkish. I double checked the settings but the same
+I can't add my own site, can't upload my pictures. The whole app is confusing and yet they make it seem simple.
+I write something then it shows publish it.after I publish It ,it still shows it as a draft.there has to be a distinction between what has been published n what's draft only.n I don't know where I'll find the stuff I have published.. please help
+View admin mode  goes to external browser.  Why it's not in the app itself. Dashboard should be in app. Improve this. Give us choice to go external browser  or not. I was happy with admin mode in app itself. If it goes external browser then why the hell we use this app.
+It allowed me to sign in with my email then decided it didn't recognize it when I wanted to reset my password. So basically it is useless.
+I love writing and I have used WordPress for a long time now but after the recent update I cannot find anything.  The editor doesn't contain strike-through option; neither the read more tag.  The pages load slowly Please fix this. Thank you
+I love blogging but I am having certain issues with this app...Someone recommended me WordPress and I installed it...But how could people around the globe would be able to see my blogs and how could I follow blogging sites..Well I am definitely having various issues... i hope you people could help me out..I joined today and I posted my first blog
+I've been using the app for a couple of months. I think it's brilliant, especially for quickly jotting down ideas for later. It is possible to produce a whole post from the app including photos but I personally prefer to finish off on a computer. It's great for reading and commenting on other users blogs too.
+Jetpack was blocking uploads from app. Deleted it (I was using only one module l, now working correctly.
+The one thing I hoped for from this app was that it would let me draft a blog without randomly deleting it and giving me no way of recovering everything I'd written. I hoped wrong.
+Always says 403 forbidden. what happened? I can't open my account! I have already linked it to my gmail, but nothing happened always says 403 error
+I made sites for people using custom fields normally and this does not work via this app which makes it next to useless for me.
+Used wordpress for a long time but this app tells me my blog doesn't exist... Think I'll stick to mobile browser editing
+This app lets me make quick post while on the go. I wish they'd add the ability to manage and create pages
+The admin site is distorted on Samsung Galaxy S7. Seems to be non-mobile format.
+Really hard to add a self hosted website, having hard time logging in🤔
+Very useful for bloggers. Efficient and easy to use. Please make an option to 'select all tags' or categories at once though, before posting an excerpt. Thank you
+Previous version has option to change theme details within the apl. but in new version it directly goes to browser.
+Ayy, nice one. Can pen down my thoughts in here and get it read by others. Good job.
+How to I can connect for instant article to fb. Add option in app
+This is the world best app grab it! Its number one.
+Awesome app, helped launch my short story blog !!
+Good app for building website
+I'm a beginner level wordpress wannabe. I've set up a blog, ostensibly to track some personal aims and hold myself publicly accountable, but also to learn more about using WordPress. Then I can 'own' my own business website more fully.   Well this app has been a delight to use. Easily wrote a post, edited, added a photo, tagged and categorised and uploaded while away from my desktop. Very impressed and pleased. Thank you.
+App crashes every time I try to open my site from the app. Kinda pointless the this point...   Update: got good support, issue now resolved
+Best website since I started blogging. I love the app because I can edit and manage my blog on the go. I believe the last time I downloaded it (switched phones), the app has some glitches regarding drafting from the phone and having it translate incorrectly on the computer (save spots varied) but overall, great app. Redownloading it again so I can keep up with the revamping of my blog. Awesome app!
+I can login successfully but unable to switch between my sites and only shows a blank dashboard. Is there any workaround on this issue? Thanks
+It's really addictive, it keeps me up all night. You can't get anywhere without spending $5 but other than that it's awesome.    Seriously though, I like this blogging app. No problems across the board.
+The app is not having any undo redo option while writing any post in it if you mistakenly press delete button it will delete all from draft post and changed data gets save as draft.
+Photo uploading is decidedly broken. The multi picker works great, but it is a coin toss whether each individual photo will upload successfully or hang at 80% and go nowhere. The only way to fix hung uploads is to delete it and then browse through your photos again to try once more. This is a huge burden when you upload 20 photos and 5 of them hang. This behavior is consistent whether on wifi or data. What's more, the only intuitive options for a poat are "local draft" or "publish". I can't get the app to default to "draft", in which it is uploaded and able to be edited on my computer. Even if I only have the app as a way to upload cell photos, it is almost worthless at that.
+I really like the WordPress model for blogging, but it's a big thumbs down for app as none of my posts are being published, despite pressing publish they are only being saved as drafts. Thanks for getting back to me, I've now done that and it worked.
+Improving all the time. Missing a 'read more' insert button on the visual editor, but if you just remember to insert <!--more--> in the html it's OK.  That aside, it's a lot better than the last time I used it a couple of years back
+I don't use auto correct but I do use auto caps, auto spacing, next word prediction and smart editor.  Maybe one of these options could also have this error?
+No other blog website come close to WordPress IMO. Beautiful themes easy to work. And a great user interface. All in all I wouldn't use any other blog site.
+My second time over the last 12 months trying this app. Still cannot log in to my self hosted site. Multiple attempts with correct name, pass and url leads to "we can't log you in" error.  Uninstalling again.
+Can't type a blog post without the cursor jumping around and deleting things
+I just updated then I can't find my drafts. I'm writing Week In The Life everyday and post it every Saturday. So I write and save and write again and save again. Now after I updated, all the drafts I have are gone. Where can I find it? Please help. Thanks.
+Why is it that when I change site I can't publish my work in my android phone..can you please help me?
+I love this because I feel like I can be creative without having to get out my computer to write, which gives me freedom (and less likely to forget my inspiration)!!!!
+Hey the app is not logging me in. It wasn't uploading my posts either. I don't know what the problem is.
+A nice app, but I m using Vietnamese for almost my posts, so I found out some issue related to font. I hope it will be fixed soon, thanks WP team.
+Hi WordPress team. Can I report the web page related issue here?
+it just won't open,i am pressing button like crazy but nothing,i have acer liquid zest.
+Would like it if the blog post can be shared to other apps from blog post window itself
+The app is great but i cant post any comments at all. Can someone please help out with this isuue?
+Berguna banget buat edit-edit dan posting serta baca artikel2 baru
+Its a great site for newbies that eventually want to obtain a profitable blog.
+Guys check out my blog its called bellemoii its fashion makeup and lifestyle tips
+Stars In The Trap Entertainment use Wordpress Buddy Bryckz use Wordpress to promote great digitail underground music Get Get
+Cant publish any post because of error. Sorry if it is my phone. But can't find any problem with my phone.
+Perfect app to develop my online blog on the go.
+How to earn money in this app
+Great app to manage our Church web page
+Amazing and helpful to manage my blog.
+Shifty. Account made through the app doesn't match passwords when trying to log into WordPress. Creating a post from scratch is extremely limited within app. Waste of time just go to website.
+I am reducing it to 1 star as apparently one fine day this app disappeared from my phone. And when I try  installing it again then It's not reinstalling. I am really unhappy with the app now
+I use this app regularly and love it. The only thing I find annoying is the uploading of photos is cluncky and slow and would prefer to be able to view the galleries you can insert into posts before publishing.
+Let's me share my thoughts and feelings on (nearly) about anything. Can't ask for more, except maybe an easier interface for typing, but don't let my whining change anyone's opinion 😊
+I love this app. I've never encountered any issues and although I blog infrequently, the bulk of each entry is usually written on my mobile during an opportune moment of inspiration. I'd use it more if I posted more, it's straightforward, well laid-out and presented. It may be my favourite app.
+This is indeed a great app. It only received a 3 star because there is no dedicated gallery button. That would be much appreciated and welcomed to the next update.
+Pretty pointless. Can't log in and when you do you can't post anything or even view existing posts. The fact they have to point you in the direction of the Android Forum 'for help using this app' says it all. If it diesn't work in the first place - don't release it. Have now uninstalled it 😕 ...
+I like the app, but if there was a way I could write subsequent post on a particular post and make it appear as one post I'd really appreciate it,  I don't know if that will change when I purchase a plan but i intend on doing that soon
+Good app for blogging. Wish discovery of other blogs was a bit easier, but minor qualm.
+Sometime I click on the button "follow" to follow......for some time it get followed but later it get in followed by app automatically .. ..by saying "unable to follow"   What's the reason
+I like this app if I'm just going to post short write-ups but I edit in between my phone and my computer so I wish it could sync better to wherever was my latest update. Please sync better.
+This app is excellent. I recommend this app to all members of VON7K - The Volunteer Organizers Network of Project TAPACAN - The Threefold Action Program Against Cigarettes, Alcohol, and Narcotics.
+Not able to add image to post , quit irrateting
+Works, but not easy to use concerning picture content.
+Uhh, its great, it widens the spectrum of the potentials that young bloggers have...it makes it easy and fast. Its a really cool app...5 star app...
+All is good . From now I didn't known how to add adcode . In between header . I didn't found any option on HTML type
+Why why why.. Why I cant use symbol 'Read more' when posting using the updated app -___-. Please bring it back
+Please add commands like 'read more' , 'color' etc to the app also. Currently its available only on web version.
+I love WordPress, It enables user to create their own website easily and simple with free of cost
+I can not log in as says username password incorrect yet on pc they both work to log me in.
+It worked great. The best thing was it didn't require jetpack.
+No plugins available for mobile versiin please add adsense plugin option
+I want to know that how to add and delete text and pictures...
+Does what it's meant to do, superb app!
+Hello! How can I edit and remove the  categories I made?
+like media storage & http view on editor but this freemium
+Cant display embaled code like iframed
+The app has a lot of cool posts and it is great way to submit my articles and it helps a lot
+Its a good app. I can update my blog easily.
+Give it a try if you have something to say to the world
+Can't post to my ISP-hosted WordPress blog. Get 404 Errors. Can't even pull the drafts off my tablet easily. -- Update: Managed to install a plug in that worked, but lost all my local drafts.
+nice interface and functionality - but the photo-uploads keep being interrupted ("tap to retry") on a Galaxy Note 4... (Photos 3-4MB, connection is stable and app is well connected to the server ((self hosted blog))
+One thing I absolutely loathe is the inability to move to the very next line at the press of a button. (Please let me know if I'm doing something wrong tho)
+I use wordpress for my podcast.  It's pretty silly I can upload video but can't upload an mp3. Please fix this and then I will adjust my rating to 5 stars.
+Images stop uploading 90% of the way through, drafts do not update, and putting breaks between paragraphs doesn't work. Needs work.
+2). Support not supporting - ignoring my answers 4 their questions; 3). Application log new strings writing bottom, have to scroll to read new lines. 4). No info about required jetpack plugin. 5). Impossible to clear Application log.
+Why the Featured Image feature is not working? I set a photo as a featured photo, but when I try to publish it on my facebook, other photo came up as featured photo. I did all troubleshooting I could possibly do, but still the same. It's annoying me.
+I don't know why but I cannot log into my main blog!!!   I am also sure that navigating the app can be made much easier.
+I can't upload a pdf unless I go to the website and since many of my updates involve uploading minutes from meetings and other pdf documents it makes the app impossible for me to use
+I've been trying to link my Microsoft Word blog template to my blog site, it just keeps jamming...and feels impossible...too bad
+I am using it high speed connection even then uploading a small size image takes more than half an hour . Similarly post publishing takes a lot of time . App is of no use!
+Broken As Designed - app not fit for purpose. I have to use PC for website management.
+It progress my working but sometimes it cause error message "Unfortunatelly Wordppress has stop" but my phone is able to use much high function.
+Cannot open site posts comments and any option shows cannot refresh this time try later I have internet speed
+Easy to use, after update app i cant approve and reply comments. Please fix it for 5 star
+It's a cool app real handy... just struggling to add my self hosted site to it...
+I'm a training consultant and it's an extension of my training facility. I do Knowledge Management as well and it's our knowledge base,
+If we want to change profile picture we can't use Gallery now. Why? So? There should be a method to upload photo from gallery.
+Hard to see appearance menu this app
+Love this app so much. If you want a place to host a blog, this is the place
+Can anyone say hw i can transfer the Local Draft frm my cell phone to my Laptop browser?
+Can you please tell me how to add a dialogue box in my webpage without using the plugins??
+It's good since it has html embed option on the go. And a handy app of course
+Like to talk to other site makers that make real cash.
+I'm happy with these now.but how will I get money from this blog
+Beautifully designed app....to make our site more beautiful
+Nice layout.. easy to use
+Good app! Easy to use and follow. There's this sorta bug(?) when I make a scheduled post and try to revert it back to an immediate post though. ;_;             EDIT: When I tried posting it as an immediate post, it wasn't showing up in the home page and it says the post isn't found when I tried copy pasting the URL directly to a browser. I had to delete the post and make a new one, and copy paste the content to post it. Hope this helps!
+I keep publish my post but wont show up at the site. Keep saying it was published but it wad not. When I checked it on the phone apps, it was saved in the draft. When I went to the site it don't even appeared in the draft. I don't really care about the picture but at least publish my post
+This app deleted one of my blogs I've been working on for a while, which I kept updating regulary. When I finished my blog and updated while uploading photos, I come back onto it only to find theres now nothing there. I try revert and it takes me back a whole 10hours of editing! Very annoyed, what a waste of time.
+ios app is far better than this...the actual media and post updated in system browser and the update in the app are not in sync
+Fully foul. Can't access my any of website. Peoples are giving fake reviews. Ignore this foul app
+I can't add featured image on my blog posts, can't add images in my posts as they keep uploading forever, this app need a complete makeover, please do so.
+Bisa pos secara berkala gak ribet dengan laptop. Jika bisa ditambah beberapa plugin populer makin usefull dan pasti keren, seperti misalkan ditambah woocommerce product pos
+Why?? The upload photo stopped at 90% uploading progress for hours, i have stable internet connection, but it wont be uploaded, i tried repeatedly, but the uploading progress always stopped at 90%. why? Please fix this
+Twice now I've spent an hour writing a post, on a crappy edge connection (while on vacation) and then it deletes them. At random. No explanation, no way to undo or see a previous version. Utter trash. Needs a local database that saves different versions as you write and so when this horrifying problem occurs, I can roll back the post to a version before it deleted every friggen thing in it. Never using this app again. I cant trust it. I've just wasted two hours of battery life on it.
+App works just fine with only wp associated / dedicated plugins like jetpack. Why is there no support for other plugins like Yoast SEO or any SEO used for on-page optimization?
+This app is useful and easy to use. I love that I can manage my site on the go and it has all the features I need on the go. Thank you for this amazing app and I am a proud WordPress user. Love it.
+I love this app! I only need one feature to be added. Please make a search tab so I can find past pages and articles faster
+Best blog ever. It challenges us to write an idea, again and again.
+Good to have this and be able to compose wherever I am with my Smartphone.
+I can't login to my self hosted blog. How to login?
+Can't moderate comments stays on pending also can't load gravatar warning.
+Please make it a feature to find draft post. I couldn't find my draft post
+Download WordPress for android
+Fun app worth the time
+Ok why cant i just delete a website?
+I have been on the computer since 1991 Microsoft 2.3 and am practiced not template design building pages...slowly spent hours to work  trial and error. These free and even subscribed Web builders are difficult to apply Mostly due to memory limitations. ... I find WordPress very proactive and useful Save Publish Edit  Action   These need better position and simpler explanations Thank you P's.  I am 75 years old
+Absolut essential features like adding serveral pictures at once straight to a post are missing. Will have to go back to just use the webinterface in a browser. If only i could use the webinterface offline... And why should i allow the app access to my camera to upload pictures from my sd card???
+Turns out the problem was with my Website provider. Thanks to very responsive help from them and from the WordPress help desk it's all solved now.     ==== cut here====                                                         I haven't found any way of getting "Local Changes" actually published. Gone through all the motions, chosen "Publish" from the "Publish/Revert" option. Nothing. The app isn't of much use without this...
+Unable to upload images on my mobile that I have been using for months.  When I tried on my tablet,  it says something about a new way to upload an image and it worked.   There is no such message on my mobile.  The only message is "unfortunately WordPress has stopped working".
+I really love the App, does everything that I need to get done, but this new update has lost the more botton that I just love, or maybe it's there and I just can't see it. You know the one that breaks a post so it doesn't display the full post on your homepage, where is it?  Please make it come back. Thank you
+This is really bugging me because it means I have to use a less convenient method to upload images for a header. Please fix.
+Go to app setting and disable show visible setting,.  We can upload images and many more,.....thanks to WordPress team.....
+For learning  purposes it is great App providing easy way to post new things on your own blogs and manage your viewers comments and like and you can also see the liking percentages
+Wordpress has joined the herd of sheep who think that forcing rediculously complex and impossible to remember passwords, without WRITING IT DOWN somewhere, will make their systems more secure.  WRONG!! The wise geeks at WordPress have completely missed how the real world works. I have now written my new 25 character letter/number/symbol password down so that I don't have to change it every time I've forgotten it when logging in. The trouble is now everyone else can see it too.  DUH!!  Well done geniuses.
+Desktop site is quite nice but uploading media via the android app is quite a pain. Its really slow.
+And I can't even insert my image when customising. Sigh. It's also really slow!
+I love  the  way  I  can  write  and  publish  things  from  my Samsung  Galaxy  Nook ,  it  is  great  for  the  times  when  I  cannot  wait  to  publish  something  new .
+It's a good app but I noticed you can't search for old  pictures within the app database. You have to keep scrolling down endlessly. It will be nice to also allow some plugins integral to posting articles to work with it. Like plugins for tables or podcasts.
+Please help me with it,i m not able to publish the story.everytime I try to publish ,it comes with an error..no host associated.what should I do?
+1. Add read more features to blog posts 2. Adding of word or pdf files 3. And optimize reliability and speed
+This app is so bright it hurts. You're trying to read, write and relax, but the blank color scheme reminds me more of the sun hitting my face at 6am than of me relaxing while browsing.  This app doesn't have some sort of front page like imgur has for example, instead all we get is the "discover" feature which only promotes bland, vague and uninteresting posts with no personality. Just look at it right now! Where are the people sharing relatable stories, or video game strategies, or book or tv show reviews or something? All the posts featured there are just... unattractive, to say the least. And it's the only source of new content there is, otherwise you have to look it up manually.  There are no set categories or tags, instead you make them up and unless people type them up exactly like you did they won't see your post, which is counterintuitive and discourages finding new posts or bloggers.  People can disapprove or even edit your comments. That is twisted, discourages freedom of speech and opinion sharing and even allows people to literally put words in your mouth by changing your original comment to whatever they want.  You can't dislike posts or comments, so the voting system is pointless. You might think otherwise because Twitter and Vine have no downvotes,  but they promote discovery of new content in various ways, while WordPress does not.  The search bar doesn't work. I've tried finding my own posts with the exact same title they have and they don't appear.  All of these factors make it feel deserted and lacking of a community, and discourage new users of getting into writing or reading on WordPress. Also there used to be a eay to add a black outline to images; a necessity when the background is white.
+I've only used the app to make blog posts bit it has been really easy to use. It's simple to get pictures straight into the posts from your phone.
+I love this app but i wish it would tell me what state/province/territory the people who view my posts are from and what times.
+Overall App Rating 4/5 .Please make the post editor like the tinymce , with extra shortcodes and other features. Please add woocommerce support or please release a new woocommerce app for android..
+The WordPress reader is a good idea but whenever I open a WordPress post in the app, it does not show on my recent apps screen whenever I minimize the app.
+Hi.. Can I edit my alt pic by simply rename my picture title?  I like the new version wordpress. So easy to manage
+Genialt, men jeg trenger ikke 5pc ramme på bildene :)
+I'll use it to reveal antiChrist to the world
+Question-why Look and feel is removed in 6.2 version
+Such a good app :) keep the good work
+Hoping this app could help me finding that stranger.
+I appreciate Word Press app.  I was an avid Blogspt user but no more
+Please add search option for blog posts. Have to scroll indefinitely to find posts. Thanks.
+Please support RTL direction
+Good to jot down post ideas, drafts and monitor a site in general.
+Please fix the font when type Vietnamese
+I love this, but I keep getting one unwanted comment, why can't I block them. Still needs a block, but it's easy to write using the app,
+This app has improved over the past year, so I thought I'd re-evaluate it. Many of the issues I had with the older version have been fixed, so I increased my rating to 4-stars.  However, it still doesn't meet my needs in that it doesn't work offline. As a nature photographer, I am away from an internet connection frequently and this app requires a connection to function.
+I rely very heavily on this app to keep me posted about notifications because for some reason, the website doesn't do it as quickly on neither my laptop nor my desktop. But of late,  I've noticed,  there have been glitches in the app too. Like gravatars of other bloggers get mixed up. I get a notification on my lock screen that I've received a like or comment l,  but when I open the app, it doesn't show me the latest notification. There are other too. Please fix these issues.
+Not only the app. The website logged me out and told me I need a new password so I reset it and it just did the exact same thing. I uploaded one piece and now I can't even access my account. I feel like I have been robbed of my own work. I wish I could write another review because one doesn't show how disappointed and disgusted I am with word press. This is my first day using WordPress and I have spent more time trying to login and reset a password then actually getting to post content.
+I was wondering why wordpress is so not comfortable now? I have some problems when I will post something in my wordpress. When I will add an image of my post, there are something problem. The application say that an error, but my connection is ok. I hope you can fix it. Thankyou.
+Hi, whenever I try to publish a post, I am getting failure message. An error occurred while uploading the post HTTP status code 405 was returned. Method not allowed.     And search image option while setting featured image will be helpful.
+The app is running good for beginners like me.. but after update , we unable to post image and also..cant able to publish the blog..from app.. very sucking update plz do anything but plz remove this bug asap
+I used to love being able to edit on the subway, after writing a post on my laptop. Now though, this app seems ONLY able to retreive outdated post versions previously written on my phone, making it next to useless for me.
+Hangs constantly and nothing works! Cannot seem to get any further online either.
+Sometimes it just cannot upload picture to new post. I tried many times. Its stuck at 90% uploaded. Freeze there. I really need this apps. Easy for me to update my post via mobile. Please fix it.
+Other than seeing responses to comments I make as a WP user, it doesn't seem to be of much use in administrating my WP site, which is disappointing.
+Like when I added an image from my desktop computer and make a post using this app adding the image on the post, the recently uploaded image does not display. I have to go back to home, click on media and refresh it.
+Only the most simple or basic of tasks can be done. You cannot perform any updating or manage users. Writing posts has very limited capabilities.
+In PC there is several option available in dashboard plzz sir increase the dashboard functionality in android also like upload and install user  theme,plugin etc have a option and option to add  a new pages                                                  All these is right but include these basic functionality in dashboard for Android                                                  Thanx you sir hope so u will try to add it
+I love this for the convenience and accessibility it offers. Not only that but it also is the best place to make a free blog. But the lag send to be quite a problem
+I thought of using this app when I am not near my laptop; I used it to write new thoughts which used to occur at random time. The page in the app, if stayed as draft and if you edited more in your laptop, when you publish the draft, it reverts the page to older edition.
+Good platform to pour your heart out through writing. Better for those who are not that expressive verbally.  Best for Day Dreamers and Night Thinkers.  Thankyou WordPress.. 😊
+I had to uninstall this app because it doesn't let me log in properly even when I have the correct login details. I double checked it on my laptop browser and I was able to login with no problem but the app doesn't let me login for some reason?!?!
+Whenever I tap on publish option it says it the post is uploading then again it becomes a draft. Please help me out
+The lack of formating buttons makes this app useless. Not having a "remove formating" button is particularly awful. If one logs into this app as an admin there does not appear to be anything similar to an admin control panel.
+how can i search for pic's in media library?? search icon not appear when i right new post after i click adding images icon.
+What i can say, this is the first time for me to use WordPress blog website and I tried other web hosting providers with many plans, but by far the WordPress service is the best service, excellent customer service, very easy to use interface. I'm now on the premium plan. This is the best service ever for just 100$.
+Wordpress is not for the weak of mind, or abilities.  It is a very mature tool.  I get what I pay for with Google Sites.  Pondering a web change to WordPress!  Great Tool!
+For when you have an edit or idea away from the laptop! Great layout and cuts out the middleman in file transfer!
+I will give 5 star if I could purchase domain or pay with my google wallet on my tab. More so, give a preview of post when sharing on social media not the full story and attach post with pictures in them.
+😠😠 Do something I am not able to like any posts or follow any sites.
+Can u make the share button for whatsapp also.As mobile users can use it.It will be a good improvement
+Please , Help I Can't Logging In Ur App .. It saying we can't log in u please help
+This is so amazing. My and my best friend installed this app and create a blog and the next day. Boom... 10 blogs on there. So addictive and so awesome. Definitely download... Very very very worth it
+Please help my viewers are unable to see my vedios please tell why
+Why admin page goes directly to browser? It used to be ableto be opened from the app itself.
+Am missing the signature may u plz tell me where I can find it. Thnks.
+All of the Wordpress Apps are excellent and Wordpress itself who is friendly and loving easy to use and share. Great Job.
+Pls add multi select option in media upload
+It is so important app to blog and have a website with free responsive web themes! Above all it is easy to use!
+Pure awesomeness across the board!!
+Extraordinary talent expressing app but it doesn't have Tamil in the language option...
+My posts don't get published! Please help !!!
+just needs built in admin panel instead of opening web browser
+Please..., make this app has it own browser 😩
+As a psychologist and educator for many years, I have come to the conclusion that "communication" is one of the most critical things all of us can do in a sometimes unpredictable world.  Word Press as a technology has opened my eyes to believing that what I think and say does matter--to someone, somewhere. Thanks Word Press, and keep up the good work.  Gerald D. Nunn, Ph.D.
+The app is easy to use, but it is 50/50 whether it will upload photos or not, forcing me to go to the website (half the reason I got the app was to edit offline), and twice now I have been using it when the app randomly deletes half my post. So that's a few wasted hours, and with no undo, draft, or backup feature, I have to go back and rewrite everything I just wrote.
+It's been two time since i had to register with same password and both the the times i was able to register.. got confirmation of registration .. but when i try to open it again with same link ot says"email not valid".. then i had to download this app but the problem still persists...
+I just wrote a long description of my rating and it has an error when i submitted it. I really would  like to use this app but.... if I click on app icon, it opens a blank blog page and i cannot back out of cancel. Help
+What happened? Everytime I update a post by the app, the entire story disappears. Only the title left. Would you explain this? There have been 3 posts I've updated today and all those three are gone. Of course it will take a hard time to rewrite all over again. Completely ridiculous. This used to be a great app I really love. Please give response. Thank you.
+Wish it had an option to display a compacted list of blog posts, so you can see at-a-glance what's coming up and what's just been posted. Also annoying that you have to add authentication to upload blogs on insecure WiFi. No other app requires this.
+It does not allow untitled post to be published whereas I have installed auto generate title plugin. It should allow publishing post same as web interface
+Everytime i put a space between words, it kept coming back together. So I can't write a thing, have explored all the setting but still can't fix this. Wasted 2 hours just looking for solution.
+I downloaded the app to write posts offline and upload them when we had internet connection. I wrote 3 posts and saved them as local drafts, the  first 2 deleted themselves at different points. It's impossible to load photos into drafts. What should be a useful app is very frustrating and bordering on useless.
+So buggy. Rarely loads posts, fails to update posts, throws errors loading post categories, image uploads usually fail. It's clunky to use, the UI seems to be from 1997. Only has about a third of desktop features.  I'd gladly pay if someone built this app properly, but this thing's a train wreck.
+Stats won't refresh, connection error messages, won't load media... Uninstalled and downloaded 3 times, but no change! So disappointed! I could do with a WP app while on the move!!!!
+Am really enjoying this app right now. It's fast and easy to use. Only would want WordPress to improve on the category thing, I wish it could categories every post automatically. Thanks
+Please we liked it when if we wanted to up load a photo it just comes up, now just to up upload a photo it now has to load which takes time. Pls we do not like the idea of our photos loading.
+Wordpress has taken an app that has been steadily improving and removed the ability to verify links while writing or editing posts. No longer useful and will be headed back to a browser. Very disappointed with version 5.6. - - - - - - - - - - - - - - - - - -Response to WordPress Support: When I first noticed the change to the ability to use links within the editor section of the app, I contacted support.  The change was confirmed and I was told that links will no longer function. Hence one star rating.
+the app is amazing. using it for months. but in the previous version(5.9) the color of the 'cursor' was white, what created much more  problems during copying or pasting. now it's replaced with gray one. thanks for this.
+I don't know what happened, but as of this morning, my wordpress app is no longer working correctly. Words are getting jumbled up while writing a blog and you are constantly having to go back to fix all the grammar errors thanks to the new update...or whatever they did. Awful!!!
+Extremely poor performance. No peer certificate error over and over again
+Made one website as a test now I can't make more And it denies my password. I don't recommend this app it should be deleted like flappy bird.
+Since the most recent update, when creating a post every word I type is automatically changed to something entirely wrong and it means creating a blog post takes twice as long as it used to as I have to delete everything and start over all the time.
+I have been using this app for one and half month now. Till now it has done all things which I needed. Became easy to manage my website from mobile
+I have tried several site options and have come back to word press. However I would like to see the option for categories. Which is why I have changed my rating from 5 stars to 4 stars.
+Almost there, but I would like to request for the multiple files upload and selection at a time. And ability to manage Woocommerce products, if it's a self-hosted and Woocommerce is presented, since you guys are one company now.
+I have tried over and over again to log into my account, no success. Ive changed the password 2 times still no change..
+Thanks developers to improve app as per complaints. Nice and easy app with next to zero bugs! Appreciate your team work!
+Read more button. I can't find and use read more button, definitely I need it. Could you mind to add read more button? It will be more helpful. Thank you.
+Used to love this app before. It's used to be useful. Now it's hard to get me to write and the editor is just a mess
+'Posts couldn't be refreshed at this time'. No error message, no indication of what the problem is. Uninstalled.
+Text or Image, nothing can be uploaded with this version. I will change my rating once it is fixed.
+While typing cursor automatically gets move to other position . Word's get replaced or get deleted. automatically.
+Old was Finest. In This virson too many problemes regarding update & paragarph the lines, please make correct some probleme.
+Never lags, never stopped working, never force close, this is an app with sleek GUI and smooth connection through all feeds, it is awsome
+I cannot able to get access to my self hosted website. Error shown that could not update data at this time. When I'm publishing a post a 403 error forbidden
+Works well but can't upload multiple photos. When I try it seems to merge 2 or 3 files  into the same jpeg. Please fix.
+This app has everything I'd want in a blogging app. I blog right from my phone saves a lot of time and totally rocks coz I can blog anytime anywhere I want. Its the perfect blogger's companion
+This app sets off my firewall each time I login - and causes my hosting to block my IP, even though it's my home IP.
+After editing and saving my draft on my laptop. It doesnt seem to sync with my phone after I refresh.
+This app doesn't allow Web developer and designers to add tags or create tag form. Please Developer make the tags visible both online and offline
+希望加入個人自架的wordpress自訂登入網址的功能  因為要隱藏後台 所以通常會把預設路徑改掉 無法用wp-login.php登入
+Loved it, it is a great app for a first timer and someone who totally has no clue about creating a website. I look forward to learning more about it.
+I've had to update due to phone change. Very glichy. Typing is challenging. Constantly having to hold numbers down to get them to appear?
+I can't write Vietnamese, all the word will jump. What should I do?
+but how do I reblog a post from the app
+My draft in WordPress app not syncing in web

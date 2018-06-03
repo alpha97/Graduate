@@ -2,9 +2,9 @@
 '''
 生成聚类之后的文本
 '''
-appName = 'Wordpress'
+appName = 'ACDisplay'
 import numpy as np
-K = 3
+K = 6
 with open('tmp/model_theta.dat') as f:
     doc = f.readlines()
     dc = len(doc)
@@ -20,13 +20,22 @@ idDict ={}
 for index in range(dc):
     tem = theta[index].tolist()
     idDict[index] = tem.index(max(tem))
-
+print idDict.values()
 docDict = {}
 for index in range(K):
     docDict[index] = []
     for i,t in idDict.items():
         if t == index:
             docDict[index].append(i)
+
+idfile = open("model_theta_classify/theta_class.txt","w")
+for k,v in docDict.items():
+    # print str(k)+"\t",v;
+    for i in v:
+        idfile.write(str(i)+" ")
+    idfile.write("\n")
+
+idfile.close()
 
 cleanDict = {}#原始文件分类词典
 with open('cleaned/'+appName+'_clean.txt','r')as f:

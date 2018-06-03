@@ -1,40 +1,320 @@
-Superb app which does exactly what it says on the tin. No fluff, just a simple tool which gives you your DoF and HFD based on your camera and lens data. I love how the app chooses the circle of confusion automatically based on the camera sensor. I also appreciate the tasteful graphic which depicts the DoF. What would make this app perfect for me: Include the option to work backwards, allowing the user to specify the minimum and maximum points to be in focus, and the app gives you the required subject distance!
-Superb app I like to shoot from the hip on the street. My AF lenses get super confused about what subject to focus on. If there are multiple subjects, forget it. I've bought a couple of manual lenses and everything I want is in focus every time thanks to this app. Well laid out and easy to use. I'd happily pay for it if it wasn't free. Indispensable. Thank you :)
+Superb app which does exactly what it says on the tin. No fluff, just a simple tool which gives you your DoF and HFD based on your camera and lens data.  I love how the app chooses the circle of confusion automatically based on the camera sensor. I also appreciate the tasteful graphic which depicts the DoF.  What would make this app perfect for me: Include the option to work backwards, allowing the user to specify the minimum and maximum points to be in focus, and the app gives you the required subject distance!
+I like to shoot from the hip on the street. My AF lenses get super confused about what subject to focus on. If there are multiple subjects, forget it. I've bought a couple of manual lenses and everything I want is in focus every time thanks to this app. Well laid out and easy to use. I'd happily pay for it if it wasn't free. Indispensable. Thank you :)
 Although does not support any of my cams, I admire it for being pro grade and no ads. UI and performance deserves to become Top10. Canon 5D Mark IV , 6D Mark II , 77D & Panasonic GH5 are not yot added, I hope it will get listed soon so I can use it again...
-Cool app with minor annoyances Easy to understand. No BS and doesn't overcomplicate the reading of the DOF information. The name of the app could confuse one to think that it only works for photographers that swears to using hyperfocal, which isn't the case it can be used by all photographers interested in using DOF in their photography. What sometimes annoys me is that the focal lengths are listed in increments of as low as 1 mm! That's good and fine for focal lengths below 100 mm. Above that increments of 10 mm should be sufficient.
+Easy to understand. No BS and doesn't overcomplicate the reading of the DOF information. The name of the app could confuse one to think that it only works for photographers that swears to using hyperfocal, which isn't the case it can be used by all photographers interested in using DOF in their photography. What sometimes annoys me is that the focal lengths are listed in increments of as low as 1 mm! That's good and fine for focal lengths below 100 mm. Above that increments of 10 mm should be sufficient.
 I liked the app for it's simplicity and quick access to data. But would have preferred to have DoF unit as cm instead of feet or meters. Feet or meters for distance of subject is fine. But calculating DoF in decimal numbers of feet and meter becomes difficult on field.
-Great app if you're working in digital work one camera and very few lens changes. If you're working with multiple cameras in different formats, the menus are bulky and counterproductive. Would love to see the addition of a camera and a lens pull down with editable fstop values specific to the shutter. Having 9000 Sonys to choose from does little but get in the way when I'm deciding between my 4x5 and my 6x9. Ideally I'd have a menu under the camera that had an editable short list of my 4 main cameras and a lens menu that allowed me to shift between my primes with one touch.
+Great app if you're working in digital work one camera and very few lens changes.    If you're working with multiple cameras in different formats, the menus are bulky and counterproductive.  Would love to see the addition of a camera and a lens pull down with editable fstop values specific to the shutter.  Having 9000 Sonys to choose from does little but get in the way when I'm deciding between my 4x5 and my 6x9.  Ideally I'd have a menu under the camera that had an editable short list of my 4 main cameras and a lens menu that allowed me to shift between my primes with one touch.
 Great simple app. Easy to use. Works great with M43 sensors & lenses. A must have app for the street photographer who likes to pre set focus. Old school and charts still your thing? It's got those too.
 This app seems very useful. My only criticism is that the screen is very difficult to read on a smartphone. It would help if the lines and text were bolder.
-Wow! Includes Nikon D500 Stats This is so much more than I was expecting in a free app! As a n00b photographer who chose to jump in with the latest high end DSLR, it has already begun to help demystify the techical aspects involved in setting up and properly capturing a shot in a way that is easy to understand, with every aspect of the individual parameters tailored for my specific camera. Thank you so much for putting in all the necessary time and energy that it must have taken to create this app. May your efforts be properly rewarded!!
+This is so much more than I was expecting in a free app! As a n00b photographer who chose to jump in with the latest high end DSLR, it has already begun to help demystify the techical aspects involved in setting up and properly capturing a shot in a way that is easy to understand, with every aspect of the individual parameters tailored for my specific camera. Thank you so much for putting in all the necessary time and energy that it must have taken to create this app. May your efforts be properly rewarded!!
 If you're new to Landscape Photography and would like to be able to understand and calculate your Hyperfocal Distance, then this app is for you! I'm 100% happy with this app and I recommend it to anyone out there who seeks to take better landscape photo. You can take my word on this 😉
-This is a beautiful app for photographers, it's so well made it becomes a game to play with and try out new configurations! Thanks for this, it couldn't be better. 👍
+This is a beautiful app for photographers, it's so well made it becomes a  game to play with and try out new configurations! Thanks for this, it  couldn't be better. 👍
 Great app, very user friendly, fantastic help to know your debt of field for all practical focal lengths and for all different subject distances. Field of view was helpful for me to figure out home studio dimensions. Many thanks for a great app
 Very useful while on a field assignment to make sure I've got it right. I use it on my tablet and phone. I like being able to save profiles and emailing the tables.
-Easy and useful Was a bit sceptical first, but a very well designed app indeed! Supports practically any camera/lens
+Was a bit sceptical first, but a very well designed app indeed!  Supports practically any camera/lens
 Would be great if those small sensor like 1" sensor (g7x mkII etc), and others small sensor 1/1.7" (for g12, g15 etc) put on this list. Just put like the sensor size without needed to put the camera model. Because those cam have manual focus and sure need the help to calculate HFD
 Database not up to date, A7R III missing.. Also the dof pic is static which is misdleading to get a feel of the dof as a visual.
-Great app, let's see... ...if they react to my mail and will add the Fujifilm X100t. Then it's 6 stars ;). Thank you. Great little helper app. Clean design. Love it.
+...if they react to my mail and will add the Fujifilm X100t. Then it's 6 stars ;). Thank you. Great little helper app. Clean design. Love it.
 Like it...is it possible to delete camera profiles from the list? I just want to use this for 8x10, 4x5 and 5x7 cameras, there's a lot of digital cameras listed that I'd like to delete (to make it faster to find what I want)
-Awesome Love this app. Handy in the field. Only feature I'd love to see is to enter desired dof and calc necessary fstop based on camera and distance
-visually well designed and works great, actually helped me find the best aperture with one of my lenses too. well done to the devs!
-Very useful resource What every tog needs, all there in an instant. Huge choice of cameras and focal lengths.
+Love this app. Handy in the field. Only feature I'd love to see is to enter desired dof and calc necessary fstop based on camera and distance
+visually well designed and works great, actually helped me find the best aperture with one of my lenses too.  well done to the devs!
 It's a simple and clean looking tool to get the basic number crunching without fuss... Simply select input parameters and it will give hyper focal distance.
 I wouldn't be without this app now I have found it. For using the correct aperture for minimum depth of field required at different subject distances without loss of focus but maintaining bokeh.
-good nice but when scrolling through the hfd table it would help if the aperture info remained fixed while only the data for the focal length scrolled, as it is the aperture disappears off the side of the screen and you lose all reference
-It is useful apps for DOF calculating i used it and found it very helpful i hope to see canon 5 d mark iv in tue program Thanks a lot for you guys
+nice but when scrolling through the hfd table it would help if the aperture info remained fixed while only the data for the focal length scrolled, as it is the aperture disappears off the side of the screen and you lose all reference
+It is useful apps for DOF calculating i used it and found it very helpful i hope to see canon 5 d mark iv in tue program  Thanks a lot for you guys
 Invaluable little app if you like to shoot any sort of candid street style photography, or shoot from the hip with a flash. f/8 & be there! 5⭐
-Clarifies and simplifies This app has helped bring several principles together in a clear and concise way. The tables are a bonus. Excellent job!
+This app has helped bring several principles together in a clear and concise way. The tables are a bonus. Excellent job!
 This app is like a good photo; its UI is sharp, attractive and well composed. Its subject is clear and informative. I even learned more about photography by using it.
 The best tool I have come across on DOF related issue ,the best feature is the graphical representation/display of DOF, HFD, AOV and FOV makes grasping them easily.
 Only drawback is that it doesn't contain video cameras (1/2", 2/3", super 35...)
-If I was allowed to give more than five stars to just one app on Google play - this app would receive them. Simple, clear, provides complex information with visualisation, no adds. Other developers should learn from them. ----------------------------------- Please don't try to "improve" it with updates like others do, and often ruin the app by doing so. There is nothing to improve here.
+If I was allowed to give more than five stars to just one app on Google play - this app would receive them. Simple, clear, provides complex information with visualisation, no adds. Other developers should learn from them. -----------------------------------  Please don't try to "improve" it with updates like others do, and often ruin the app by doing so. There is nothing to improve here.
 The application​runs and works as advertised. I don't know what else I would have to say at the moment.
-I keep it handy I am working on my street photography and this app is a big help since I am trying different camera and lens combinations.
+I am working on my street photography and this app is a big help since I am trying different camera and lens combinations.
 Does everything I need it to really well. It would be helpful to have an option to focus at infinity though. If it had, I'd have given 5 stars
-My lens is 600mm. HFPro only goes to 500mm. Scrolling down the list takes forever. The 'table view' only seems to go to 135mm! Where is 600mm?
+My lens is 600mm. HFPro only goes to 500mm. Scrolling down the list takes forever. The 'table view' only seems to go to 135mm!  Where is 600mm?
 [Es] precisa según la fórmula de la hiperfocal. Muy bien la usabilidad. Muy configurable. [En] accurate, following the hyperfocal formula. UX pretty good. Pretty much configurable
-Wow! Nice presentation Exactly what I wanted in such an app. No BS, just great info one needs. Time will tell and if it's still feels like this in a month I will give 5 stars.
-The best app for its purpose. Plenty of information presented intelligently and with ample clear explanations. All you need to know about depth of field.
+Exactly what I wanted in such an app. No BS, just great info one needs. Time will tell and if it's still feels like this in a month I will give 5 stars.
+The best app for its purpose.  Plenty of information presented intelligently and with ample clear explanations. All you need to know about depth of field.
 Clean clear information and easy to enter parameters. Wishlist ....change font size. An optional larger one for tablet use would be good
-Great Tool With many lenses these days not coming with a dof guide on the lens itself this is a mighty helpful app
+With many lenses these days not coming with a dof guide on the lens itself this is a mighty helpful app
+Need to set for feet as distance Measurement. App keeps switching to meters.  I will Uninstall as soon as I find a replacement app that can be set for feet.
+Simple, intuitive, fast, accurate, and only a few hundred kB. This really is the perfect app for me to determine focus points and distances.
+Excellent, for those wanting to understand hyperfocal focussing techniques and to carry handy lens specific data in a customisable app - Perfect!
+Great tool. Easy to use in the field, changing lenses or bodies only takes a moment. Great when switching between crop and full frame!
+I love the intuitive and attractive interface; it's simple to use but has all the details and functionality you need and expect.
+Easy to use and very clean presentation. The only thing I would consider is a landscape presentation for a better use on tablet.
+The math and understanding dof has changed my shooting. Im in love with this app
+I love this app. Being an avid photographer, things like this can often be very handy!
+Excellent tool to work with plus to learn from too, pros and beginners can use it with ease too. Thank you for making this app!
+Perfect for the job and simple to use.
+I shoot events.  This app helps me make quick decisions about depth of field in low light conditions.
+Awesome app! Better than any I have found on iOS...free is a nice bonus! I don't go on a shoot without it!
+Max focal length the app will go to is 500mm. Doesn't help for those of use with 600mm lenses. All good otherwise.
+It is a good app for choosing a photo gear, but you can easily guess by yourself. But if u r using a mobile phone...there is no info
+Great app. Really simple to use. I used to spend a lot of time calculating  hyperfocal distances but this app is just so good and quick. I'd recommend  this to any photographer as a 'must have'.
+Awesome!!  I had another DOF app before, and this one is way better. Great job!
+Perfect for demonstrating depth of field. Have a school academy for elementary students and this is a simple tool. Thanks.
+Simple useful no ads. It provides everything and you can ask for nothing more~~~
+Brilliant app, really helps understand dof. Saves hours with camera.
+Essential tool in your photographer pocket. Easy to use interface that's clean and intuitive. Thank you!
+Great app and very useful, No Olympus e-pl8 in the database list yet though..
+Awesome, please allow boyond 500mm. And add FoV table like the HFD table you made.
+It's simple to use & no fancy graphics. This app gets right to the point. I like it.
+Very useful. Please update camera database to include pany g80/85 and Fuji xt-2. Thanks
+How else are you going to work out hyperfocal distances, so you can maximize dof?
+Let's me save my camera and I decide on meters or feet.
+excellent apps for those who want to be familiar with the camera settings to have desired focus and focusing range.
+Love the table download feature too. Clean interface, easy to use.
+Awesome.  It has a decent database of camera models and contains in depth details about each model.
+Really nice interface.  Seems to work well even without a network connection.  Perfect!
+Using this app a lot to calculate hyperfocal distances. Very quick and easy to use.  Thanks!
+A very handy app to have at hand when thinking about lens choice and camera seeing!
+Covered almost pro&semi SLR camera's.. Thanks team.
+Great for kit lens with no focus unit marking
+I was used to use a handwritten Table, but with this app it is more comfortable, of course. Thanks for this app.
+V good simple to use, not seen if it works off line
+Its close enough to real case on the field. Recommended app
+I like this app ,it improved my photography I was  able to get more creative
+Simple, intuitive user interface. Results are presented clearly. Comprehensive camera database.
+Quick guide to using your camera. Very handy for the amateur/beginner.
+Very useful tool for every photographer. Clean interface, very powerful.
+"Satisfying" is an underrated choice of word to describe this helpful app. Great for zone-focusing and street photography!
+Depth of field calculator
+A section on comparing depth of field across different formats can also be useful.
+No support for FujiFilm X-T20
+Easy & intuitive to use. Clear & clean GUI.
+Very helpful app. Easy to use and understand. I love this app so much.
+App is great,  but it's missing the Nikon D5500.
+Help me improve photograph with dof selection
+Excellent app helpful in determining depth of field. Very easy to use.
+Max focal distance a bit limiting, otherwise nice app
+Amazing photography tool for focus and FOF calculations. Free too
+A great app simple to use and understand.
+I can't tke pic I mean I don't understand how to take a picture
+Very useful DOF calculator and easy to use interface.
+Great app to find your lens sweet spot
+Excellent app with simple user interface. Thank you.
+DOP in pocket. Simply great aap
+Easy to use and nice database of cameras to choose from.
+I like to shoot at f18 and f20, pls add more options.
+Nice easy to use interface
+Awesome. Parfait. Exactement ce que je cherchais.
+Awesome App :) keep up the good work
+Brilliant app. Easy to use. No ads. A joy to use.
+I love this app. Help a lot .thank you.
+Simple, fast and useful app!
+Best app for calculating depth of field
+Works very well, has a fairly nice interface and it's packed with utility. The latest update added some polish, making the app much smoother and more refined.
+Brilliant for beginners to understand depth of field
+Fast to use and easy to customize!
+Lots of apps offer same thing but i like how this app do this. But it limits you to select preferred f numbers.
+Only thing I'd ask is the ability to define specific focal lengths rather than just ranges. I have a lot of prime lenses, and would love to be able to quickly select their lengths
+Nice layout, easy to use and wide range of camers. Any chance the developer could add a few cine-cameras like canon c300 or the black magic camera please
+Visually, the app is nice, but other DoF calculator apps have better functionality. Needs an option for 1/3 stop increments. Also, the use of a tags icon for units of length doesn't make any sense.
+The best I have used so far. Need only to add 1/3 & 1/2 stop on aperture values.
+They say a picture can say a thousand words.. And the graphical Display showing DOF don't see that.  It is really easy to understand and use with a wide selection of camera bodies.
+Excellent app but the aperture setting is missing the 1.8 value which is a very common large aperture value as well as all the other 1/3 stop intervals. 3rd stop intervals should be added
+Very nicely crafted app with quick access to useful information and ability to save your settings.
+Simple app that gets right to the point.  It's free with no ads or annoyances.
+If I had to pay for this app I would have been incredibly happy to get such an add free, quality product!
+Great app. Easy to customize and provides a simple but elegant visualization of key focus and depth of field parameters. Lovely!
+Extremely useful. Large database of cameras to choose from. App's GUI is well designed, easy to use and easy on the eyes.
+Pretty neat... Interface is simple and hence useful. Save and recall profiles with camera and other settings
+I never realized the trick to getting sufficient DOF until I started using this app
+Easy to change options, and a nice visual reference.  Super handy tool for any photographer.
+Only take seconds to judge this is a great and very helpful apps. Landscaper, you must have this.
+Concise, easy to use and objective. Great UI.
+Getting good results because it calculates the crop value  based on the model camera.
+Great app and useful! Easy to use
+All way looking for a good DOF app now i got it nice
+Simple  to use anf easy to understand
+Excellent DOF  and focussing tool
+Best app to learn DOF
+Cool and intuitive user interface. Rich database. Excellent works.
+Awesome apps Easy to use
+There are many apps for calculating hyperfocal distance. It is its elegant UI which makes it distinguished :) There are no functional issues as well. It is certainly a pro grade app for your expensive SLRs. Like others have mentioned f/3 step support would definitely add value to the app but I would not lower any star for this :) These applications are meant to provide users an idea & making approximate figures available on-field. Thanks for the app devs!
+Quick and easy depth of field
+Easy to learn and easy to use Thank
+Simple to use and accurate.
+Being able to calculate DOF with specific camera and lens is very helpful. Visual diagram is a nice touch too. All in all a very useful app.
+A well thought out app. Love the HFD table that can customised, although zoom sliders are a bit tricky. I tested this app after a major change to my old DOF app, and I prefer this one hands down. Great work Dev!
+This is a really well put together app, both functionally, and design wise. I would love to see it expand out and become a camera "toolbox" sort of app, but even if it only ever does hyperfocus calculations it's still a keeper.
+The UI is beautiful and simple, and features like saving profiles and exporting a chart as an image show great attention to usability. The developers are also very responsive, quickly adding new cameras to the database when requested by users.
+So much info at hand making manual shooting easier to learn
+Quite simply the best of the best. Superb IU, clear and easy to use. The ability to store individual lens and camera profiles is excellent. Top work, many thanks :-)
+Great tool for calculaing depth of field. Easy to use. I can't find my Nikon D600 in the list. But, i can choose D800 instead.
+Great app... Recommended for every photographer. Useful tool with well designed interface
+As a photographer, I find this App extremely useful and user friendly. The ability to store individual lens profiles is a boon. My thanks to the developer.
+Haven't tested it's details I  the field yet but this app looks clean and user friendly,  works quickly which I guess will be great when out on location.  Would be good if the x/y table stayed still whilst the figures moved to make reading easier.  Overall this app seams better than most I've looked at and hope to test out this week.
+Small size, easy to use and has a good help section too
+Very good at providing quick and to the point info. Easy to use and customize. You can add remove lenses. The only thing I missed is cm/ mm.
+However,it would be the ultimate Hyperfocal Distance App, if it supported Major Compact Cameras,such as Panasonic Lumix DMC-TZ300,and other similar,best-selling models...
+Very easy to use and very helpful, but UI can get a little face lift.
+Seems like a great app, but no support for cinema cameras. Would be nice to have 35mm film, Alexa, Epic, etc. supported.
+if you understand & use hfd (and you should!) then this app is the bee's knees
+Only supports up to 500mm focal length?  Wanted to use this for my sigma 150-600 :/
+Why does this program request access to my files and media? Uninstalled immediately.
+Great app. i was able to get an idea abt dof using this app.
+no nikon p900 app is out of date
+after experimenting with this app and my SL1, the results are very close to spot on with the  provided data. All the f/stops supported by the camera are also listed. If yours isn't showing, just click the aperture box and select 1/2 or 1/3 scale and scroll through their respective numbers.
+This tool is intelligent designed and coded making it so simple/useful for the purpose as a quick on-the-go reference. *Minor issue*: The focal length table needs to limit scrolling of both its top (f/len) and leftmost (f/ reference) columns.
+Great app but results differ to those of similar apps. I worked out why, the C of C (circle of confusion) figure is not what Canon state. My way around the problem was to set the C o C figure in the custom mode
+I'm so glad I bumped into this little tool thru a Facebook group! Helps me double check my sanity all the time when things are out of focus
+Gone are the days of charts and formulas. This is much easier. Nice user interface. Would like distance setting requiring fewer keystrokes, but that's being very picky. Nice job!
+Wow..too much helpfull App
+Thanks to the developer for making such a useful free tool available to photographers. Takes all the guesswork out of DOF calculations and makes the non-existent DOF scales on my lenses inconsequential.
+Does exactly what it intends to do and does it well. Nice layout and 'skin' in latest version. Tables could do with frozen header row and column but I'm nitpicking now.
+Maybe an irrelevant tool for many photographers but it can come in handy.  When you want a paticular scene in focus this tool can aid in telling you where exactly to focus with the camera settings you chosen. The interface is spot on... not loaded with irrelevant graphics and easy to move about. An excellent tool that one never knows when it will come on handy.
+They state if your camera is missing from the list to email them and it will be updated within a week to include it.  Well they won't.  A few emails over a few months and not even a response.  App is handy and does what is is supposed to, however the support is terrible.
+Really gives much-needed data for any and all photography situations!  Great interface which covers multiple cameras and lenses.  From portraits to landscapes great tool to have at hand!
+When I shoot 4x5 (still do ) I alwsys carried a DOF chart for each lens.  This does the same and I customize for my lens of choice.  It works.
+Can you distinguish commas and periods in the numbers? 1.000m means 1m or thousand meter? If it means thousand, suppose to be 1,000 not 1.000. It is a little confusing. Overall nice app.
+By changing different values you get a much greater understanding of what's happening than trying to squint through a view finder. Better results and clearer than setting everything to f22 all the time.
+What a pleasant surprise. Not only cam you select your camera. It gives you the ability to input the start and endpoint focal points of your lens as well as choosing it from a drop down list. F stop and table. If you know what figures to input which is a given at this level. This app is a great backup for any pro or budding shutter bug.
+Thank you so much for a very effective, nice and useful application! Special attention was paid to details, animation and style - i'm very pleased! Would be pretty nice option to choose prime focus distances in DoF sheet like in HFD and not to scroll every millimeter...
+I tried 4 other calculators before finding this one. This was the only DoF calculator with my Sony model (A-57). Easy to use, and got the job done... And free!
+If you change the units from meters to feet the field of view units should change as well.  The calculation may be accurate but the units are not.
+Others are either too basic or over complex or difficult to read. This hits a happy middle ground.
+Beautifully designed, easy and quick to use.  Takes all the guess work out of zone focusing.
+Very nice user interface. After selecting your camera it saves n gives table for different f & HFD combo. It has my newly released D750 added already !!!!!
+I've found this app incredibly useful for checking DoF. It's a shame that it doesn't cover greater lens lengths. It's easy to use and I had no difficulty getting to grips with it, and for free, it can't be bad.
+Perfect tool for quick calculations in the field while setting up a shot. Exactly what I was looking for and better than expected.
+Nice and handy tool for all photo enthusiasts. Simple to use, practical and also educational. Good for double check and also for a little planning and thinking ahead.
+I really like the look and function of this app with depth of field, however, when I compared the hyperfocal distance against other apps/programs, the readings were not consistent.
+Excellent and handy App for the keen enthusiast.... No more out of focus shots due to DOF errors!
+I would love to give this app 5 stars but it needs to update cameras since it doesn't include Nikon D7200 which has been around for awhile and some of us have lenses greater than 500mm Please update this
+Great and accurate software for novice to pro photographers, graphics are extra. I am even using this app as memory exerciser with out camera. Heads up to the developers.
+This app has a great user interface. Easy to use and very readable. All you need to do is select your camera and lens from a list and you're ready to go. This app seems more up to date than the others I tried. It's the only one that recognises my camera. It also calculates the DOF to more decimal places than other apps I tried, which is crucial for macro photography.
+I tried several of these apps and this was the cleanest and easiest to use. Its camera database also makes it very accurate.
+Does what it claims and more.   Like that you can easily find camera model and lens and have it do crop conversions, then save profiles - I have landscape,  portrait, and astrophotography saved.   Nicely resizes for tablet and phone.  Overall a great app.
+It tells me everything I need to know about any focal length and camera. I will keep it, this is what I was looking for. Thanks to the developer for creating this excellent free app.
+This app certainly deserves attention and try by people interested in photography. It has a very nice UI design. It illustrates your approx dof  after specifying all camera settings and subject to camera distance. Big Thank You to developers!
+Easy to use, and it tells me exactly what I need to know. I just need HFD by focal length.....and this app gives me an excellent table that does just that. Superb.
+The diagram at the bottom of the screen is awesome. It makes it really easy to see exactly how much is going to be in focus at your current f-stop, focal length, and camera. A must have app for any landscape photography!
+Nice app, much better that similar apps on the market. Please add the option of selecting apertures in Table mode. Most of us won't really need apertures like 1 or 64, they just clutter the precious display space.
+Quick and easy setup for DOF information. Love being able to save all your lens profiles for quick access. The app works great on both Samsung Galaxy Tab S 10.5 tablet and Galaxy S5 phone.
+Really simple and beautifully presented. Best app I've seen in a long time (if you're into this kind of thing!)
+So easy to use and understand. Love it.
+You can calculate the DoF as well the HFD. You can choose your own camera, f stops, focal length and distance. I highly recommend it.
+Have just downloaded it and put in a couple of parameters that I already know to be correct and it was spot on. This is going to be an immensely useful app! Cheers.
+Used many others that don't come close to the UI and feature set provided. Welcome that it is free although it is certainly worth  paying for. Very nice visual balance on my Nexus 7 2013.
+This is really good.  So much information delivered in diagrammatic form so that you can see exactly what you need to know at a glance.  The best of these I have come across.
+Found this app refered to in an article about focus problems, Quick to use and easy to set up, helps my memory and mental arithmetic also :)
+Back in the day, the hyper focus was calculated on the camera, but not these days. This is the best solution I've found to date. Easily customizable for your camera can focal length.
+Allows you to see the depth of field for a given camera and lens. Looking through the viewfinder the lens adjusts to the widest aperture and narrowest DOF. The app tells you what will actually be in focus.
+I use the custom sensor feature since the cameras I build aren't in any database. Works like a champ - thanks!
+No glitches or problems. Open, get your gear set and off it goes. Oh AND you can save your results/details as a profile. What more would you want?
+Easy, clear & useful. It uses sensor profile for your specific camera with lens. The visual helps me figure out DOF and makes it clear what's in focus and what's not.
+It does: depth of field, field of view and angle of view. Hyperfocal distance can be easily inserted as subject distance. List of cameras or custom.  And has table view.  Just great.
+Thank you very much for this excellent tool. I've been using it for about two years and have to say, it's only gotten better!! Top marks.
+I could use it for analogue photography if the app supported it. I don't have DSLR and I have no plans in that direction either.
+I used it in different ways. Really easy to understand and helps you find out how lenses work!! I recommend it to every photographer
+I like the interface but this could be more user friendly. I would make all the inputs slider controls. For example, the distance needs to be keyed in, a slider would make this axlction quicker.
+This app does one thing and does it exceptionally well. Clean interface, easy to use and is a great tool to rely on. Highly recommended.
+I like it. Does one thing, and does it well. I would pay real money for this app.
+Simple, efectivo, claro, esencial para el fotógrafo. La app sirve exactamente para lo que fue hecha.
+Easy to use... particularly like the spreadsheet with info for various lenses and f stops on one page
+Brilliant HPD calculator. Quick and intuitive.
+Great app just the zoom sliders suck, please make so numbers can be precisely inputted then 5 stars
+If u use hyperfocal distance this is the best app, ive tried 10 or more. Ur ability to pre enter the focal lenght of the primes u own is great
+A nice tool to have available when working out depth of field and the best aperture to use.
+Easy to use depth of field/field of view calculator but when switching to imperial measurement it displays 12'6" as 12.5ft.   For anyone working with imperial measurements the inches are needed.
+This program helps one visualize what will be in focus. Great for landscapes and flower photos.  One you want the entire scene in focus, the other one you only want the subject in focus.
+Nice app! Easy to use!
+A simple clean interface makes it very user friendly with the graphic. I would pay or donate for such excellent software.
+It would get 5 stars if the help option was more than just what's in the technical manual that's included in the app
+Shame. No update or respond from author. Uninstalling
+Invaluable app for any type of photogs, let's you understand the importance of selecting the appropriate aperture for any type of photo. A must for your photo apps toolbox.
+Simple, well designed and free. can't ask for more. just what I needed. Thanks ZENDROID!
+Easy to use and doesn't take up alot of memory, would be better if we could have inches as a unit of measuring
+Focal length range for Hfd table too limited, only 20-135mm. Also max. focal length in lens choice too short at 200mm.
+Huge library of cameras, nice graphical display of hyperfocal distance, field of view and angle of view. Also includes table of FOV values.
+If you can call a DoF app delicious, then this is the one! Excellent visual indication of depth of field, easy to use, love it TYVM
+It is great to have the FOV values too. It would be a nice feature to be able to calculate the distance giving the subject height or width.
+More time creating images, less time guessing your camera settings. Where can I donate to the developer of this app??? Very handy tool!
+Awesome app! Also includes a tech manual with clear explanations. Obviously written by a photography lover.
+Very helpfull, easy to use and very accurate. A definite favourite and a fantastic tool.
+I'm a travel shooter and this really helps nail the tricky shots.
+Ability for bigger steps in lens range would be usefull, nobody needs every one mm of focal length
+Add feature to compare setting side by side that would be great, the illustration need to be more acurate, "there are 3 trees in 1feet?" Need to improved
+One of the best Apps I have. Easy to use, with good clear output. Does all it says and very useful
+Very flexible...can create a downloadable table for your camera/lens. Can request update if your camera is missing from inluded list.
+Graphs are great for depth and how much your camera is framing at whatever distance. Thanks for such a nice app!
+A well written help teaches a lot too. I definitely recommend this app to any photography entusiast or advance photographer
+Its really good app, and i like it so much. but please add Nikon D7200 to camera list. Thanks :) ;)
+Please add inch and cm to selectable units. Feet and meter would be big for flower photography.
+I just learned about HFD and this little app is AWESOME. I cannot wait to get out and use it.
+Easy to select values. Graph is a great visual to understand the resulting numbers.
+Great app! It helps me take even better photos when I'm going for the perfect bokeh shot.
+Easy to set up. Camera profile feature makes it very easy to move between different body/lens combinations.
+I have tried them all This one is the easiest to use. I like the simplicity. Gives an instant clear picture. I am very comfortable using this.
+Excelente!!!  Pude escolher o modelo da minha camera e lente, e com isso não precisei gastar tempo com configurações.
+Perfect for several types of calculations; DoF, viewing angle etc. Has a clean and easy to use layout.
+Super easy to use and understand.
+Easy to use. Very nice graphical representation of DoF and hyper focal distance. Can calculate for any sensor and lens.
+Loved this app. It is useful,  straightforward and easy to use. Huge thanks to the developer for not injecting any ads
+Best DOF app. So simple to use and so effective to visualise your shot way before you press shutter.
+I tried other apps and this one is simpler to use and gives you all relevant information easily.
+This app works good to display depth of field.  Something my lense does not tell me...
+Clear, easy to use, good help documentation, had my camera in the database. Couldn't ask for more
+Smaller learning curve. But very handy once you develop & save your camera & lens  profiles.
+Great app. Easy to use, I don't often need these calculations but when I do this is the app to reach for. Thank you.
+I wanted to compare DOF of 200 at 2.8 versus 300 at 5.6, couldn't do it
+Simple and clean interface. Easy to adjust the input numbers. I highly recommend it.
+This is a great tool. No headache and it makes the focal length calculation even more easier.
+Like it,   but a bit bland. Some diferent background colours would make this app more appealing.
+Very good app! It shows by simple illustration the relationship between distance and fstop camera settings.
+Easy to use, very handy must have tool on your mobile phone.
+I find it useful. . That's what I need. Thank you developers, keep the good work. ;)
+First time I am giving 5 star for an app.  thanks for the "MAN"
+A very handy app, quick and accurate, removes the guesswork.
+Simple to use. Quite effective app.
+Nice tool, easy to use and understand without having to be a math-a-lete.
+Really good app easy to use and free
+I just bought a new Cannon T6s and it isn't listed yet. Please update.
+Will be even better if the header row and column for the hfd table are pinned.
+New photographers who are having a hard time understanding DOF, this is the app for you!
+Really helped me understand relationships between focal length, apertures and DOF.
+I have to rate immediately only one time using! Thanks for great app
+Excellent application. Especially like the ability to create specific DOF Tables for differernt cameras and lens
+Every DSLR user should have this app! Ultra easy and simple UI and great design!
+Simple to use. Can setup save and recall profiles for different cameras. Understandable graphics.
+Simple and beautiful interface. A jpg to use. You can save setups too which is even quicker.
+Can't think of a better way to show DOF information.
+simple but beautiful, userfriendly ui, including the latest camera model such as olympus epl7
+Very useful for quick use. Easy to access with visual illustrations for better clarity.
+A clear simple interface makes this app a joy to use. Highly recommended.
+Does what it says in an easy uncluttered advertising free way. Just perfect.
+Love it especially it takes into account of APS-C sensor's DOF
+Very easy to use, works great, lots of cameras available,  beautiful neat design.
+Lens karsilastirmalari icin harika. DOF, gorus acisi, vs...
+On the spot all what you need to know!! Very nice tool.
+Simple and neat interface.  Very well put together. Love it.
+No way to input TC information. Longest lens is 500mm only.
+Simple and effective both graphic and table. Just best for DOF calculation.
+I really love it ! It's really helpful to amature photographer like me !
+My favorite camera app. This is a useful tool for all level of photographers.
+Great tool to check out the depth of field. Very useful
+Every DSLR owner must have this app. Very nice layout.
+Quick and easy app to get DOF on any lens
+Great App with technical info, ease of use and sweet graphics.
+This app is awesome. Kudos! There should be a donation option
+Great help when you need absolute control of your focus zone
+Thanks for this amazing app! I use to carry a d.o.f. tabulation book and still do some serious guessing game...Now this generation turn this complicated calculation at the tip of finger touch! Thanks a millions!
+Just what I have been looking for....simple display....loaded profile is easily adjusted in field...perfect!!!
+It's an extremely awesome app which can present a directly visual chart to end users.
+Every budding photographer should have this app on their phone.
+Hyperfocal pro, excellent explanation of dof and hyperfocal distance, useful tool.
+Exhalent tool to use, I find it indispensable and use it regularly with great success.   *****
+Invaluable for landscape photography. Appreciate the picture scale also!
+A very good app with a minimal and clear user interface.
+Great tool, easy to use with a clear interface. Glad I found it.
+An essential app for the serious photographer. Just brilliant.
+How to use this .help pls
+Very useful tool to get hyperfocal distance on location. Excellent.
+Please leave the aperture and subject distance fields expanded.
+Good straight forward ease of use and plenty of options and informative.
+Good app easy to use character font could be biggest
+Intuitive and takes into account the photosite size of the camera
+It'll be more convenient if we can change distance quickly, may be adding increase/decrease buttons ?
+Nice, informatif, and easy to use app

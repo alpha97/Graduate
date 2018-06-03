@@ -4,7 +4,7 @@ import os
 import zipfile
 import os
 import re
-appName = 'Wordpress'
+appName = 'ACDisplay'
 filename = appName + '.zip'
 wrdir = 'Java-txt\\'
 print os.getcwd()

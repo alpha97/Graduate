@@ -3,7 +3,7 @@
 import os
 from collections import OrderedDict
 import CleanCache
-appName = 'Wordpress'
+appName = 'ACDisplay'
 riviewpath = "classed\\0" + appName + "_result.txt"
 reviewwords = []
 with open(riviewpath,'r') as review:

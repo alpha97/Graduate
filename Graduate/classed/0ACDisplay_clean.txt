@@ -1,14 +1,458 @@
-Loving it so far This is such an awesome app. It appears we can only place one widget on it though. Unless I'm missing something. Right now I have the flash light widget. It's nice to have fast access to it. The only thing that could make this better is being able to set the wallpaper to something other then our home screen wallpaper. My lock screen was a modeling photo of my wife. My home screen is Cortana from Halo. My wife's photo is to busy to be a home screen but it would be great if I could use it as a lockscreen
-Brilliant app!! Edit: 'Had to uninstall. Started taking too much resources/battery in the background I don't know, if it's a bug or anything. Kindly fix it.' Really cool. It's a no nonsense app. Please do rem though this app keeps on running in the background and though it's not really a super heavy app but it's not feather weight either. It is perfectly fine by me, coz I find it to be totally worth it. It gives you a buttery smooth experience and the lock screen looks wise is damn cool. Love it. Thank you so much!!
-Lockscreen is beautiful! You may call it a beta but if set up right this can be an amazing lockscreen! I have this setup in 3 of my devices! All look stunning! A hat tip to you my friend! SUGGESTIONS: Allow the widget to be centered on the lock screen, currently it's kind of 70% vertical. Allow making the background blurred or frosted rather than darker. I will happily donate to you!
-Amazing but little buggy The best one have used. Simple. But not so smooth now. If there is a carrier notification on home screen and if its not removed and screen is turned off and then on again. the app responds abnormally making the ac display lock screen blink continuously. Also if we are able to choose custom background instead of black or homescreen,it would be great! Down rated..fix the bug. would love to rate 5 stars then.
-I love this app, such a unique lockscreen from everything else. Rating 4 stars as I have 1 suggestion that I think needs addressing - when I receive a call and don't pickup, the phone remains on the home screen and doesn't lock itself. It's quite annoying when it is in my pocket. Other than that, its a great app. Well done developers.
-Fantastic App This app is fantastic regardless! I would love some features like lock screen options, etc. But either way you did a great job. I was using Nils previously and stopped and really didn't find another one I liked until now but I have to try it out and see how it worked in my everyday use.
-The s7 Edge is the second device I've had ACdisplay as my main lock screen. Only issue I've come across is recently, when I have a notification and I click the icon, it won't give me any information of the notification in place of the widget anymore. If somebody can tell me what to do to sort that out, I'll rate 5 stars. As of now, it's the only nice looking lock screen worth having.
-THIS IS THE PERFECT ONE! Now it only misses one thing: a security. After all, it's a lock screen, so it is pretty ironic for a lock screen to not have a security. Also hopefully more customizable, like being able to change your wallpaper. Also the notification bar shouldn't be able to go down while in the lockscreen. Those are my suggestions.
-It's the best I was looking for a lockscreen without any flashy wallpaper or a lot of shortcuts, I mean when I will need an app I'll just open it, there is no need for it to be on my lockscreen. The thing I liked the most about this lockscreen is the way the notifications dissolve when pushed down. The solid color lock and the backgrounds are awesome,I keep them in random order. This lockscreen is The best for the users who love to be simple.
-Battery drain I like it. Nice to be able to see at a glance notifications and I love the simplicity. I just wish there was the ability to leave the screen on longer (until I dismiss, 1 hour, etc), maybe contact photos for notifications, proximity sensors, and shortcuts on lock screen. Also, it seems to not play well with Textra. When I get a text message, it will flash the screen on, then turn off and on until I open the notification. I have tried changing the priorities and all other options.
-Love it..one question? Crashes from time to time..Battery drain and ram incresed Love the app, I can see all my notifications very quickly in a bubble and close them and it leaves it as unread and keeps me a reminder to open them again later , love the background blur and photo of the person.but the battery drain and RAM usage incresed and you remove the notification of the slide bar? If yes would be happy to rate it a 5 star
-Love it, but.. I used this lock screen for a very long time and loved it, but I had to stop using it because there was a bug with it that would disable/shut off my alarms immediately as they were starting. This, in turn made me late for work on several occasions. If that one bug would or could have been fixed... 5 stars, best lock screen ever.
-Hey, mate! Nice work! Really love the concept and design. I'm searching some good lockscreen app and then found this one, immediately love it! I have a small favor though, could you please add some security options to the lockscreen feature? I know it's not actually a lockscreen app, but if you could that would be great. If you do, I'll give it 5 stars.
-Could had been 5 stars I would had rated this 5 stars if it wasn't for the fact that I can't put in a custom widget (which was probably the main reason why I was excited for this app). I was able to have it actually work once, but it was also the last. It could had been better if it had its own passcode options. It's such a disappointment that I don't see any solutions yet.
+1) The following feature is called active display, it was integrated first into a Nokia 909, later introduced into a few Lumia Whidows Phone devices. 2) On windows phones (that the following feature was available on), it was labelled as "Glance screen" and it was separate from the lock screen 3) Glance is essentially an extra layer over the current screen lock layer. 4) I tried most of the alternative apps, yet I come back to this one all the time 5) GET IT NOW!
+I've been using AcDisplay for a long time now.  It handles notifications simply and smoothly, right out of the box, but now has plenty of customization options available (esp. custom widgets) The only problem I've encountered so far is the occasional non-responsive media controls, but I'm sure they'll be fixed soon.  Thanks, dev!
+Everything is so subtle and clean. Just one thing, make it more stable for music player. In an instance, I was playing music and in the first time I looked at the screen I saw the toggles of musixmatch player and a blur of the artwork as the background. That was great but I turned the screen of and I turn it back on and everything was back to the clock and the phone's wallpaper. Please fix this because this is one of the best apps. This fix could mean so much. Thank you and I hope you will respond.
+The minimalistic design is very pleasing and I really like the functionality. There is one issue: I have a phone where most of the time I use the fingerprint to unlock. Because this needs system administrator privelages, often I will click and my phone will tell me that because of Android security policy I need to enter my pin, and not use fingerprint. Also, it would be simpler if you could set a fingerprint within the lock screen instead of having to clock again to your normal lock screen to unlock.
+You may call it a beta but if set up right this can be an amazing lockscreen! I have this setup in 3 of my devices! All look stunning! A hat tip to you my friend! SUGGESTIONS: Allow the widget to be centered on the lock screen, currently it's kind of 70% vertical. Allow making the background blurred or frosted rather than darker. I will happily donate to you!
+When i was unlocking my phone, sometimes it has delay and after 1 to 2 seconds the lockscreen will appear. And when someones calling, i need to unlock 1st before i can see whos calling. Its nice and clean but need passcode. I'll give 5 star for this lockscreen because in my opinion this is the best. But it lacks feature. If you can release a paid version app, I'm willing to buy this lockscreen.
+Love the app, I can see all my notifications very quickly in a bubble and close them and it leaves it as unread  and keeps me a reminder to open them again later , love the background blur and photo of the person.but the battery drain and RAM usage incresed and you remove the notification of the slide bar? If yes would be happy to rate it a 5 star
+I installed it, tried it out and... Nothing! The lockscreen is exactly as before. Then I restarted the phone and... Nothing! Again as before. And all the times I had new notifications. Seems like no combination of options in-app can make it appear as my substitute lockscreen. Thus, I'm unistalling it. Buah
+Great app! However one major issue for me is that if ambient display is on and I take my phone out of my pocket, acdisplay does not show the currently playing music track. Instead, it shows the normal clock. Please fix this issue.
+This is the only app I have seen working properly as always on display. And it is not consuming much battery on my Samsung galaxy A76. I would prefer to give 5 stars instead of 4 I had given if you help me to solve this issue. I'm not able to see the always on display all the time. It's only shown at the time of notification arrives. I need to see this always. Please help me....
+AcDisplay saves the day! After using ActiveDisplay on custom ROM with my previous phone, switching to a phone without that kind of notification is killing me. AcDisplay working almost all the time. Sure it is not perfect and buggy sometimes because it does not need root privilages, but I love this little app. Keep up the good work!
+i love it. it's so simple and elegant. it has a minimalistic design and very useful. how ever there's a bug that driving me crazy. sometimes when there's a notification and display turns on, when u lock the screen, the display keeps turning on again and again after Everytime you lock the device. i don't what the problem could be. please fix this. thank you for your grate job.
+I got this for the lock screen and I love it. Only had it for a day though. The only issue I have is that when the lock screen is active, I can hit the home button and it unlocks. That shouldn't happen. And there's no setting to change it.  That fix would bump my rating to 5 stars.
+I absolutely love this lock screen! Stopped using and just came back to it. However, I can across one issue. The media buttons do not work when using Spotify and work every now and then in Google Music. If you could fix it would be perfect!
+Great app all around, except for when I unlock the screen, in which case it has been auto-locking again after a couple seconds, really annoying. *update* the bugs are out of control, they were causing a huge problem on my device, and I couldn't stand to have it installed (made my phone slow, laggy, constantly crashing, and prevented the key board from popping up). Please fix these bugs and I would be happy to download again
+I just can't seem to get widgets working, every time I open the widget settings it crashes. Everything else is sweet though. Edit: looks like this us a known issue for the lg g3. Too bad!
+You can't fault the simplistic, minimalistic and clean ui this has. I feel like it needs to work with Android better to be a complete replacement. I can't control my media from the lock screen (spotify) and it glitches when my pop up message reply comes up. Love your work thank you guys
+For it's minimalist style, it's still quite functional. Love the sophistication.  Update: Now that I have a fingerprint phone, I cannot tolerate the lack of integration and having to enter a pin each time the wakes up.  Having to look elsewhere . . .
+Unfortunately no support anymore for this app. It's such a pity as its  still the best of what's available 😓. At last a notifier that works. After  a weeks use I could see no battery drainage at all which is super awesome!  Its packed with options so that you can find what suit you best. I would  only request one change and that is extending the 25 seconds that the  notification displays before the screen shuts down again to up to 1 minute  as I don't always stare at my screen. Thank you for a great app!
+It's a beautiful app.. It just interrupts what I'm doing .. I could be texting someone or on Facebook and if I get a text message even when im typing one, my phone locks and that pops up.. I may be doing something wrong.. if so please tell me.. thanks
+Gave it all the permissions it needed and still  doesn't work half the time. Notifications will show up some times but not others, which kind of defeats the purpose of it. Sticking with the regular AOD from now on.
+Updated to lollipop. Removed the option to set 'none' as lock screen. Unable to enable lock screen or see a display in any way. When trying to enable permissions, it just takes me to main settings page. Might just be a problem on Samsung's behalf.
+(LG G3 D855) Everything is perfect except one major issue.  After I receive a phone call, the AcDisplay lockscreen unlocks the phone and not putting the phone back to lock state itself.  When it's in my pocket, after a missed call,  apps are opened by accidental touches because of the phone is unlocked. This is so annoying and please fix this big issue asap.
+The app continues to crash all the time after android 5.0.1 upgrade. . Please fix the issue and the app will get 5 stars once again.  I've sent many crash reports - the app flickers when a message comes in and then crashes.  Still experiencing crashes and note 4 freezes.... 8/15/2015 - unfortunately I am no longer using this app due to the constant freezing and locking up of my note 4 when receiving txt msg or calls.
+I love this app, but since upgrade to 6.0.1, the app gets frozen if there are no new notifications. This means the displayed time can be up to 30mins behind the actual time. Can I deactivate this “freezing”?
+I'd very much like the option to add a custom screen locking/unlocking sound to the lockscreen. Thank you & keep up the good work!
+You should consider adding an ambient wake up mode for notifications at night. Instead of waking up to full brigtness, the screen should slowly wake up with a black   background to save battery. This would be useful for dock users at night. Amazing app by the way, its a peice of art.
+Perfect for people who love clean design and hate cluttered notifications. Would be better if there was a password, option to use a photo as background, and option to open more apps (instead of just dialer and camera) when swiping from the corners. And I wish the clock didn't go away when a widget is used. Looking forward to more features and updates!
+Almost the perfect one. It's very useful and easy to use. But I have some  problems with some apps. For exple, with Spotify, after a few mins that I  turn off the screen the music stops playing. Please solve the compatibility  with those apps.
+A lot of potential, but some major issues on my phone. LG G3 on Lollipop 5.0.1. I can't add a custom widget. Every time I try, I get "unfortunately, settings has stopped." Please fix this!! Or at least give the option to move the clock to a different part of the screen.
+Awesome app, love the minimalistic and consistency of the app, no crashes at all just one gripe on the s6 edge, when lockscreen mode is activated, the lockscreen can be bypassed by pressing the home button a second time not requiring a swipe. Apart from that this app is fantastic
+I really love this app! Huawei's default lockscreen is terrible and MS Next is not good either. I like the UI and it's simpleness: clock, camera, dialer, notifications and music controller, that's all what I require from a lock screen :)
+Whenever I wake my phone I have to wait a good 2 seconds for the acdisplay lockscreen to appear. Other than that, the design is very good and it would be amazing with this big sorted out. In addition, the dynamic background feature doesn't work I just get a black background
+I m using it since 3yrs, now i m on lg g3 6.0, whenever their is a network message popedup, at the same time notification comes the screen will began to blink until i clear notification,  device becomes hot if i dont see the notification
+App is really good long time I have been searching for. One * missing as I'm unable to reply back to chats on Locked screen.  If you fix this will give 5 stars :)  ... Note Refer Floatify apps code....
+It's a near perfect match for my phones, G Pro 2 (Knock to turn on) and Galaxy Note 3 (amoled and all.) I haven't encountered any significant battery drain and/or force closing in my usage. Thanks for this.
+I have been using this for a few versions of the app and while I'm really digging it it's started to really drain the battery and destroy ram. I would keep using it if I could but with the phoje I have the extra battery drain isn't worth it. Apart from that, this is a really excellent app that I will definitely come back to with successive phones.
+Very happy to see that updates brought the ability to access the camera! Thank you. I hope the devs continue to improve the app. Would love to be able to unlock my device using my fingerprint sensor. My only problem with this lockscreen. Other than that I love it!
+DEV NO LONGER SUPPORTING. SEE LAST UPDATE DATE.  -- NOTE USERS..... UNLOCKS WHEN HOME BUTTON IS PRESSED. DEV DOESNT CARE. NO RESPONSE TO PAST EMAILS. TRIED AGAIN, STILL SAME ISSUE. NOTE 5, 5.1.1.   **I RECOMMEND SNAPLOCK, THE DEV RESPONDS**
+You just added it, but a pw version of the lockscreen would be great, so that you don't need to have 2 lockscreens. Also the music player layout. The background images of the music tracks sometimes are low quality and instead of showing those there should another simple interface opstion with just the black background and the player controls. Keep up the good work It's a great notification display app btw.✌
+Found that when I have an alarm set and it goes off, the app bugs out and stops working (resets to my default lockscreen) and I have to turn the app off and on again. Other than the issue stated, I love the app and how it looks/works.
+One of the features I really looked forward to using when I bought my Moto X is Moto Display, which is essentially this, but with lots of annoying problems. When you tweak the settings right, acdisplay is a beautiful and useful lock screen. The primary annoyance is that you still have to go through the built-in lock screen which means multiple layers to unlock the phone. But there's probably nothing to be done about that.
+love the simplicity of this lock screen. it would be super perfect if the music player on the lock screen worked. when im playing music and turn the phone on, the music player doesnt stay for more than a second and it goes straight to the time display. please fix
+Could you add the option to display the battery and/or clock too? It's a pain swiping up just to view the clock then going back to use the widget. Otherwise a great app. Thank you!
+This is a very convenient and visually appealing lockscreen. The phrase "less is more" definitely comes to mind here.. The only complaint I've found so far is that when I'm listening to music (via Spotify or Google Play Music) the album art and the entire media overlay disappear when the screen falls asleep (and it won't return unless I unlock my phone and lock it again) If it helps my phone is a Motorola Moto G running KitKat 4.4
+Got it for the dynamic lock (media art) but it only works maybe 30% of the time. Usually just a boring ugly black wallpaper.
+Actually not a bad lock screen app, but once installed, you must remove AcDisplay as an administrator before you can uninstall it. It took me a little while to figure this out, until I did, it was like Zombie apocalypse, the thing just kept reappearing. Seems like something nefarious was going on, no other lock screen requires administrator privileges. I might try the app again and see if it will function if I don't give it admin rights, but this thing scares me a bit.
+I've been able to basically recreate the functionality of my old Moto X  (Gen 1). I like that. I would really like this app, but it seems to have a  hidden function I can't figure out how to turn off. I have my lock screen  set to lock five minutes after the screen is off, so if I'm using my phone  often I'm not bothered with it. But any time AcDisplay comes up and goes  away, it automatically activates the screen lock. Even if the screen has only  been off for 30 seconds it locks. Can't seem to find a setting to disable  that behavior.
+I really like this app. I like the simple/minimalist design. Only problem is when I set timers regardless of the timer/clock app, AcDisplay stops them from making any sound. They show up in the notification but no sound. No problem with alarms, just timers.
+Good app.. but there's an issue.. when I get a notification while I'm working on the phone with screen on, the acdisplay gets activated and changes to black screen with notification icon.. happened with lock screen enabled and then also with lock screen disabled and just active mode enabled
+I love the app. I've been using it for 2 years now maybe. What really ruins it for me is that I can't protect my phone. I'd love it to have a simple PIN feature.
+The idea of the app is nice but i have some issues with the app. Maybe they are specific for my device (LG G4) but i am not sure i will keep using the app if it won't be fixed. For example, Any alarm i have, starts and immediately moves to snooze, another issue with the alarm is that it's not shown over the 'acdisplay' so you need to unlock in order to see it.
+Great app, but... after the screen turns on and turns off (AcDisplay turns screen off), i can't unlock the phone with fingerprint because Android 6 security policies. So, it's useless. Every time i see a notification, then AcDisplay switches screen off again, i have to enter my code to be able to lock the device.
+The activate display was probably my favorite feature from my old Moto X. When I upgraded, I felt like something was missing, and this instantly fixed the problem!
+Pretty great, neat well rounded. No Pin lock or anything, FAQ mentions that it can't be done or is not really secure, other apps seem to do it fine. Aside from that it's amazingly well designed and customizable. Use a second lock screen app for the pin lock.
+App is good but have some problem with lockscreen in Android lolipop. When screen is locked and some USSD message received, on screen wakeup lockscreen flickers(fluctuates). Issue is specific to Android lolipop version. It was working proper on Android kitkat.
+Please fix the next button for listening to music. It doesn't work. Also sometimes the app just shuts down and doesn't lock the screen. Otherwise good. But please fix. I have emailed but nothing has happened
+It's a pity this app seems abandoned—no updates since July 2015—because it has so much promise. The elegant and minimal design is an excellent foundation for further development.
+when using the app as a lockscreen the music player only appears the first time you turn the screen on. it would be nice to have an option to always show music controls while music is playing. great app in all other respects.
+I've been using it for quite a while and love it. Only complaints are with lollipop's new lock screen (wish it could go straight to pattern lock rather than slide) The design is elegant and a beautiful way of showing notifications, much cleaner than the lollipop notifications.  There is one thing I'd love to have implemented: music control. Would it be possible for you to choose to play/pause/fwd/back depending on what controls are in the notification? Edit: holy crap thank you!! He listened! Edit: Podcast addict does not seem to have playback control. not sure if this is a fix on the display side.
+I don't know what happens? Was working so good. But now only show lock screen for second and disappear. Unlock by self. Sometimes not even show. What to do? I like app, is so good and I was using it for long time.
+It's great, a must have in every Amoled display mobile. I'm loving my S6 with this feature, remember me my old time with a Moto X. The only thing that I'd change is the unlock animation; I think it's ugly compared with the rest of the app. Maybe one like the Motorola's one will feel more comfortable. Great work, guys!
+up until yesterday, whenever I played music the background would turn into the album artwork but it just stays as a black screen.
+Excellent app, works perfectly in giving a very clean, consistent, minimal lock screen. Just one tiny issue, lock screen gets disabled altogether after an alarm. Please fix. Nevertheless, still deserves 5 stars.
+It was my favorite lock screen since years but recent updates are making the app work abnormally. The phone keeps waking up every one or two seconds after locking when there is a app notification of any kind in the status bar left un-attended i.e be it a unread message or a pop up notification from apps. I have deactivated active mode but no luck. I hope the issue gets resolved soon.
+Says Settings has stopped each time I try to set a widget. Why? Would like temperature/weather when I tap on.
+The app workers flawlessly for the past many months that I have been using it,, but nowadays don't know why but the app keeps crashing... AcDisplay is not responding??? EDIT : The error was with my phone and other apps were crashing as well... The error was that i had a virus downloaded accidentally that slowed the entire device and made other apps to crash...
+This app is great however I use musixmatch as my default music player but the media buttons on the lockscreen won't respond so I'm guessing Acdisplay doesn't support it, please fix that up.
+Turning the screen on and off in recurrence and being able to choose the intervals. This would be a feature to make screen flash apps for phones with no LEDs redundant. otherwise, the functionality and features are very good.
+works fine... but if the display turns on when  i have a balance msg or any popup msgs in background, the ac display lock screen starts to flicker like it has gone mad. thats the only issue with this app. I have been waiting for a fix for so long but devs are so reluctant about this issue. so i m giving only 3 stars. And add support for Music match player
+Like what the title of my review says. It's PERFECT. One suggestion though: could you make the clock larger when music is being played? Thanks for such a great lock screen!
+When data connection is turned on In a dual sim phone, it turns on the first sim data without asking. Give an option for sim selection for data connection.
+I've been using it for years and it's just great. Simple, beautiful and functional. The app is awesome but a couple of months ago started doing weird things, notifications dissappear even if I don't open them, the music widget doesn't work as it should, after I unlock the screen 2 or 3 times it stops working. These problems are really annoying and it was working great before. Please fix it, I would love to keep using this app. I'm using a Xiaomi MI 3.
+It works really well but it does have bugs. When you a view a notification from the lockscreen sometimes it completely bypasses the lockscreen which is a serious security flaw for the phone. If that was fixed this would be a great app!!
+This is a great app. Really good. I have been using this app for a long time now. But recently it is frequently crashing. I don't know. Lockscreen does not light up. It just says app is not responding.  Please see to this issue.
+It lacks UI customization, like resizing the clock size or adding circle border on notification and options to remove time details (day,month, etc).. It also missed proximity sensor sensitivity adjust
+Runs nicely on my s6 edge and makes notifications easily accessible when I'm on my desk and also has a great design. Just on thing I'd love to see is an always on option for when your phone is charging. Keep up the great work
+No issues notifications work excellent minimalistic design. and works as advertised keep up the good work thank you. Update. digging the new update only wish i could place more than 1 widget
+Media widget is not working anymore for me.. Cant pause/backward/forward music unless unlocking and go into app which is boring... When fixed... Going straight for 5*
+really cool. Stable and clear. Extremely outstanding! This is the first app that can entirely replace the system lockscreen using xposed module. I loooooooove it.
+Love the app, super clean and lightweight! BUT.. Spotify music controls don't work on the lockscreen at all. Please fix this, then 5 stars!
+Keeps disabling notification permission, so I am constantly having to read activate it. Fix that and it will be a great lock screen.
+Absolutely love almost everything about it.  Only thing that I would like changed is for the lockscreen to not disable when the phone does actions while the screen is off(such as the music player starting or receiving a phone call).
+The best lockscreen tested so far, and will continue to use in future. just the option to swipe from bottom corner kinda conflicts with soft keys. Will there be update with custom clock widgets or app in built widgets?!  ;)
+I installed AC Display Note 5 and it worked some of the time.  I changed my theme from default to Material and now ACDisplay works perfectly.  Frustration has ended!
+The only thing that doesn't work are the controls for the music player. I don't know if it's because I use poweramp or it's a setting in poweramp. Other than that, it's perfect
+I'm loving it.  But there is an issue. When i get a call my display remains off it i use its lookscreen. This lock screen is awesome. Just fix this issue. Then i will give u 5stars. I'm running 5.0.2
+Please take care of the messages that flicker,ones that give balance information and other similar information. It looks dirty on ac display. I will give 5 star for fix
+Once alarm rings this locker stops working. Goes back to default phone locker. Got to disable and re-enable aclocker. Do fix this bug, much appreciated.
+I would really like if I could see the time of alarm (and icon) when I set alarm below main clock and date. Also I can not set image as wallpaper on lock screen different from the image on home screen.
+It's clean and minimalistic, beautiful. But unfortunately, it is missing a lot of functionality. The media controls rarely work, wave to turn on is broken, and there is no option to enable quick settings on the lockscreen. Please fix! It's the best lockscreen out there!
+Recently with the last update, not sure if it is Spotify or this app, the lockscreen won't let the media buttons work with Spotify, with any other music app it works but the buttons are unclickable for Spotify it is also extremely laggy with other music players
+AcDisplay brings the Active Display mode from Moto devices in a free open source app. The basic feature of this app allows the device's screen to turn when a notification appears and to quickly and easily interact with the notifications. There are 2 other options as well, making this app serve as a lock screen and/or turn on the screen based on device sensors. The overall design is very much minimalistic with a great looking design, and there are also plenty of settings to customize to fit your liking. AcDisplay is great for those wanting to view notifications quickly with a minimal and usable design.
+When I get a call, screen doesn't show caller details. I've to manually press power button to actually see who's calling. This is a major issue needs to be attended immediately.
+Great clean nice lockscreen. what's stopping me from using is that the time is always slower den my system time.. hope there'll be some changes to clear off this issue in the next update..
+I have never liked that unlock style. At least can you add fully transparent color selection? Beside that this is a good  minimalistic lockscreen.
+It's so productive, minimal and just save  battery. I just want you guys to add one thing... Fingerprint compatibility with the S6. So it has security
+The only issue I have discovered is the "AcDisplay services" in the notification shade, it bugs me everytime and it also non-removable, if you have an option to hide that from there, it will be great for a 5-star. Overall, its really good. I highly recommend it if your lockscreen is crap and you want something more like Material Design, but of course, there will be issues that bring down the good things, but if the good things are really good until you forget about the flaws, 4 stars will be rated.
+I used this app for a long time on my Asus Zenfone 5. About 1 month ago, mostly right after unlocking the screen and sometimes randomly, the display tilts/shifts with an absurd angle and goes grayscale and then shortly after phone freezes, makes me do a hard reset. I thought it was a phone problem because I hadn't installed a new app. But then I thought maybe it's about this app, because it happened mostly after unlocking. So i disabled it and the problem solved. Hope this gets fixed. Cheers
+when i turn off the data and got popup about data usage then screen blinks btw that popup nd ac lockscreen im using cm12.1 5.1.1 plz fix this otherwise its awesome
+Great app. Perfect to simulate Motorola's screen. However, please fix these two bugs: (I don't know on other phones), but LG phones, when displaying low battery message, AC Display and the notification blink until you dismiss the notification. It is really annoying, because you are stuck in a screen that flashes between AC Display, and Low Bat. notification. And secondly, it shows WhatsApp messages, but then it clears them. And it doesn't warm you with any sound (like if disabling notification sounds). This is not only in WhatsApp. Please fix. I think AC Display is utilizing a big chunk of background memory; if that can be reduced, it will help, a lot.
+I have used ac display since the first day I used my one plus handset. Love the whole concept and the way it works but totally gutted that apple music does not work on the lock screen. For that reason 4* but if this issue is fixed then 5* everyday!!! Please fix this issue!!!!
+This app is so useful, I don't know how I lived without it before I used it. I can easily just see all my notifications without unlocking my screen with its minimalistic design.
+Sumtyms apps doesn't work...it has alot of bugs.... No update 4 a long time..... Stil it has bugs... Fix it soon.....
+I missed the lockscreen widget since I upgraded to Lollipop 5.0 as they replace widget with ugly notifications view. I use AC Display to able to view widget in this lock screen and it's great.
+I love it but since I installed it I have no more notification when I pulled  down the notification bar. I have notifications but i cannot see them. Any idea on how to fix that please? thank you
+Very clean simple, & elegant lockscreen. I hope this continues to progress! One request, making the display area movable would be great, i use a LG smart circle case, & this over rides its function.. Everything fits fine, if i could just move it to the right spot, thank you & keep up the good work
+Softkeys show up on htc one m8 while swiping from bottom left or right. Few bugs here and there but great concept
+Because amoled doesn't use back light, setting the background to black with this lock screen will save battery life. The contrast also looks nice.
+The only issue nowadays is that dynamic backgrounds isn't working properly. No art for any notifications is working including music. Please fix as it is one of the things I love the most about AC display
+When i set my swipe options to camera and dialer i cant see them on the black blackround...they still work when i swipe up on the lock screen but can u fix this so that you can see the camera and dialer against the black backround...five stars shall be given. Thanks
+Nice but i would love my own background. And another issue is that there is no security features like a pattern unlock. Other than that really good work
+It was working fine full some time back, but now I can't view the notifications on my lock screen. Don't know what's the issue. Please help
+This lockscreen replacer is probably the best one on the play store regarding design. The flat, slightly material design look of it gives it an android feel, since most others focus on ios designs. However... The only problem I can find with this lockscreen is how annoying it is to interact with music when having my phone locked. Sometimes the play/pause icon doesn't change when clicked and everything is really slugish, takes a while to react when pausing/playing. I would really like to see this fixed.
+I used to use this app all the time, but the media widget stopped working. I researched it and it seems to be a problem many are having, but I haven't seen any updates to fix it. Will change my review once it's fixed.
+After last update.. u made it so complicated... in some way more organised (divided some notifications in category) the app some times doesnt wrk... :-(
+I loved it! I used to have a Motorola and it does all these things, now I changed the device and was missing this functionality. Just a hint: the waving movement over the screen is not activating it on Nexus 6P.
+It is awesome. But i am facing problem of unfortunately stopped while adding custom widget. :| Any solution?
+Can you add feature like moto display I.e screen lights up when we pick up the device or pick our device out of pocket
+Real battery draining. 50% from full charge in a few hours when phone was idle!
+After I attend to a notification while my screen is awake and them i lock my screen and unlock it again, that notification still appears on the lockscreen. Plzz fix. Otherwise it is a wonderful and an elegant app.
+In love with this app .... It would be just amazing If it won't drain out too much battery and itd be crazy if this has a pattern lock (i really hope) and a custom wallpaper would be fab so ...can we see them ? This app basically deserves first place and the most downloaded app In the market under customisation!!!! Hopefully this app gets even more better with lots of cool stuff !!!!!, ,
+Looks great and very minimalistic, I'm saving battery life due to just glancing at my phone for info.  Would pass the 5 stars if you could add the function to be able to scroll through notifications of the same type.  eg. 5 gmail notifications. Would like to read a preview of them all not just the latest one.
+This is cool because if you put your phone in your pocket and take it out it automatically turns it on which can be very convenient if you are waiting for someone to notify you for something. Also, when you turn on you phone you can see all notifications and choose whether to open them or dimiss them with ease.
+Great app I'm so familiar with the motorola active notifications and since I switched phones this is the best alternative thanks! Wow there's even more features than I realized. Developers here deserve donation bravo! Custom widgets enabled.
+This app/lockscreen is the best I've ever came across! It shows all relevant information & works flawlessly. I recommend it it any and everybody
+I've loved this app for a long time but the problem I've been having for a while the music controls don't work on my galaxy s4 with android 5.0.1 pleas fix ASAP
+On Galaxy Note 5, having issues with it not coming active while screen is off. So essentially, it is doing absolutely nothing. :( it WAS working, now suddenly it doesnt.
+does it drain battery? I need to know please...:(
+there is something really annoying! with my note 5 when I'm taking a screen-off memo it turns the screen off after the time set for inactivity!!!! and another thing.. I can't use the fingerprint directly through it.. i have to swipe first which very annoying!!!
+The Nexus 6, while having an "active display" feature, does not come with the Motorola lock screen. AcDisplay is a great alternative for Nexus 6 users because it takes advantage of the AMOLED screen to only use the pixels it needs for your notifications. Great Job!
+Please guys... fix the bugs... I don't want to have this app... Can somebody tell me how to uninstall this app... because this app won't uninstall saying u have to deactivate first!!
+It would be great if the music widget would not change the background wallpaper. Otherwise, flawless app.
+Used to work before update.  Now the music player doesn't function.  Other than that,  perfect app!    Update: Music player works!  Super thrilled,  now keep on improving! (Maybe allow me to fast forward in a song) thank you!!
+Need few improvements, 1. Need motion detector to show the time, like when lifting up to see the time. 2. Need to directly jump to password other than lock screen . Thank you.
+Hey, ac display is a superb app but i am facing a issue with wake up screen feature, when ever i keep the phone screen facing ground and I lift the phone screen is nt waking up,, my proximity sensor is working fine,, out of 10 trails in 5 screen is waking up...so guys please fix asap....
+I used to love this app but then after using a few days I noticed the drastic change in my battery life. I disabled it.  😔 really love it but Battery is more necessary than the beauty.
+I've used hi locker, go locker, and many more.  They all did a great job and looked nice. Ac, however, does an equally nice job with a fantastic exception.  The developer designed it to NOT drain your battery.  After installing, I was getting at least a 10% increase in my daily battery life.  And for you smartphone owners, you know that can be a lot at the end of the day.  So, I highly recommend this wonderful lockscreen.
+It uses my super amoled display very well. Minimum battery drain and good info supplier!
+I'm using galaxy note4 in marshmallow version and when I'm pulling out the pen to write quick note the ACdislay crashes down..I think we need a new update ... thank you
+The only possible con is some minimal battery drain (which is to be expected). Aside from that, it is a helpful and beautifully designed app.
+But after I hang up the phone call, the original lock screen shows up. Then I turned off and up the screen, acdisplay came back again.
+After trying out this app found out that app drains your battery really fast, I charged my battery at a 100% & within  1 hour battery was already down to 90% & wasn't even using my phone within that hour. So not so good right now......
+The pause/play and the nect/previous track buttons don't work anymore and I've tried with Spotify and Google play
+There was an issue regarding my lock screen. It seems that i can't click any stuff when it is in lock screen. I cant change my song in spotify when i open my screen. Please help.
+Cannot even launch the app on my LG  G Pro. Please fix it.. I loved this app
+It will be awesome it you add the always on display feature like s7. And option to add more than 1 widget on the screen.  Maybe a pro version for these features. Thanks
+Nice idea, really want an app to replace Moto X active display but no luck here.
+The Music widget has stopped working for roughly 3 weeks now. Play pause skip etc don't work when pressed.
+This app is amazing to use and makes my phone look amazing! One thing that would be great is if you could use the music playing lockscreen widget as an actual music widget on your homescreen.
+I really do like this lock screen cause its simple and it doesn't drain battery life and since i have an s6 that's important. Update : no more issues when it comes to security. I just added the stock lock code on my s6 so when i swipe i also have the requirement of a pw. Great job with this app. Also my music player on the display is working now. Perfect lock screen. 😍
+I really like the minimalist design and always be my favorite lock screen. But, for improvements, can you make : - the wallpaper customizable (from my own library) - make not just one latest notification that i can view through the lock screen but every messages that i received - fix some multiple same messages issues - shows the clock when i'm playing music - there's an unlock and lock sound
+You have click on notifications to see whats in them. Even in the video when they say "you can see all your notifications" the screen actually just shows the time and the icon from the app that made the notification there's nothing to read or see.  I'm not sure why they have a features like "wake up on notification" or wake using proximity sensor because you still have to tap on each individual notification to see it.
+Need more improvement...oh after update sometimes it's steel crash to my galaxy s6 edge...
+After so many days of successful use of this app i found that when you click Home button it unlocks just like an app after all this app is best. Please solve this issue. Thank you.
+This is probably one of my favorite apps of all time, but is the developer ever going to update it? Will he ever fix the stabilty issues?
+The active mode, though really useful, puts a huge strain on the battery. Please fix
+Tried everything, completely unable to unintell this junk. Crashes the system app
+Love the whole look and feel. The only thing that is currently missing is fingerprint support it seems. Thanks for a great open source tool!!
+I have Moto X gen2.  Since you cant install all moto apps in CM I had difficulties finding right app to switch from original MotoDisplay. This one is great because it has full black background feature + player controls.
+just wondering if you could implement an 'always on' display that uses low battery for AMOLED display users
+The only issue that irritates me is when a phone call comes it unlocks the device automatically and never lock it again! which is quite unexpected!
+This app has a great potential i just wish that the developer must updated soon to fix some bugs.Overall All this Lockscreen is great And I like everything The style and the lockscreen itself
+It eliminate the use of using buttons to unlock the device and give Moto Display style feature.This app could have been excellent if it could use fingerprint lock and unlock features similar to Nexus or Motorola device i.e. eliminate the use to press any button to unlock. And if you are able to do this then 5* from my side.
+App is frequently restarting and consuming too much battery....is there any way to fix it...please help... I really like this app
+Absolutely love it. Except for Spotify Music controls that don't work. Other than I would be satisfied and proud to be using this great lock screen on my G4
+This function would make the app perfect 👌(it doesn't matter that yiu can bypass them, at least it keeps people from going through my stuff at the moment). Plus, it would be amazing if you could display desired message on the screen (name, message etc.)
+When i try add a widget, appear 'settings has stopped'. Is that cause of my phone?
+Love it! Works great on my Galaxy Core Prime. I tried several other similar apps this one was the only one that functioned fully in my phone. So far I haven't noticed it affecting my battery life and best of all no extra downloads with this app!
+Good work dev(s). Crashes sometimes, but it makes my phone experience THAT much better.
+I love how this works and how clean it is but it locks my phone every time and doesn't let my fingerprint unlock it. Is there any way to fix this?
+Sometimes the app seem lag and so on. Please make it more fancier and stable.
+A wonderful app, easy to read notifications and beautiful interface. I just loved it. It does not drain my phone's battery either. The lock screen id not functioning yet, so I will wait for it. Keep up the good work dev team!
+Very good app but drains a bit of battery.  I'm currently on 79% of my 3000 mAh battery, and this app ate about 7%of it.  Maybe look into tou  coding and try to optimize it then I can give about 4 stars since their isn't a lot of features
+It'd be awesome if you can make the media widget without the album art so that it'll be more power efficient on AMOLED screens.
+This is a great little handy app, the only problem I'm facing is the wave to wake feature, it isn't working properly for me, hope this issue is looked into for the next few updates
+Great app, really like, but it has an issue with the Note 5's screen-off memo taking mode; the screen will go completely off in around 10 seconds whether I'm writing or not.  Tried all the settings, can't seem to fix that.
+Needs motion sensing, and it gets jittery when the phone receives a USSD message.
+Looks great, but the app crashes every time I try to access the widgets! Would be 5 stars if fixed
+I've been using this lockscreen for years now. Now I'm on Oreo and I'm still using it! Beats every lockscreen I've used. It's minimal and aesthetic yet functional enough for everyday use. Google should consider integrating this aesthetic in their own lockscreen. Love how displays album art too when music is playing.
+Thank you Guys for giving us this app. I appreciate your work. It guves my lock screen a classic n sexy look. But....... But It lacks clock styles. If you could only add 3-4 clock styles digital with analog then it would be Great from very good. 😊
+pressing the recent button or home button closes the lock screen .... plz fix this issue ... i want to use this as my primary lockscreen but the recent button and the home button issue is forcing me to use different locker app ... plz fix this ...
+Confused...I have a samsung Note 4 but even after playing with it numerous times it doesn't show the clock,  battery, or notifications or half the stuff the video shows. Guess the search continues
+its ok until i switched to lollipop then spotify media buttons won't work on this lockscreen. Using Samsung Galaxy Note 3
+You might as well turn this into a full system lock app. It's really cool looking and works well but without a lock it's irrelevant to other apps. Its too much to have two screens before opening my phone.
+Hats off to the developer. This is awesome, it just couldn't have been better but at the same time I just wanted to point out an issue with it. The settings where you select what the upper right swipe or the lower right swipe will do is not working. Please see to it. Thank you
+I was using this App on my HTC E8 and its was working as a charm, but since I have moved to Nexus 6P my finger print reader is not able to unlock my phone.
+When I get a notification it constantly wakes my screen, then times out and closes then wakes again and over and over and over. It's been destroying my battery
+Like shaking images of ac display and my background on my moto g ( 2nd ) generation please fix .
+When I try to uncheck this tool from device administrators, android system app crashes... nexus 5 2013, android 6.0.1 with march update. Fix it asap
+My phone will crash and restart when using this apps
+I have trouble with removing this app please fix. I need to deactivate it first, but when I want to deactivate it from settings&gt;lock screen and security&gt;device administrators&gt;Ac display, it always crashes. I already tried restarting my phone (Samsung S7)
+Please make it ALWAYS ON like the S7/Edge. And make it move randomly on the screen so it won't burn unless there's a way to do it. The way it handles notification is top notch and the material design is fantastic. Great work!
+AcDisplay is a must have app for all and regarding battery consumption, I did not face any problem. Also, the app needs an update. Does not run on 7.1.1
+Music were stopping in the background. When i start using this app, i cant play music when i locked it. Can u fix this in the next update please
+Nearly perfect as a lockscreen but to be clear. You can't actually set a lockscreen picture. Only what your "desktop" (?) background is can be used.  Kinda a huge downside as you'd think that'd be the first main goal. But again otherwise perfect and beautiful
+Love this app. Would like to see the ability to add a widget without it taking the clocks place and maybe being able to select where you want it. Keep it up Devs!
+I love the way this app works... It's so amazing and it saves lots of batter on my phone... I hope to see a new update were you can actually put a lock code, that would be great.
+This drains my battery.  I can't deactivate this. I get a message saying an administrator must do it. IT'S MY PHONE. Is there a way to delete this app?
+It used to be amazing, but now it randomly stops displaying my notifications and even working as a lockscreen. I wish it would work properly again, because this used to be 5 star perfect lockscreen
+I dnt knw if there is any type of setting or not..bcz in my xiaomi mi4i it is not working.I installed twice.I enable lock screen also..But every time it shows my default lock screen..please tell me solution
+I like the app a lot, but the widgets don't seem to consistently work
+Lock screen is simply amazing...but the issue is the lockscreen is deactivated when alarm sounds...so that we should again ON the lockscreen in the app....so make this version STABLE and remove BETA....when u do this u will surely get good RATINGS and REVIEWS for ur app
+Using rocket player, the previous and next track icons toggle volume up and volume down instead.  Any fix for this?
+Great and handy app to read notification without opening the lock screen... Plz control battery drain
+Came from a moto x with active display and tried this out before upgrading. The app works great but with my new nexus 5x it won't allow unlocking with finger print.
+Very good one but lots of bugs, one thing i loved that you can add zoopers on lock screen isnt that amazing and music notification has some kind of problem plz fix that and plz take out your ac display service kind of notification from notification center it looks weird and cheap and but all and all amazing app hands off to you guys and hope to receive amazing updates in futures
+Facebook messnger keeps popping up over the lockscreen though. Fix that and 5 stars for you!
+Multiple icons notifications for the same message and also for the same app,  with WhatsApp doesn't show the contact 's image in the background...
+Lock screen didn't work since last 2 weeks when i press lock button then my phones default lock screen come no the lock screen of ac display
+Being required to have a 6 digit passcode since I have work email on my phone this app is my saving grace.  Can easily check notifications without having to enter my passcode ever time.  Love it.
+The Google ambient display seems to override it. The test notification will work and that's it.
+It makes my phone mess up like crazy with Spotify. And I can't pause music playing from Spotify at the lockscreen
+Downloaded this app activated it and when i locked my phone. It was just the same as it was before i downloaded this. Doesnt work..
+I just transitioned from a moto device to a nexus 5. This app is a perfect replacement for the Moto display feature I dearly missed; with even better animations.
+Been a fan of ac display for a long time now but since I've updated to 6.0.1 the app hasn't been stable
+Can't play, pause, change track on lg g3 lock screen! Other than that, better than actual moto display!! Would also like font weight options for the time
+tried to uninstall it by going to settings and taking it off as an admin but every time I try, it gives me the same "Unfortunately your settings app has stopped." Any idea how to fix this?
+Useless without fingerprint.  However. The best design ever.
+Great software and very minimalistic. But recently it has been crashing a lot. Hope to see an update.
+When my alarm lunch app  not lunch again and when i had viber call i must unlock to see who is calling
+You need to fix the glitch with the Spotify music controls, every other music app seems to work except Spotify.
+Why do I see for a second a pinkish white screen when I swipe to my home screen on my G4? It's quite annoying
+Didn't work for me. Uninstalling is a pain,  but just look at the question mark arms it'll guide you thru it
+I installed it and it became device administrator. Now there is no way to uninstall it. It sucks... hangs my phone...worst app...
+Im using lg g2 with stock lollipop and dynamic background isn't worked. Back when i had it in kitkat it works flawless. Dunno why but any fix will be much appreciated
+I love the look of this app. As long as it doesnt kill battery I'm cool. I haven't seen any quick battery drop yet, but its beautiful in the way it is.
+Please develop some apps with same interface for Call screen, music app and lock screen with pin :) . Anyway, its lock screen didn't work on my xiaomi ( default lock screen comes first :(  ]
+Please increase the area of widget.a lot of widget dont fit because of the square area.please increase the size of widget.overall its the best lockscreen.
+time lags to update when I take a peek at my phone
+When I'm in a call and I shut the screen off, when I open it back up it takes me back to the regular lockscreen.
+this app is great and is the best lock screen out there but I had go turn it off cuz it consumed way too much battery...  Hope you can fix this and make this app more battery efficienct, thnx
+Lock screen works great other than the fact that Dynamic Background works hardly at all. Other than that, works perfect. Please fix.
+I am expecting the new version when all unread conversation become in form of the list not just the latest conversation. So we could read everything without open the conversation.
+Doesn't support musixmatch player, screen flashes when a Bsnl message for last call charges is received
+Absolutely great, been looking for something like this for a while, would be nice if the widget could be made slightly bigger. Works perfectly on my Sony Xperia XA1 Ultra on Android 7.0
+I've found that it's using nearly 250 mb of RAM so unfortunately I had to disable it... If You can fix that issue it would be great. Thanks
+Lockscreen has either solid or current background option. No real customisation possible.
+When trying to add new widgets, the app crashes and returns to the home screen
+On receiving USSD screen flickers and constantly drains battery. Lost 20% battery in an hour
+I love the minimal design. It's amazing the app hasn't been updated in so long but it is working very well for now. I hope to see updates in the future
+Really loved the functionality and it's minimalist design! However, I've noticed that the brightness of a display would increase briefly when Always On Display is active. Would be better if this is corrected!
+It's a great app, I'm missing just one critical thing, it would be great if it would show the next upcoming alarm, like the default one does
+It's very sleek but it's missing a lot of functionality such as the ability to see a call or being able to have a different wallpaper than your home screen.
+loving the experience so fa. only concern is that alarms arent ringing no matter what options im trying. please fix :) (running on HTC one max stock 5.0)
+This is a copy of the active display option witch is only on the Motorola devices but its better i liked what u did but next time try to design an app by using ur own ideas
+Notification from running timer doesn't display so have to unlock every time I want to check timer. Also, no ICE display. This is an important feature for me.
+The music widget doest show up everytime even while playing music! Please update
+When a alarm rings the power button or the volume button doesn't work  .... 1st unlock and the dismiss the alarm ... Fix it .... Ever things else fine thanks for the awesome app
+This is the most usable ambient display alternative I've used. Thank you developer ;)  The pocket detection is on point. No noticeable negative impact on battery life.
+I loved this app soooo much, but the lack of active development is causing some crashes and few bugs. I wish it was taken care of.
+An option to control the "Hide Notifications Content" for individual apps would be perfect. Then I'd give the app a full 5 stars.
+i love this app but there's only one thing that bothers me, when i have a missed call it automatically unlock the phone if you can fix that would be nice
+2 problems otherwise this app is perfect for a lockscreen - 1. Cannot keep a lock 2. Music player shortcut does not appear on lock screen
+i wanna uninstall the app.... it asks me to remove it from 'device administrator' and when i do..... 'unfortunately, settings has stopped'.... and this happens only for this app!
+Tap your home botton and your phone will be unlocked😒😒 fix this bug to install it again
+I can't desactivate it . i won't let me this is the worst thing that i have downloaded . tell me how i can fix it
+Every time I set an alarm the app won't let me open my phone,  after the alarm stop I cant touch my phone anymore. Please fix it,  this app is really nice. thanks.
+The active display is not working otherwise it's a great app.
+Love this app! I've been using it for ages. Please add functionality for "always on" clock for amoled displays!
+Love it except the music controls don't work to change tracks or pause - this is for 3 different apps (Pandora, Apple music, and  podcast app). Pls fix!
+Error, media widget just work in the first time i turn off the screen
+Been using this a long time now, works great and doesn't kill my Nexus 5 battery. Barely notice it in fact. Highly recommended.
+You have to jump through hoops to disable and uninstall this app. Not okay.
+I mean its ok ok... But doesnt work all the time.. I have ambient display tho
+Missed call notification not showing up in lockscreeen HTC one m7
+On my Galaxy Note 5, app doesn't launch at all.
+The app is amazing but there is an lag between opening from locks screen and home screen display. Please fix it.
+Doesnt work on galaxy note 4 edge
+Awesome app but plz solve that call screen problem
+U are a mad genius , ok u took some inspiration from Motorola but still u did it awesome and even better than moto ..... U need is some theming option.
+Está muy bien la aplicación, solo que en aspecto de reproductor de música con la aplicación musixmatch no va lo de avanzar y parar, en spotify no va lo de avanzar la canción. En todo lo demás bastante bien, alguna vez se lía pero no nada grave
+Stay away from this app! Doesn't work well and once installed it is impossible to uninstall even when deactivated
+I needed an app which will actively display notifications and not drain battery and I've got it. Thank you so much!! Hope the lockscreen feature becomes stable soon!
+Don't download this app!!! After downloading, it doesn't work and thereafter you can't even uninstall it!
+By time to time the acdisplay will shut itself when my alarm is ringing and I have to open it again
+Nice app,but please include custom wallpaper selection, and i am facing sleep of death issue with this app.my device working well with stock lockscreen.please fix this ASAP
+Would have loved ot but everytime i wan to change the widget theres an option saying settings closed
+This is Very Very Awesome App... Thank To You Developer ... I need Some Chnages In Your Next Update.. Wacth Style like S7 Edge and S8 Digitel Style...
+worst app and after installing this app doesn't uninstall. please don't  install it
+This app has security issues with Note 5
+It was great but since last update the notification symbols don't pop up when it's on.. If you could fix this I'd appreciate it. Thank you.
+I can't uninstall it...can you please advise? Doesn't work on edge 7
+Looks very interesting but sadly I can't add widget, Everytime I click on add widget I get error message that settings has stopped
+I have a s6 edge+ and I can't use my fingerprint. I click the home button and it exits the app then goes to my default Lock screen. Please fix
+quite nice to see my notifications right away, also the best lockscreen design I've seen. keep up the good work!
+It's so well designed, Thank you to the developer! Please continue to work on it, it truly makes using my phone so much better
+Me gusta la aplicación pero cuando apago la pantalla se enciende un Led rojo que me molesta, no se puede quitar? Es por defecto de la aplicación?
+Only thing missing in this app..else it Rock
+This app will perfect if you add some scurity like pattern or pin . keep it up. im waiting you replyy ^^
+if only google release api for lockscreen, I'll definitely replace native lockscreen app with this. the only reason I'm not using this app is duplicate lockscreen (this and default lockscreen)
+Needed to avoid overlapping alarm and phone apps.. Uff
+Please add option to turn on/off capacitive backlight. I don't like to see the capacitive backlight on when there are any notifications.. It also saves a battery. Plz add this option.
+Sooo love it but can you please make the clock move to.other places on the screen soo it doesn't  burn the amoled please!?
+The design is literally inspiring and the code is so organised. This inspired me to make my own minimal lockscreen. Thank you AChep :)
+Superb app! I know the lock screen is still in beta testing but I would actually like it to have a pin,pattern, and fingerprint  for the supported phones
+Não vi melhor que esse. Além de ser um Locker lindo e interativo ele notifica. Apenas falta ter como colocar senha no Locker.
+Its awesome, but sometimes when i turn on the screen it stayes for 1 sec then my screen goes off!! Plz fix it....
+ISSUE! All notifications are shown except for Facebook notifications. Please fix!!
+Works as it should, breaths new life into my long in the tooth S3. Great job guys!
+This is a must have on any new phone I purchase. Solid performance, minimal battery usage, and it works flawlessly.
+Consume too much battery  & My mobile over heat's
+It is the perfect lockscreen app.. I recommend all of my friends to use it... I just wish i could use a different lockscreen wallpaper other features are perfect!!
+my display constantly turns on when seating on passenger's seat while I'm driving so how can I adjust the settings to prevent it??
+Best lock screen so far. Looks great in material design, shows a music widget abs everything you need.
+Still unable to control music player
+I love the app. Its a must try. Its only downside is that it has NO lockscreen with code, pattern or password. But otherwise its a great app.
+Locksreen when activated snoozes alarm clock
+doesnt work with spotify and some music players
+if I add widget the time and battery percentage was gone only the chosen widget will appear. My phone is 4.2.2 Android version.
+I love how the app is functional, convenient and above all, minimalistic. :)  Added functionality for custom lockscreen wallpaper, security, and fingerprint would be very nice!
+It won't allow me to remove from phone, stupid app.. Can you please deactivate so I'm able to uninstall
+It's the best alternative to Moto Active Display. Although motion sensor does not work as in Moto X Play but still it's good.
+Works well, but I would like to see theming for non-stock devices and support for unlocking from fingerprint.
+i am a fan of your ac display, but i feel that the present unlocking animation isnt good enough, you should add a marshmallow or lollipop unlocking animation
+It required permission dn't know what to do??? Plz guide
+The material design is really nice but please add the lockscreen security and also when in lockscreen if i press the home button the lockscreen unlocks automatically...please fix this... apart from that this app is nice...
+Switched from Next to this and Im very happy. I love the minimalist style. Works great on my Huawei ascend mate 2.
+Doesnt allow me to uninstall.
+Doesnt work on my Vodafone smart prime 7...only test mode works but actual notification don't turn display on
+Really useful, great app, I like all the features of the app especially the notification displayed when the phone took out from the pocket
+What's wrong with people nowadays this app is perfect soooooo ssshhh with the put downs
+Great app! But it would be awesome if - profile picture would appear as   background for WhatsApp messages - inbuilt lock/patterns system
+✔ Smooth Animation ✔Great Concept ✔Doesn't drain battery. This is what i've been looking for! I really like it! Great job guys! 👍😁
+Great app but have some issues with Samsung fingertips,  after some time it forces you type the password
+I loved this app. It has good features for notifications and music. But add pin lock system for privacy and saftyness.
+Its a nice app good minimalistic and all but there is virtually no way to uninstall this price of crap. Fix this and I ll give 5
+Sometimes softlocks my phone and I have to do a battery pull to fix it :/ other wise it's an amazing app
+Whenever i use this app,in a day screen flashes sometime when i recieve any notification. I want to use this app so please fix it.
+Awesome app, I highly recommend this to anyone. I wish though it ran a little smoother in so areas, but since this app is a kickstarter app, its forgivable.
+The day I figured out you could place widgets on the lockscreen was the day I chose ac display and never looked back.
+I love the app I don't know why it has stopped showing notifications please fix it I because the app has started crashing a lot
+It is good app but still in beta updates and requires other  features too..! Developer's plz respond to the reviews
+Has a very simple, proffesional looking design and userfriendly navigation. Should be the default lockscreen on any smartphone.
+I want to see this App as a real Lockscreen replacement 👍
+Now after the update the digital clock doesnt work anymore. Fix it please
+Cần cập nhật cho màn hình luôn sáng và có khung tròn khi thông báo
+Please make it no time off to changes between clock and notification. And make it clock moves is more great. Thank u
+My alarms and tts notifications do not sound while screen is locked. Running LG G3 Lollipop
+Why the hell the app is not working after giving all necessary permissions on Lenovo vibe p1
+It's great, I just want to be able to change the background with something else that's not black or my homescreen
+Active display wakes the device without showing the music player if music is paying
+This needs better optimization with Spotify on the lockscreen. Then I'll give 5 stars. Otherwise, great app!
+Please add an option to add widget(s) without necessarily removing the clock widget present by default... Otherwise its awesome
+If the size of the clock and the notification can be modded to fill the screen of a tablet, this would've been really good
+The app is great with its UI and design... Size is affordable and love to unlock screen with it
+Please improve the compatibility.
+Would really like to see the option for multiple widgets or at least the clock and date displayed as well as the widget on the lock screen
+I've been looking for this app for a while. Works perfectly on my phone, simple and yet efficient
+As a lockscreen, its design is amazing but lacks security, although I could lock my apps.
+This is a great app but my one and only concern is that when playing music most of the time does not show the music widget
+perfect but it does not support fingerprint unlock..... otherwise awesome...
+I find it a bit dim on my Nexus 5. Otherwise an amazing app.
+This app is really nice, but it should have the option to change the background wallpaper to another that you want!
+Test notification completely different with the real one
+Not responsive..when I pick my phone after 5 to 10sec the time shows on screen.. Sometimes it don't..plz fix the bug..
+Will give 5 stars if lock screen protection was introduced.... But overall awesome design and functionality..
+App didn't work now I can't uninstall it!!!  WTH!
+Notifications work great, but I cannot play or skip songs with Spotify. I could with a previous version, but this needs fixed, please.
+Crashes way to much please fix
+Great app!Can you also design an app that works like the Always On Display feature of Galaxy S7?
+But eats lot of battery on S6 Marsmallow. Please fix and it'll be 5 stars again
+I wish you could bring more updates like 3rd oarty widget support in bigger size
+It would be great if I could set a wallpaper that is not the one on my homescreen.
+Its one of the nicest apps available. But the pause button of music player doesnt works . please fix that !!!
+Doesnt sync itslf with the proximity sensor,so wave to wakeup doesnt work.
+Give option of setting different colours for clock . And this is the best app I have ever use
+Plz Add Lock Screen Feature to make it perfect..  Plz.......   And give it to a scroll bar to view all the notifications.. plz.
+the apps very smooth and love the UI..it would be awesome if this apps have pincode/ password to make it secure.
+Simply the best lockscreen out there.          Best looks+ambient display works better than i expected. Great job!!!!!
+Using it with an IPS LCD panel and haven't seen too much of an effect on battery life.
+Pls include blur option for the wallpaper and option to place the clock on the upper center of the screen.
+This is the best lockscreen notification application i have ever seen . Hope to see much more 😊
+I have a moto x which uses moto display but this is a great replacement for non Motorola phones.
+I always wanted ambient dislplay like oneplus has ..This one is far better Thank you
+Please bring music widget feature to android 4.2.2 and older. Everything else is very excellent
+Customisable and looks good, but Spotify controls don't work. Could we get a fix for this, cheers.
+It's a very good app; love it but it needs a password option and it will be perfect.
+Somehow same notifications keep on shown on the screen, making it full half  of the screen. Fix this pls.
+Sometimes when I lock my phone it goes to the regular lock screen. Please fix on GS5
+It wont let me delete it i hate this app and it wont let me delete it it takes up so much storage and it wont even  let me delete  it ugh
+Rarely actually shows the dynamic background and music controller when using Google play music.
+Why does it have to match the home screen one?
+Sucks battery a lot...battery drop from 100 to 82 in one night(around 4 hour)
+widget not working for me ..it crash everytime ichoose widget..im on kitkat 4.4.2 lg..but still i donated..hope theres a fix
+I only wanted one more option to make that clock to float.
+Fix it from automatically snoozing my alarm and it would get 5-stars
+Great design and a very useful app... I kinda like the blackscreen too... So im lovin' it
+I can not control musixmatch player in lock screen. 😥😥 that's bad.  Pls fix. Please...
+Hope you guys add secured lock for this app
+Well, can you make the default clock in AcDisplay a separate widget?
+Would love to use it but i already have my moto display on X2
+Great,  but in my LCD Display it drains my battery too fast.
+Awesome app.  Works as advertised.  No spamming your phone with ads like GoLocker.  Highly recommended!
+NIce app but this messge is for admin please give many obstion of clock like s8 and s7
+Plz add an option to change clock interface..form Digital to Analog
+How about adding fingerprint lock too. That works swell I guess
+Active mode not working in Cyanogenmod 14.1, Moto x 2nd generation
+This will be the best lockscreen of all time if it will allow fingerprint activation! Please??
+Only lock screen app that supports widget. Please add more widget support.  Btw, it's perfect.
+Does an excellent job replicating the functionality of Motorola's Moto Display.
+Nycc Plzz add always on display feature
+Nem tudom törölni ezt. Nem jó semmire. How to uninstal?
+Whoud be better if i can use custom wallpapers instead of my home screen
+Can I use Zooper Widget Pro with this app
+Make more...patern lock..or another else...n fix lockscreen bug quickly
+I think bet hai lekin thodi kami hai
+Why always double notification on the lockscreen display, how to configuration..?
+Never download this app. U cant unistall afterwards
+It would not allow me to delete the app.
+Would be very useful if it also had the ability to enable ambient display.
+NO COMMENT JUST PERFECT THIS APP .
+Not in my HTC desire816g fix it plzz
+Its great but the music widget doesnt work all the time :(
+One of some app that i always using in my phones from time to time, always work like a charm
+Reduce the battery use pls
+Pls update other clock style
+Esteticamente mi piace molto
+awesome - an option for no screentimeout would be nice
+Awesum app. But plz enable it to use accelerometer so it can sense motion.
+Can't control Spotify from Lockscreen. Please fix it.
+Awesome app with minimal battery drain.
+Amazing. It works very well on Android 4.3 root. Thank you. I was very happy to donate.
+Great, clean, eye pleasing, quite light battery on amoled samsung. 5 stars
+Nice app bt i missed my moto x display
+battery drain issue
+cum îl dezinstalez? că nu merge.
+This is far better than the Samsung always on display. Such a great app.
+The motion sensing to show time & messages barely works...if ever.
+How to use it as default lockscreen?
+This is an excellent lockscreen app. Spotify music controls fixed. 5stars!
+Nyc material design simple minimalistic  bt passcode option would be good............
+The app was awsom but reduce the battery usage
+Better than stock active display on Moto g5 plus models
+No battery drain. Working well. Update with password lock
+This app same as moto g 3 glance I love this app
+Please add a way to view the alarm clock time
+Very nice app. Simple and material design.
+You have developed an awesome app...keep up the good work...!!! :)
+Best lock screen ever... Google should adopt it as default lock screen...
+Great app.... very low ram usage.. excellent
+We can add Zooper widget to cool man
+Awesome display love it ever common friends must download it
+Wont let me add custom widget
+Eating by battery in background
+Perfect for my AMOLED screen. Gives the lockscreen a unique look.
+Awesome. .. will definitely gonna recommend this to my colleagues
+Perfect but I'd like to secure my lockscreen
+Google should hire the Dev of this fantastic app!
+Make lockscreen with security then it is the best app for future
+Simply the best lockscreen app out there... Keep up the great work guys!!!
+Would like to see some security though.
+Needs a battery percentage bar or glow or something.
+Awesome app.. And it doesn't drain battery
+Please add ability to adjust display time
+Amazing. Nice and coolest design ever. Minimal to see.
+Best app for ambient display in miui.
+Love this app because this app like lollipop

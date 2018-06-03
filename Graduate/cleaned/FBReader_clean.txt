@@ -1,21 +1,25 @@
-There's an annoying bug that after switching apps and back, the last read page disappears, and even when turning pages it's skipped, so need to force close the app to fix this. Otherwise good app and will give 5 stars when this is fixed.
-There is no rtl support.... I hate tha .... It should read right to left languages like arabic and persian.... Etc..... Otherwise its good reading app.
-The most unobtrusive, and therefore the best, Android e-reading app I've yet come across. One small suggestion: tapping on a book in the library ought to open it at the last page read rather than taking you to the info screen, which you probably won't want to see more than once.
+There's an annoying bug that after switching apps and back, the last read  page disappears, and even when turning pages it's skipped, so need to force  close the app to fix this. Otherwise good app and will give 5 stars when  this is fixed.
+There is no rtl support.... I hate tha .... It should read right to left languages like arabic and persian.... Etc..... Otherwise its  good reading app.
 Apart from minor ui gripes (and they are due to modern phones lacking proper Back button), excellent. Afbee is nicest reader out there.
-I think this is an amazing app, very simple to use. The only issue I find us the dictionary. I couldn't link my other app dictionary data to this. Developers has got this challenge.
-Why can't I adjust the brightness like the waaaaaaaaaay older versions.... It's too bright even in night mode...
+The most unobtrusive, and therefore the best, Android e-reading app I've  yet come across. One small suggestion: tapping on a book in the library  ought to open it at the last page read rather than taking you to the info  screen, which you probably won't want to see more than once.
+I think this is an amazing app, very simple to use.  The only issue I find us the dictionary. I couldn't link my other app dictionary data to this. Developers has got this challenge.
+Why can't I adjust the brightness like the waaaaaaaaaay older versions....  It's too bright even in night mode...
 Has all of the things Kindle Reader lacks. I'm still using FBReader, on an HTC 10. Absolutely no problems at all.
-So far the best Epub reader I've tried. It's not perfect, but I've yet to successfully find better, so props. I'm considering buying the pro version in a near future.
-I hated this app, because I couldn't find any books I was looking for, such as Jacqueline Wilson and Jeff Kinney. All I could find were adult books. Personally, I wouldn't recommend this app to children.
+So far the best Epub reader I've tried. It's not perfect, but I've yet to  successfully find better, so props. I'm considering buying the pro version  in a near future.
+I hated this app, because I couldn't find any books I was looking for, such  as Jacqueline Wilson and Jeff Kinney. All I could find were adult books.  Personally, I wouldn't recommend this app to children.
 Very good reader I have been using for years. Bought premium version just to support development, I am pretty happy with free version, though...
+The best reader. Great simple interface. Keep up the good work
+It would be great to support google translate app as dictionary or translator
 This is a truly great, highly customizable reader. Only question I have is why the night/day button disappears and reappears from landscape mode at certain times of the day? Revised: Thanks for fixing the glitch with the night/day button. Now it's visible all the time, regardless of screen orientation and time of day.
 Was working okay. Suddenly it crashes frequently if I'm browsing or downloading in background. I use TTS plugin... suddenly it reverts to Bengali everytime it crashes or if I even open a different book. It is getting old!
 Great and reliable eBook reader. Also the developers are very responsive and my last comments were addressed within a few days! Just keep the great work!
+Supports all the popular formats and none of the DRM crap. Edit looks like one of the recent updates has broken all of my old bookmarks.  None of my old bookmarks take me to the proper place in any of my epubs. Seems some bookmarks were about 100 paragraphs off.
+regretted the idea of updating it! now I can't even search for new books on the network library anymore! very well now I can't read. so conclusion: ALWAYS CHECK LATEST REVIEWS BEFORE USERS UPDATE APP!
 Bookshelf view is a paid feature
 Bakwas chije bana rakhi hai........... Kam dhande kiya kre .....
 Needs to fix tts position bug. Something to do with bookmarks or "return to..." causing the tts plugin to snap back to an earlier page. Very annoying when you're much further on in the book. Otherwise a great app.
-The current free version won't open books from zip files. Paid version does. No warning about it and I think this is very deceptive and poor practice. I have used the app for years but will probably switch because I don't like authors that try to force you to pay by limiting key functionality
-Meizu Pro 5. Not adequate behavior when reading in PDF format. If close and open program didn't start from place where I broke my reading, it starts from help. Have to browse my files, pick up file again and find place, where I broke reading, manually. Please fix because good reading app.
+The current free version won't open books from zip files.   Paid version does.   No warning about it and I think this is very deceptive and poor practice.   I have used the app for years but will probably switch because I don't like authors that try to force you to pay by limiting key functionality
+Meizu Pro 5. Not adequate behavior when reading in PDF format. If close and open program didn't start from place where I broke my reading, it starts from help. Have to browse my files, pick up file again and find place, where I broke reading, manually.  Please fix because good reading app.
 Sufficiently proven but not that generous in format and systems. Could be more advanced to stop keeping the user obliviously knocked into the installation. If the crew of the app could remove supportive adds it could mark detailed words in detective editors.
 Fantastic app with all options I need. The only problem is with adding a dictionary. I have great dictionary and cannot use it wit FB, I hope the developers can fix this last missing bit on the way to the top reader ever.
 I rarely write app reviews, mostly because I'm lazy and ungrateful. This app is so useful, that not writing a review made me feel so bad about not showing my appreciation that I had to break the loop and do it. Install, you won't be sorry. It really only does what it's supposed to do, and it's doing it very good. Thank you FBReader crew!
@@ -24,9 +28,1052 @@ Name checks out: definitely my FavoriteBookReader. This is the e-reader that spo
 Don't be misled by the wide range of features it flaunts. It's not the best reader you'd want to download- 1. Doesn't auto detect relevant files downloaded from elsewhere. Either you use its library (which isn't all free) or open books from for manager for the first time. 2. UI is somewhat primitive-you can't see the contents in the handy slide menu. 3. It asks you to buy premium version for even basic features like bookshelf view. 4. Dictionary needs to be downloaded. 5. It's not ad-free!
 I love the navigation system, very simple and efficient, I wish the PDF plugin didn't waste space on the already small screen, but for epub files, I don't think I could find any better
 Excellent book reader. I've tried most of them, and this one is superior. Only complaint, I can seem to adjust the page margins, with or without CAR turned on.
-Still a great app but please add continuous page way to change pages like how webpages are read in a browser. The book metaphor is nice for fiction, but not so much for technical books. Also if you can find a way to identify tables in a document and omit them when using TTS would be useful. Thanks for this great app. Still using after 5 years.
+Still a great app but please add continuous page way to change pages like how webpages are read in a browser.  The book metaphor is nice for fiction, but not so much for technical books.  Also if you can find a way to identify tables in a document and omit them when using TTS would be useful.  Thanks for this great app. Still using after 5 years.
 Page flips are not animated as page flips from a book, but as page flips from a presentation; ie: the screen is treated as an entire sheet of paper and not flipped in between the columns of text.
-About as close to perfect as an app can get. Fully functional, beautiful, smooth, nothing useless or irritating or thoughtless.
+About as close to perfect as an app can get.  Fully functional, beautiful, smooth,  nothing useless or irritating or thoughtless.
 долгое время пользовался на meizu 5pro ,не мог нарадоваться.после обновления прошивки на flyme 6.8.1.16 Android 7.0 перестал работать tts.
 Does not like the extra pay to get book shelf view. If I can live without it, the reader is still ok.
 Despite everything Google thinks it lacks, I still love this app. Best book reader app out there
+I've been using this eBook reader for ages now. It's excelled in every way.
+WAIT! What's happened? I'd always loved fbreader, but now it's something strange with bookmarks. I really can't create any. It was really useful function 😞
+This is the best book reader I've used. All the features I want, without any of the annoying crap.
+Phone Model: LG-MS870 Running Android 4.0.4 Title bar, black background, unresponsive controls, menu unaccessible, no book loaded. Program becomes unresponsive after a few minutes. Update not recommended on this phone model.
+synchronization uploads every documents even those not in the defined book folder. why?
+This is one of the best book readers. But change the design of the app. It's been so long since this design.
+Puedo marcar las revistas con el programa:-)
+Very easy to read on my tablet.  Thank you!
+Still the best reader, but don't like the brown bar at bottom make page number and time almost unreadable please revert to original colour
+Idk why, it didnt show up my books from previous device stored in my sdcard
+The heck? Premium? Just a PDF Files!? Need to Upgrade Premium for what?
+I've been using fbreader since symbian and have always found it to be the most accessible and compatible e-reader. For those having difficulty getting it to find newly added books to external SD cards, I've found the best workaround is to use 'Browse file system' --&gt; 'Entire file system' --&gt; 'storage' --&gt; (the name of your external card, e.g. 'sdcard1'). Browse to the folder you added your book(s), and if you open any book in the folder, it will recognize and add all new books in the folder to your library. UPDATE 1/14/15: Application had been freezing a lot in library view/browse  with 2.2.2 update. FBreader devs had a quick turnaround with 2.2.2.1 update, which unfortunately did not fix the issue for me. Fortunately, was able to resolve the issue by  clearing all app data and uninstalling the app, then manually selecting the library, fonts and cache location in 'settings'. This may be related to how Android 5.0.1 has disabled write access to \storage\emulated\0, so I can't blame the devs for what could be a problem caused by google's persistent tinkering. If you're having issues with Android 5.0.1, it's worth trying this workaround
+Only problem (currently) is that it does not detect new books even with a rescan.  Since I didn't see a bug reporting tool on the fbreader website, here is the steps to reproduce:  1) Install FBReader 2) Add books (used calibre) 3) Add second library on expansion SD card 4) Add more books (used calibre) 5) Hit rescan 6) ??? (don't see new books)
+Works really well, and is a very customizable reading environment. I'm being picky but it would be awesome to see a material update.
+I downloaded this reader and livio dictionary based on recommendations I read somewhere. I love this reader so much! It's super on my phone. I love the customization and the capability of making the font as large as I need so I can read comfortably at night without the phone screen shining in my eyes.. I loaded an antique paper background with black text and it makes for quite easy reading. I am now reading more books because of this. Thank you! Edit: after some use..would like to highlight in my own color.
+I have never encountered a worse app for reading ebooks. Do not download at any cost
+I discovered FBReader for myself years ago on WinXP. It was good on Windows; it is as outstanding on Android. Thank you.
+IMO the best user interface of all of the reader apps out there.  Love the vertical swipe on left side of screen to increase or decrease the brightness.   Many many features including ability to connect to servers etc.
+only this app could open my mobi file, all the other apps failed.
+Nexus 7 (2012), added PDF and Djvu plugins. Started Djvu book, first time was OK, next time the app hang on with the black empty screen.
+Could u plz add a shelf Gui to view all book on phn for us the view
+Un reader excelent, mai sunt și altele dar asta este de ajuns pentru mine.
+The best reader ever. One of my first apps I download on my new devices. Its a must have on every device  I have' I just couldn't do without it. The PDF reader needs work, thus I use another reader to read PDF, the crop option is better there. There backlight does not go off after hours of inactivity thus if you forget to put the light off manually, the app will kill your battery. There should be an option for that as someone would not be reading the same page 13 hours later.
+Since Android 8 any button on Bluetooth headset doesn't work. It's very inconvenient. With VLC they work. Please, try to correct.
+Weird app, keeps upping the brightness outside of the Android controls and can't get to any settings. Did open a PDF, but can't stand the interface.
+Book rendering is superb, UI simple and efficient. There is however an annoying bug that prevents me from giving more stars! It constantly uses CPU, even after I switch away from it, and I see two FBReader threads/processes constantly hogging my two cores. I finish reading sessions by switching to FBR's app properties and Force Closing it, else my battery would last considerably shorter! Of course that also means FBR reading sessions can't last too long without recharging....
+An excellent product with a fast acting and effective software  team
+You gotta fix that tap to get settings panel to come out. Sometimes I tapped *and usually flipped around 20 pages of my book before getting that setting panel. So annoying.
+Fussy and bizarre set up, whats up with 'find books' rather than forcing a decision to choose a folder where the books will be? Books can be everywhere on a device. First option in settings was open library, ta dah...its a premium feature! Ok now you can kiss my time wasted arse.
+I have a problem searching for titles and authors from the library. It doesn't find all the results,and sometimes doesn't even display anything.
+I like most the app but how I can use my own font it is not support Tibetan font as default.....please tell me.....
+Can not find books on my hard drive.  Does this ap actually work at all?
+I only use it to read and it doesn't interpret caliber 64 conversions very well changes from left margin alignment to center.
+Best book reader. Supports most everything but .lit. Clean interface, super easy page turning and book choice/history page.
+Latest update has made FBR crash and freeze my whole phone to lock up.
+I read a lot and FBReader doesn't let me down. I especially like the feature that lets me sync up to my Calibre ebook manager on my pc. I have used this app on the Motorola Droid Razr M and Droid Turbo. I like that it has many customizable features and plugin extensibility. It works with every book format I've thrown at it.
+We need to buy it to open PDF 🤔
+After trying a number of different reader apps, I went with fbreader. It offers a good amount of customization, without making things overly complex for a new user. I also like the fact that it supports plugins for added functionality. All in all, a very good app.
+As good as it gets. Been using it since gingerbread days and never has it given a cause for any complaints. Keep up the good stuff. Thank you.
+Très bonne application,  après en avoir essayé plusieurs cette liseuse est de loin la meilleure.
+No night or font option.
+I am quite satisfied with the reader. I frequently use translation options and check how the words are pronounced (since English is not my mother tongue). However, the word pronunciation function does not work anymore ("Error" text is displayed). Could you please fix this issue? Thank you in advance.
+Handles any format and the text-to-speech plug in works well for commuting. TTS occasionally hangs up, so not perfect, but still best out there.
+You can easily see why it is a free app. No effort was put into making it.
+Some of the features are best as compare to all other readers available in the market. But it will be good if you these features also. After that i will be able t.o use the app. 1 brightness control feature is missing. By default it runs on full brightness. 2. Text size and other formating feature ahould be on home screen (for example. Aldiko). Apart from these basic features, it is best app. Please focus on basic features. After that advance features.
+Very easy to use reader.  Needs a couple of tweaks to earn 5 stars.  First add bookmarks.  Other readers have them why don't you?  Second editing book info needs to be able to access "series" and " number in series" fields.  You gave the ability to lookup by series, but several of the books I have downloaded have a missing or misspelled series names.
+Waste of time and resource as it asks you to upgarde to premium to read offline. There are other better in market free of cost
+The best ereader app for Android. This free version is still better than Premium. I donated mostly to show my appreciation, but I'm back to using free because the UI is better designed and I can live fine without Bookshelf view.
+It does nothing! This program has no functionality, all it does is tell you that "function X is only available in the premium version". This includes the bookshelf and opening the book files (!!!). If this crippleware is supposed to convince me of how great the full version is, well it failed spectacularly!
+Does not open anything (doesn't even see the majority of the e-book files) and asks you to buy premium version for bookshelf view (which many good reader apps provide by default for free)
+The best reader app, and I've tried a lot. I can use tags, I just hope it will be possible to backup the tags also in the future
+best reader I've ever used, which supports variety of formats. I started using FB since A1200 nearly 10 years ago, this app stays simple and useful. Great app.
+Poor UI, library fuction doesn't work, pain to access books.
+Seriously my favorite! I installed on all my devices and all worked well. And it's also very easy to use. Thinking on upgrading to premium version tho👌👌
+Easily the most practical Epub reader in the app store. Compatible with almost every android version. Ha've been my loyal companion though out the years and pages.
+please bring back the Content button, many thanks!!
+Use it almost every day, great app.  Unfortunately paid version is a touch too much for what it unlocks.  Maybe a dictionary function?
+Black background, dark green font = excellent. One can also install dictionary support.
+The only ebook reader you should use
+This reader is meh. It gets the job done, I guess..was a pain to have to specify the file path to the book I wanted to read every time I wanted to read it. But it works, if you can figure it out. I prefer aldiko though it's much more convenient & easy to use..Just my humble opinion.
+I love how I can change the brightness by swiping the left side of the screen. Great font and spacing controls compared to the others. I haven't tried the sync but am looking forward to it.
+It is great way to read thanks so muc h for making this book
+Excellent app that I first used on a Psion 5. It been good and useful on so many platforms, real privilege to use - thanks! Oh BTW please make a good win 8 metro app version too please!!
+i had a couple of the big name paid reader apps...  i dumped them for this one and never looked back...  never regretted it, neither...  all the features, none of the crap...  light, fast & functional...
+An elegant reader. It has nice rendering. It's is stable it, and has not crashed on me yet. I use and like the voice plugin. I use the ability to highlight and bookmark text for proofreading, but wish I could save my own comment about it. Thank you.
+I have been using FBReader since Android 3. This has been the best eBook reader all through the years. Great functionality, great stability, great performance. Never crashed once or lost where I was in the book. Read so many books on here, now FBReader is the only way I read novels. I recommend this to everyone looking for an eBook reader, other apps just don't compare. Try it yourself.
+Works well is easy to use and doesn't use up a lot of  storage space.
+New review 1/28/15 After updating to the new version I thought I had a problem with pages getting cut off. Turns out I just needed to turn from landscape to portrait.  In the time it took me to figure that out, I heard back from the developer asking for a screenshot. I repeat - great service. I also love the synchronization of my books between devices!- Old review - I had an issue with fonts. Emailed dev on Saturday night. Had an answer by 1:30 Sunday morning. Solved my problem. This is my favorite reader but the customer service puts it over the top.
+It's plainly an excellent no bloat book reader.
+I've been using this reader long before it debuted on android.  always had the best customization and the best support for various file formats. And it's open source!
+Epub images work great with books i have created with calibre and ones i have generated myself. The app has worked really good for me.
+I've been using fbreader for about 6 months. It could do with better documentation, but otherwise it really works well.   I'm a big fan of the brightness control for night reading and the dictionary lookups.
+Reads Russian, English.  Good options.  Works on Toshiba Thrive, Galaxy SII T989, Moto G 2nd gen. Glad this app exists.  Thanks.
+Been using this app for a year or so and its super stable and super reliable. Great work guys!
+Is my default program for .epub files, and a must have on everyone of my devices.
+Best light ebook reader
+No frills eReader . As a good backup eReader, when I am Not Using, the Kindle, Nook, OverDrive app or My Most Favorite Moon+ Pro eReading application, I Like to use a different eReading app, for I read about 5 eBooks at the same time during the two to three week period...
+Great visuals and usability. Works as a great pdf reader too. Only disadvantage is that does not recognise pdf passwords (which is how I prefer my files to be). So unfortunately that's a big issue for me.
+The reader is nice enough, but the odps support blows. In fact, the reader cannot even access fbreader's own network library site, even though it is part of the application's system. FBreader should spend some effort on the foundation of the app rather than the flashy self-promotion.
+There is a problem in Arabic word text in epub books and all books text  allignment are not in the proper way ,The rtl is from left to right instead  of right to lift. please fix this problem.
+Fbreader now does a much better job preserving the book's formatting, meaning it displays the book as intended. This puts it way over Moon+ and a ton of other readers on the store. It also has the best TTS function implementation with an add on . Terrific.
+I just wish I could organize my books in custom series. Otherwise it's a very good program.
+Excellent book reader,  easy to navigate and use. I had a problem with one of its updates, I received help to correct the issue very promptly. Would recommend to anyone!
+Does what it says on the box with a minimum of fuss. TTS works well too.
+Simply the best eBook reader on android. And now it syncs too, which works seamlessly. Beautiful app. Highly recommended.
+By far the best. Keep up the good work! Please add txt support. Desire HD. Also noticed tapping not turning pages bug at times.  Upd: Add ability to work in critical power saving mode (Samsung S7) , please. Still love you.  Oh, and btw, the network lib saved my collection when I lost my phone. Needs a bit more work imo (other netlibs don't sync unless the book is local)
+Pros: In many ways an excellent app. Text re-sizing is simple and flexible. Absolutely miles ahead of my Kindle; allows me to flexibly read all my content.  Long live open-source! Cons: Not intuitive. Saves things in odd places. Complex to configure for dictionaries or extensions. Odd bugs, such as all PDFs you ever view are auto-added and then it bugs you forever about the "missing book" which was just a PDF you once had attached to an email. I love it, however. Keep going!
+Allows the screen to go to sleep. I keep my screen set for 30 seconds normally, but with this app I have to go into settings to change it to a minute just to be able to finish a page without constantly keeping a finger on the screen. Pretty annoying. Otherwise, it's alright.
+A great reader, but the search option is useless.  Also, when browsing a category (eg: science fiction) & you download a book, you are taken right back to the network library root, instead of where you just were! Not rocket science, so just fix it!
+Till today I was quite pleased with this app, but after update it stopped working on my ONE one X with android version 6.0.1. So I'm abandoning this ship...
+After I updated to android Oreo, the app is really slow. When I want to turn the page, it will only turn after 1-3 seconds. The same thing happens if I want to open the Settings or do anything really. Please fix this?
+Usable.  But no themes and font families won't work. Authors don't know that books should be read in serif fonts ONLY!  Sanserifs lower the reading speed.  Cool reader and Read Era are better.
+Very good eReader, limited by its inability to link with alternative dictionaries & translators. Would rate 5 stars with greater flexibility & choice.
+Do not "upgrade" to 2.8.4; it adds a non-dismissable nag button for the paid version, placed next to the Library link to maximize the chances of being hit inadvertently.
+This is by far the best app for reading I've ever used. I am a big reader, have tried near every Android app out there for this purpose and not only does this do every other facet of any of those apps better than they do, but it also is the only app which supports the sorting method of just adding files to folders named for each topic  ex: " psychology"  and sorts them directly in an attractive interface. This was my selling point because it allows easy navigation of large libraries (1000 plus documents) as easily as it is for a 10 book library. This is the reason I am buying premium. Thank you for am excellent app
+Try use it during night time. Even screen is dimmed to minimum as soon as you start reading screen goes really bright and there is nothing you can do.
+Good reader, only complaint is the  "Buy Me!!1!" nag screen shows up a bit too often.
+Garbage. Poor optimization and customization selections.
+Dictionary options are limited. Sending quote does not include book title. 😑 Can't use other dict. Tools. Directory scan rarely works even though pointing scanner at Target folder. TTS plug in does not work either :(
+It reads all book formats. It has quick light options. This two I use most of the time so it fits me perfectly.
+A fitting name. The best book reader I've ever had is Samsung tab's built in and I can't have that in my phone. This one's a most favorite alternative.
+Could not get it to sync with any of my already installed ready material.
+I rated your redesign as 1 star, just found out I can return it to the previous style. So I fixed my rating.
+Dunno what happened, but after using it fine for months/years i accidentally updated it to the newest version on my up-to-date Xperia X and now it refuses to launch
+Good enough to read lots of formats, but purposefully horrible interface to incite you to purchase premium version.
+keep crushing every few seconds after the latest update!
+It was not able to find  and add to library a single book from my phone. Unbearable
+Not associated with PRC files, I cannot open them from the file explorer.
+Can't read in even moderate sunlight. Horrible.
+I've read about 30-40 books with FB Reader and I will confirm that it is by far one of the best book readers available.
+Too much fuss and auto-overrides better quality design already part of professional ebooks.
+Great app, just one problem, can't seem to change font size on my epubs.
+Best reading app eva !
+Just awesome. Best from ever. I can crop and set zoom for fit page with pdf format. Unbelievable!
+Good old reader. The best page cropping option.
+It needs an option to turn off after some minutes of inactivity.
+This is as close to perfect as you could hope for. The ability to add catalogs is awesome!
+Word selection is not working while reading PDF....
+Really good. Is there a way to make voice plugin work with pdf?
+Love this app and previously use it on my tablet. Now download it to my phone.. Never failed to open my ebook, and very easy to use...
+Best user interface and responsive book management 8n the category
+I would like to be easier to change from one book to another
+I love everything about this app. Sleek and intuitive.
+Very useful application for pdf document
+Great reader never had a problem I usually read in epub or fb2 on my droid maxx
+What a beautiful book reader aught to be. Makes you feel as if you're in one of those lovely, musty, old book shops which don't exist anymore.
+I can't setup the brightness inside the app. It's always set at maximum which is bothering my eyes
+I've been using FBReader for many years. It's my favorite epub reader. I was really impressed when it managed to open a whole wuxia series crammed into a single epub file. Wuxia can have over a thousand chapters. I love the quick brightness control, the fast page-to-page navigation (I abandoned a fancy reader because it couldn't change pages fast enough) and the optional TTS. Kudos to the developers!
+I'm giving this app bookreader an extra star for including it in the Android systems app backup api's which is seriously useful when you purchase a new phone and want to restore your apps many developers are too lazy to connect
+Absolute best book reader but NEEDS export/import settings option
+Please release a native x86 and x86_x64 app for Intel-powered Android devices.
+Need an option to customize how many history should be keep in "Recent". I read alot of tiny file size .txt file and not everything need add favourite list, so, should we need an option to custom it? Decreae or Increase recently book history is needed, hope dev do it on next update, this app so great, love it right from the first time ★★★★★
+I have tried many electronic book reader apps. I love that this is open source and that it can handle so many formats (I primarily read epubs). The interface however is not always super intuitive; on the other hand, none of the others really are either. First thing I do is replace the background image and tweak the display settings. After this, I can happily concentrate on my books.
+Last update app does not work, I will try to start but app closes.
+I've been using the app longer than android has existed.  It lets me read with the font I want, using the full screen without excess margins.
+It is the only ebook reader on play store that could display the non latin fonts. I like it but there is one suggestion. If you could add a bookshelf like other ebook reader then it will truly be a complete package. Hope i will see it in your next update!!! Thanks for your good work!
+This is absolutely the best ereader / library app ever used. Very easy to use, just locate your books folder in storage and they all update in library list. Not the prettiest without thumbnails (optional purchase I believe, I should go get that now) I must admit though I'm not just an occasional book reader. I like to constantly expand my collection and I keep up by using the TTS (text to speech) plugin so I can listen to ebooks while exercising or out and about. I cannot recommend it enough and there are a lot of other great plugins as well if you need any other features added.
+This used to be my go to ebook reader but I tested the others on the market and picked another one. The main reason being that it really messes up text. It breaks up words for example and puts them on the next line, which other readers doesn't do when testing with the same file. It is a good reader otherwise but needs to be updated as it feels dated.
+I've been using this app for quite some times, so far i was satisfied. but recently I've got my hands on some files which is completely uncustomizable, the font was so small and i cannot change the size. but fortunately, or not, when i tried another app the font size can be changed just fine.
+This is one of my favourite app for epub format e books. Light software with loads of options for customization . a must download for book fans out there.
+Very intrusive and everything is far too dark for me to read.  'Help' suggested a system for brightening, but it dies not work.
+Good, but not all there yet. But still a 4 star app that is worth checking out  Positives + It's fast + Simple to use + Scanning and detecting is lightning quick + Some nifty features + Bookshelf view is brilliant  Negatives - Page turn is bright white even in dark mode - Scanning skipped some media and took 4 attempts to pick up all 100+ books on my device - Despite covers being visible in other readers, some of the covers were not being displayed - Sorting by Author doesn't seem to use the author sort value,but rather the Author Name - which is annoying when you have to look books up by 1st names  Suggestions # More search fields other than author and title # Ability to group books together by author, series, genre etc (preferably in sub folders) # Improve consistency in the UI. Bring it up to date with material guidelines. # List view with selectable columns of metadata # Ability to save views, groups and filters # Goodreads integration
+It's a good app for reading e-books in my mobile. I hope you can have a thumbnail size setting for the bookshelf to make it more easier to browse books because it's hard if you have 150 ebooks on your phone
+I was able to do text to speech and now it doesn't work. Can't see even the option
+Can't get app permission to access books and I paid for this damn thing
+I was not able to use TTS software in this . Please tell me how to do it
+there is no way to change the brightness, this is the only negative aspect of the app
+This is probably the best book reader app in the store. I especially love the minimalist, clean design and the user-friendly interface/settings.
+I love this app. Make it easier for me to read my book whenever wherever I like..😊
+wait, is closing the book a premium feature?
+Can't flip to the next page when in landscape mode.
+I could not find the book I wanted but it was simple and easy to use
+Easy to use, simple, light, been using since my first Android phone.
+it's the best e-book reader app i found
+Simple and perfect, FBreader is THE eReader.
+Easy to use , good app for epubs
+It's that good. Thank you developers. Trust me, if you tried to find a reader but every single one you downloaded sucked, this is for you. You will have to download pdf plugin and customize the settings though, but after that, it's perfect.
+FB Reader provides a clear clutter free reading screen. The library organiser gives you at a glance review of where you have progressed in the books or documents you are reading. No need to dogear a page, you reopen where you left off. Good for me.
+Like the app. Makes reading enjoyable, especially during traffic jam or at nite. Adjustable backlight an font sizes
+App is good yesterday i purchase this app price is 18 rs my 51 rs was debited from acc and massage was payment unsuccessful pls return my payment or active to premium
+This is the reader I use for my phone and my computer. It's good I like it. Although I would like the bookshelve view on the app not separated with a widget.
+A bookworm's dream app... Just load an epub and u r good to go... Easy to scroll pages, night vision is gr8 for night owls like myself, screen orientation settings are an added bonus!
+Making annotations are clumsy and it is not possible to export them in bulk. No dropbox integration.
+best pdf reader.  some of their features like wallpaper actually make it easier and more comfortable to read.  be sure to install the pdf plugin.   well designed and very customizable
+Ótimo  para leitura de epubs
+Absolutely love it! Arguably the best reading app..
+Great for most formats EXCEPT Pdf, pdf plug in sucks! Would love it if the home page looked different, it's an aesthetic thing. Shouldn't need a plug-in to get a bookshelf view, its standard in all book readers. Change that and it will be perfect. Although... every so often the pages turn and things start highlighting on their own, but maybe that's just cause I'm reading Stephen King.  🙃
+I very much like the older version of this reader (1.9.4--5 stars).  Works like a charm on my Moto X Pure but not the LG G4 (both running Marshmallow--go figure).  Not so fond of the current version, which I find considerably less user friendly & needlessly more complicated.  (3 if I am feeling generous).
+It used to be my favorite.  Now I have constant problem with cynchronization. Please fix it!  Thank you! Simply the best reading app. All formats what else can you need. Love the night feature and brightness adjustment on the screen.
+I downloaded an app which tells me I need to download another app to see my books. And yet another app to use the dictionary. Too much work.
+Honest, if I could only take one app to a desert island (and all my ebooks and a charger, and a source of electricity...) it would be this one. Is the most reliable and customizable one around. The automatic upload of my library to Google Drive is a great feature
+All I wanted was a simple ebook reader and this is it! Please keep it simple! Don't flood it with redundant "features."
+Me gustaría comprar la versión más completa pero no permite tarjetas débito ni otras crédito que no sean visa o master, ¿cuándo arreglan esto?
+Good for Word documents. PDF reader no good as it doesn't wrap the text to the magnification selected.
+Pdf reader is so so..Has become more unstable lately.. Blinks, closes.. Interface is inconvenient
+Great ebook reader, the best I have found so far!  But since Google Translate has "tap to translate" now, how about integrating proper Google Translate support into the free version? 😉
+This is the best app to read pdf, even better than adobe reader. The crop page option is great so all the books can be adjusted to your screen. Thanks
+in v2.7.9, app wrongly claims book doesn't exist and offers to search for a download whenever I open a book
+Cool app with easy interface and cloud syncs
+I thought Kindle would blow away an ebook reader I never heard of. But one of the reviews got me curious. Wow! It's what I've been looking for. Way more compatible than Kindle. All kinds of formats. You can store books on the SD card. With very little internal storage that's huge. Give it a chance, you'll be glad you did.
+Found it irritating being a free user. If you r going to spend money for premium then it might be a decent option. But lots of other apps are providing the same features for free even without ads, so this app doesn't make any sence
+Please, add time specific option about screen brightness. Time interval for night mode and daylight for the rest of time, for example. It is very uncomfortable after minimal brightness on led screen at night, launch fbreader on daylights and see almost black screen...
+Highly customizable without being cluttered. I am very picky regarding the visual quality of the text. This app produces beautifully spaced text, the type that don't hurt your eyes. Recommended.
+Opened the app to find an advert where the book should be and the book gone from my device. I don't know how you deleted the book, but fu.
+I was using moonreader, but some of my epub collections where unable to read with it, so i try this fbreader and it just working to read all my collections, So its free and better than a paid one.
+Good application, but I can't get it to store downloads on my SD card, it keeps filling up my internal me,more. When I try to select the SD card for storing files, it shows it as LOCKED. Is this available in the paid version?
+Very great application. I just want an automatic search button that will search all my ebooks and place in the library. It will be great if that is done. Really great Application.
+The first ebook reader i tested on android. Haven't felt the need to try any others.
+Best of the best free book reader installed on work phone free home phone purchased cannot see myself without this app :)
+just as bad as all other reading apps... can't even read the book I downloaded cause apparently I can't read online
+Cant use it without an internet connection wont open a book stored on your device utterly worthless crap
+Download a book. Read a book. Rinse and repeat. Works for me.
+Works really well. I use FBReader for PDF's and epub's. I especially like the control on screen brightness and the clock/battery info displayed.
+Formats great for epub. Can scroll with volume keys. Night display. Can find files on SD. Galaxy 6S.
+It can not change font size for Write to left languages.  For example Persian or Arabic.
+Till this moment best one. I just started to use it. Thx
+App remembers position for all books, so yiu can read 10 books same time, but what i really miss, is listing "books you have red/books you haven't. Очень не хватает сортировки по прочитанные/не прочитанные. Когда много подпапок очень неудобно открывать книку и потом обратно лезть в папки.
+Best of the best. I'd like to donate, but I do not need full version.
+Won't select and when intro the app freezes
+Please add vertical scroll
+Best reader on the play store
+My fiance tried to get me to use this with my first Android phone, but I was too lazy. I finally put it on my first tablet, and was in love. It was le créme de le crème for several years.   Unfortunately, that's no longer true. It can't find some folders - hence missing the books in them - which ruins the whole bloody point! It also tends to crash incessantly while reading PDFs, even with the needed add-on. Thoroughly annoying.   I still recommend it for first-time users, but I'm looking for something new myself.
+Unable to change or set code page which makes reading in some languages impossible.
+Favorite and the best epub reader in playstore, thx guys
+My favourite book reading app. Most flexible and without pushy book buying prompts like Kobo and Kindle.
+Good app 4 read! I love it! Thanx devs ;)
+Pretty handsome, convenient for me ,love this app
+The application is very discomfort for Reading PDF files. Position bar just remains aligned to bottom screen even after selecting the position.
+Ok, every time I was like: get a new phone, first thing to do is to install FB Reader.
+Все нравилось, но вдруг слетело. Пытался переустановить, ничего не изменилось пишет:   Package:org.geometerplus.fbreader.plugin.pdf Model:m3 note Device:m3note Product:m3note Manufacturer:Meizu Version:5.1 java.lang.NullPointerException: Attempt to invoke virtual method 'long org.geometerplus.fbreader.book.Book.getId()' on a null object reference  at org.geometerplus.fbreader.book.Bookmark.(Unknown Source)  at org.geometerplus.fbreader.plugin.base.al.b(Unknown Source)  at org.fbreader.reader.b.a(Unknown Source)  at org.fbreader.reader.a.a(Unknown Source)  at org.fbreader.reader.a.x.onItemClick(Unknown Source)  at android.widget.AdapterView.performItemClick(AdapterView.java:310)  at android.widget.AbsListView.performItemClick(AbsListView.java:1263)  at android.widget.AbsListView$PerformClick.run(AbsListView.java:3377)  at android.widget.AbsListView$3.run(AbsListView.java:4340)  at android.os.Handler.handleCallback(Handler.java:815)  at android.os.Handler.dispatchMessage(Handler.java:104)  at android.os.Looper.loop(Looper.java:194)  at android.app.ActivityThread.main(ActivityThread.java:5834)  at java.lang.reflect.Method.invoke(Native Method)  at java.lang.reflect.Method.invoke(Method.java:372)  at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1119)  at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:885)
+I like the app and it would be good if its possible to copy and make pdf of bookmarks and also sometime if bookmark some sentence it does.nt highlight colour and i have to go to bookmark in setting to check whether that sentence was bookmarked
+Works well, with convenient access to free ebook libraries. Requires almost no permissions. Dev fixed a bug I had (or caused) very quickly. Thanks!
+It was perfect but since the last update it won't start anymore
+Its a really good easy to use app
+Perfect ebook reader for android so far.
+The best book reader. And it's Free Software!
+The other e-reader app never bothered with a bookmark so I installed this instead. This also shows the colour book covers for epub formats. Bravo! ...Needs to be able to access books in ext SD.
+First week on android and I've tried multiple apps to switch from iReader - FBReader is so far the best. I can organize my library on my SD card, add tags, edit book titles, control the screen brightness... awesome! One thing I am missing is to be able to add bookmarks quickly  (e.g. quick tap on the top right corner) instead of going to menu, add bookmarks, add new bookmark. Just a tad annoying. Overall, I love this app so far and will be more than happy to get the full version, to support the team, but will give the free version a spin for another few weeks.
+Probably the best such app on the store and, here I speak with complete certainty, my favorite app. Though, there is one problem. I can't access books on my SD card. I don't know why. I just changed my card and moved all the books from my old card to the new one. I know the books are there because when i move them from the card to the phone I can access them, but when I put them back in the card I just can't access them. Otherwise it's a great app!
+I used to read on the Kindle app, but sometimes got annoyed due to it not reading some formats. I found this one about 3 years ago and haven't had a single issue. I LOVE it.
+Let's you read books, giving good enough customisability. Since updating to Android Marshmallow, it doesn't seem to be able to write to the external sd card though.
+Unilke Google products, fbreader doesn't ask for more access to your hardware and environment with every update.  It just lets you read your files, period, it doesn't answer your phone or send email.  The only ads it's ever shown me were for the enhanced version.  GREAT APP!
+I have not really got into arranging everything carefully in the book shelves. I just navigate to a folder yo read what i want at the moment.
+Very good reader, but with 1 minor issues.  When browsing folder tree,It does not support Google drive. As A result I have to  download the file to my device first for certain format.
+Far and away the best free ebook reader I have ever used, bar none. So good that I just now laid the money down and upgraded to the premium version!
+I can't access the storage on my phone, only the sd card. My books are downloaded right onto the phone and I can't access any of them. Is there a way to grant the permission to access them?
+It's a perfect app that helps to read any kind  of PDF , books and all . Thanks n add some more interesting features !
+I used it for a couple of months but had constant problems with finding an off-line dictionary that would work with it smoothly.
+Easy to read and user friendly.             I think this is the best book reading app ever created
+cannot save books to external sd card.
+What's not to like?  I've been using it for free 2 years now, time for me to buy/donate
+I strongly recommend this app for bookworms. Use this and I am pretty sure you will love it's cool features.
+Selecting a word.. It is selecting more lines.. Not like other app. Need improvement. Rest are ok
+Where are these offline dictionary mentioned in the description? Is it only for premium version??
+The best reading app I have seen. Keep it up guys
+Perpetual request to have Google account access
+Is there a way to enable enless scrolling? Or enless scrolling for each chapter at least.
+The only reader I think worthy  of being  closest to a real book
+I endorse this app. +++Twitter+++ @Countfd
+This app is very grateful,suitable  and sight comfort for reading
+Best reader! Thank you, more power :)
+Best book reader 4 android
+Nice free reader.  I like being able to search books using a word term. Suggestions: More menu options like, Do NOT open the last book read when using the app next time because it takes years to load it and I want to read something else. Or easier way to always get to settings or your library of books in one click.
+The app is very good and helped me to read my favourite book.And if i open the app 1 month later it opens exact the same as i left. Just improve one thing when i tap on screen to awake sceeen light.it changes the page to next it is irritating.
+Very good reader. But I have a performance issue with it: after reading several days 800 pages mobi file (20 minutes a day) the app becomes sluggish - interface is slow and pages are scrolled with noticeable delay. Workaround is to remove the app in task manager and start again. My phone is Oneplus 3 (6GB of ram)
+It does everything you would expect from an ebook reader, and then some!  I haven't even needed to install any of the plugins yet.. It's better than the rest and there aren't any intrusive ads.
+ex-Kindle user tired of being unable to flag unread books (collections keep breaking!). FBReader seems great (tags allows reliable flagging  unread books), and (unlike Kindle) allows book details editing. Some suggestions to make it EVEN BETTER: --- 1) Make tapping of Trash ICON less precise (in tags, tapping very close gets treated as Edit not Delete). --- 2) Add button to clear ALL tags from a book in one go. --- 3) Allow MULTI-selection of books, so that updates (e.g. to tags, author, etc) can be made in a SINGLE operation. ---  4) Within an opened "By / Books sorted by" subset, allow SORTING by another attribute. --- 5) After editing book details, return to the SAME list position not start. --- 6) Allow edit/delete of ANNOTATIONS. ---7) Make VISUAL difference between Read and Unread greater (read = fainter, different colour). --- 8) Allow "By" listing by Read/Unread STATUS. --- 9) Provide button for easy SWAPPING of Author and Title. --- 10) Make SETTINGS easier to find (left hamburger menu, not just right 3-dots menu when reading). --- 11) Allow stretch/pinch to RE-SIZE font. -- 12) Add button to SPLIT ; or , separated values (in Authors, Tags) to separate entries.
+Customize and make it look the way you would want to; while Gbooks and Kindle works out of the box brilliant. Many other flaws a normal individual definitely hate it for, like dictionary thing. However it is Perfect for open source freaks.
+I love this reader. Have purchased it. The paid version won't update on the tablet but it is on the phone. That bits baffling but honestly still don't regret buying!
+Only reader that allowed me to import my own books from SD card AND displayed the punctuation characters properly!!  Very nice looking when customized with a  black background.
+There are many better apps for reading than this. Too bad I can't rate it a big fat ZERO !!!
+Decent e-reader, but it keeps jumping me to the start of the book. Going to have to look into another app, this is unacceptable.
+Only books on the catalog are gross romances, plus it's chock full of third party ads when you pay for premium. In my opinion, Overdrive is good if you want ebooks without having to download them.
+its ok. the gui is not very polished but its ok. it doesnt have an option to extend the screen timeout (only always on)
+best ebook reader. out there. v 2.7.8 fixed all my issues even though they were minor. GREAT JOB.
+The app is great. But the PDF plugin needs a lot of work to make reading PDF books smooth.
+Does what I want. It would be nice if there were an option to list page numbers corresponding to the pale page instead of the eBook page. Nevertheless, this has become my default reader.
+This app broke my reading after some pages. Then it had been asking me to share my reading to twitter.
+I get sentences divided at some points for unknown reason, which corrupts the tts experience
+Some epub files read with to many spases between sentences. When I open same file in another app , there is not such as problem.
+A reader with an easy ui, great for reading all formats. Pdf is needed as an inbuilt feature instead of a separate plug in. Overall,  great reader for all my needs
+Best app on my phone.. Including phone itself.   After trying 7-10 other e-book readers and finding multiple issues with each one, I stumbled across this one (thinking it looked so basic it was gonna be another crappy one) with nothing to lose...6 years and 7 phones later it remains my all time favorite, and most used app ever.  I use it by far more often than any other app, including the phone dialer. Every new phone I've gotten this has always been the first app to go on, and flawless syncing with FB reader and Google drive means I just have to download and sign in on new phone and everything is right in the world again.. plus I can pick up any of my multiple devices and open to same spot no matter what device I stopped on.. Can't go on enough about how much i love this reader.. bought the premium version not because the free one was lacking.. Honestly if I never even open the premium version and kept using the free one it will be worth the price after the years of enjoyment from free one.. Really just buying it to thank developers. Couple of small changes might make it PERFECT (really I'm nit picking here) 1. Auto scroll would be awesome for people like me who need larger font so we don't need to turn page every 3 servings 2. Pinch to adjust font size (for same reason) 3. Bookmarking could be made easier with dedicated space in corner... And that's all I can think of that isn't perfect
+Can you please tweak the night mode to somewhat like that in adobe reader. It is much cooler to eyes and looks more simple and elegant!).
+Bullshit, can't open pdf-file
+What happened to the reading mode? Can't find it anymore. That was the only reason I liked the app.
+It synchronizes with Google Drive and it's server. Love the customization features
+needed to download pdf plugin
+Calibre, colordict, etc. nicely integrated. Handling very intuitive. Brightness change very easy.
+5-star reader, but the search feature has been broken for months, very annoying.
+I love the books I can read on this app by using an sdcard.
+When I flip pages, there is a delay and it kinda sucks. I also got confused because of the swipe adjust for brightness. It is usable of course but not as smooth as I wanted it to be
+feature rich, simple to use - well done
+The app is wonderful except for one thing. I would like pinch to zoom in/ zoom out capability. I like the text small when I read at home but I need it much bigger when I'm in the car or on the train. Zoning text as it is now takes forever so I keep my text between both preferences. It's a work around.
+I've been looking for a way to get my apps read to me while the screen is off and there is no internet connection. This free app facilitates that need and also syncs across  other devices that have this app installed. Love it!
+I am so very happy with this reader, and won't ever use another! *Sidenote* In the latest update I've found a bug - the screen dims after a while, even if switched to 'always on'. . . Otherwise, perfect! 👌
+When I looked for an ereader to install on my ASUS Phonepad this was the first app which I tried and since then I didn't try anything else. I installed it on my PC as well. What I like about it is its easy to use interface and the fact that it recognized all my e-books. At first I was unhappy that I couldn't read my PDF books in it, but then I installed the PDF plug-in and now I use this app for all my books.
+You wish. Customisable features are limited compared to ebook reader like Moonreader. On top of the interface is just terrible with the shelf design being a nuisance to navigate. Would not recommend it over Moondreader.
+Love the app, but the library shows the book title base on metadata, not the by the file name, so it's not always correct for my book library. Wish there's the option in setting where I can choose show/sort book title by file name. Tks.
+Actually the app doesn't work. Always demand to install FBReader when launching (the reader has been already installed). My phone is Meizu MX4.
+Like that it supports multiple formats AND that it has a battery (and eye) friendly dark theme (night mode).
+Everything requires an additional plugin to be downloaded or premium mode to be activated. Very annoying and inconvenient to use.
+Some times the page will go back instead of forward even though I'm touching the right side of the screen
+No problems with multiple formats. Easy to use. Love the multi-sort function.
+Styles' colors? It would be very handy to take own colors for code fragments in programming-related texts. Add colors, please!
+The best free ebook reader i have used till date. Thank you.
+Can we install other types of fonts? That would make this perfect!
+Best Rob reader in the market
+Good, up to the point it doesn't load PDF files. Love this reader and it's customisability.  Unfortunately I've recently tried to read a PDF book where the application gets stuck in a loading loop when I'm about 5% of the way through. Force quit and clear cache is the only way I have of making the app usable again.
+After the recent update when you launch the book all you see is a blank screen. Need to select open menu and only then the bookmarked page can be displayed.
+It does everything every other book reading app wishes it did, plus some things they don't even know they should be doing. Calibre integration. Google account sync (applies to page in book as well as books that become downloadable).
+It's only flaw I can think of is the book adding interface - you have to load your collection one by one. Once they are on your Google account, this app offers an excellent UI that integrates with dictionaries and, with a plugin, also with TTS systems on your phone
+This app might not be as polished as the kindle app, but it is packed with more features... some of which I consider absolutely critical (like a sleep timer... so that when i fall asleep reading a book, i don't wake up in the morning with a dead battery).
+Used to be OK, had the occasional problem when the library emptied itself now have the additional problem of having a blank screen when I open the app.
+This app consumes very little energy, so the battery life is very good with it.
+Great day and night mode, useful system for annotations,  fast access to table of contents. Just 5 of 5
+This is my go to ebook reader! It's light on resources and very reliable. The only issue I have is the pdf plugin not working. It takes forever to open the document and I end up closing out the app, restarting, only for it to not work well again. Other than that, perfect.
+I don't know if this is the place to report issues, but as of the latest version the "align" tag does not appear to be recognized. Every other EPUB reader I've used can recognize and render them.
+I'm on RU1.1.124 and switching to the second screen doesn't work. Tried to use YotaMirror, but then the screen never does a full page refresh and leaves traces of previous pages.
+I've  been using it since forever and it's like, the best app of its kind, keep up the great work developers😊😊 but I've been wondering if it's also available for iOS?  Cause that'll be great. I really wanna use it on my iPhone too.
+I tried to read an Arabic book and the text was from left to right (backwards sentences). I looked through the settings and changed the applications language to Arabic to no avail.
+I love this app very much...but suddenly i m having problem..now i can't see table of contents option in menu before i can see that but not now.please fix this
+This app is just garbage. It goes to the next page without asking you for it and it selects text without any reason.
+If I change the background color from white to any other color, I can’t change it back, it just doesn’t save. I can only get something like (255, 255, 254). Fix please.
+Actually this book reader is the only software for reading .epub and .mobi files for free.it could use some improvement and also good gui.
+I still cannot download a full complete chapters of a book just a sample
+Well made. I like how it has so many custom options to fine tune it to your taste.
+I Love this app i downloaded it 'cause i needed a app to read these books and now there my favo books thanks to this app
+Now that the position save bug has been corrected, this is again the best ebook reader that I know
+Read whichever book or novel you whish to......👍👍👍👌👌
+Top reading exp. ! Only shelf missing, continue the good work.
+I've been using FBReader for almost 2 years now and it never once let me down. But there is a recent hiccup on my new phone. The page turn (curl) animation is laggy and not smooth at all. My phone is a decent one and it plays high end games like a charm so performance shouldn't be an issue. Please fix this for me or if possible let me know of any possible fix for this. Cheers.
+I hadgiven4 stars earlier for them...now uninstalling and giving a one star. Multiple useless ads and covers one quarter of the screen...irritating...very frustrating
+Perfect. One only thing's missing: a couple of paper/wood/else textured backgrounds. But it's rather a caprice than a lack of perfection. Thank you guys!!
+I was reading an epub, it crashed every time I wanted change the page from page bar. finally I removed it. for reading PDF you should add an extra plug in. it's a huge heavy app. but nice and useful UI.
+it used to be a great app, but for past couple of months i am having trouble with this app. The book i am reading with this app from phone storage will disappear and i have to re-download the book in the phone. Also with every update this will keep happening
+I'm having trouble reading the books, only the samples are downloaded every time I try. Could I please get help on how to use the app?
+What a waste of time and space! This app is a useless joke. You can't do anything on it at all. Uninstalling.
+this is my first time reading ebooks, i still prefer physical books but this app gets the job done -- it lets me read in peace. No complaints
+The app is great for mobi or epub formats,but for cbz,cbr or pdf you need to zoom and then the scrolling feels awkward,also it doesn't load the book properly,which is a shame in an otherwise brilliant app
+Is it supposed to take 20 seconds for a 43MB epub file to load?
+Everything lags. From page turning to opening the menu. Getting worse.
+Fait ce qu'il faut, joli, agréable à l'usage. Mais je suis à la recherche de programmes plus simples et plus légers, dans ce cas, juste un afficheur. Bonne journée!
+Keep dping good work guys..  Just add .mobi support
+Very complete app with a wide range of customisation.
+Awesome reader plus great night mode
+I've used FB Reader for a couple years now. It's a great app. I use it in read aloud mode. Works great. The only thing it needs is Drop Box access. I will raise my rating up to 5 stars once they add Drop Box.
+Reads epub,mobi,PDF (with plugin) without any weird hiccups. No ads. Looks good with enough customisations to make e-reading comfortable. Edit- there's ads now
+At last I can access my SD card. My other readers lost that on latest android version. But it will not open lit files. Is this a bug or not supported?
+I love this app, but it is no longer allowing me to download public domain books through it. Why is that? Please fix!!
+I cannot find out how to show original page numbers (many epub books have these numbers now).
+Some thing's gone wrong with this (previously) excellent reader. Can't create customized shelves any more. Can't save to favorites either.
+If the makers are reading this plz tell me how I can download the full book and the sample does not download until I keep trying
+Free and good format support.   No bugs, solid UI, good controls, and nothing too frilly.  No ads.  No excessive permission requests.
+I've never met an easier-to-use e-book reader app before. The network library and it's linking to sources for free ebooks is amazing. I can access my ebook collection through my Google Drive and I can use the app on multiple phones to access the same collection. Absolutely perfect!!
+I was going to use yours, but you don't synchronize from Google Play Books. They are always stupid and erasing my hard work. Ugghhhhh. Doesn't anyone care and work right?!
+I don't know whose fault it is (Samsung or the apps), but I am so tired of not being able to find my folder! I want to select the folder to save books in, which is the folder all the books I have are already in, and this folder is on my SD drive. I can't get to it with the directory in this app. It doesn't seem to be able to find my SD.  It's a problem with almost all apps, but since there are a few that do it right, it's obviously possible to do it right.
+Lots and lots of battery drain. Even when its in background, its consuming resources.
+I've tried many book readers from Play Store and this one is simply the best! Thank you for this great app!
+The best pdf reader I be used so far.thank you.
+PDF plugin don't remember current page
+Great app, uninstalling because I bought the paid version to support the devs.
+The best book reader App in the entire Universe! Yeeee Haaaaa!
+Look nice as I wanted. Let me try more but so far is good.
+Best reader for e-books. Simple, light weight, clean interface. Configurable for individual taste. Highly recommend.
+Unfortunately the hardware forward/backward buttons & D-Pad  are not supported from this app on my eReader. Please add Hardware button support for ereader devices (mapping option).
+Awesome application for e-book reading... Thank you ...
+I noticed that synchronization can confuse Litres book sample with full book from Litres. Also, it started to forget my Litres password rather often.
+Please make book properties editor less basic: I can't even change an author's name! This means you can have books by "Paul Anderson," "Anderson Paul," and "P.Anderson" in your library at the same time with no chance to correct it! Add this feature and I'll give you five stars. Done, thanks :)
+Since android 2.3 I'm using this app and no doubt it is excellent. Keep up the good work!
+Best ebook reader for Android
+Great app! But why is there a separated lists of the same author/title/series between all-capitalized fonts and not? It seems like an app's bug to me.
+I have been using this e-reader since I got first android phone back in early 2010 and it is by far the best e-reader app I have come across, wouldn't use any other app.  .... 4 years later and still using it
+Works very well and I've a large number of books and the reader can search for the book I want very well.  Galaxy tab a 2016 10.1
+Sometimes after closing the app, The book will disappear and I have to search for the book and the page where I read last time to continue my reading. I hope that you guys could did fix this bug.
+I have always loved this app ever since i got my first android phone......definitely my Favourite Book Reader
+very nice to save power when you turn black on white on and brightness low
+Tried quite a few reading apps and this one seems to be the best one in there.
+I use the paid version to support my favourite reader.
+One of the first apps I install on every phone and tablet, I don't use the book shelf as I prefer to manage books by folder and open from es file explorer or Dropbox. Love ability to quickly change brightness and page with a swipe, and that I don't have to keep turning device back on if I don't read a page I'm time (as long as 50%+ charge).   TL:DR For me it just works the way I want out of box.
+I want to like this app, it seems to have  good file compatability. BUT my screen doesn't need giant margins. I did everything I could to reduce them but I'm still not happy. Be nice to eliminate them almost entirely for use on a phone. Some simple preset modes for phones, medium tablets and large tablets would be nice too.
+This is the dream book reading app for me. Thank you very much for this app. Specially the  option to search words in the dictionary paved the way for us the non English speakers to submerge into the world of literature without worrying about vocabulary. And there are also a lot of awesome free books to download. The page turning animations are also cool. The only thing that I'll like to have is to be able to turn page while in zoomed in position in any place on the page............
+80% of my life was and is spent on reading. I've tried a lot of apps and readers out there but the one that stuck to me for 4 years now is FBreader. Easy to use. It's not perfect, when i remove Memory Card all the bookmarks vanish. Still, the reading experience on this is glitch free. I appreciate that its free abd without ads. The team is has done a great job. Kudos. Sending my love to all of you for this great app.
+As the title suggests, this is really the best ebook reader in the Play Store. It is the only one I have ever kept on all four (yes, 4!) of my current Android devices. The one time I ever encountered a small issue, I emailed the developer, and got a personal reply the same day, and a working fix was issued the very next day. On a weekend! I could not possibly ask for more. The app works perfectly, and all is right in my ebook world.
+Well... the display is the most neat and eye-pleasing ever. The progress line below is a little unintuitive though? Well, I suppose being it shouldn't be eye catchy, being invisible unless you've searched for it (for me).  But overall, it has the best design for ebook/pdf reader.
+Tts plugin was installed, but 'speak' option is missing from menu where in a previous version it was present. Please address this problem devs. Last update in April. Have they all gone on holiday? Hard to believe they could abandon this cherished app. It has been effortlessly  the very best of its kind when working as intended
+I'm liking very much, and really considering to buy the premium version. Only reason I haven't is I had bought a premium for another reader that change the name and I lost all the premium features. I will wait a little more. But regarding to this reader I love it's simplicity and the way it looks. Ohh and very important it's add free, something very rare this days.
+Fb reader consistently displays epubs, mobi and djvu quickly and reliably BUT the highlighter looks ugly and your ability to write notes is limited to highlights. Could take a cue on richer editing functions from xodo pdf reader
+It was my favorite app.... After several updates the FB reader became useless. It returns to the previous book every time I temporary switch to another app. Pleaeeeeese, do not update anymore! Every update makes FBREADER worse and worse. After uninstalling ALL the updates it works great again!
+The app shows a lot of question marks within the lines in regular English  mobi and epub books, which previous versions were showing properly rendered. What's the problem?
+I installed this because of its purported compatibility with so many different types of files, but it wouldn't open half of my ebooks.  I had a few that aldiko wouldn't read, but with this app, I still couldn't read them and couldn't read quite a few that aldiko handled fine. Wasted money on the premium to get the bookshelf.  Not worth it.  Going back to aldiko.
+This is the best ebook reading app period! But is there a text resize option? Its really hard to read pdfs by zooming. If there's a text resize then it would absolutely awesome!
+Smooth and quick, with lots of features, like night mode and translator. I also like that it opens directly to the book you're reading instead of some stupid home page. *cough* eReader Prestigio *cough*
+I like this program despite some of the changes they have made BUT my favorite feature on any program is the ability to exit out by pressing the BACK KEY twice. Two presses and you are out. FBReader requires you to select their CLOSE FBREADER button to exit. Not good.
+I like this reader. The biggest problem is it won't let you close an open book. I opened a book to get a quote, now every time I open it that book defaults, even though I am in the middle of another book. It is very annoying.
+Great reader! Love the way I can personalize the many features.  Even added TTS, with a British voice :)  (Hate Adobe Digital Editions)
+Too annoying just to get to a list of books.  Every time you open the App it opens up the Intro Readme type file and there doesn't appear to be any way to get rid of it.  You have to press Back a couple times to get a pop up menu and then choose View Library.  Then you find out that you can't just view your books, you have to choose how you want them sorted.  There is no Bookshelf view unless you install a plugin.  Just seems like way more work than it should be.
+Excellent application. If somebody shed tears like "marshmallow doesnt work" "oxford dictionary not compatable" "pdf doesnt work" - you are loosers. Its for free its for reading
+It's unclear how to activate the text-to-speech plugin (I often like to listen to books on headphones while running tasks). I got it to work ONCE and when I did, I wanted to change the voice. No matter how many times I selected the voice I wanted, it returned back to the annoying default voice every time. Other than those 2 problems, I think this app is on-point. Ad free and has an easy night-time setting which is very useful. Great job
+Everything was fine until latest update, it's fine when reading pdf's but when finished it will NOT close down it just keeps re-opening on the last page read.
+It is just no nice to use - questions/options etc. Eg. After im done reading i want to go back to the list of files - there are 3 taps to go back. Eg. I want to see by default a list of files - no pictures. Cant do it - defaults to pictures. Look - take the simplest kindle from 8 years ago and monkey copy what they did. There - you have a winner.
+I was a super fan of this app for 2 yrs but it didn't open a book. There must not be an app that don't work for all... hate it
+Cannot open any mobi or epub file on the device. No other reader, and I tried many, had problems with them. Uninstalled the app until you fix this.
+Tl;dr get PocketBook. FBreader is a sluggish reader. It requires a plugin to read pdf files, the documents list is awkward to use and doesn't remember the last location of the currently opened document. You have to navigate back to the folder if you are trying out a lot of ebooks. When zooming a page, navigating to the next page results in the view jumping to the portion that was previously outside the screen size.This is simply awful UX. A lot of functions have to be accessed by going into the menu.Quirky!
+Doesnt turn pages easily. Have to enlarge to read with hand because margins, fonts, etc. Won't take. Then have to move to regular size to turn each page. Time consuming and interruptive or a smooth reading experience.
+From the colour tone of each page to the ease of searching the vast library this is the closest thing to a pulp and paper book as you can get. I've viewed other apps & other platforms & this is the best. Carry a small library of fave books to keep you going on commutes, plane trips & waiting at the doctor's office. Great app! Nuff Said
+Simple UI?  Best e-reader?  Wth!  The first time i opened the app, i was confused how to find my e-books.  And accesing sd card crashed this f##king app (i tried it 3 times).  The reason i installed this app was because it was only 5+ mb when others took 20+mb or so.  Now its a bye bye.
+I honestly love this app.  Far superior to Nook, Aldiko, and all the rest. The default scheme is hideous, but don't let that fool you this is the one!
+With mobis and epubs it works snappily, library, bookmarking and footnotes are properly handled and night mode is an eye savior. Only issue with those formats is inability to zoom into the tiny diagrams and images. Reading pdfs though is a complete horrorshow with no auto sizing of the original tiny font so you're forced to zoom and drag. Worse, one must zoom out to run the page and then zoom in again with the new page. The thing that bothers me most though is why this app name?
+I have dream of a reader like this long time,  all the functions are very good, light installation.  One thing please add is that we usually use left hand to read so it is very good if you can make the pages flip by taping on the left of the screen. Thank you very much
+Tutorial screen does not go off. Fix your app and give others freedom to learn things by themselves rather than forcing them to go with your tutorial.
+Change how the Reset Page popup is displayed it opens too easily.  Why not just add it as a menu item? Can't see why anyone would be resetting and changing the page on a regular basis.  Really annoying and not a real useful function anyway.   ------  Stop the app from jumping forward 5, 10 pages when you put the phone in your pocket.  ------  Fix the navigation; click on "By Author" and select an author and it just displays the recently read books by that author. If on the other hand you open by "File Tree"  it finds all the books by that author.
+I had exported an Epub file directly from my drop box to my android, but as I opened the file with Google play books the file did not open as "fit" for reading. Rather, I had to zoom in on every page in order to read. I attempted to customize the settings, but no option existed to format the reading content. Hence, I began searching for epub apps that would enable me to read the book just like I would on a regular kindle fire... I did attempted to open it using kindle but kindle only accepts a few formats..
+I mainly read epub e-books and after trying a lot of other apps.. fbreader is the one I always come back to.
+I'm using Oxford Dict which is not there to choose if there will be alternative dict option to choose would be helpful to many with me...  🍒Sync my Settings with cloud so in case something goes wrong I can recover it easily.
+It was ok initially but the Brightness is at its maximum right now it doesn't come down even if I keep the phone brightness to minimum possible .. Could you please fix this problem.. I've paid for this application and now I can't use it.
+Not easy to organize your books. Tags, collections, etc., can't be created unless you are editing a book. They don't have a scrolling menu so you have to remember and type them. Can't select "Mark as Read" for a book, only as "unread", and books I have read tell me it's 85% done (can't do anything about it). Can't edit Info's for more than one book at once so when you upload a lot of books, like I did, you have to go one by one, or give up. Can't upload a whole directory file, only sub-files one by one. Not the easiest or nicest app to use either. Need to add other add-ons to have pdf, bookshelf views, etc. The app is draining a lot of energy. But the paper effect background is nice, so it's a point in their favor...
+Good app, it even supports .doc files. However, it is not so user friendly and the interface is a little bit complicated...
+Looks like a good idea but the app is very slow to open and very slow turning book pages. So slow that I give up on reading and open Amazon instead.
+It's really a nice app for book lovers, no doubt it's OPD catalogs providing good  books having great literary value but predominantly these books are pre 21 century, addition of  books of 21 century will make FB reader More awesom & fascinating one for new generation, please add a catalog having post 2000 published books by popular authors such as Sharon draper, Suzanne Collins, Khaled Hosseini, Jeffrey Eugenides, Ian McEwan & others, I hope so that developers & managers will consider my suggestions......
+I can't live without this! Simple but useful. Everytime I try to switch for an ebook reader I always come back here. Thanks much! 😊
+I wanted to like this. But it seems to be missing some important features, such as:  select a word (such as a name), and show occurrences with some context, especially the first few, then return to current position; scroll page up and down so any arbitrary line is at the top (or bottom).  I do like the sync and Google drive integration, and ability to add my own Calibre library.  But all in all, I still can't seem to be able to leave Moonreader+; in spite of it shortcomings, it's still way ahead.  I'll keep looking and hoping something will improve.
+Very good app. Has loads of books that are VERY recent. Only bad thing is that most of the recent books are samples. I think in premium its free. Overall great app.
+I've tried a couple of ereader apps and this one is the best so far!!! Edit... (new phone) lost  a star because u keep changing the app when it's not necessary!!
+The sliding feature Sucks. Sometimes when I flick the page goes 2 pages ahead and sometimes it doesn't go ahead at all. Please improve this and definitely this will be the best reader app !!😃
+Its a small app which is user friendly, supports almost all formats and allows enough customization. Brightness settings, text size adjustment, night mode, everything is packed into this lightweight app. The library is also quite good where you can sort by name/ author,etc. Turning of pages is also very easy, vol button turning option is also available. Overall it is a good enough app.
+I couldn't understand how open my books, I couldn't find book's search on my phone, stupid app, I hate it
+It,  more often than not,  skips the word she when using the speak+ function. Other than that,  great app.
+I've tried a lot of readers, but this is my "go to" app for ebooks.Easy to use with no surprises. The only reader that I am satisfied using.
+bad bad bad error crash...... in the past now superb. good job
+I like this reader, it is crisp and easy to use. Reads the formats I need it to. Overall, nice layout and function.  The only thing that I feel it is missing is the autoscroll. I would love for it to have autoscroll..
+I wish it would store books on The SD card instead of the main storage drive. Please fix.
+Works every time, quick, massively configurable, beautifully simple.  No garbage to wade through, no "must be on-line to function".  Just a great simple app.  Full marks to the dev(s).
+I have been using this app for a year already and it's still the best app out there. A year ago I had to transfer from one to another because they can't read the format of some of my books and I guess I went through 6-7 apps before I found this. This is trully the best app out there!
+After the latest update crashes every time I try to delete book
+If I zoom in to fit the text and then I want to scroll down to the next pages it doesn't work. I have to either zoom out and change or use the silly volume buttons to change the page and even then it does in a horrible clumsy way not fluid at all. I would remove the comment if I get my money back.
+Not as easy to use as other readers but able to open way more file types, overall I'm very happy with this app.
+Loved it, did everything I wanted, print was so clear THEN I got a Samsung update for my tablet and now it doesn't load books on - No application found. Does anyone have an answer to this, please?
+Why i bother install an app that can't read pdf on its own but requiring downloading another plugin. Also the UI is ugly, setting option is difficult to find
+This is the best e-book reader I've came across here, this is the only one which handles series/collections well.
+Very nice features set, provides a great reading experience. FBReader is perfectly stable and customizable at will, while its opds support makes it easy to browse opds libraries and fetch ebooks in a few clicks. Simply perfect!
+Installed it. Tried to find books in online library and can only get samples. Has this changed? I may as well stick with Kindle or Kobo.
+I cannot find one of my books which is called 'anastasia has the answers' and for my second book ' Millicent Min : Girl Genius's I can only read sample
+Help! Everytime I try to use the app the app dims to a really dark black! Was great until this happened
+This app is utter crap. You can't do anything with it. Everything requires you to purchase the premium version or download another app. Waste of time.  I'm so sorry I even bothered to download this!! 😠
+About 10 programs were installed during installing windows version (downloaded from official site) without asking me. It is unacceptable behavior of the program.
+This is another app that just has to be recommended as it works brilliantly.  Has lots of options if you need them, but so far have needed very few.  Easy to switch between day and night mode.
+Editing my epub files to place your Twitter link in them royally irked me, along with the notifications I get from those edits. Removed.
+Fb reader is my favorite but its start work awful recent times, reading book don't work and library shut down
+It don't turn the pages easily and that full screen mode sucks..uninstalled...can't even go back to main screen..and whenever I reopened the app it redirected to the book I opened recently...why? Frustrating.
+Complete functions I've been using this for over a year now, and I must say this is the best I've used so far. It's lightweight, simple and intuitive. My favorite feature is the Network Library. You can tweak it to whatever you want.
+Great reader. I donated. Lots of options.  Just about the only thing missing is a simple editor so I can quickly correct mistakes in books I'm reading. Cropping PDF viewing area is great. Swipe brightness is great but needs to go darker, even.
+After upgrading to Android 6.0.1, fb reader app stop opening my epub books collection. Please solve this problem.
+It seems nice but no continuous scroll is a deal-killer for me. I like to put a book in landscape mode , zoom in a little to make the text bigger and then scroll down to read
+You can get any book by downloading it.you need not to buy any book
+I prefer the page turning animation of another app but this has no issues with opening where you left off.
+Excellent for ebook formats, but for PDF not as good as other ones. For PDF, ou have to zoom out to original size before you can turn a page.
+Book formatting is terrible, navigation doesn't exist, and no search. Also deleted my books after an update.
+I shouldn't have to upgrade to premium to get the books I want for free. bc THEN it's not free you liars
+I get free books and this app is great for downloading my books when Kindle won't. I love my kindle app but its great to have a backup!
+Doesn't allow you to underline or highlight text or add notes like iBooks does.
+I love how if you're on the go you can read your  favorite books.  One of mine is the wizard of OZ
+Cant get series sort to work. Used calibre to edit metadata. The tag works after using calibre
+Overall, I am very happy with the app.  The UI is great, compatibility is good,  and the price is right.  ====&gt;&gt;&gt;&gt;  However,  since the recent updates, it keeps losing my spot in the books I am reading &lt;&lt;&lt;&lt;====
+I only use it to read epub and mobi files and this app does the job beautifully. Simple to use and no gimmicks.  Thanks dev(s).
+Please make the text background/foreground colors specifiable using RGB codes! Otherwise this is very good and stable compared to my earlier experiences with Cool Reader and Moon Reader.
+I love the customization options, the ease of zooming in or out, the ability to change brightness and the easy navigation. It's my favourite e-book reader so far!
+Doesn't align tables properly in mobi file
+Trouble reducing the brightness. I tried many times to tap on the left of my phone screen as per the direction but its nt working.
+I downloaded an .epub file and for some reason Google books, the Kindle app, and Adobe PDF viewer all couldn't open it, but this app opened it on the first try. Thanks!
+Can't even figure out how to open a book. Uninstalled this craptastic app. Try again.
+Like many other's  doesn't work, because of the screen overlay on SG S7 Edge
+This app shows in search results for "CHM" but doesn't support the format. Please remove that keyword from your metadata.
+This is an excellent EPUB reader: it is stable, has a good user interface and is simply nice to use for reading. I have tried most of the reader programs and now use fbreader and Mantano ereader equally much on my Samsung Galaxy S3, Note 3 and Note 8.
+Adding a scrolling option (instead of just page turning, but scrolling pixel by pixel like in Moon) would be nice. I especially like how the footnotes looks like!
+Where are all the settings? There are only 2 options - Bookshelf view, and rescan under settings menu. I can't set the library directory on SD card. The only location it sees my books is on internal storage, and I can't change it.
+Doesnt open any files doesnt work blah!!! F-
+Frustrating to use. Move a finger on the screen and you've lost where you're up to.
+This app is extremely good. You can download many top rated books from network library, in addition you can download and add to this app. Everything is good, I love this.
+Robinson Crusoe, the Prince by Machiavelli, Sense & Sensibility amongst others... if you're looking for a classic you may find it here. Easy to read, bookmark...
+Does what I need without useless graphics and bloat.  And the syncing and Google Drive integration works awesome.
+'ve searched for .prc in Google Play, and this app was the first result. How it is possible, that it will not open .prc files? What plugin do I need to install? Is it supposed at all?
+Tried this one. First book opened ok. On opening a 2nd one, app frozen on "waiting ring". Now is frozen from start. Gonna stick with old good Ai.
+It doesnt detector the books unless I go to my files and open them one by one. And cbr plugin doesnt seem to work it doesnt open them.
+I won't give the hint...you try it with pdf...
+This app have all necessary features and even more, good performance specially in PDF reading and it's free.
+This is the Best ebook reader, I tried  few other ebook readers before this, but none was as efficient as this one.
+I loved the app so easy and cool!!!I never in my life read.i have only finished 2 books in my life.with this app I read more than what I can imagine
+Reduced 1 star because the Bookshelf View (of which the UI could be enhanced) and TTS function is not available with the app. One has to install separate plugins for them. Same in the case of PDF Reader you have to install plugin. Hence, leading to the increase in the size of the app on the whole. However, it could be the best reader out there in PlayStore ........ Just by fixing these shortcomings. :)
+Not able to read my own PDF book
+Finds file in search, sees the files inside but says can not open when I click read
+I wasn't willing to pay for every book.Very little free books!! Had to download 2 other apps to use it!!!
+After new version updated, my setting about book folder lost. And  I cannot add the book folder? Why?
+I love this app. I'd give it 5 stars if you could support .mobi as well if possible please
+Experiencing lag on page turning and bringing up menu
+It used to be great, but the app doesn't see my "reading" folder and doesn't recognise fb2 files at all :(
+It sucks..I gotta download library,pdf,tts plugins separately.. better go for “iReader” app
+Wonderful eBook reader, however auto scroll and perhaps a material design makeover would make this perfect
+Can't open epub files from my onedrive with the app. Wouldn't display the files on windows version either.
+Прекрасное приложение, спасибо разработчикам. Но лично меня очень раздражает то, что оно само меняет яркость. В солнечную погоду ничего не видно, а ночью слишком ярко. Причем ночью постепенно все же привыкаешь к выставленной яркости, но если нужно открыть настройки или еще что-то, то там будет опять ярче. И даже черный фон не спасает от кратковременного ослепления. Не исключаю, что сама виновата, и где-то это настраивается, но я пока, увы, не нашла.  Использую на Samsung Galaxy Note 4.
+"Light'' yet you need to install a plugin smh
+Can you please do a widget, for the lock screen, to play pause the tts reading? 😭
+I couldn't get over the fact that I can't change the font out of the theme setting it is in
+Cannot activate PDF files on back screen of yotaphone.
+If u r reading a novel u should take this app...as it has many features with night reading mode!!!!
+Why do I need to turn off my app overlays?
+Love reading with it. Nice library navigation. Especially love the night mode.
+I keep seeing just samples..how do I download the full book?
+Is it possible to get option to mark book as finished?
+Great app although some icons do not conform to material design
+Cannot open anything from local folders because permission is denied. Android 6.
+Has the needed controls to make for a completely customizable reading experience.
+Need some more option for user. But overall good app
+Books rendered perfectly! Best book reader. Switched from Moon+.
+La mejor que puede existir..
+Useful only for epub and doesn't detect the files half of the time.
+Install the plugins and it's the best reading app...
+Awosome app for read my favorite ebook. Keep it up!
+Elegant app with a big library of books and support almost all formats
+Since the last update, my save position has been messing up. The book is not leaving off where I left it. Every time I open it up I have to search forward several pages to find the right spot wasting time. ..... please fix. Galaxy Note 5.
+Really good reader.  Use this all the time
+The best book reading app for me.
+The only book reader app I know and trust
+It's the best reader in the world! Highly customizable and easy to use!
+Exceptional reader... Had not expected such a great SP App. TYVM.
+This is the best android eBook reader I ever used. Convenient, simple and functional -- I do not need anything else
+This is the best reader I have ever come across. Suits my every need, this app has very function to suit your needs too amazing amazing amazing thx a lot for making this
+Tried others and this is simply the best.  Reliable, easy to use, good features, sensible, unintrusive design, no obnoxious permissions - and its free. I have paid versions of all the other top ereaders and I shouldn't have bothered as all have at least one huge flaw that I can not and will not abide so I end up using FBreader instead anyway. So learn from my mistakes, save your money and stick with this.
+Like others have said and I must agree with them, when they say that they have tried others and come back to this one because its the best. Simple as that. And its frequently updated; so you know that any problems with the app will be fixed in a short matter of time. Keep up the good work. I can't praise you guys and girls enough.
+This is the ideal ebook reading app for android if you have been into ebooks for a long time and have mobipocket, txt, rtf and epub format ebooks that are not protected by drm. In general over the years I've gotten .txt and mobipocket ebooks that I imported to my android smartphone when I bought it. It works great. Has animation, day/night mode, 3 fonts, tons of sizes and the option to search ebooks by filetree in your device. Works like a charm. UPDATE 01/04/2016. Now syncs across devices via Drive 6stars!
+Fb reader is the best reader. Free, tons of features, good reading experience.
+When press on the word and select it will show menu. But it menu pop-up some time bottom of screen, some time top of screen. It is very hard for using menu. Please, fix it on the bottom.
+Galaxy Tab 8.9". When you open FBreader it forgets what page you were last on,and reverts to the page you were up to on a EARLIER occasion instead. Very annoying. Have to manually bookmark every time to keep my proper place.Only does this since recent updates.
+Crash whenever I press back button
+Best reader I've ever used. Good work Dev
+Display can be quickly adapted while reading books so that text is always readable. Only complaint: even on rescan, new books don't always show in the library.
+I cant order list of my books. Its order like 1,10,11,12...,2,21,21... i want to order with default numbers like 1,2,3,4....
+Wonderful app.  Works well and has all the options I need with the plugins.  And I like I can pick and choose which ones I need at the time (I don't have a lot of internal storage on my phone but my tablet has them all installed).  I would buy the Premium version but it won't work with my phone and Google won't let me purchase it (I would do it just to support the developer).  Either way, please continue support of older devices (2.3) in this version.  Thank you!
+Hello. It's a very good and useful app, but I have a request. It'd be nice to add a setting to make volume keys turn pages instead of moving it while reading PDF or DjVu.
+First impression was good. I will give 5 star later if it works upto my expectations.
+Needs pdf pluggin... will download if u update with pdf reader.
+Nice app. Thanx developer. Keep it up!!
+This absolutely used to be an amazing tool. Unfortunately they went to video commercials, and they've become a huge resource hog and I am forced to clear my cache and close the app and unfortunately drains the battery way more than I can stand. It was fun while it lasted, Thanks  but no more.
+How difficult can it be to let the user decide whether to show odd or even pages in 2-page layout. The cover is a single page, spreads usually start on page 2. Common sense.
+Good reader. I use it for years. Now I have a device on Android 4.4.2 and I can't change font size. Bad surprise.
+Was good, has become a resource hog. Seems less friendly and intuitive to use than before. Will uninstall now.
+I've been using this application since my first Android phone, all those years ago. By far this is the most used app in my phones. Easy-to-use, rich features without going overboard. Highly recommended.
+Yep. It's never crashed on me, never failed to play a file I've fed it, and the support for it is incredible.
+Works perfect for what I need it for. I uploaded a LOT of books to my OneDrive in ePub so needed an app like this to read them on.  Great app. Highly recommended
+There seems to be nothing lacking here. Perfect eBook reader.
+Great app, and also is free. I've tried all readers and now with the last updates ( PDF / SlovoEd integration) is my favorite reader.
+A great book reader that's just great in every way
+At least you left the old footer style in. New one you can't tell where you are hardly. Much easier to glance at the old style
+Will give it 5 if they back to previous display. It's rather difficult to open library with clicking screen centre, my bookmark keep moving before I got the right click
+The menus are really terrible, about as counterintuitive as if they had been made by lizards from the other end of the galaxy, and until you try out some of the more absurd sounding choices, navigation really is hellish. However, this is the only reading app that will let you read as many different formats, so it is for now truly irreplaceable.
+I wish it would offer to scan the phone for books you already saved to it. Had to manually find the folder with my books (root/DCIM/ePub). Need to repeatedly tap zoom in, wait to refresh, zoom in again 10 times to easily read the book. Nexus 6P
+Hi, i just downloaded this and every few minutes while i am reading, the app would bring me back to a previous page and i would have to scroll again to find what page i am at. This is very irritating and it ruins my reading pace. If you can fix this problem then i would rate it 5 stars
+Its a fine app but when it comes to adjusting brightness the app most of the times doesn't even recognize that I touched the left side and am rubbing my finger up and down. There might be other such bugs. I just found one so please look into it.
+If i dont know a word in the book a simple selection of word should have been render its meaning. Its as simple as that...
+It has no support for epub tables. They are rendered in a single column. This is a major oversight for an open format based on open standards: HTML in particular.
+I have used fbreader ever since I got my first android phone in 2009 and it is still my preferred e-book reader. Thank You for a great product. Keep up the good work.
+The only app can be used flawlessly on my rooted b&n nook touch
+I've tried a number of these readers and this is the only one that I'm comfortable with. It reads most formats flawlessly, allows you adjust the brightness with a flick of the finger WITHOUT having to dive through a bunch of menus, and it hasnt crashed once in the past few months that I've been using it. Keep up the good work fellas!
+I've used the app for a year or so now and love it.  The Brightness adjustment stopped working in the last update.  Needs to be fixed for night reading.
+I really like this app, but it will be better if have more features like these: 1 - Transparent background for progress indicator, I like page count inside reading page; 2 - Scroll speed, options for 5 to 30 frames in 100-1000ms, so as my device speed, I can choose which is the best page turning. Thanks :)
+Tried opening mobi and epub format books and the app did a good job, but in sometime I figured out that this app doesn't display any colors that are available in the book. Also the tables are not displayed correctly..
+I've tried a few apps like this, but this one is the best. Has dictionary, easy to search for files, bookmarks, page swapping etc.
+I adore this app my gratitude to the initiater(s) to the developer(s).
+Not intuitive, could not find how to open files, wanted to read djvu files, although downloaded a special plug-in for it.
+My fave ereader by far. Just upgraded my system to Marshmallow and the app does not show files on internal storage. Worked great on KK and LP. Please update the app for MM compatability.
+Forgot about my kindle reader after using fbookreader on sony xperia z ultra
+This app WAS working okay, but the brightness adjuster on the left side of the screen does not work very well, and just recently the page turning has stopped working completely. Uninstalled.
+good but cannot adjust brightness - any time you have a book open it maxes out brightness which makes it unusable for my nighttime reading.
+Very good app reliable,intuitive interface, Recommend to everyone!!!
+Love it, v thoughtful design.  Reliable never crash.
+In my opinion this is by far the BEST eRead of them all.  Due to it's simplisty layout and settings. Thank You Team!!!
+Read arabic from left to right instead of right to left.
+It would be Great if the option to cast the book on Chromecast is introduced.
+An easy to use and very attractive ebook reader.
+Excellent book reader and manager!
+Tried many other ebook reader but now I stick with FBReader. Very fast and smooth
+I am a hard core user and supporter of FBReader. I use synchronisation to keep my books in the library but bookmarks dont get synced. I recently did factory reset and while installing app, I got my books back but wharever bookmarks were there, they are gone. Please fix this issue and bring me back to FBReader. Hence reducing from 5 to 2 stars.
+Easy to use and supports many formats.  I am however having problems with the latest update - my bookmarks aren't loading to the correct pages/lines
+After wasting my whole weekend going through all of the available reader apps on the Google store to open my books, this is the one. So thank you! Keep up the good work.
+Easy to use and very practical. The only book app I've really liked so far!
+When Kindle started updating their app it seemed like every new iteration got slower. In the end, it took 2 minutes to open on my galaxy s3! FBreader was not as comfortable at the begining, but it opened swiftly & the new features kept coming. Its been 2yrs now that I am Kindle free, and it feels good. So, thank you for it.
+It causes a lot of annoyance. Just make it an option in the menu and remove it from the default screen. I always go to other page unintentionally and go back to reading mode so i can't reset the page. I'll revert rating to 5 stars once it is addressed. Also, i really want to buy your premium version to thank you but i think the price is too steep for the added features are useless to me. If you can add the function like in "GrabMyBooks" app, the i will buy the premium app.
+Good reader but after the latest 2.6.9 update still doesn't allow  to download any book to the SD card.  Error in the folder creating.  It's more than 15gb on SD card...
+Tried many others, use only this on my phone and tablet. Night mode (red text on black background) is easy on the eyes and battery. Will try catalogs & TTS.
+The screen goes off with the new update. This has not happened before. Please fix this at the earliest
+EDIT: I'd spend money to buy the premium software if I had any way to do that. PREVIOUS REVIEW: This is the best reader out there but I wish I didn't have to update it every two days.
+Excellent reader! However, after some of latest updates time to time looses last reading position on my Samsung S5, so one star off.   Update on March 1, 2016: No more problems with the position!  Thanks a lot! 5 stars!
+I've used so many reader apps on Android, but this one is my fav. The UI is so simple and the features was amazing. I loved it. Thx for invented this app!
+First impressions were that this was over complex. Having had it for several months I haven't really changed that initial feeling. Though it is without doubt a good reader, it isn't very intuitive in my opinion, and has several annoyances: ▪Although FBReader can read .DOC files, there is no association, so FBReader is not suggested as an option to open them.▪Sometimes the sliding screen brightness adjustment works, sometimes not.▪If a directory is removed from "Where to search for books", the files in that directory are not removed from the library, even after a rescan. I only managed to remove these by using Settings/Apps/Clear Data, and then setting up FBReader again from scratch.▪In the Network Library, why is it not possible to disable the 'FBReader®book network' in Manage Catalogues?
+Really limited paper backgrounds. Backgrounds that do exist have a very obvious repeating pattern. Something more natural looking would be awesome.
+Please add persian(Farsi) to your supported languages.this wonderful app only lacks this.
+Yet reads .mobi and .epub, but more textures for the free version would be nice. Adding mpdules instead of downloading individual apps would save space and maybe RAM
+Would be nice to cut the trailing space before sending text to the translator.
+Gets stuck in the middle. File tree and reading command should be improved.
+There are, quite simply, no apps (paid or free) that offer this level of customization of the reading experience.
+Great Program, searching a book when you have hundreds of books does not single it out on the app, but works OK on the PC, not have one drive support.
+I can't search anything it always says no match!!! 😡😡
+Trash 😬 I need to install additional plug in for everything. Trash.
+Buggy interface.  No way to cancel search of network libraries.
+One good feature I like is the brightness adjustment with finger slide.
+Simply the best ebook reader, period .
+Reliable, smooth and functional... Would be better with some more options in font and display.
+It may not have the flashiest LOOKING user interface, but it works well,  lets me read my books without the ui getting in my way, and is rock solid reliable. I have tried dozens of readers, none can match this one. Highly configurable and intuitive to use.
+This application has eaten all my eBook collection.. I am using this app for five years and this never happened, and I gave it a second chance, and again this application has deleted all my ebooks ... IMPROVE OR YOU WILL BE NEXT NOKIA
+Not intuitive. Scrolling page is rough. Doesn't have interface with cloud. Settings not intuitive.  Had to install TWO MORE plugins just to see the books in my library on a bookshelf and to read PDFs!  EZPdf Reader is clean, powerful, easy to use, much better.
+Slow clumsy and sluggish app. Optimize code. Buggy crashes often and no way to increase font size.
+Nice customization options and blocks of code render properly, but the lack of autoscroll puts FB Reader behind others such as Moon+.
+Perfectly fine for reading, like every other reader out there that doesn't cost $4.99. But highlighting and taking notes is cumbersome, with several extra steps required and no list. This makes using it on a treadmill tedious. Google Play, Kindle, and iBooks all do these things well and the same. A waste of 4.99
+Generally, a great little reader.  The navigation can feel a little chunky at first and takes a little getting used to.  Would like to see some swipe-down (or swipe-up) navigation, but I'm not dissatisfied overall.  It even took some troublesome MOBI files that looked like crap in Kindle and straightened them right up.  All in all, this one is recommended.
+Hello. I'm using a Note5. There's a split screen icon but it doesn't seem to work. Is it supposed to be that way? All else is good.
+One of the stingy-est power users in my Samsung Note 3. Wish all apps conserved power as fbreader does.
+Navigation takes some getting used to, but I'm excited about the place synchronization. Question for the developer: do I have to purchase premium for each device? Just bought on my phone but play store isn't giving me the download on my tablet.
+It does not work properly in galaxy note 8. Please try to fix it
+I use it every day. From reading my fav fantasy to reading the bible. A must have.
+I can't find my bookmarks for each book after the update. The bookmarks tab disappeared after the update.
+Review for older version. Good: -can read most character -fast (what I like the most) -highly customizable -easy to navigate after you change the directory for the library Bad: -new version is slow. -can't read colors on characters.
+Not intuitive.  Difficult to change fonts, text size, etc.  Couldn't not figure out how to purchase a book.  Could only download samples.
+Used to be my favourite reader but now for some reason I cannot open new files with it. I disabled the google books app. But boe it says that the files (epub) cannot be opened. Any ideas? :'(
+Love this app but latest update seems to have killed last read sync? Even on same device I get redirected to first page..  Please check.
+Please add a quick option for day and night settings that is essential for me
+Just a nice and simple app to help you enjoy reading. And really easy to use.
+I've tried different apps, but this is for me the best. Has all the features I need like good design, syncs across devices, backups of books, bookmarks, etc.
+All the features I need in a reader. Love the fact it supports so many formats.  Also when I had a question the developer answered promptly. Good one.
+I have tried many reader apps and this is the best. The pages are cream colored and have texture like real paper, the back light adjustment is on the left and is a nice bonus.
+Why doesn't it let me read the whole book??? Am reading my favorite book and it doesn't let me read the whole thing!!
+I switched my ROM and thought i lost everything coz it wasn't showing all the books! Updated the app and back with a bang! Thanks a lot guys! Live long!
+Thanks so much for the quick response. Problem sorted and it's worthy of 5 stars again.
+i was trying to get my favorite book but it said there was no match found and it was complicated to use
+It would be nice to be able to SYNC position in book that one's reading on multiple devices (i.e. Phone, Tablet and PC)
+Tried all the major ebook readers. Fb reader gives you the liberty to tweak and customize your experience.
+Was unable to follow URL in a footnote.
+why it doesn't closed? every time I closed it again will be open!my cell phone is nexus 4 android 5.1.1
+My favorite book reader!  I love that I can change the brightness easily. Thank you for making this app!
+Best reader app around. Nothing even comes close. Love the built in dictionary feature.. Just like kindle.
+I have used this app in a different device and found it to be a reliable companion for my favourite ebooks
+The best book reader app I've ever tried
+The best reader on market. Very simple and very customizable. Bookshelf addon makes this one superb.
+I just love this eBook reader
+Cool it is so much  fun to read
+So far my main e-book reader. But response to menu and settings etc. became very slow.
+This is the best ebook reader they could possibly have made. It reads loads of formats, doesn't spy on me (only requires access to my library to find books, unlike some other reader that wanted my call history to read ebooks. What the christ?), has a file browser and to top it all of a night mode. Everything I could ever hope to wish for. It literally made my day finding this after my ebook reader broke.
+I was primarily interested because this is one of the few which can read AZW3 (mobipocket) format (besides kindle) but realised rendering of same is not very good, ToC was missing and and the files was depicted rather like a .rtf file. Other file format are satisfactory. But biggest problem is that notes and book marks can not be exported or imported making this unsuitable for dedicated eBook reading application.
+Overall best app for reading & accessing my Calibre libraries. My issues with slow responses to turning pages & opening he settings menu seem to be external and not the apps fault.
+Thank you for continuing to support seriously old versions of Android.
+Use this app heaps but now doesn't seem to be compatible with Android 6 permissions. After upgrading the OS this app can no longer access any storage device (internal or SD)! Effectively useless now.
+Haven't used any other .epub reader so can't do a comparison but I haven't had any problems with it. I mostly use it on .epub and occasionally .txt
+Works great, reads a lot of formats. It works great together with calibre on the pc to change formats. The first program I always install on my phone. It has survived since my first Android.
+I really miss just one option- to can check progress by seeing real book pages. This way i can read easily on physical book at home and on my device outside. Otherwise great job
+The ui is simple and clean, support multiple format, and the best thing is, its free.. Thanks for a great software..
+TTS (text to speech) got replaced by 'buy premium' I came here to search for alternative
+what kind of "Best ebook Reader" that can't open secure (password protected) files? do we need to install other app for this?
+Crash every time I try to open
+Feels very much like reading a real book. Smooth animations as far as reading the book is concern. App is constantly improving. But now with ads.
+Pero no tiene la función para que se ajuste a la pantalla de tu móvil
+Good software but an option to select chapters would be even better.
+is there a way to set a gesture to open the table of content?
+I couldn't get to a book to choose and its written in a weird incomprehensable way!!
+Best reader especially now with the PDF plugin.
+Excellent library tools. Integrated with Google Drive. Good dictionary integration and search capabilities. Good TTS support. PDF plug in does a good job of cropping.  New updates have slowed the app's performance greatly.     The paid version has become bloated and slow. I hate the ads, but this app is better than the paid version.
+Appreciate that the free app still gets updates and issues fixed, thank you. So far the app is real good 👍
+Same storage permissions problems that other people are having on marshmallow.  If it's not the app's fault it needs to let me know what to do to fix it.
+Too complicated for nothing, always some menu popping in the screen...
+it does not close properly. when closed after reading a pdf it respawns. endless loop.
+A great app, but the bookmarks are both too hard to reach and too laggy (it takes a few seconds for it to happen - should be instantly). Reaching - it used to be "Menu button - Bookmarks - Add", now it's "Touch anywhere - Top left corner - Bookmarks - Add". An extra step since the update has been added even though it was inconvenient already. Two actions max, ideally a single long press of Menu or Back for instant bookmark would be best. Hope I will be heard. Thanks for your spectacular work on this reader.
+Option "Show status bar" doesn't work properly in full screen mode. :(
+Its really nice to see so many good books one can read for free. Great apps........
+It is very usefull app. You can read any format file. It takes very less memory space comparing to other book reading apps. Its a great app.
+Why it does not support Arabic or Persian language? I mean I cannot adjust Persian words from right to left.
+What happened to the bookmarking icon? Having to go through the menus does not cut it.....Please fix and the stars come back!
+Thanks for continually updating the free version of this app! This has worked on everyone of my devices. Flawlessly! I love to read & I love this app. I have, and will continue to recommend it to everyone.
+I've been using fbreader for many years, on the Nokia N770 and Sharp Zaurus, maybe even on Windows CE. I'm sad to say that my time with fbreader may be at an end, at least until Marshmallow support is added. For both the internal memory and SD card, I get a permission denied error when attempting to access directories on them. Consequently, I can't open any books but the built-in help book. Looks like I'm off to find an alternative, hope that fbreader adds Marshmallow support soon!
+Some "update". It now won't open any new books from my Google Drive app.
+Great app! Super customizable, and love that it's open source.
+The only thing I don't like, and this might just be me, is the way the the highlighter works; I used to like the colors before but now they are dull and pale. If I choose yellow, it is a faded yellow. That's the only problem. Other than that it is great!
+Page flipping animations are choppy compared to other eReader like moon+ reader. Other than that, this one is better than all in other departments like ease of use, functionality.
+serious froblem with ZTE A21. Fight after starting application it turns off backlight of screen.  I can't say after which realease it began, but now impossible to read books with FBreader on ZTE A21.
+Excellent. But missing feature export all highlights from a book to a. text file.  Windows app outdated and useless.
+I have been using this for a while and it is simple to use. One thing could improve is the method to bring up the dialogue for changing between night and day mode
+I have been using this reader for years and it has never disappointed. In fact it  just gets better and better. A quality product. Keep up the fabulous work.
+16.1.16 - I read on my phone, the page count was always wrong counting one page every few pages, after a couple of updates ago it started counting correctly, but after yesterday's update it's counting wrong again, just so you know, thanks for removing the side menu slide in :-)
+When I click on file to view chapter contained a box pops up which is blank with read written in it. Make more friendly.
+Read 30+ epub books over the last year and a half, never a single issue ever.  Able to configure everything the way i want.  Amazing app!
+I like all the changes which I also suggested, like modern look and page numbers in TOC. The new intuitive and organized menu with book cover and more background customization is wonderful. The page algorithm is fixed too now. Excellent 👍
+I love this app ..it's a kind of app I have been looking for for reading ebooks. I would give it 5 stars if it had the settings for wordWeb dictionary configuration for looking up at the meanings of words and not only colordict or other online dictionary.
+Esta funcionando muito bem. Vou comprar a versão premium porque vale a pena.
+It doesn't show farsi pdf file well
+Doesn't support External SD Card in Lollipop!
+I've been using this app for years, and it's always better than anything they try to push me towards on new phones. The custom colors are perfect at night.
+THE ebook reader. Definitely spring for the paid version.
+I've had the app for a while and loved it (would have given 4 stars!), but now after the update my books are gone? I tried adding it but don't know where. I also tried doing the Google drive thing but they don't show up. I added the epub and mobi versions but still nothing?
+I have purchased the premium version, there is one option missing and its highly annoying,  and that is not being able to add multiple books to shelf simultaneously. Its really frustrating to add books one by one. Kindly fix this issue
+So many options. If you can't make your book layout appear how you like, just go into Settings and fix things. Reads every format.
+Never crashes. I've had it for months. Love it because the epub format is my fave. Only problem i got with it is it doesn't support pdf, which is a more popular format with book downloads.
+[3-star edit: The backup functionality does NOT  backup the appearance settings, a pitty. ] You can modify the style to anything you like, but it takes some playing around the settings to get something nice. This would definitely benefit from some pre-made styles and a quick way to change text size and margins (why are all margins separate? No clue). Either way, it's a great reader that will definitely stay in my phone since it barely takes any space at all :)
+Very good app for reading ebooks, love it. I often use tablet with mouse and keyboard and it will be great if an app supports primitive  i\o from these devices. Thank you very much!
+The page doesn't turn when I press the left or centre of the page.It only turns when the eight hand screen is touched.Its bane for a left handed person.Plus the in my android 5.0.2;I can't see the default home or back option.It is only visible when I drag it from up.There's also an issue of the reset position i.e.the page no. to pop up when I press d centre of the screen. Please if u could change the interface so that wherever I touch would change the page; would be grt.
+FB Reader does the job and focuses on a straightforward, solid reading experience.  Have used this reader for over a year and have not needed to explore alternatives.
+PDF files always have a large space around the page. It makes harder to zoom in and out to focus the text. So pls add a tool that helps us to cut those white space. Thanks.
+It is a no nonsense robust app plz the only area of improvement I find is the search performance it is quite lacking plz make it better
+If I have to go to a page, the only option is to scroll to the specific page even in the status bar, which takes hell of a time.. Is there not any option to type a page you want to reach ?
+I've been using fbreader for years and as I just finished my last book I realized part two was nowhere around..non DRM support for mobi? Come on everyone's up to date?? Now I have to look elsewhere...
+Awesome. Opens alot of ebook types m extensions like .lit, .epub and others. Hard to find an ebook reader as light and power as this one
+It keeps displaying the book in a narrowed column on my Posh Orion Pro
+This is the ultimate best reader for epub and so many more, gorgeous interface which makes you want to read more. Best epub reader, deserves 6 stars
+A really great app. Works very nice in epub. If you want a true  reading experience this app is just right for you. Thouh the pdf format needs to improve.
+Useful & easy to use, but can you redraw icons to material style too?
+Stopped working on my device Explay Fresh. Before the recent update everything was fine.
+A must have ebook reader for those of you who finds comfort in reading books.
+Used to love this app. Now Everytime I go to find a book on the downloaded file tree it crashes. Uninstalling.
+Fluide,  customisable , mode nuit parfait.
+Easy to use and syncs with my library on my computer.
+People who are fond of reading should be having this book reader...
+Always stay the best reader don't let me down
+Best pdf reader in the world
+I like the reading and customization functions of this reader a great deal. However, there are some inexcusable failures. First of all, it fails to follow Internet links! This is a deal-breaker, period.   Then there's the network sync. Neat idea, but my tablet is constantly connecting get to the FBR website, even when sync is disabled. Unacceptable!!!  Finally, the library sucks - including the plugin library.
+I really like the app but when I updated it into the latest version, I can't open the app anymore. It keeps saying "Unfortunately fbreader has stopped". Now I can't read my books.Please kindly look into this issue.
+Since discovering this great app in 2016 I've used it to read all the "Song of Ice & Fire" (Game of Thrones) books; all fourteen of Walter Mosley's "Easy Rawlins" series and at least another half-dozen novels.   This is the best e-reader I've ever used! Easy to use, full of features.. nvr an issue. It just works very well!
+Since the last ui update, there are glitches when going to the next page. Something like loading 95% of next page, then freeze for 1 sec, then 100% load. I have a good phone (2gb ram, cpu 4x 1.5GHz), so it's not about me. Hope you'll fix it someday. It's not a big problem.
+It crashed after last update 2 days ago. I was just going to give it 5 stars. Why not left it as it was. All the downloads before this update are totally unreadable. It took quite an effort to organize them, it is a pity. I tried to reload it but it still reads an error with some texts, it used to be perfect but the last update has degraded it considerably. I am going to look for a better reader.
+It's a great little reader. The only thing I think it could really use is night reading mode or a way that if you dim the screen FBR automatically follows suit instead of overriding it.
+Does its job and lets me read my books. However, wish I could customize the appearance (font, color, size, etc.) and be able to see the changes as I make them, instead of having to change them in a separate screen and having to go back and forth.
+This use to be my favorite reader, was installed on all of my devices! Since the update, I've either lost all of my books, or can no longer open them (no matter how many plugins), please fix the "fix"
+I have this app on 3 devices - old and new - and it just works without complaint, and has done for, oh, years. Not often you can say that for *any* Android app.
+Crashing over and over on Android 4.4 PLEASE FIX THIS,and I will RATE IT 5 STARS
+An excellent app and a must have. A rich amount of settings enables one to customize the reading experience to perfection. To think that this great app is free, is mind boggling. Thanks!
+I can reader any ebook format ebook with this reader. It works great so far, no glitches or constant paginating.
+Very nice epub reader. I use a lot of word search,  current gotto tap 3 times to get open up the word search field. Better if it could be reduced. TQ
+Love it. Only thing I miss is ability to scroll by line instead of by page.
+Drains only 1% of battery every 15-17 minutes. Brightness options with great night mode. Flawless and doesn't bug at all.
+The only app I like to use to read books
+The best free reader and plug ins let you add only the features you want
+Can't think of anything to add to the app. Which means it works.
+It's been the best reading app...easy n light!!
+the local library should be easier to access and the book shelf should have bigger thumbnails
+Wish there was text reflow
+It's way better than the other ebook readers (and I have tried all of them). And I especially like that it works with my favorite offline dictionary (Livio).
+Dear developer, can you please disable this annoying pop-up telling that both this and premium versions are installed. I know that already, I'm just using them both, for different purposes.
+I noticed today that since it's been updated, I have no idea how to remove the bookmark I put on.  I've tried pressing the highlighted word then pressing the  cross. That does nothing. Nothing I do gets rid of it.  Please help. - Ah, I have just found a way of doing it. By touching a place where there's no typing and pressing the 3 lines in the corner, then going to "bookmarks".  -  NOT EASY when you have a disability and can't use your hands properly.
+I've used fb since my first smartphone, suddenly Gutenberg shows empty catalog ! Can't enter it manually, do I need an extension, just updated so that's not it Help I love project Gutenberg
+My favorite reading app by far. I really like plugin for .cbr format. I have one suggestion though... Please add continuous scrolling in page turning options.
+Has the ability to download books. Enables you to adjust screen brightness and also a Day/Night reading mode. Even remembers the last page you were reading before you quit the app. What more can you ask for? Kudos to the developer!
+i don't use an e-reader much, but this is the only one i install and use. Great app. keep it up. i love the 'free-ness' of it.
+Cara a quantia de livros que baixei economizei dinheiro por não comprar o fisico
+Free version is impeccable. Having enjoyed every good feature in free version I decided to show my appreciation by purchasing the premium version and I'm so disappointed with it. I'm required to go online every single time I open it to verify my license before I can use it. Which clown's brilliant idea was that? Please fix it asap!
+Has lots of options. However, the screen is too dark with the textured backgrounds. Also, text is justified. It looks good if the lines are about the same lengths. It looks horrid with bulleted lines, as the bullet would start at different spots on the line and there could be a huge gap after the bullet. Also, if a long word can't be hyphenated and is moved down, there is huge ugly spaces in the line because of justification.
+Google Play Books wouldn't let me view a PDF page in landscape without being completely unusable. This app is definitely used by people that actually need a good book reader. The synchronization is a huge bonus. Love it. Hoping it's on iOS as well but it's probably too good.
+I used to have no need for other readers, but it's become very battery hungry and creates quite a bit of device heat. this have definitely turned me off purchasing. have used for years across many devices, so overall I've enjoyed my time with FBReader. I'm sad to have to turn elsewhere.
+It can play almost any EBook format and is completely customizable. Some users find customization to be too daunting, but it's really the best thing about any app as it allows you to tune the app to your personal preferences. This app is also lighter than resource hungry aldiko that does little other than look good and it comes free! The ads are also completely unobtrusive. Love this app.
+Sometimes you use something so long that you just become used to it. Thank god I am changing! After this crap-app got so bloated, started putting more and more worthless page .jpeg's into my download folder, became impossible to navigate, and the company would never answer emails - I decided to look around and see what other eBook readers there were. OMG! There are SO many better than this one! I am now uninstalling this crap-app!
+After downloading, installing, using and then uninstalling other so called "top ebook readers", I finally discovered FBreader - an ebook reader that actually works on my tablet   and seems to be bug-free. Keeping my fingers crossed.
+It the best reading app, very friendly with eyes when reading at night. But it cant read some large prc book, or prc book with internal link. Please fix this and i will rate 5 star :)
+Ive been using this app for over a year and a half,  and have had no problems with app.  I was pretty happy with it,  but recently I've been having some issues with it. To make finding books easier I have placed them into folders for easy finding, however I've been noticing that those books I had placed there keep disappearing which is really annoying. Also, when choosing the series option it does the same thing they disappear. I don't know what happened, but PLEASE fix this problem.
+... with Android 6.0 there's a problem. After closing the app it keeps my phone awake until I manually swipe it off from the recently used apps. Otherwise my phone stays with screen on forever ignoring my Display setting to turn off the display after 15 seconds. Fix this and I will renew my rating.
+Doesn't recognise any epubs on Android 5 phone. Old version under Android 4 was great.
+I tried the Sep 25, 2015 version. 1. Doesn't show images.  2. Doesn't render lists.  3. Can't go back to list of books I have on the device when I hit the Back button. 4. Crashes constantly every day.
+At first I thought it was great. Most everything I could want in a book reader. It *really needs* an option or method to close a book file. Every time I close and re-open the program it loads up to the end of the previous book that I have already finished instead of to the middle of the book I was just reading.  This is exceptionally annoying.
+This thing got everything you need. Double page reading? Check. Underlining text? Check. Brightness adjustment on screen? Check.install the pdf Plugin and you are ready to go.
+But now, it can no longer detect books in the folder. The once simple and elegant piece of software is now complicated, awkward and useless.
+I just wasted an hour trying to figure out how to transfer epub books that I already own to my phone without having to email them.  I should be able to simply put the books into the FBReader directory on my Google Drive and have them appear in the app. NOPE  I tried opening the books in the PC version in hopes that they would sync to Google Drive...NOPE.  Uninstalling this app & trying something else...maybe just use Calibre to convert files to mobi & read them in my Kindle app.  When I try to open a file on the PC, the search path defaults to a sub-directory of My Documents & I can't change that path even though I store this kind of content elsewhere on my computer (external drive).  It's probably possible to do what I want with this app, but I have limited patience when the learning curve is this steep. It's easier to just move to another app than it is to waste my time with back-&-forth with the developers.
+I honestly love this app so much but I having a problem now. The app is not reading any new epub files that I download. PLEASE FIX THIS PROBLEM
+I have been using this app both free and paid for well over two year and it has been great. The best feature is the TTS plug-in that makes all your e-books audio books as well, great while driving and such. However after this last update I find that the app crashes to a blank screen and must be closed and reopened to use. I also find that the TTS plug-in now skips sentences and will repeat sentences with enough frequency to be very annoying.  I hope this will be resolve in the next update. Beyond this bump in the road I still feel this app offers the best options for an ebook reader.
+I like the tts plugin because I have several thousand ebooks on my sd card and having the tts means I can have the books read to me while I am at work. Love it!
+App no longer recognizes favorites or recently read books. Kept the bookmarks but can't associate bookmarks with previously read books. Use to be a good app.
+Love it, amazing features. Still I'd like more simplistic, better designed interface and direct access to every single cloud!
+Not really design for pdf,  always need to zoom in and out for pdf format,  I need to convert all my pdf books to epub format. The irritating part is after you use FBReader to open books from Google drive,  it disappears from the library after a while....
+When reading book, the best.  Dimmer slide is amazing, customization options make it exactly how you like it.  Search and organization could be better (how do you cancel a search in progress???), but the fact that it syncs through the cloud (google drive) is killer!  I wish I could install this on my Kindle.
+just a minor glitch: can't click-open fb2 files, just epub. oh the irony
+Firstly, this app doesn't have some of the books I want. I couldn't find Slaughterhouse-five, Animal Farm, or any Philosophy/Sociology books at all. Secondly, the search bar option is horrendous. If I type anything into the search bar; it loads for hours on end. Even when I want to stop the search I had made, it will keep on searching for the book I searched. It also is not accurate with what it gives. The search word 'Thomas Paine' gives me books by 'Crystal Paine' as well.
+Ok just installed it. But where are the books? Do I need to manually look for all the books on my device?? If so, I'm gonna unistall this, useless...
+Best reader for EPubs hmtl and mobi books, not good reader for pdfs but the best ive seen so far, have it on all my devices from phone to tablet, best configuration for all mobile phones. Don't bother trying the rest your just wasting your time.
+A shame I can only give this 5 Stars. Excellent book reader, it works flawlessly on my almost 4 year old Samsung. Many Thanks & Blessings.
+the only two scenario that I have to switch to other reading app is when I need to write note of what I read, and when I need to have native Chinese simplified to Chinese traditional. please add the note function!!
+Cant open my own .mobi files. Just get a bunch of complicated test instructions
+Not a bad reader, but the bookshelf option other readers offer would make this one even better. It needs an actual bookshelf view, not the one currently offered. And the bookshelf needs to be able to auto load from the external sd card like pocketbooks does and keep the books in author then series order. I don't like how I can't see my entire library, I have to view them one folder at a time! Fix this and I would give five stars.
+Some features like numerically showing remaining pages in chapter and page turn more easily would be appreciated. Also more background and font colour options are welcome.
+It was the first time I needed an app like that and after trying out many of them, I decided this is the best. Without unnecessary permissions like some others, and many customisation settings it is great! I just realized how to change the background. THANK YOU!
+Weird system for navigating your books, with some confusing choices, but once you're in a book it's excellent. I wish there were enough plugins so I could uninstall my other readers.
+Everytime  i try to open my library  saved on my sdcard it freezes. Pure trash
+Epub. If you want to highlight, underline, define or just take notes,  you can't. Don't waste your time on this one!
+Before the update i liked it but now when i want to find a book, it takes so long. Will return when its better
+Though I cant find a function to turn an exact number of pages instead of slide
+Highly customisable, but ugly interface compared to competition. I could opt for premium, but the competitors do it for free. Still my go to reader
+And since the update you can get the brightness down really low, for bedtime reading.
+I tried all the top rated ones, but uninstalled all except this one. This ebook reader the only one I have tried that is able to work with Oxford's learner dictionary
+Works flawlessly. I very much like the fact that color dict opens within the reader and not as a separate app. Generally, serves me better than Aldiko or Pocket Book.
+It shows blank pages of the ebook i want to read! Damn! Why is this like this????😬
+Altamente recomendable. Se le pueden instalar muchas cosas mediante plugins y configurar las fuentes y el background de muchos formatos lo que lo destaca.
+10 minutes to load a 500 page ebook.
+i love the ease-of-use with notes. it would be nice to have the old-book effects and colour of the coolreader. great app guys and gals.
+It can open txt book in a .zip file. Ok, it is a perfect app if the book shelf could be integrated in. Nevertheless, it worths a five-star.
+If it could sync across devices so I dont have to search where I left off from one to the other I would buy it no matter the price.
+When I click book shelf view it opens the amazon app store, not google play. Why is this?
+I love this app. It is reliable and easy to use. I like that its so easy to customize. I use it every day.
+finally a good reader of all format,though you have to install plug in if you want to view pdf,still it's free. good job. thank you.
+Its an excellent, feature rich apps. Its a joy to read ebooks on it. Thanks a lot for the work done.
+Nice that it accepts so many file formats but the reader is too.dark and changing cell brightness has no effect.
+I buy to support the developer. Hope u can add many background wallpaper. Keep up the good work!
+Make it all in one. Of course PDF and a library are necessities just make them into one app
+Add corousel shelf view for books. fully functional it only nees visual makover. VERY good app
+1. support of mobi and chm files; 2. optiob of reflowing pdf files
+You do not even have to buy a book !! So easy it use. I do not need help at all
+It's the best epub reader available, if you don't think so it's because you have not taken the time to RTFM.
+Has all features provided by other book readers in a small size and easy to navigate interface
+But back to close app doesn't work on my galaxy tab s2
+An extremely good reader. Easy to use and great look!
+Portrait views are not good and library option is not available in free version.
+I simply love it.  It's the best app I've seen while searching for reading different file extensions.
+it doesn't open dictionary on long press while i selected the option to open dictionary on long press
+App made start to read again despite my busy schedule. Love it!
+Is there setting where I can view true color of book I read why this look transparent ?
+Enjoy reading ebooks w/ FBReader!  Use it to read on phone and tablet.  10*s!
+I used fbreader.. Love it because it takes really low space, is comfortable...
+Everything is good but we can't adjust the brightness
+This gets you into reading books quickly and adds the soil of faster reading
+Its simple and easy-to-use making it very efficient for my reading
+Please add synchronization  in Linux
+Best reading app I've  been  able to find.
+Its a good alternative for kindle android app.
+Great ebook reader app, but features removed.
+Night mode view is good.
+FBreader is an excellent eBook reader.
+It's reasonably intuitive and simple. It can access third party catalogues. The only wish that I have: it would be great to have an iPhone version too.
+This is an excellent ebook reader which until recently rightly deserved five stars.  Recent updates (starting from about 3 weeks ago) messed up device going to sleep after application exit.  This is (obviously) connected to the app's setting controlling whether to force the display to stay on. When this setting is enabled, after exiting from the app the display stays on until the app is forcibly removed from memory (I forcibly stop it via the launcher).  My phone uses Android 4.4.2. These problems never occurred until last month.
+I tried all of the epub readers available. Most of them have fancy looks but don't do the job properly. Now this here is a not a fancy looking app but does the job perfectly. It even has free dictionary support too. God bless you dev.
+It is really nice one. But if it built with a book shelf that can classify book in different category, it will be the best app for ebook reader.
+Nice app, but rereads all the files in the library every time I try to open a new book.
+in night mode,  the screen is black but when I turn the page, it flashes, so annoying and hurt the eyes so bad.
+I've used this app for over a year, but from around 3 months back, when I open epub format books from my google drive, it won't pick, or I then download the book, and still under download files, it will not pick the book, so I had to uninstall
+It has most of functionality needed for everyday use. More intensive development would be a great plus though.
+Great app with great features and doesn't require tons of permissions  and also open source source what else you can ask for
+How can I add some book catalog manually? Please suggest some websites.
+The best ebook reader I have ever used. Keep up the good work.
+I am impressed with everything else except fit to screen issue. I TRIED PDF BOOK TO READ, BUT WITHOUT THIS FIT TO SCREEN, IT IS USELESS.  I COULDN'T FIND THE SETTINGS FOR THE SAME. PLS HELP ME IF THERE IS SUCH A SETTINGS. MY DEVICE IS REDMI 2
+The latest upgrade is a down grade. It will not list all my books. Don't know how it picks which to show. Quite irritating. Would have given previous version 5 stars.
+When I press the FBreader it will become black screen, this version got bug. Cannot see anything. Last version no problem.
+I have really liked this reader for a while, but the latest update keeps blacking out my screen.  If I pull the menus up then I can see the book, but if I change the page then the screen goes black again.  Please fix.
+I really like this application. It has some great plugins (TTS text-to-speech), lots of customization, and the ability to pull books from multiple sources. It is my main 'go to' e-reader. However, the only weakness is in the lack of support for tables in ePub documents. I'm not really sure why this is, as tables certainly aren't a recent addition to the HTML/ePub markup. I have many e-books (travel guides, technical publications, etc...) that present information in tables, and when rendered by FBReader, it is a useless mess. I know that there are some HTML purists who feel that tables -- like the <frameset> and <blink> tags -- are an abomination and all layout must be via <div> or <span>...but I hope the FBReader people are not among them. Support for tables would be enough to move my review to 5 stars. If it were a feature of the Premium app, that would be reason enough for me to purchase it.
+Lots of features. "Read Aloud" and the ability to  connect to multiple online catalogs are among my favourites. However the smashbooks catalog does not work.
+Could you adding continous reading at landscape mode or portrayed reading, because when we use handphone with screen display is small (especially pdf) is difficult to read.
+This is by far amount the best e reader around on play and it's worth
+The recent change to screen brightness results in a much (66%) darker screen. This is nice for nighttime reading, but a much higher screen brightness level is required (when comparing to version 2.5.5) for reading in any condition other that complete dark. Thus battery life is significantly affected. Please revert this change.
+Brightness adjustment stopped working. Can you fix this issue?
+I wouldn't know how to make it better... And thanks for fixing the brightness issue so fast!
+Everything is good so far, minus one star because change of brightness level with finger not working on my lg g2.
+One of the best ebook readers out there, that enables you to read books in almost any format!
+Once book page is opened,  screen light gets dim.  Have adjust the brightness everytime I open my book page.
+pretty great, three problems.  1: the cover image of every book shows up twice in my phone's gallery, flooding it with images. wish the app would save them internally and hide them from the gallery.  2: forces its own formatting instead of allowing the book to decide. i have several books that switch between centered and aligned, but fbreader forces only allows one way.  3. there was an error in one of the books i loaded into fbreader, so i deleted it, pulled a fixed version onto my phone, and hit rescan. what's in my book list? the original non-fixed version. i deleted the book again, uninstalled fbreader, used a root-explorer to remove every trace of the app and book, re-installed, put the new book version in. and it STILL showed the old version. what gives?
+I have been using FBReader non-stop for more than 4 years on Android. It is flawless, no nonsense app with the best e-reading experience out there.
+App is awesome. No other better reader is out there..! But I miss the old logo already. It gave it an old world feeling. Very authentic.
+I miss the old logo!!!!! This one feels like a carbon copy logo. I dont know how that is but thats how i feel like
+Could you provide an ability to highlight texts and to view only those texts later?
+Need some improvement in book management (like integrated bookshelf) and high res screens.
+Just posting a review to commend you for the new icon. I know, it's a small change, but I love it.
+Tested most ebook apps for Android. This is the one I keep coming back to.
+Works Fantastic On My YoTaPhone Back Screen .. Easy To Use...:)
+If I have to read an e-book, this is the way I go, :)
+Its one of the best readers, especially with the text to speech feature. I only wish they would work on the pronounciation in the app.
+That's the best one for my Fire Phone!
+Read any kind of book quick and light
+Would have given 5 stars if it had a bookshelf built-in. Otherwise it is the best free E-book reader out there. Please bring the WP version to this level. Thanks to the developer.
+Cannot connect to network library catalogue..Pls resolve
+This would be the perfect reader... if it handled the internal formatting correctly.  More often than not the book formatting in not reproduced correctly (CSS, tabled, etc.).
+Need to improve PDF format. Not at all comfortable to read
+Something happened to it.  Rescan library does not do a job, it does not add new books to the list... Can you fix it, please?
+Whenever I try to edit the tags I type them and press done but it doesn't save them
+Its a great app to read EBooks and pdf. Its UI is really awesome!! :)
+Has a variety of options and stuff you can adjust.
+Ads in my open source book reader? What happened?
+I wish I could support the developers with the paid version, but it's too expensive. :-( My only issue is that sometimes I can't change fonts, I hate serif fonts so it irks me when I can't change to a sans serif...
+Reads pretty much everything. The night option is genius. Every once in a while is may ask to be upgraded to premium but not as often as to become annoying. 5/5.
+No worth the time. Cant get it to do 1 thing it says it can do... PDF error wrong format along with everything I tried to use it for
+The only problem I've faced is that I cannot jump to a particular page no.
+I love it! But if I may suggest - long tap to lead to copy as an option. I have an awesome dict but FBreader doesn't see it and I wish I could at least copy-paste into it.
+I started using fbreader on my java phone way back and now i still prefer fbreader on my android devices. Thank you very much!
+Great app, I will give stars if I could turn the page in natural way.
+no lags... super smooth app.. lot better thn paid apps
+support for multiple fomats and device platforms. many thanks to the developers and support team.
+It can open huge epub files without problems. Thanks for this app.
+caetnelact Isan ReadmyOld Mobie pocket books again Still would love .lit readability
+Good, lightweight and has a pdf plugin
+Works really well, and I like how you cam add things to collections. But, I wish the bookshelf view would work for each collection instead of all books, much like iOS's does. Also would be nice if you couldn't add the same book twice. Sometimes when I add things manually I forget if I added it from x source, and even though the names are the same, it creates a duplicate. Oh another thing that needs to be implemented, NEEDS, is a way to reorganize book positions, for book series and such.
+Team, fb reader is a lovely app for book lovers like me but the screen goes off if I stay more than system sleep time. I prefer there should be an option to override system sleep time in fb reader like it is with video players
+Very good reader with support for epub embedded fonts. Works like a charm, even on my low spec Archos. Wish there was an east way (nor involving a PC ) to use this App with Amazon, Play and Bol books instead of having to read DRM protected stuff on their substandard reading Apps.
+I prefer using acrobat for pdf so I have not installed the pdf plug in but when I try to download pdfs fb reader opens and asks if I want to install the plug in. When I choose no the pdf is not down loaded.
+There's nothing this app won't open. Not only is it fast on my crappy device, it also supports so many file types, has a proper file explorer and gives immense control over the reading experience. But I have mixed feelings about it's PDF plugin.
+Loving this app, unfortunately the new icon completely ruins the vibe, looking rather uh, shady. I refuse to update it and am very glad my first phone was unable to install apps directly from the store, since i still have the old apk, two phones later
+I like the options available for page textures, background colors,  and font .  I really love the swipe up or down on left side to adjust screen darkness.  Having my cloud storage library is very nice as well.
+Lots of book readers are so much repelling and awful with their stupid reading limitations and dumb navigation concept that one may come to hate reading books on Android in general. It is only this fabulous app that makes reading enjoyable that you don't have to jump from one book reader to another to meet books' format. Thanks a lot to its bright developers.
+Needs pinch zoom in and out. .mobi files are not rendered correctly. Management of library is messy. Make it clean and less messy.
+As my granddaddy would say, "She Ready". Great reader, at first seemed kind of dull but you really won't see its potential until you actually use it for a while. Smooth functionality, of all the readers that I have used this is the only one that is able to open really large files without locking up. Specially mobi.  ;-)
+No frills, easy to use app. The speech plug in works well. Only dictionary is not integrated...
+Terrific implementation of the desktop app in a touchscreen environment, well designed, easy to use, and nothing else in the play store even comes close. One of my favourite apps.
+I downloaded this app for mobi files. However, whenever there is a second parenthesis the app uses it to start a new sentence. In text with lots of parentheses this destroys the reading.
+I've used this app for reading multiple file formats and its great... It makes having the actual kindle not needed anymore.. Great job guys
+Our whole family uses it.  Great look easy to use.  Highly recommend this app
+One good reader you need for your Android device. Are you planning an update for .PRC file in the future?
+Nice clean reader. Don't have to trail through book adverts to get to it. Nothing fancy just easy and clear. I do recommend it.
+That's a very nice reader. I could re-define the margins between the paragraphs. Now it is much, much easier reading. Thank you.
+Four stars for being the best eBook reader, and free. One more star for using Harry Potter and the Methods of Rationality as your first example screenshot.
+Good app for FB2, but I don't want it for pdf's. I can't even find my downloaded pdf's now, it freaks me out.
+Completely reliable unlike my last reader. Use it every day without any problems. Great for reading epub files.
+fbreader is great. simple, clean, easy to use. definitely my go-to app when I want to read an ebook
+This is complete and customizable. Change the fonts, background, colors or size. Easy for everybody!
+Works good for reading pdf and mobile ebooks.  Fits to screen well and good color for being easy on the eyes.
+Plz add multiwindow and pen window support to Galaxy note series.
+A good reader app. Can handle a variety of formats.
+Good nice and easy to use....  But I can't use the series option. Any help????
+Loved the dictionary feature in this.keep improving
+Love it. Very friendly application. Does it's work, nothing redundant.
+Great app. Light and do its job.
+I have used this App across all of my Android Devices. I don't often spend money on apps, but I've just paid for premium. I hope it doesn't let me down. I have FBR free backup just in case; I like the no frills reliability. I have issues sharing books with friends with Windows OS, even though they have FBR reader too. Any advice?
+I installed a plugin that reads the book aloud itself like an audiobook. And there's an issue: when I turned the plugin off there appeared a margin between the text and the lower edge of the screen where the player should be. The space didn't disappear even when I deleted the plugin. Please fix.
+I have been using this one for a year already, and it was good. However, I hate to download the bookshelf view because it causes lagging. And also, I wish it also has a Publisher's Format option so that readers could read exactly how the book was made.
+lately I have a bit of a problem. After I leave the app, the screen of my mobile phone does not go into a sleeping mode after estimated time. I have to kill apps in the background to make it work (the screen goes into a sleeping mode)
+Add image color inversion for night mode and I'll buy the premium version. I'm tired of being blinded by white photos at night. Just that one feature is all I ask.
+Great app. Enjoyed using it for years. Hope continues to run. Had issues but those are all cleared up. So I came back to leave a better review. Tried others but always come back to fbreader. Keep up the great work!
+Can handle my study bible easily without lag or force closed.  Missing some trivial feature like time left and/or page left and total page in a chapter. Please consider to add it.
+Incorrect punctuation. Pretty poor in really useful options. Far behind AlReader by Alan.Neverland.
+I love this app except one thing and I am sure that developers will resolve it. The inbuilt dictionary always work with same white background even when I change reading mode to night
+Been using this app for years now, I believe. Loyal I am. Lol. Keep it up fbreader team! 😄👍❤ PS: is there a way we can upload our books in the app w/o saving the data in the internal storage? Thank you! ❤
+This one actually works, has built in file manager so I can read books actually on my Phone's memory card, no need to login or be online. Great menus and settings pages too. Excellent :)
+Fbreader is the best reader I've tried so far. Ease of use, great customization functionality and recently added synchronization makes this app one of the best!
+Use to always use this App but after last update on Galaxy Tab 8" I can't access the menu/settings to adjust the Font Size etc.
+For some reason started to open all PDF links in chrome by default. No defaults specified for it though. How to get rid of that?
+User to rate this 5 stars when it worked... App won't find new books from search on my s5 😢
+Great app. Even better when combined with text-to-speech, which allows me to listen to my books while driving.
+Really the best. I use it since the first version - an unbroken feeling of satisfaction. Thanks!
+Tried to open a PDF file with password but it says 'Cannot open this book at the moment'
+can anyone tell me how to use dictionary
+The best reader app for android!
+I can't really express how good this app is compare to others. Its a very good n satisfying app. Keep the good work up!
+Great app. I have versions on my Android phone, Android tablet, and WinXP tablet. Works with a wide range of ebook formats and sources. Very customizable. Easy to use. Works great.
+Quick, lightweight and customizable. This app allows for easy access to your books. No matter what format I have thrown at it. No matter where its located. Network or side load, this ereader has not dissapointed. :)
+Excellent tool, great library connect. Highly recommend.
+Using it for a few years now. Have had FBreader even on an old (non smart)phone, it never crashed. Now syncing it with tablet, still works perfectly.
+Makes light work of reading or listening to ebooks
+Why is it so difficult to find an ereader on Android that properly supports the publisher's embedded css formatting,  instead of screwing the entire document up by restyling everything with the program's own poor choices???
+This is a great app that will read all of your epubs. The only reason that I gave it one less star is because the app has issues displaying footnotes. It will show that the book contains footnotes, but the link hasn't been opening (at least for me). Otherwise, its a great app!
+Although I seem to have one irritating bug, which doesn't allow me to adjust the brightness while in the app. Used to be working just fine. Would give 5 stars if it worked as intended
+Trying to open an ebook from my download folder on my SD card, the app freezes.   Other folders ok.  I've used this App happily for many years,  but if I can't open books I'll find another reader.
+Such an unassuming little app that does so well. Really worth a try. Good feature set (even if it may not have EVERYTHING you want) that's easily accessible, good customisation options, never plays up or hangs on any of my six different devices, and delivers year after year so far. For book worms, this must be pretty close on ideal. Students may want a bit more.
+It's really a shame that there is no annotation tool At All. I don't mean all the tools but even one or two of them, e.g. to highlight or to underline, would suffice. When I read a book I always mark my favorite parts. For this reason, the app is useless for me despite the fact that I really liked it.
+I love the ability it has to sync my place in what I'm reading between my phone and tablet, it formats the books/docs perfectly, but my favorite thing about it, I think, is that the bookmark recorder keeps the most recent on top, which is opposite that other reader we all know about!
+Jumped from one app to another till I settled into this one. Recommended for everyone.. A must have app
+Have used this app for a long time now and without fail it just continues to get better! Thanks for your great work Dev!
+Why this app doesn't use default display brightness setting and I haven't be able to change it ? ! Brightness increase to 100% !!
+This is one heck of a great app for a reader like me.. very useful.. no need to import my books.. i could read every ebook i have whenever i want..
+Simple interace. Many ways to customize. Doesn't come with a lot of  unnecessary frills. I love the free add- ons of features that some apps charge you for. Really great.
+Useless to me because it doesn't recognize sd card
+I can't believe this! I just installed the app and is this wat I get??? I'm trying it again, if it continues, I'm uninstalling right away!
+I've read so many series with this reader. Simple and easy to use
+This reader is really great and enjoying! It's what I use all the time reading my fave books. Five stars for this app.
+Work great, but I do wish it had a cloud like Google plus, so you can read at all your handhold devices
+Its verry hard and frustrating to understand where from can you open your document in this app.
+Love it. This is my third phone ive downloaded it onto in as many years!
+besides minor lag on lollipop 5.1.1 its perfect.
+I have used this app since my first Android phone. Simple and filled with useful options.
+Lock book feature? ??
+It just needs an option to add a list of folders to scan looking for supported books and documents
+Good reader, slowed down search process
+Display brigthness problem
+The best reader by far! Love the bookshelf option. Thank you.
+Customizable tap zone please.......
+Has sync functions with google account, extremely customizable. You can tweak any thing, from the app appearance to CSS style for the book elements. Have also lots of plugins, and the most amazing, the TTS plugin reads outloud with the phone locked, something no other one I've tested can do. Plus the calibre connection plugin is awesome.
+Simple and straightforward in its approach. You want to read a book ? Turn on the app.... Open book library.....  Pick a book.... Start reading So simple ! nd the extra functions it has are not gimmicks that are put in just to show how clever the app is. They serve a useful purpose.I have used a few other ebook reading apps even some paid ones but I always come back to this app.....it's just that good.
+Just another overly complicated reader.. Frustrating 😤.. Uninstalled within 20 minutes.. Pure suckageria.. I give it 1/2 star.
+Using for more than 3 years, never needed to switch to another app. But there is a small bug - fullscreen mode is broken when fbreader is invoked from lockscreen (system status bar is visible). Though twice doubletapping (to turn on/off nav panel) returns fullscreen back.
+This was the only reader that I could find that would actual browse my wife's galaxy S5's file tree and open .mobi files in her download folder. Android OS is a pain in the you know what, but this ereader let's you read downloaded ebooks with no hassle! Excellent app!
+Having problem to install it. I thought something wrong with my connection, but it wasn't. I can install other apps without any problem. Only fbreader i couldnt. Please fix it.
+Why are the thumbnails in the calibre library so small???  I downloaded this specifically for the calibre access and the thumbnails are microscopic!  Please fix this or give us the option to make them larger!
+So far it seems like a good reader. I was really excited when i saw it in the multi window list on samsung tab s but was disappointed when it did not work.
+There is NO REFLOW of Text or Font Size change. Therefore useless for me. Even TTS did not work. Provide detailed instructions in Help.
+Improved the highlighting "brackets"  accuracy, so selection of text has become much easier. Better icon design too. This app is darn near perfect. But misses one important feature: exporting bookmarks. When you move to a new device, you can say bye bye 👋 to all your bookmarks too.
+My fb reader is not working properly anymore. It has unusual characters in the book anc it doesnt open the correct content of the book. Please address
+No ads to bother you… no frills… has all the practical necessaries of an ebook reader… good job developers
+it doesn't read the external SD card it is quite useless. un installed - another pos app
+Very user friendly and customizable. No crashes. I can read many types of books, and love that I can change settings to make the text larger. Highly recommend.
+I would have written 5 stars if app had exporting or copying bookmarks in bulk option.I think it would be real easy to add this function to the app
+A good reader app for most phones EXCEPT those which do not have a permanent menu button.
+Love this app use it always
+I use fbreader on both my android and PC. The best part is I can set the screen brightness with just slide the screen up or down. Thanks for the hard work!
+This app is really unbelievable. It allows you to configure anything you can possibly come up with and overall makes for a really great reading experience. Why don't apps like this get the “editor's choice” badge while crap like Google drive does?
+The first thing I liked most is a flawless integration with free dictionaries like ColorDict I couldn't achieve in AlReader. The animation could be much smoother, but it's still ok. The design and usability is great, but I'd like to be able to switch pages back and forth with one hand (e.g. tap top left corner to move one page back and bottom left corner to move one page forth).
+Excellent ereader and extremely versatile. Not giving 5 stars because of sync limit to files less than 50 mb, to me a non sense.
+It was my favorite app for books but ever since the update I'm unable to Open my books. Fix I'll gladly raise to five stars.
+I would really love to have autoscrolling feature. It could even be paid, I would donate gladly, as FBReader is my mostly used app.
+Recent bookmark update gave a lot of what I asked the devs for! Leaving at 4/5 because it's almost there!: -Include separate "page number only" bookmarks, in addition to new "note style" highlights (most of the time I don't want highlights showing up in bookmarks) -List page# marks and notes in separate menus -Allow sorting of bookmarks (eg page#, date, etc) -Profiles for text size, margins, etc, for landscape and portrait mode so you dont have to adjust every single time you reorient your tablet
+This reader does everything I have been looking for in a reader. Starting with but not limited to being able to convert to TTS and playing while minimized.
+FBReader is the best ePub book reader for Android so far.
+Didn't expected that much from this app. My reading experience has changed. Thank to developers. It will be great to read bengali books from this app. Hope developers will soon execute such things and reach to over 30 crore bengali population through this app.
+I tried to send the bug report but no action taken please fix this. Can't utilise my yotaphone properly. Too bad for an app with such ratings.
+Love it love it love it ...Have given up reading paper books since I found this app simply fantastic
+Great ebook reader! All for free what more do you want!
+I love the degree of control I have over the way book text looks on my virtual page. For straight reading, this app rates five stars. Unfortunately out lacks an annotation function. I am unable to make notes asi read. For study material that's a deal killer. Fingers crossed that an annotation function will soon be added.
+More features getting added & tweeked, making it more awkward to use to highlight text.  Smooth fast reader, easy on the eyes.
+This is the most versatile of all ereader apps. It can handle almost all file types. If there is a bug in an update they fix it and fix it fast. I even have a version of this on my Nook Simple Touch.
+good access to customization options, support for nearly all non-drm'd ebooks, and well-maintained to boot. worth the 5 stars.
+Best reading app out there. Allows you to use books saved on your phone... Many others do not have that option..  Keep it up!
+Thank you, Developer! I suggest others to get optional Bookshelf plugin, to support future improvements. I wish FBReader all the best!
+The very best at the best price. Pair it with calibre and you willhave the best user experience there is for ebooks on tablets or phones
+My bookmarks  have all disappeared and can't add new ones. I used to luv  this app but not anymore
+Lots of good features. Better than nook or kindle app. Would like to see an easy 'dog ear the page' type bookmark, a la nook, though. Since lollipop update, the keep button lights off while reading feature doesn't work, which is sad; I hope that can be fixed in an update.
+By far the best book reader app.  Very customizable and ergonomic. Supports pretty much all the open ebook formats. And most importantly, Open Source, which means no ads and no castrated features.
+Still has bugs. Doesn't counting the pages and percentage properly. Book is 77% done on page 9. But doean't bothers me still.
+Best ebook reader I've ever used. No ads, simple, quick, nice background. I've installed several ebook reader apps and still came back with this one.
+Like this app so much I got the PC version too.  If there is a better free E-reader out there, I haven't seen it.
+Simple, clean, functional. No need to sync books so opens straight away even when you can't get a data connection. Love it, well done.
+I searched for a new reader for one book that has footnotes that moon+ can't handle.  FB is awesome, and I might just switch to it completely!
+Far better than either Nook or Kindle apps.  I store my books in Dropbox and open from there.  Works like a charm.  I rate it a must-have.
+Tried aikido, moon+, others (earlier versions) and for me this works the best as far as easy of use, look n feel, desired functionality.
+I have a bluetooth remote control with "Media Forward" and "Media Backward" which can be used for advancing photo image viewing.  Please allow FBReader to use these keys -- and remote -- to advance pages.  At present FBReader android app lacks interaction with remotes, keyboards, etc.  Thanks!
+I have over 300 epubs & FBReader hasn't failed to read even one! Keep up the great work, folks!!!
+Please add option for zoom in and zoom out with 2 fingers. Does not open pdf files with password
+Ma wszystko, czego potrzeba. Używam go juz na kilku telefonach.
+Superb app. Costs nothing, does everything I want it to.
+By far the best suited reader...  Pdf, djvu, epub......  Excellent!!! 😘
+Excellent reader which has crisp text appearance and page turning options. The most I liked is the day/night mode with easy screen brightness adjustment option just by dragging finger on left side of screen, it helps when reading at night before dozing off to sleep. This reader has provided me an eminent reading experience.
+But since last update search button isn't working anymore on my HTC desire 500. Update: didn't see your reply until now but anyway it started working again. Not sure if i restarted the phone though. Thanks anyway, i'll try next time.
+This is the best eBook reader on any mobile platform and gets better with every update. You'd be pretty hard pressed to find a book in a format that this app couldn't open. The best part is: IT'S FREE!
+I've used FBReader for a few years and it has got better and better.  It was already very neat app with good options for fonts, backlight, page turning, online stores and so on.  Recently it gained Google Drive integration so you can keep your books synced across Android devices, and there is also available a Calibre plug-in so you can download from your desktop/laptop based Calibre library.  FBReader now makes for a very good replacement for Amazon's Kindle app.
+Fbreader is no longer associated with epub files since the newest update. Other epub readers are still associated with epub files. The option does not come up to open in fbreader when I download a new epub file. I have to open it manually within the app.
+Not as many fonts as some other apps, but does the job perfectly. Opens a lot of file formats.
+Crashed within minutes of first use. Tablet's Screen brightness is overridden by the app. The app increases brightness to maximum for day and night reading. So, this will drain battery life rapidly, and reading at night will ruin my eyes. It looks like a good app otherwise, except for these very fatal flaws. Why doesn't android have a good stable eBook reader that does a good job with PDFs ?? I have tried a half dozen apps, and all at any price, have fatal flaws that render reading PDFs painful, unreliable.
+I have problem with screen turning off no matter what settings applyed... phone is SG s3 neo
+Have had this app on all 7 of my android devices. Love it! Never used another ereader and never will. Keep it up devs!!! One suggestion. Why don't you include pinch to zoom? It would be much easier to set the desired text size in this fashion.
+It would be great to put some scale for brightness control, from 1-100. And lowest settings should be lower than it is now. Overall, great app, my only choice in a last couple of years.
+Recently, i cant open epub file on onedrive with fbreader. I only can open with rar or calendar. Please check and fix it. My device is nexus 7
+This is simply the best e-book reader for all formats except PDF. The selling point is the unique library view and you can arrange books by titles, author, etc.
+This has been and remains my go-to app for reading. Love the on-line integration with my Calibre library. The TTS add on works nicely as well. A well deserved 5 star rating!
+Love the app. Sometimes loose the bottom line of a page since latest android update but not a major issue.
+I absolutely love this app! I have the TTS+ addin and listen to my books in the car and at work! I recommend to All my friends!  Thanks so much!
+Please add an option to hide page preview while scrolling through pages. It is slowing device very very..
+The integration with the Dictionary is outstandingly usefull and practical. Thank you.
+Been using fbreader for many years now and have not found anything that beats it! A brilliant app!
+Edit: FB Reader Bookshelf!
+I like reading the manta naruto which is awesome and I like this app
+Open source. No text encoding problem. Can install plugins separately.
+Sao không thấy chỗ nào để thu phóng size thế nhỉ ???
+A reader for almost all type of file. I liked it
+love this. no issues with the app. works the way it should. though i still love reading the actual book. i can almost bring my whole library with me. (",)
+To all the android phones I used, I never forget to download this app. It supports everything I nees to read because of its multiple format support. And really customizable. :)
+Won't sync books I add to FB reader directory on my google drive. Please fix. Android 4.04 Lenovo k860
+Naudoju su skaitymo balsu įskiepiu, kai vairuoju. Nėra geresnės savo paprastumu skaityklės.
+Why does this app ask an access to your photos/media/files during instalation?
+love it, especially night mode
+Have used it on all my phones and it works like a champ. It takes a little getting used to maneuvering around, but I've had zero problems with this app. It is by far one of my favorite apps.
+FBReader keeps surprising me with new features (PDF and multi-window support!), listening to user input, and frequently updating with fixes big and small. Minimal permissions needed (like most apps *ought* to have). No intrusive ads. No constant pop-ups asking for 5-star ratings on the Play Store. And--most importantly--it just does what you want it to do, bells and whistles optional. If only all my apps were written by FBReader's authors!
+In the 3 years I have used this app, I have had few issues, and any issues have been fixed before I had a chance to report them. My phone is constantly low on memory and this has given me few problems using this app. As opposed to other apps which crash regularly. I highly recommend.
+I've just tried a bunch of epub readers, they were all slow as heck. This is so amazingly fast at browsing and flicking between sections in comparison, it's the only one I'll use from now on!
+It is a very good reader with too many good options, but unfortunately it doesn't support right to left languages correctly and there is no right to left paragraph direction option. Anytime this option is added I will change my rate from 2 to 5.
+Great feature set, excellent display and book formatting. The latest version supports syncing books between all of your devices. Great features for finding and organizing your books. Works with Calibre eBook management system which is great if you have a large eBook collection. All in all, the best reader I have used AND IT KEEPS GETTING BETTER!
+The tts plugins are great. I wish this had the dual window Samsung compatibility.   I'd love to have a Web browser available without having to switch apps.  Also it wood be great if it could use Google books as a backend now that Google books sports epub upload.
+Crashes when rtf file contains tables like in xl format
+After some minor bug fix, this app is my favorite
+Works great on the HTC One M9, best ereader app.
+I did get synching to work between my devices. It's quirky getting it to work properly though Calibre, but once it works, it's great! But I'd love to highlight text and/or select more than one word at a time
+Claims to be able to read rtf files; I can't see rtf files when browsing, and when I open one from another app, fbreader doesn't show up in the list..
+I'm also looking for a reader app that allows you to sort your books or documents on different bookshelves
+Full of useful features, superior to Google's play book.
