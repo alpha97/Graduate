@@ -10,7 +10,7 @@ import re
 from textblob import Word
 
 #首先将文本生成一个原始字典
-appName = "Wordpress"
+appName = "ACDisplay"
 originDict = {}
 originindex = 0
 with open('origin/'+appName+'.txt','r')as origin:

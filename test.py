@@ -1,7 +1,6 @@
 #coding:utf-8
 import numpy as np
 import math
-from sklearn.cluster import KMeans
 data = np.random.rand(100, 3)
 # #print
 # estimator = KMeans(n_clusters=3)

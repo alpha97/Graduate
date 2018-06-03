@@ -23,7 +23,7 @@ tassginfile = path + 'model_tassign.dat'
 #模型初始参数
 
 #K = 0
-alpha = 5.1
+alpha = 0.5
 beta = 0.01
 iter_times = 100
 top_words_num = 20
@@ -234,7 +234,7 @@ def preprocessing():
 def run():
     dpre = preprocessing()
     values = []
-    for i in range(50):
+    for i in range(30):
         lda = LDAModel(dpre, i+1)
         lda.est()
 
